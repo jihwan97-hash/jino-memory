@@ -1,0 +1,21 @@
+# Runtime cache
+node_modules/
+*.log
+*.tmp
+.DS_Store
+.env
+
+# JSONL conversation logs (privacy)
+memory/logs/*.jsonl
+memory/logs/*.jsonl.gz
+!memory/logs/README.md
+
+# Telegram sessions
+*.session
+.telegram.session
+
+# Nested repo
+jino-memory/
+
+# Symlinks
+skills/skills

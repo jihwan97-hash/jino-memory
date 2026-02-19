@@ -1,0 +1,1 @@
+/root/clawd/skills/CLAUDE.md
