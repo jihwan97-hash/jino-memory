@@ -1,46 +1,35 @@
 # DG Ventures
 **Last Researched:** 2026-02-25
-
-## Company Overview
-- **Status:** 긴급 URGENT - Runway 3 months
-- **Sector:** Blockchain Ecosystem (DGP), VC / Fund of Funds
-- **Focus:** FinTech, AI, Blockchain, SaaS, PropTech, Mobility
+**⚠️ URGENT: Runway 3 months**
 
 ## Recent Developments (2025-2026)
 
-### Market Context
-- **Blockchain VC:** Strong sector growth
-  - Tokenized RWAs: 66% YoY growth, 5B in Q2 2025
-  - Hot sectors: Decentralized AI (DeAI), RWA tokenization
-  - DCG doubling down on DeAI (Bittensor/Yuma)
-- **DG Ventures:** No recent public funding, exits, or major portfolio news
+### Investment Focus
+- **Sectors**: FinTech, AI, Blockchain, SaaS, E-Commerce, PropTech, Mobility, Healthcare, Insurance, Marketplace
+- **Strategy**: Fund of Funds approach
+- **Philosophy**: Empowering startups that champion decentralization for more equitable, transparent, and inclusive solutions
+- Focus on innovations that promise to revolutionize, not just innovate
 
-### Investment Thesis
-- **Philosophy:** Empowering decentralization (equitable, transparent, inclusive)
-- **Focus:** AI reshaping, blockchain innovation, revolutionary tech
-- **Model:** Fund of Funds + direct investments
-- **Geography:** Global
+### Market Context (2025-2026)
+- **Blockchain Industry Trends**:
+  - 2025 marked by divergence between structural progress and market performance
+  - DeAI (Decentralized AI) emerging as hot sector
+  - RWA tokenization accelerating (market grew 66% in 2025, reaching $25B in Q2)
+  - Utility-based blockchain projects seeing strong investor demand
 
-## Strategic Situation
-- **Runway:** 3 months - URGENT but more time than some peers
-- **Fundraising Window:** 8-10 weeks to close new fund or bridge
-- **DGP Ecosystem:** Status unclear
+### Investment Philosophy
+- **Beyond Financial**: Commitment to helping bring groundbreaking technology that creates global impact
+- Focus on AI and blockchain intersection
+- Supporting ideas that reshape norms and redefine industries
 
-### Sector Opportunities
-- **Tailwinds:** 5B RWA market (66% YoY), DeAI momentum
-- **Investor Appetite:** VCs backing blockchain infra (Taiko 7M, etc.)
+## Business Status
+- **⚠️ Critical Runway**: 3 months remaining
+- **Entity**: Blockchain ecosystem operator (DGP)
+- Active investor profile on Tracxn (updated Oct 2025)
+- Website: dgb.vc operational
 
-## Risk Factors
-- **Existential:** 3-month runway = must close fund or wind down
-- **Competition:** 100+ blockchain VC funds
-- **LP Fatigue:** Many blockchain funds underperformed 2022-2024
-- **Portfolio Liquidity:** Exit environment challenging
-
-## Recommended Actions
-- **Weeks 1-4:** Approach existing LPs for bridge; highlight DeAI/RWA exposure
-- **Weeks 5-8:** Target new LPs; consider specialized fund pivot (DeAI/RWA)
-- **Weeks 9-12:** If stalled, prepare wind-down; maximize portfolio value via secondaries
-
-## Notes
-- Fund of Funds = dependency on underlying performance
-- Sector tailwinds (RWA, DeAI) could help fundraising story
+## Strategic Considerations
+- **Immediate Need**: Extension financing or strategic options
+- Operating in strong macro environment (RWA and DeAI growth)
+- Fund of Funds model provides diversification
+- Well-positioned for current blockchain trends but needs capital injection

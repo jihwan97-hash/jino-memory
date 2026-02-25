@@ -1,37 +1,26 @@
 # Republic (Opendeal Inc.)
 **Last Researched:** 2026-02-25
 
-## Company Overview
-- **Status:** 최우선 Priority - Major exit potential (~B secondary exit target)
-- **Sector:** Blockchain, Investment Platform, Crowdfunding
-- **Business Model:** Platform to design, launch, and manage digital assets as blockchain tokens
+## Recent Developments (2025-2026)
 
-## Recent Developments (Feb 2026)
+### Key Updates
+- **IPO Pipeline**: Republic Capital reported 2 IPOs completed in 2025, with 3 more in queue for 2026 (as of Jan 2026)
+- **INX Digital Acquisition**: In April 2025, Republic announced acquisition of crypto trader INX Digital (INXDF) for up to $60M
+  - Strategic move to strengthen blockchain investor position
+  - Creates pathway for trading tokens and secondary market opportunities across crypto and RWAs
+  - INX shares spiked from $0.02 to $0.16 on announcement before settling at $0.09
+- **Secondary Market**: Actively operating secondary trading infrastructure for Republic Notes and digital assets
+- **Infrastructure**: Registered to offer end-to-end infrastructure for traditional and digital assets including issuance, brokerage, secondary trading, and transfer agency
 
-### Major Transaction - Nov 2025
-- **INX Digital Company Merger Completed:** OpenDeal (d/b/a Republic) acquired INX Digital Company via subsidiary through a plan of arrangement (Nov 2025)
-- This merger significantly expands Republic's regulated securities trading capabilities in the crypto space
+### Business Status
+- Three portfolio companies reported exits in 2025
+- Operating multiple business arms:
+  - Retail investment platform ($10 minimum investments)
+  - Private capital division (~$1B AUM for accredited investors)
+  - Blockchain consultancy (technical, financing, distribution, tokenization services)
+- Secondary exchange development ongoing (announced in 2021 $150M funding round)
 
-### Platform Activity
-- **Active Fundraising:** Multiple campaigns closed in Feb 2026, including CureValue (closed Feb 4, 2026)
-- **Investment Options:** Continues to offer low-barrier entry (0-0 minimum) for startup, crypto, real estate, and gaming investments
-- **Diversified Offerings:** Platform hosts Reg CF securities offerings, crypto investments, and tokenized assets
-
-### Market Position
-- Positioned as a leading private investment platform with blockchain integration
-- Expanding into regulated digital asset trading through INX acquisition
-- Strong focus on democratizing access to private markets
-
-## Strategic Outlook
-- **Exit Potential:** Target ~B valuation through secondary market opportunities
-- **Growth Vector:** Integration of traditional securities crowdfunding with blockchain-native assets
-- **Competitive Advantage:** Regulatory compliance (Reg CF, securities licensing) combined with crypto infrastructure
-
-## Key Metrics
-- Minimum investment: 0-0 (democratized access)
-- Multiple active campaigns across sectors (fintech, AI, blockchain, SaaS)
-
-## Risk Factors
-- Regulatory uncertainty in crypto/securities intersection
-- Competition from traditional platforms and pure-crypto platforms
-- Market volatility affecting fundraising volume
+## Strategic Position
+- **Valuation Target**: ~$1B secondary exit potential
+- Focus on blockchain, crypto, and RWA tokenization
+- Positioned at intersection of traditional and digital asset infrastructure
