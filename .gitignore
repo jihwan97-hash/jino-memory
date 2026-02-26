@@ -6,6 +6,7 @@ node_modules/
 .env
 
 # JSONL conversation logs (privacy)
+brain-memory/sessions/
 memory/logs/*.jsonl
 memory/logs/*.jsonl.gz
 !memory/logs/README.md
