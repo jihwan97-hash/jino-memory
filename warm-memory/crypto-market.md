@@ -1,5 +1,1 @@
-**2026-02-25 Market Update**
-
-Bitcoin trading below 5,000 with 5% decline. Market showing whale selling activity and recent buyers taking losses. Price dipped under 3,000 with potential for further downside based on historical patterns.
-
-Source: CoinDesk market data
+BTC 하락: 5k → 3k 아래로. 고래 매도 증가, 최근 매수자들 손절 중. 추가 하락 가능성.
