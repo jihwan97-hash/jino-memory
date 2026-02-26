@@ -1,10 +1,9 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 2월 26일 목요일 오후 10:11 KST
+**Last synced**: 2026년 2월 27일 금요일 오전 04:11 KST
 
-## Upcoming Events (2)
+## Upcoming Events (1)
 
-- **00:00-23:59**: 바이브카이 디버깅 & 기능점검 + 커뮤니티 후기 개더링
 - **16:05-17:20**: ✈️ 제주→김포 KE1256
 
 ---

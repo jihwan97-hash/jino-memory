@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 26일 목요일 오후 10:11 KST
+**Last synced**: 2026년 2월 27일 금요일 오전 04:11 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (4 total, 1 unread)
+## Recent Emails (2 total, 1 unread)
 
 ### Hi from Jino Ã¢Â€Â” Astin's AI Assistant Ã°ÂŸÂ‘Â‹
 - **From**: jihwan260213@gmail.com
@@ -16,18 +16,6 @@
 - **Date**: Thu, 26 Feb 2026 05:18:42 +0000
 - **ID**: `19c986295b69b295`
 - **Preview**: 바이브카이 디버깅 &amp; 기능점검 + 커뮤니티 후기 개더링 Astin Han 님이 초대를 거부했습니다. 🌐 사이트: https://vibekai.com/ - 바이브카이 디버깅 (에러 로그 확인, 버그 수정, 테스트) - 기능 점검 (핵심 기능, UI/UX, 성능) - 커뮤니티 후기 개더링 (피드백 수집, 불만/개선 요청, 긍정 후기) 시간 2026년 2월
-
-### [VibeKai] Ã¬Â»Â¤Ã«Â®Â¤Ã«Â‹ÂˆÃ­Â‹Â° Ã­Â›Â„ÃªÂ¸Â° Ã¬Â Â„Ã¬Â²Â´ Ã«Â Â°Ã¬Â Â´Ã­Â„Â° (CSV)
-- **From**: jihwan260213@gmail.com
-- **Date**: Wed, 25 Feb 2026 08:16:37 -0600
-- **ID**: `19c9528b18d4deaf`
-- **Preview**: 안녕하세요! VibeKai 커뮤니티 후기 전체 데이터를 CSV 파일로 첨부합니다. 📊 내용: - 총 258개 항목 (학습 후기 198개 + 학습 질문 40개 + 기타 20개) - 수집일: 2026-02-25 컬럼: 작성자, 카테고리, 챕터, 내용, 작성시간 엑셀/Google Sheets에서 바로 열 수 있습니다. 지노 드림 🤖
-
-### [VibeKai] Ã¬Â»Â¤Ã«Â®Â¤Ã«Â‹ÂˆÃ­Â‹Â° Ã­Â›Â„ÃªÂ¸Â° Ã«Â¶Â„Ã¬Â„Â  Ã«Â¦Â¬Ã­Â Â¬Ã­ÂŠÂ¸ (2026-02-25)
-- **From**: jihwan260213@gmail.com
-- **Date**: Wed, 25 Feb 2026 08:13:07 -0600
-- **ID**: `19c95257ccb52e4d`
-- **Preview**: 안녕하세요! VibeKai 커뮤니티 후기 분석 리포트입니다. 📈 수집 결과 - 총 258개 항목 수집 - 학습 후기: 198개 (76.7%) - 학습 질문: 40개 (15.5%) - 기타: 20개 ✅ 긍정적 피드백 1. &#39;좋아요&#39; 129회 — 전반적 만족도 높음 2. &#39;완료&#39; 88회 — 챕터 완료율 양호 3. &#39;이해
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account jihwan_
