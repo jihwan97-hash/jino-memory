@@ -74,10 +74,21 @@ function parseJsonlFile(filePath) {
     for (const line of lines) {
       try {
         const entry = JSON.parse(line);
-        if (!entry.role || (entry.role !== 'user' && entry.role !== 'assistant')) continue;
-        const text = extractTextContent(entry.content);
+        // Support both formats:
+        // Direct: { role: "user", content: [...] }
+        // OpenClaw nested: { type: "message", message: { role: "user", content: [...] } }
+        let role, content;
+        if (entry.type === 'message' && entry.message) {
+          role = entry.message.role;
+          content = entry.message.content;
+        } else {
+          role = entry.role;
+          content = entry.content;
+        }
+        if (!role || (role !== 'user' && role !== 'assistant')) continue;
+        const text = extractTextContent(content);
         if (isNoise(text)) continue;
-        messages.push({ role: entry.role, text: text.trim() });
+        messages.push({ role, text: text.trim() });
       } catch { /* skip malformed lines */ }
     }
   } catch (err) {
@@ -87,8 +98,8 @@ function parseJsonlFile(filePath) {
 }
 
 function getNewJsonlFiles(state) {
-  const lastTime = state.lastProcessedAt ? new Date(state.lastProcessedAt).getTime() : 0;
-  const processed = new Set(state.processedFiles || []);
+  // Track per-file mtime so modified files (with new appended messages) get re-processed
+  const fileMtimes = state.fileMtimes || {};
   const files = [];
   const seenBasenames = new Set();
 
@@ -107,8 +118,10 @@ function getNewJsonlFiles(state) {
           const basename = path.basename(full);
           if (seenBasenames.has(basename)) continue;
           seenBasenames.add(basename);
-          if (stat.mtimeMs > lastTime || !processed.has(relPath)) {
-            files.push({ path: full, relPath, mtime: stat.mtimeMs });
+          // Include if file is new or has been modified since last processing
+          const lastMtime = fileMtimes[basename] || 0;
+          if (stat.mtimeMs > lastMtime) {
+            files.push({ path: full, relPath, basename, mtime: stat.mtimeMs });
           }
         }
       }
@@ -245,11 +258,28 @@ function main() {
     }
   }
 
-  // Update state
-  const newProcessed = [...new Set([...(state.processedFiles || []), ...processedRelPaths])];
+  // Auto-save: write output to daily file directly so it's not lost if LLM skips the save step
+  if (conversations.length > 0) {
+    try {
+      const today = now.split('T')[0];
+      const dailyFile = path.join(DAILY_DIR, `${today}.md`);
+      if (!fs.existsSync(DAILY_DIR)) fs.mkdirSync(DAILY_DIR, { recursive: true });
+      const timeStr = now.split('T')[1].replace(/:\d{2}\.\d+Z$/, '');
+      const header = `## ${timeStr} — Brain Memory Auto-Save\n\n`;
+      fs.appendFileSync(dailyFile, header + output + '\n\n');
+    } catch (err) {
+      console.error(`[BRAIN] Could not auto-save daily file: ${err.message}`);
+    }
+  }
+
+  // Update state: track per-file mtime so modified files get re-processed
+  const fileMtimes = { ...(state.fileMtimes || {}) };
+  for (const file of files) {
+    fileMtimes[file.basename] = file.mtime;
+  }
   saveState({
     lastProcessedAt: now,
-    processedFiles: newProcessed,
+    fileMtimes,
   });
 
   console.log(output);

@@ -65,14 +65,17 @@
 - 반복 작업 발견 시 새 스킬 자동 생성 가능
 - 주간 self-reflect로 메모리 최적화 및 인사이트 도출
 
-## Daily Memory Recording (매우 중요 — 반드시 지켜라)
-세션 로그는 게이트웨이 재시작 시 사라질 수 있음. brain-memory 크론에만 의존하지 마라.
-- **의미 있는 대화 후 즉시** `brain-memory/daily/YYYY-MM-DD.md`에 핵심 내용 추가:
+## Daily Memory Recording (최우선 — 반드시 지켜라, 기억의 핵심)
+세션 로그(JSONL)는 자동 생성되지 않음. brain-memory 크론만으로는 대화 내용이 기록되지 않는다.
+**네가 직접 기록하지 않으면 대화 내용은 영원히 사라진다.**
+- **모든 의미 있는 대화 후 즉시** `brain-memory/daily/YYYY-MM-DD.md`에 핵심 내용 추가:
   `node /root/clawd/skills/self-modify/scripts/modify.js --file brain-memory/daily/YYYY-MM-DD.md --content "내용" --reason "daily-log"`
-- 기록할 내용: 오너가 한 요청, 중요한 결정, 새로운 사실, 작업 결과
+- 기록할 내용: 오너가 한 요청, 중요한 결정, 새로운 사실, 작업 결과, 오너의 감정/상태
 - 형식: `## HH:MM — 주제\n요약 (2-3문장)`
-- **대화가 30분 이상 이어지면** 중간에도 기록
-- brain-memory 크론은 백업용 — 실시간 기록이 우선
+- **대화가 10분 이상 이어지면** 중간에도 기록 (30분 기다리지 마라)
+- **대화 끝날 때** 반드시 그 대화의 핵심을 기록하고 마무리
+- brain-memory 크론은 보조 수단 — **네가 직접 기록하는 것이 유일한 기억 수단**
+- 기록 안 하면 = 기억 없음. 이전 대화를 기억 못하면 오너가 실망한다.
 
 ## Tool Installation (IMPORTANT — 반드시 지켜라)
 컨테이너 재시작 시 런타임에 설치한 도구가 사라질 수 있음. 영속화하려면 아래 경로 사용:

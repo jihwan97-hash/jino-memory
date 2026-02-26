@@ -1,32 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-02-26",
+  "updated": "2026-02-13",
   "maxTopics": 30,
-  "topics": {
-    "insights": {
-      "file": "warm-memory/insights.md",
-      "tokens": 229,
-      "keywords": [
-        "insights",
-        "patterns",
-        "portfolio",
-        "calendar",
-        "vibe-labs"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "todo": {
-      "file": "warm-memory/todo.md",
-      "tokens": 130,
-      "keywords": [
-        "todo",
-        "actions",
-        "calendar",
-        "email"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    }
-  }
+  "topics": {}
 }
