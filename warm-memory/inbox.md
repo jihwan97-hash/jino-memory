@@ -1,9 +1,75 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 27일 금요일 오후 08:03 KST
+**Last synced**: 2026년 2월 28일 토요일 오전 02:03 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 18 unread)
+## Recent Emails (30 total, 19 unread)
+
+### **[NEW]** RE: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
+- **From**: "정인호" <inho426@naver.com>
+- **Date**: Sat, 28 Feb 2026 00:40:59 +0900
+- **ID**: `19c9fc2b6731758e`
+- **Preview**: 안녕하세요 바이브랩스 페이지에는 27일 금요일 발표라고 나와 있는데 별도 이메일 받은게 없으면 탈락인걸까요? 감사합니다 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;Vibelabs&quot;&lt;vibelabs@hashed.
+
+### **[NEW]** Kromosom.ai Accelerator Application – 30% ROI, 1,200+ Waitlist Users
+- **From**: "'Vishwas Bhushan' via Vibelabs" <vibelabs@hashed.com>
+- **Date**: Fri, 27 Feb 2026 20:37:48 +0530
+- **ID**: `19c9fa47e06c8baa`
+- **Preview**: Hello Everyone, I&#39;m Vishwas, Co-Founder &amp; CEO at Kromosom.ai. It&#39;s an AI-Based trading terminal where we orchestrate multiple LLM models to analyze various asset types, including prediction
+
+### **[NEW]** Upcoming Election Deadline
+- **From**: no-reply via Investment <investment@hashed.com>
+- **Date**: Fri, 27 Feb 2026 15:06:05 +0000
+- **ID**: `19c9fa2be25359fb`
+- **Preview**: Upcoming Election Deadline Round 3 for Series 81 - Distributed Protocols is currently opted in to stake the proceeds from the upcoming SOL unlock on March 07, 2026. The deadline to change your request
+
+### **[NEW]** Re: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
+- **From**: Heewon Oh <heewon.oh@intrect.io>
+- **Date**: Fri, 27 Feb 2026 23:53:12 +0900
+- **ID**: `19c9f97290979236`
+- **Preview**: 안녕하세요, Hashed Vibe Labs 팀께. Hashed Vibe Labs에 지원한 오희원 입니다. 공식 안내에 따르면 최종 선발팀 발표는 - Finalist Announcement: 2026.02.27(금), 본 프로그램에 참여할 3–5팀 발표 및 투자 집행 으로 공지되어 있었고, 별도로 아래와 같은 메일을 통해 - “금주 내로 검토를 마무리하고,
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Fri, 27 Feb 2026 23:37:24 +0900
+- **ID**: `19c9f88b1a5b52a1`
+- **Preview**: Dear Medha, First, we would like to share our understanding of the nature of this transaction. This stock purchase is being conducted as part of a corporate flip restructuring to migrate the existing
+
+### **[NEW]** Re: [Hashed Vibe Labs 지원] kachi.xyz — 온체인 트레이딩 플랫폼
+- **From**: HJ Kim <admin@kachi.xyz>
+- **Date**: Fri, 27 Feb 2026 23:21:01 +0900
+- **ID**: `19c9f79b205207ee`
+- **Preview**: 안녕하세요, 바이브랩스 채용 담당자님. 이번 바이브랩스 배치에 지원한 김현준입니다. 전형 결과 발표 일정과 관련하여 문의를 드리고자 연락드렸습니다. 기존에 안내해 주신 일정으로는 오늘이 발표일로 알고 있었으나, 혹시 내부 사정으로 일정이 변경되었는지 여쭙고 싶습니다. 혹시라도 저나 kachi.xyz에 대해 추가로 궁금하신 점이 있거나 더 필요한 자료가 있다면
+
+### **[NEW]** Thank You for the Meaningful Conversation at MoneyX
+- **From**: Simon Seojoon Kim <simon@hashed.com>
+- **Date**: Fri, 27 Feb 2026 22:09:03 +0900
+- **ID**: `19c9f380160e11cd`
+- **Preview**: Dear Chairman Kitao-san, Thank you for speaking with me at MoneyX today. It meant more than I could easily express. I have been following SBI since I entered this industry in late 2015. At a time when
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 27 Feb 2026 18:14:59 +0530
+- **ID**: `19c9f22183fbabe1`
+- **Preview**: Dear Sera, In addition to my last email, please note that the SPA shared by you vide your email below is the same one that we have marked up and shared. The only difference is that the correct name of
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 27 Feb 2026 18:06:59 +0530
+- **ID**: `19c9f1ac890deb98`
+- **Preview**: Dear Sera, Thank you for your email. The documents shared by your counsel today appear to pertain to common stockholders. As Hashed is not a common stockholder, and our name is not included in the list
+
+### Re: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Fri, 27 Feb 2026 20:23:15 +0900
+- **ID**: `19c9ed6aec77874f`
+- **Preview**: 안녕하세요 박영주님 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary
+
+### **[NEW]** Vibelabs application
+- **From**: Doge NFT <nftdogecollector@gmail.com>
+- **Date**: Fri, 27 Feb 2026 14:12:58 +0300
+- **ID**: `19c9ecd764b80e06`
+- **Preview**: Hey guys! I know the deadline has already passed, but maybe you will be interested in seeing my project anyway. Its cs/dota skins for the ethereum mainnet. You are given a character based on your
 
 ### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: "'Sera Kim' via Investment" <investment@hashed.com>
@@ -118,72 +184,6 @@
 - **Date**: Fri, 27 Feb 2026 11:41:29 +0900
 - **ID**: `19c9cf9a60a8cca8`
 - **Preview**: 안녕하세요 서울거래 강유리입니다. 보고 기간이 도래함에 따라 관련 서류를 전달드립니다. - 2025년 감사보고서 - 주주명부(25년 12월 31일 기준) 관련하여 추가로 궁금하신 점이나 필요한 서류가 있다면 편하게 연락 부탁드리겠습니다. 감사합니다.
-
-### **[NEW]** RE: Update on OSN Structure and Related SAFE Arrangement - Hashed
-- **From**: Matthew <Matthew@idafi.xyz>
-- **Date**: Fri, 27 Feb 2026 01:55:07 +0000
-- **ID**: `19c9ccea62950162`
-- **Preview**: Hi Jin, Noted. Thank you for the update. Regards, Finance Director Matthew Liu Tel: +852 6680 5661 From: Jin Kang &lt;jin@hashed.com&gt; Sent: Friday, February 27, 2026 9:53 AM To: Matthew &lt;Matthew@
-
-### **[NEW]** Re: Update on OSN Structure and Related SAFE Arrangement - Hashed
-- **From**: Jin Kang <jin@hashed.com>
-- **Date**: Fri, 27 Feb 2026 10:52:39 +0900
-- **ID**: `19c9ccc8b7b6dc94`
-- **Preview**: Hi Matthew, I have chased my Korean counsel to expedite the inquiry with the BOK. I will update you as soon as I hear back. On Thu, Feb 26, 2026 at 5:44 PM Matthew &lt;Matthew@idafi.xyz&gt; wrote: Hi
-
-### **[NEW]** Re: [Hashed Vibe Labs 지원] KYRO 팀
-- **From**: Dan Park <dan.park@hashed.com>
-- **Date**: Fri, 27 Feb 2026 10:31:12 +0900
-- **ID**: `19c9cb8d44098213`
-- **Preview**: 안녕하세요 정우님, 해시드의 박종호입니다. 어제 시간 내주셔서 감사했습니다. 추가적으로 여쭈어볼 것들이 있어 텔레그램 혹은 카카오톡 채널을 개설하여 소통하고자 하오니 편하신 연락수단 및 ID/전화번호를 주시면 개설 도와드리겠습니다. 감사합니다. 박종호 드림 On Thu, Feb 26, 2026 at 12:23 AM KYRO &lt;kyro.dev2025@
-
-### **[NEW]** [프레인글로벌] 2026년 2월 27일(금) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "강서연" <sxyx00@prain.com>
-- **Date**: Fri, 27 Feb 2026 01:26:02 +0000
-- **ID**: `19c9cb414ed1bac7`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 2월 27일 금요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.2.27(금) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 2/26(목) 피지컬 AI 리얼월드, 신규자금 조달...누적 투자금
-
-### **[NEW]** RE: Re: [해시드 벤처투자조합3호] 출자 일정 안내의 건
-- **From**: "이태호" <thlee0319@nhn.com>
-- **Date**: Fri, 27 Feb 2026 10:16:11 +0900 (KST)
-- **ID**: `19c9caafc2b8c45c`
-- **Preview**: 김정준 부장님, 일본 출장 중이신 것 같아 간단히 통화 드렸습니다. 저희 내부적으로 아직 전략과 방향 설정에 고민이 많다 보니, 일찍 연락을 못 드린 점 양해를 부탁 드립니다. 대표님들과 지난 번 뵈었을 때 말씀드린 것처럼, 해시드와 더 가까이서 호흡을 맞출 수 있을 방법은 계속 찾아보겠습니다. 감사합니다. 이태호 드림 NHN / 이사 010 4310
-
-### **[NEW]** Re: [해시드 벤처투자조합3호] 출자 일정 안내의 건
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
-- **ID**: `19c9c9d882aea833`
-- **Preview**: 이태호 이사님, 안녕하세요. 해시드벤처스 김정준입니다. 해시드 3호조합 LOC 제출 마감일은 3/3(화) 오후 5시 입니다. 관련하여 궁금하신 부분 있다면 편히 말씀 부탁드립니다. 향후 일정: - 3/3(화): LOC 제출 마감, 3차클로징 조합원 리스트 확정 / 기존조합원 대상 정기총회 통지 발송 (3차 클로징 규약변경 포함) - 3/3(화) – 3/25(
-
-### **[NEW]** Re: [해시드벤처스] 해시드 벤처투자조합3호 Data Room (IR Deck 포함)_원자산운용
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
-- **ID**: `19c9c9cf6886473b`
-- **Preview**: 김진구 매니저님, 안녕하세요. 해시드벤처스 김정준입니다. 해시드 3호조합 LOC 제출 마감일은 3/3(화) 오후 5시 입니다. 관련하여 궁금하신 부분 있다면 편히 말씀 부탁드립니다. 향후 일정: - 3/3(화): LOC 제출 마감, 3차클로징 조합원 리스트 확정 / 기존조합원 대상 정기총회 통지 발송 (3차 클로징 규약변경 포함) - 3/3(화) – 3/25
-
-### **[NEW]** Re: Hashed Venture Fund III - Data Room (IR Deck Included)
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
-- **ID**: `19c9c9c45656c323`
-- **Preview**: Dear Michelle, I hope this email finds you well. This is a reminder that the LOC submission deadline for Hashed Fund III is March 3 at 4:00 PM SGT (5:00 PM KST). Please let me know if you have any
-
-### Fwd: [견적] 리플로우제주 숙박 및 공간사용 견적서 첨부
-- **From**: Dan Park <dan.park@hashed.com>
-- **Date**: Fri, 27 Feb 2026 09:58:26 +0900
-- **ID**: `19c9c9ad9f315245`
-- **Preview**: 여기서 2.22(일) 싱글룸 하나 빼야 합니다 ---------- Forwarded message --------- From: 리플로우 &lt;reflow@krypton36.co&gt; Date: Mon, Feb 16, 2026 at 2:21 PM Subject: [견적] 리플로우제주 숙박 및 공간사용 견적서 첨부 To: &lt;dan.park@hashed.
-
-### Fwd: [아산나눔재단] 아산 보이저 2026 배치 모집 오픈 (~3.22 EOD)
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Fri, 27 Feb 2026 09:25:18 +0900
-- **ID**: `19c9c7c9042350b3`
-- **Preview**: Fyi ---------- Forwarded message --------- From: 아산나눔재단 &lt;startup@asan-nanum.org&gt; Date: Fri, Feb 27, 2026 at 9:10 AM Subject: [아산나눔재단] 아산 보이저 2026 배치 모집 오픈 (~3.22 EOD) To: &lt;jun.kim@hashed.com
-
-### **[NEW]** RE: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
-- **From**: "인생뷰티" <softkids@naver.com>
-- **Date**: Fri, 27 Feb 2026 07:58:17 +0900
-- **ID**: `19c9c2cb2eaa3943`
-- **Preview**: 안녕하세요, Hashed Vibe Labs 팀. 바쁘신 검토 일정 중에도 따뜻한 접수 확인 메일을 보내주셔서 진심으로 감사드립니다. 저의 프로젝트 agentumi.xyz 가 EdgeClaw 프로토타입이 완성되어 업데이트 되었습니다. 오늘 제품화가 완성됩니다 https://github.com/agentumi 오프라인 봇 프로젝트는 두가지가 공개소스로 오픈
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

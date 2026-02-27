@@ -15,6 +15,95 @@
       ],
       "lastAccess": "2026-02-27",
       "updated": "2026-02-27"
+    },
+    "ad-shield": {
+      "file": "warm-memory/portfolio/ad-shield.md",
+      "tokens": 358,
+      "keywords": [
+        "ad-shield",
+        "애드쉴드",
+        "portfolio",
+        "adtech"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "dfns": {
+      "file": "warm-memory/portfolio/dfns.md",
+      "tokens": 426,
+      "keywords": [
+        "dfns",
+        "portfolio",
+        "custody",
+        "crypto"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "drnow": {
+      "file": "warm-memory/portfolio/drnow.md",
+      "tokens": 378,
+      "keywords": [
+        "drnow",
+        "닥터나우",
+        "portfolio",
+        "healthtech",
+        "korea"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "aptos": {
+      "file": "warm-memory/portfolio/aptos.md",
+      "tokens": 438,
+      "keywords": [
+        "aptos",
+        "matonee",
+        "portfolio",
+        "blockchain",
+        "L1"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "lovo": {
+      "file": "warm-memory/portfolio/lovo.md",
+      "tokens": 424,
+      "keywords": [
+        "lovo",
+        "portfolio",
+        "ai",
+        "tts",
+        "voice"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "merge-holdings": {
+      "file": "warm-memory/portfolio/merge-holdings.md",
+      "tokens": 492,
+      "keywords": [
+        "merge-holdings",
+        "portfolio",
+        "payments",
+        "crypto",
+        "EU"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
+    },
+    "halliday": {
+      "file": "warm-memory/portfolio/halliday.md",
+      "tokens": 487,
+      "keywords": [
+        "halliday",
+        "portfolio",
+        "web3",
+        "ai",
+        "agents"
+      ],
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
     }
   }
 }
