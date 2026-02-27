@@ -1,9 +1,63 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 27일 금요일 오후 04:12 KST
+**Last synced**: 2026년 2월 27일 금요일 오후 08:03 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 15 unread)
+## Recent Emails (30 total, 18 unread)
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Fri, 27 Feb 2026 19:34:43 +0900
+- **ID**: `19c9eaa8cbc4e5a9`
+- **Preview**: Dear Medha, Thank you for your email and for raising these points. Please note that the SPA edits and comments you provided earlier today have already been shared with our counsel. Regarding the
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 27 Feb 2026 15:35:26 +0530
+- **ID**: `19c9e90083fd75d4`
+- **Preview**: Dear Sera, Thank you for the updated drafts. The documents provided appear to pertain to common stock holders, whereas Hashed currently holds preferred stock in Ad-Shield Korea. As such, it is unclear
+
+### Re: [디오디] 투자자 동의서 송부 및 임시 주주총회 소집 통지의 건
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Fri, 27 Feb 2026 18:12:06 +0900
+- **ID**: `19c9e5e9c4e8c6ae`
+- **Preview**: 👍 Astin Han님이 Gmail을 통해 반응함
+
+### Fwd: [디오디] 투자자 동의서 송부 및 임시 주주총회 소집 통지의 건
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 27 Feb 2026 18:10:17 +0900
+- **ID**: `19c9e5d2aa5ff808`
+- **Preview**: Astin 요거 채널에 재무팀 태그해서 부탁 드릴게요 감사합니다. ---------- Forwarded message --------- 보낸사람: 전영재 &lt;jay.jeon@dayonedream.com&gt; Date: 2026년 2월 27일 (금) PM 5:50 Subject: RE: [디오디] 투자자 동의서 송부 및 임시 주주총회 소집 통지의 건 To
+
+### RE: [디오디] 투자자 동의서 송부 및 임시 주주총회 소집 통지의 건
+- **From**: "전영재" <jay.jeon@dayonedream.com>
+- **Date**: Fri, 27 Feb 2026 17:50:06 +0900
+- **ID**: `19c9e4a9aa45ee00`
+- **Preview**: 안녕하세요. 디오디 전영재입니다. 먼저, 양해의 말씀을 부탁 드립니다. 바쁘신 와중에도 빠르게 동의서 및 임시주총 관련하여 보내 주신 부분 매우 감사하게 생각하고 있습니다. 다만, 저희가 부득이하게 임시주주총회 관련하여, 절차의 적법성과 의사결정의 유효성을 전원 기준으로 명확히 확보하기 위하여 임시주주총회 일정을 아래와 같이 조정하여 재송부 및 재요청드리게
+
+### **[NEW]** Re: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
+- **From**: Petar Popovic <petarpnp@gmail.com>
+- **Date**: Fri, 27 Feb 2026 09:43:59 +0100
+- **ID**: `19c9e457a622c5d0`
+- **Preview**: Dear Hashed Vibe Labs team, Thank you for confirming that you&#39;ve received my application. I wanted to share a short update: since applying, Confirmed has moved from closed beta to public beta. If
+
+### **[NEW]** Fwd: [블록오디세이] 제8기 정기주주총회 개최 통지 및 관련 자료 송부의 건
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 27 Feb 2026 17:21:45 +0900
+- **ID**: `19c9e30e4a3f9e18`
+- **Preview**: FYI on Blockodyssey ---------- Forwarded message --------- 보낸사람: 연창학 &lt;chyeon@blockodyssey.io&gt; Date: 2026년 2월 27일 (금) PM 3:53 Subject: [블록오디세이] 제8기 정기주주총회 개최 통지 및 관련 자료 송부의 건 To: Shareholders &lt;
+
+### **[NEW]** Unauthorized viewer denied
+- **From**: "'DocSend' via Investment" <investment@hashed.com>
+- **Date**: Fri, 27 Feb 2026 08:13:45 +0000
+- **ID**: `19c9e29395f29b57`
+- **Preview**: DocSend Unauthorized viewer denied An unauthorized viewer has attempted to access the &quot;해시드 벤처투자조합3호 운용보고서&quot; link for 해시드 벤처투자조합3호 운용보고서 using the following email address: ✕ woomh02@kyowon.co.
+
+### [페이히어] 담당저 변경 안내의 건
+- **From**: "홍성혁" <seonghyeok.hong@payhere.in>
+- **Date**: Fri, 27 Feb 2026 17:02:39 +0900
+- **ID**: `19c9e1f3e0eca26e`
+- **Preview**: 안녕하세요. 페이히어에서 CEO Staff(Corp-dev) 홍성혁입니다. 그간 관련 업무를 통해 소중한 인연을 이어올 수 있었던 것에 진심으로 감사드립니다. 개인적인 사유로 오늘을 마지막으로 페이히어에서의 근무를 마무리하게 되었습니다. 퇴사 이후 관련 업무는 박형규 총괄 Head of Staff(hk.park@payhere.in, 010-8533-8141)
 
 ### **[NEW]** [블록오디세이] 제8기 정기주주총회 개최 통지 및 관련 자료 송부의 건
 - **From**: "연창학" <chyeon@blockodyssey.io>
@@ -35,7 +89,7 @@
 - **ID**: `19c9da801c7fb389`
 - **Preview**: Weekly Sync #2 This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/qkf-dfjv-drp Join by phone (US) +1 413-728-2959 PIN: 727141958 More phone
 
-### **[NEW]** Fwd: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
+### Fwd: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
 - **From**: "리플로우" <reflow@krypton36.co>
 - **Date**: Fri, 27 Feb 2026 14:26:37 +0900
 - **ID**: `19c9d90c6d2e46bb`
@@ -130,60 +184,6 @@
 - **Date**: Fri, 27 Feb 2026 07:58:17 +0900
 - **ID**: `19c9c2cb2eaa3943`
 - **Preview**: 안녕하세요, Hashed Vibe Labs 팀. 바쁘신 검토 일정 중에도 따뜻한 접수 확인 메일을 보내주셔서 진심으로 감사드립니다. 저의 프로젝트 agentumi.xyz 가 EdgeClaw 프로토타입이 완성되어 업데이트 되었습니다. 오늘 제품화가 완성됩니다 https://github.com/agentumi 오프라인 봇 프로젝트는 두가지가 공개소스로 오픈
-
-### **[NEW]** Introducing GoldRush CLI: Terminal-first trading & data for agents - Edition #47
-- **From**: "'Covalent Weekly' via Investment" <investment@hashed.com>
-- **Date**: Thu, 26 Feb 2026 20:00:25 +0000
-- **ID**: `19c9b89f288625a2`
-- **Preview**: GoldRush CLI is live for Claude Code, agent, and human workflows. ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​
-
-### Invitation: 🎉 VibeLabs Demo Day — Live ARR 공개 @ Sat Apr 25, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:52:56 +0000
-- **ID**: `19c9ade287e880ae`
-- **Preview**: 🎉 VibeLabs Demo Day — Live ARR 공개 You have been invited by Jihwan to attend an event named 🎉 VibeLabs Demo Day — Live ARR 공개 on Saturday Apr 25, 2026. When Saturday Apr 25, 2026 Organizer Jihwan
-
-### Invitation: 📋 VibeLabs: Growth 지표 업데이트 & 방향 조정 @ Fri Apr 3, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:52:53 +0000
-- **ID**: `19c9ade1da7dc695`
-- **Preview**: 📋 VibeLabs: Growth 지표 업데이트 &amp; 방향 조정 You have been invited by Jihwan to attend an event named 📋 VibeLabs: Growth 지표 업데이트 &amp; 방향 조정 on Friday Apr 3, 2026. When Friday Apr 3, 2026 Organizer Jihwan
-
-### Canceled event: 📋 VibeLabs: Growth 지표 업데이트 & 방향 조정 @ Thu Apr 2, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:52:50 +0000
-- **ID**: `19c9ade13dc958c0`
-- **Preview**: 📋 VibeLabs: Growth 지표 업데이트 &amp; 방향 조정 This event has been canceled and removed from your calendar. When Thursday Apr 2, 2026 Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.com Invitation
-
-### Updated invitation: 🚀 VibeLabs S1: Align & Baseline @ Tue Mar 3 9am - Fri Mar 13, 2026 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:52:38 +0000
-- **ID**: `19c9adde07ea38c1`
-- **Preview**: 🚀 VibeLabs S1: Align &amp; Baseline You have been invited by Jihwan to attend an event named 🚀 VibeLabs S1: Align &amp; Baseline on Tuesday Mar 3 ⋅ 9am – Friday Mar 13, 2026 ⋅ 6pm (Korean Standard Time
-
-### Canceled event: 🎉 VibeLabs Demo Day — Live ARR 공개 @ Sat Apr 25, 2026 10am - 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:52:35 +0000
-- **ID**: `19c9addd9d7f244e`
-- **Preview**: 🎉 VibeLabs Demo Day — Live ARR 공개 This event has been canceled and removed from your calendar. When Saturday Apr 25, 2026 ⋅ 10am – 6pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail
-
-### Updated invitation: 📈 VibeLabs S3: Growth Sprint @ Mon Mar 30 9am - Fri Apr 10, 2026 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:48:46 +0000
-- **ID**: `19c9ada5a176690a`
-- **Preview**: 📈 VibeLabs S3: Growth Sprint You have been invited by Jihwan to attend an event named 📈 VibeLabs S3: Growth Sprint on Monday Mar 30 ⋅ 9am – Friday Apr 10, 2026 ⋅ 6pm (Korean Standard Time - Seoul).
-
-### Updated invitation: 🏝️ VibeLabs S2: 제주 스프린트 @ Mon Mar 16 9am - Fri Mar 27, 2026 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:48:46 +0000
-- **ID**: `19c9ada594398563`
-- **Preview**: 🏝️ VibeLabs S2: 제주 스프린트 You have been invited by Jihwan to attend an event named 🏝️ VibeLabs S2: 제주 스프린트 on Monday Mar 16 ⋅ 9am – Friday Mar 27, 2026 ⋅ 6pm (Korean Standard Time - Seoul). This event
-
-### Updated invitation: 🎯 VibeLabs S4: Final Sprint & Demo Day @ Mon Apr 13 9am - Fri Apr 24, 2026 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:48:40 +0000
-- **ID**: `19c9ada41dd36702`
-- **Preview**: 🎯 VibeLabs S4: Final Sprint &amp; Demo Day You have been invited by Jihwan to attend an event named 🎯 VibeLabs S4: Final Sprint &amp; Demo Day on Monday Apr 13 ⋅ 9am – Friday Apr 24, 2026 ⋅ 6pm (Korean
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

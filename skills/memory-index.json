@@ -1,155 +1,20 @@
 {
   "version": 1,
-  "updated": "2026-02-26",
+  "updated": "2026-02-27",
   "maxTopics": 30,
   "topics": {
-    "crypto-market": {
-      "file": "warm-memory/crypto-market.md",
-      "tokens": 14,
+    "ai-news": {
+      "file": "warm-memory/ai-news.md",
+      "tokens": 99,
       "keywords": [
-        "bitcoin",
-        "whale-selling",
-        "price-decline"
+        "OpenAI",
+        "Anthropic",
+        "funding",
+        "defense",
+        "AI ethics"
       ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "dydx-trading": {
-      "file": "warm-memory/portfolio/dydx-trading.md",
-      "tokens": 279,
-      "keywords": [
-        "dYdX",
-        "DeFi",
-        "derivatives",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "nurihaus": {
-      "file": "warm-memory/portfolio/nurihaus.md",
-      "tokens": 215,
-      "keywords": [
-        "Nurihaus",
-        "누리하우스",
-        "K-beauty",
-        "portfolio",
-        "e-commerce"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "trek-labs-backpack-exchange": {
-      "file": "warm-memory/portfolio/trek-labs-backpack-exchange.md",
-      "tokens": 408,
-      "keywords": [
-        "Backpack",
-        "Trek-Labs",
-        "crypto",
-        "exchange",
-        "portfolio",
-        "unicorn"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "sejinsa": {
-      "file": "warm-memory/portfolio/sejinsa.md",
-      "tokens": 212,
-      "keywords": [
-        "Sejinsa",
-        "세진사",
-        "car-wash",
-        "subscription",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "jejememe": {
-      "file": "warm-memory/portfolio/jejememe.md",
-      "tokens": 211,
-      "keywords": [
-        "JEJEMEME",
-        "제제미미",
-        "쑥쑥찰칵",
-        "parenting",
-        "portfolio",
-        "Japan"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "uprise-horizonwealth": {
-      "file": "warm-memory/portfolio/uprise-horizonwealth.md",
-      "tokens": 252,
-      "keywords": [
-        "Uprise",
-        "HorizonWealth",
-        "업라이즈",
-        "robo-advisor",
-        "asset-management",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "comento": {
-      "file": "warm-memory/portfolio/comento.md",
-      "tokens": 229,
-      "keywords": [
-        "Comento",
-        "코멘토",
-        "career",
-        "edtech",
-        "portfolio",
-        "mentoring"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "flexity": {
-      "file": "warm-memory/portfolio/flexity.md",
-      "tokens": 285,
-      "keywords": [
-        "Flexity",
-        "플렉시티",
-        "proptech",
-        "AI",
-        "architecture",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "codestates": {
-      "file": "warm-memory/portfolio/codestates.md",
-      "tokens": 255,
-      "keywords": [
-        "CodeStates",
-        "코드스테이츠",
-        "edtech",
-        "bootcamp",
-        "B2B",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
-    },
-    "atommerce-mindcafe": {
-      "file": "warm-memory/portfolio/atommerce-mindcafe.md",
-      "tokens": 335,
-      "keywords": [
-        "Atommerce",
-        "Mindcafe",
-        "아토머스",
-        "마인드카페",
-        "digital-health",
-        "DTx",
-        "portfolio"
-      ],
-      "lastAccess": "2026-02-26",
-      "updated": "2026-02-26"
+      "lastAccess": "2026-02-27",
+      "updated": "2026-02-27"
     }
   }
 }

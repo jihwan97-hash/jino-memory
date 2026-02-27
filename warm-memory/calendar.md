@@ -1,10 +1,8 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 2월 27일 금요일 오전 10:11 KST
+**Last synced**: 2026년 2월 27일 금요일 오후 08:03 KST
 
-## Upcoming Events (1)
-
-- **16:05-17:20**: ✈️ 제주→김포 KE1256
+No events scheduled for the next 1 day(s).
 
 ---
 _To get fresh data, run: node /root/clawd/skills/google-calendar/scripts/sync-today.js_
