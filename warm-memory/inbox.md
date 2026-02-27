@@ -1,9 +1,51 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 27일 금요일 오전 04:11 KST
+**Last synced**: 2026년 2월 27일 금요일 오전 10:11 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 30 unread)
+## Recent Emails (30 total, 28 unread)
+
+### **[NEW]** Re: [해시드 벤처투자조합3호] 출자 일정 안내의 건
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
+- **ID**: `19c9c9d882aea833`
+- **Preview**: 이태호 이사님, 안녕하세요. 해시드벤처스 김정준입니다. 해시드 3호조합 LOC 제출 마감일은 3/3(화) 오후 5시 입니다. 관련하여 궁금하신 부분 있다면 편히 말씀 부탁드립니다. 향후 일정: - 3/3(화): LOC 제출 마감, 3차클로징 조합원 리스트 확정 / 기존조합원 대상 정기총회 통지 발송 (3차 클로징 규약변경 포함) - 3/3(화) – 3/25(
+
+### **[NEW]** Re: [해시드벤처스] 해시드 벤처투자조합3호 Data Room (IR Deck 포함)_원자산운용
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
+- **ID**: `19c9c9cf6886473b`
+- **Preview**: 김진구 매니저님, 안녕하세요. 해시드벤처스 김정준입니다. 해시드 3호조합 LOC 제출 마감일은 3/3(화) 오후 5시 입니다. 관련하여 궁금하신 부분 있다면 편히 말씀 부탁드립니다. 향후 일정: - 3/3(화): LOC 제출 마감, 3차클로징 조합원 리스트 확정 / 기존조합원 대상 정기총회 통지 발송 (3차 클로징 규약변경 포함) - 3/3(화) – 3/25
+
+### **[NEW]** Re: Hashed Venture Fund III - Data Room (IR Deck Included)
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Fri, 27 Feb 2026 10:00:00 +0900
+- **ID**: `19c9c9c45656c323`
+- **Preview**: Dear Michelle, I hope this email finds you well. This is a reminder that the LOC submission deadline for Hashed Fund III is March 3 at 4:00 PM SGT (5:00 PM KST). Please let me know if you have any
+
+### Fwd: [견적] 리플로우제주 숙박 및 공간사용 견적서 첨부
+- **From**: Dan Park <dan.park@hashed.com>
+- **Date**: Fri, 27 Feb 2026 09:58:26 +0900
+- **ID**: `19c9c9ad9f315245`
+- **Preview**: 여기서 2.22(일) 싱글룸 하나 빼야 합니다 ---------- Forwarded message --------- From: 리플로우 &lt;reflow@krypton36.co&gt; Date: Mon, Feb 16, 2026 at 2:21 PM Subject: [견적] 리플로우제주 숙박 및 공간사용 견적서 첨부 To: &lt;dan.park@hashed.
+
+### Fwd: [아산나눔재단] 아산 보이저 2026 배치 모집 오픈 (~3.22 EOD)
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Fri, 27 Feb 2026 09:25:18 +0900
+- **ID**: `19c9c7c9042350b3`
+- **Preview**: Fyi ---------- Forwarded message --------- From: 아산나눔재단 &lt;startup@asan-nanum.org&gt; Date: Fri, Feb 27, 2026 at 9:10 AM Subject: [아산나눔재단] 아산 보이저 2026 배치 모집 오픈 (~3.22 EOD) To: &lt;jun.kim@hashed.com
+
+### **[NEW]** RE: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
+- **From**: "인생뷰티" <softkids@naver.com>
+- **Date**: Fri, 27 Feb 2026 07:58:17 +0900
+- **ID**: `19c9c2cb2eaa3943`
+- **Preview**: 안녕하세요, Hashed Vibe Labs 팀. 바쁘신 검토 일정 중에도 따뜻한 접수 확인 메일을 보내주셔서 진심으로 감사드립니다. 저의 프로젝트 agentumi.xyz 가 EdgeClaw 프로토타입이 완성되어 업데이트 되었습니다. 오늘 제품화가 완성됩니다 https://github.com/agentumi 오프라인 봇 프로젝트는 두가지가 공개소스로 오픈
+
+### **[NEW]** Introducing GoldRush CLI: Terminal-first trading & data for agents - Edition #47
+- **From**: "'Covalent Weekly' via Investment" <investment@hashed.com>
+- **Date**: Thu, 26 Feb 2026 20:00:25 +0000
+- **ID**: `19c9b89f288625a2`
+- **Preview**: GoldRush CLI is live for Claude Code, agent, and human workflows. ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​
 
 ### **[NEW]** Invitation: 🎉 VibeLabs Demo Day — Live ARR 공개 @ Sat Apr 25, 2026 (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
@@ -142,48 +184,6 @@
 - **Date**: Thu, 26 Feb 2026 16:42:20 +0000
 - **ID**: `19c9ad4738797c72`
 - **Preview**: 📋 VibeLabs: Sprint 1 리뷰 &amp; Sprint 2 예측 You have been invited by Jihwan to attend an event named 📋 VibeLabs: Sprint 1 리뷰 &amp; Sprint 2 예측 on Saturday Mar 14, 2026. When Saturday Mar 14, 2026
-
-### **[NEW]** Invitation: 📋 VibeLabs: Demo Day 최종 마감 @ Sat Apr 18, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:18 +0000
-- **ID**: `19c9ad46c19bd66f`
-- **Preview**: 📋 VibeLabs: Demo Day 최종 마감 You have been invited by Jihwan to attend an event named 📋 VibeLabs: Demo Day 최종 마감 on Saturday Apr 18, 2026. When Saturday Apr 18, 2026 Organizer Jihwan jihwan260213@gmail.
-
-### **[NEW]** Invitation: 📋 VibeLabs: Sprint 3 리뷰 & Demo Day 준비 시작 @ Sat Apr 11, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:17 +0000
-- **ID**: `19c9ad46b01237fd`
-- **Preview**: 📋 VibeLabs: Sprint 3 리뷰 &amp; Demo Day 준비 시작 You have been invited by Jihwan to attend an event named 📋 VibeLabs: Sprint 3 리뷰 &amp; Demo Day 준비 시작 on Saturday Apr 11, 2026. When Saturday Apr 11, 2026
-
-### **[NEW]** Invitation: 📋 VibeLabs: 제주 오프사이트 D-2, 목표 점검 @ Sat Mar 21, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:16 +0000
-- **ID**: `19c9ad4669023c88`
-- **Preview**: 📋 VibeLabs: 제주 오프사이트 D-2, 목표 점검 You have been invited by Jihwan to attend an event named 📋 VibeLabs: 제주 오프사이트 D-2, 목표 점검 on Saturday Mar 21, 2026. When Saturday Mar 21, 2026 Organizer Jihwan
-
-### **[NEW]** Invitation: 📋 VibeLabs: 오프사이트 리뷰 & Sprint 2 리뷰 @ Fri Mar 27, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:16 +0000
-- **ID**: `19c9ad465acd7bfb`
-- **Preview**: 📋 VibeLabs: 오프사이트 리뷰 &amp; Sprint 2 리뷰 You have been invited by Jihwan to attend an event named 📋 VibeLabs: 오프사이트 리뷰 &amp; Sprint 2 리뷰 on Friday Mar 27, 2026. When Friday Mar 27, 2026 Organizer Jihwan
-
-### **[NEW]** Invitation: 📋 VibeLabs: Growth 지표 업데이트 & 방향 조정 @ Fri Apr 3, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:15 +0000
-- **ID**: `19c9ad4617e2dedd`
-- **Preview**: 📋 VibeLabs: Growth 지표 업데이트 &amp; 방향 조정 You have been invited by Jihwan to attend an event named 📋 VibeLabs: Growth 지표 업데이트 &amp; 방향 조정 on Friday Apr 3, 2026. When Friday Apr 3, 2026 Organizer Jihwan
-
-### **[NEW]** Invitation: 📋 VibeLabs: 팀별 현황 공유 & Sprint 1 목표 선언 @ Sat Mar 7, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:42:09 +0000
-- **ID**: `19c9ad4492be94ef`
-- **Preview**: 📋 VibeLabs: 팀별 현황 공유 &amp; Sprint 1 목표 선언 You have been invited by Jihwan to attend an event named 📋 VibeLabs: 팀별 현황 공유 &amp; Sprint 1 목표 선언 on Saturday Mar 7, 2026. When Saturday Mar 7, 2026 Organizer
-
-### **[NEW]** Canceled event: 📋 VibeLabs: Sprint 1 리뷰 & Sprint 2 예측 @ Sat Mar 14, 2026 4pm - 6pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Thu, 26 Feb 2026 16:41:38 +0000
-- **ID**: `19c9ad3d30c385ff`
-- **Preview**: 📋 VibeLabs: Sprint 1 리뷰 &amp; Sprint 2 예측 This event has been canceled and removed from your calendar. When Saturday Mar 14, 2026 ⋅ 4pm – 6pm (Korean Standard Time - Seoul) Organizer Jihwan
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
