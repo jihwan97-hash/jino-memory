@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 28일 토요일 오전 02:03 KST
+**Last synced**: 2026년 2월 28일 토요일 오전 04:41 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 19 unread)
+## Recent Emails (30 total, 22 unread)
+
+### **[NEW]** HF0 Allocation Decision Reminder
+- **From**: "'Dan Morse' via Investment" <investment@hashed.com>
+- **Date**: Fri, 27 Feb 2026 18:42:36 +0000
+- **ID**: `19ca06930505f566`
+- **Preview**: Hi all! Thank you to everyone who has made commitments so far for Fund VI. Remember that we are targeting the decision for re-ups on March 9th. We will give allocations by March 11th. Happy to answer
+
+### **[NEW]** Edge Capital: NEW Gold and Silver Share Classes – Access Directional Exposure to Gold and Silver with Cash Yield
+- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
+- **Date**: Fri, 27 Feb 2026 18:32:47 +0000
+- **ID**: `19ca06017b8439f5`
+- **Preview**: Dear Investors, We are happy to announce that we are launching Gold and Silver share classes in the Edge DeFi Fund, effective March 1, 2026. The Gold and Silver share classes provide directional
+
+### **[NEW]** Don't miss out: Unlock predictive intelligence with Crunchbase Business
+- **From**: Crunchbase <support@email.crunchbase.com>
+- **Date**: Fri, 27 Feb 2026 18:00:42 +0000
+- **ID**: `19ca04298cb648ce`
+- **Preview**: Teams using Crunchbase Business have grown pipelines by millions—see what it can do for you. Hi Astin, Your free Crunchbase account is a strong start—but you&#39;re only seeing part of the picture.
 
 ### **[NEW]** RE: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
 - **From**: "정인호" <inho426@naver.com>
@@ -166,24 +184,6 @@
 - **Date**: Fri, 27 Feb 2026 09:51:22 +0530
 - **ID**: `19c9d55196af7863`
 - **Preview**: Dear Sera, Please find our comments on the updated Stock Purchase Agreement (SPA) attached. We note that several clauses imported from NVCA standard language have been modified in a way that deviates
-
-### Fwd: 블록오디세이 25년 4분기 분기보고서 송부의 건
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Fri, 27 Feb 2026 12:49:34 +0900
-- **ID**: `19c9d37819a9f5ff`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Fwd: [그린랩스] 2025년 3분기 결산자료 관련의 건
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Fri, 27 Feb 2026 12:48:51 +0900
-- **ID**: `19c9d36e506bc164`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### [서울거래] 2025년 감사보고서 및 주주명부 송부의 건
-- **From**: "강유리" <yr.kang@seoulexchange.kr>
-- **Date**: Fri, 27 Feb 2026 11:41:29 +0900
-- **ID**: `19c9cf9a60a8cca8`
-- **Preview**: 안녕하세요 서울거래 강유리입니다. 보고 기간이 도래함에 따라 관련 서류를 전달드립니다. - 2025년 감사보고서 - 주주명부(25년 12월 31일 기준) 관련하여 추가로 궁금하신 점이나 필요한 서류가 있다면 편하게 연락 부탁드리겠습니다. 감사합니다.
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

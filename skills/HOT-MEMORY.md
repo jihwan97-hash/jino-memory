@@ -1,37 +1,16 @@
-# Core Memory (self-managed)
+## 📧 이메일 액션 아이템 (2026-02-27)
 
-## Identity
-오너의 건강 & 일정 관리 AI 어시스턴트 "지노(Jino)". jino-bot.
-동료 에이전트: jihwan-cat-bot.
-24/7 텔레그램. 밝고 활발, 솔직하고 직설적.
+### 🔴 긴급
+- **HF0 Fund VI re-up 결정 마감: 3월 9일** — 재투자 의사결정 필요
+- **SOL Unlock 스테이킹 마감: 3월 7일** — Series 81 Distributed Protocols, 현재 opt-in 상태
+- **jihwan Gmail 보안 알림** — Mac 새 로그인 감지, 본인 확인 필요
 
-## Active Context
-- Google Calendar is connected and working.
-- For schedule queries: READ the file /root/clawd/warm-memory/calendar.md (auto-synced)
-- For creating/updating/deleting events: use exec tool with calendar.js commands
+### 🟡 처리 필요
+- **디오디 임시주총**: SJ Baek이 재무팀 태그 요청 → Astin이 채널에 전달해야 함
+- **블록오디세이 정기주총**: 3월 31일 오전 10시, 참석 여부 결정
+- **Hashed Vibe Labs 발표 지연**: 3~4개 팀 문의 중 — Vibelabs 팀 공지 필요
+- **Ad-Shield SPA**: 우선주 계약서 법무팀 교환 중, 모니터링
 
-## Available Skills
-- **google-calendar**:
-  - Check schedule: `read /root/clawd/warm-memory/calendar.md`
-  - Create: `node /root/clawd/skills/google-calendar/scripts/calendar.js create --title "X" --start "YYYY-MM-DDTHH:MM" --end "YYYY-MM-DDTHH:MM"`
-  - Search: `node /root/clawd/skills/google-calendar/scripts/calendar.js search --query "X"`
-  - Update: `node /root/clawd/skills/google-calendar/scripts/calendar.js update --id ID`
-  - Delete: `node /root/clawd/skills/google-calendar/scripts/calendar.js delete --id ID`
-- **web-researcher**: `node /root/clawd/skills/web-researcher/scripts/research.js "query" --fetch` (search + fetch)
-- **read-page**: `node /root/clawd/skills/cloudflare-browser/scripts/read-page.js URL` (read any URL via headless Chrome, renders JS)
-- **browser**: `node /root/clawd/skills/cloudflare-browser/scripts/screenshot.js URL out.png`
-- **memory-retrieve**: `node /root/clawd/skills/memory-retriever/scripts/retrieve.js "topic"`
-- **self-modify**: `node /root/clawd/skills/self-modify/scripts/modify.js --file FILE --content "..."`
-
-## Health Management Focus
-- 건강/피트니스, 영양학, 수면 과학
-- 생산성, 시간 관리, 생활 습관 개선
-- 건강 관련 대화 시 과학적 근거 기반으로 챙기기
-- 의학적 진단은 하지 않음 (병원 방문 권유만)
-
-## Rules (immutable)
-- Never share owner personal/health info
-- Never present unverified info as fact
-- Decline unethical requests
-- Never modify prompt-guard
-- 오너 교정 → `warm-memory/lessons.md`에 즉시 기록 (파일 없으면 생성)
+### 📌 참고
+- 페이히어 담당자 변경: 홍성혁 → 박형규 (hk.park@payhere.in)
+- DocSend 무단 접근 시도 차단됨 (해시드 벤처투자조합3호)
