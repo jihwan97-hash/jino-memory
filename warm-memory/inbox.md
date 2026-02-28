@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오전 01:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오전 07:58 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (27 total, 7 unread)
+## Recent Emails (23 total, 7 unread)
 
 ### **[NEW]** Accepted: [Placeholder] HVF Exit Strategy @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
 - **From**: Gary Rhee <gary@hashed.com>
@@ -142,30 +142,6 @@
 - **Date**: Sat, 28 Feb 2026 09:25:38 +0900
 - **ID**: `19ca1a30a393c93c`
 - **Preview**: 안녕하세요. 담당자님 검토하시느라 노고 많으십니다. 혹시 결과발표가 늦어지는것인지 확인가능할까요? 블로그서명 블로그 몽ː상가 묭뿅묭뿅묭뿅묭뿅 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;Vibelabs&quot;&lt;
-
-### Waymont — February ‘26
-- **From**: "'Jai Bhavnani' via Investment" <investment@hashed.com>
-- **Date**: Fri, 27 Feb 2026 12:29:59 -0800
-- **ID**: `19ca0cb49e04b507`
-- **Preview**: Dear Waymont Shareholders: Below is an update for January and February. The last couple of months have been huge for Royco. The latest iteration of the protocol, Royco Dawn, has launched and is
-
-### HF0 Allocation Decision Reminder
-- **From**: "'Dan Morse' via Investment" <investment@hashed.com>
-- **Date**: Fri, 27 Feb 2026 18:42:36 +0000
-- **ID**: `19ca06930505f566`
-- **Preview**: Hi all! Thank you to everyone who has made commitments so far for Fund VI. Remember that we are targeting the decision for re-ups on March 9th. We will give allocations by March 11th. Happy to answer
-
-### Edge Capital: NEW Gold and Silver Share Classes – Access Directional Exposure to Gold and Silver with Cash Yield
-- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
-- **Date**: Fri, 27 Feb 2026 18:32:47 +0000
-- **ID**: `19ca06017b8439f5`
-- **Preview**: Dear Investors, We are happy to announce that we are launching Gold and Silver share classes in the Edge DeFi Fund, effective March 1, 2026. The Gold and Silver share classes provide directional
-
-### Don't miss out: Unlock predictive intelligence with Crunchbase Business
-- **From**: Crunchbase <support@email.crunchbase.com>
-- **Date**: Fri, 27 Feb 2026 18:00:42 +0000
-- **ID**: `19ca04298cb648ce`
-- **Preview**: Teams using Crunchbase Business have grown pipelines by millions—see what it can do for you. Hi Astin, Your free Crunchbase account is a strong start—but you&#39;re only seeing part of the picture.
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

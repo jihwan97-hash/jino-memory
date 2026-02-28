@@ -1,6 +1,6 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오전 01:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오전 07:58 KST
 
 ## Upcoming Events (1)
 
