@@ -1,6 +1,20 @@
 {
   "version": 1,
-  "updated": "2026-02-13",
+  "updated": "2026-02-28",
   "maxTopics": 30,
-  "topics": {}
+  "topics": {
+    "crypto-market": {
+      "file": "warm-memory/crypto-market.md",
+      "tokens": 62,
+      "keywords": [
+        "cryptocurrency",
+        "bitcoin",
+        "ethereum",
+        "market",
+        "news"
+      ],
+      "lastAccess": "2026-02-28",
+      "updated": "2026-02-28"
+    }
+  }
 }

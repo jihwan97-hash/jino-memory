@@ -1,8 +1,10 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 2월 28일 토요일 오후 07:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오전 01:58 KST
 
-No events scheduled for the next 1 day(s).
+## Upcoming Events (1)
+
+- **All day**: 🚗 자동차번호등록
 
 ---
 _To get fresh data, run: node /root/clawd/skills/google-calendar/scripts/sync-today.js_

@@ -1,9 +1,33 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 2월 28일 토요일 오후 07:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오전 01:58 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 6 unread)
+## Recent Emails (27 total, 7 unread)
+
+### **[NEW]** Accepted: [Placeholder] HVF Exit Strategy @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
+- **From**: Gary Rhee <gary@hashed.com>
+- **Date**: Sat, 28 Feb 2026 14:44:50 +0000
+- **ID**: `19ca4b59b2656817`
+- **Preview**: [Placeholder] HVF Exit Strategy Gary Rhee has accepted this invitation. Join with Google Meet Meeting link meet.google.com/egw-gwdi-zuv Join by phone (US) +1 513-855-2394 PIN: 736870700 More phone
+
+### **[NEW]** Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+- **From**: "이승태" <pukaworks@gmail.com>
+- **Date**: Sat, 28 Feb 2026 23:09:17 +0900
+- **ID**: `19ca49544dca2ef3`
+- **Preview**: 안녕하세요. 이번 해쉬드 바이브랩스 서울 배치 1차에 AI 커리어 에이전트 서비스(spencer.ai.kr)로 지원한 이승태입니다. 심사 결과를 겸허히 받아들이면서도, 그 이후 만들어낸 진전을 공유드리고 싶어 이렇게 메일 드립니다. 2월 21일 개발자 커뮤니티 OKKY에서 열린 바이브코딩 해커톤에서 대상을 수상하며, 이를 통해 OKKY 내 제품 홍보 기회를
+
+### **[NEW]** [GOMBLE] Claim Page Restored
+- **From**: Chris Chang <k@gomble.io>
+- **Date**: Sat, 28 Feb 2026 21:24:22 +0900
+- **ID**: `19ca4353871cbf95`
+- **Preview**: Dear Investors, We would like to inform you that the technical issue affecting the token claim page has now been resolved. Tokens that were previously unavailable for claiming can now be claimed
+
+### **[NEW]** [Hashed] Exploring your interest in connecting with NEAR Protocol team
+- **From**: Henry Key <henry@hashed.com>
+- **Date**: Sat, 28 Feb 2026 16:11:20 +0400
+- **ID**: `19ca42942c775953`
+- **Preview**: Hello Jocelyn, This is Henry from Hashed and I hope this email finds you well. First of all, thank you for joining us for Web3 Leaders Roundtable during ADFW2025 last December. I am writing this email
 
 ### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
 - **From**: "김동우" <deri58@naver.com>
@@ -142,48 +166,6 @@
 - **Date**: Fri, 27 Feb 2026 18:00:42 +0000
 - **ID**: `19ca04298cb648ce`
 - **Preview**: Teams using Crunchbase Business have grown pipelines by millions—see what it can do for you. Hi Astin, Your free Crunchbase account is a strong start—but you&#39;re only seeing part of the picture.
-
-### RE: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
-- **From**: "정인호" <inho426@naver.com>
-- **Date**: Sat, 28 Feb 2026 00:40:59 +0900
-- **ID**: `19c9fc2b6731758e`
-- **Preview**: 안녕하세요 바이브랩스 페이지에는 27일 금요일 발표라고 나와 있는데 별도 이메일 받은게 없으면 탈락인걸까요? 감사합니다 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;Vibelabs&quot;&lt;vibelabs@hashed.
-
-### Kromosom.ai Accelerator Application – 30% ROI, 1,200+ Waitlist Users
-- **From**: "'Vishwas Bhushan' via Vibelabs" <vibelabs@hashed.com>
-- **Date**: Fri, 27 Feb 2026 20:37:48 +0530
-- **ID**: `19c9fa47e06c8baa`
-- **Preview**: Hello Everyone, I&#39;m Vishwas, Co-Founder &amp; CEO at Kromosom.ai. It&#39;s an AI-Based trading terminal where we orchestrate multiple LLM models to analyze various asset types, including prediction
-
-### Upcoming Election Deadline
-- **From**: no-reply via Investment <investment@hashed.com>
-- **Date**: Fri, 27 Feb 2026 15:06:05 +0000
-- **ID**: `19c9fa2be25359fb`
-- **Preview**: Upcoming Election Deadline Round 3 for Series 81 - Distributed Protocols is currently opted in to stake the proceeds from the upcoming SOL unlock on March 07, 2026. The deadline to change your request
-
-### Re: [Hashed Vibe Labs] 지원서 접수가 완료되었습니다.
-- **From**: Heewon Oh <heewon.oh@intrect.io>
-- **Date**: Fri, 27 Feb 2026 23:53:12 +0900
-- **ID**: `19c9f97290979236`
-- **Preview**: 안녕하세요, Hashed Vibe Labs 팀께. Hashed Vibe Labs에 지원한 오희원 입니다. 공식 안내에 따르면 최종 선발팀 발표는 - Finalist Announcement: 2026.02.27(금), 본 프로그램에 참여할 3–5팀 발표 및 투자 집행 으로 공지되어 있었고, 별도로 아래와 같은 메일을 통해 - “금주 내로 검토를 마무리하고,
-
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
-- **Date**: Fri, 27 Feb 2026 23:37:24 +0900
-- **ID**: `19c9f88b1a5b52a1`
-- **Preview**: Dear Medha, First, we would like to share our understanding of the nature of this transaction. This stock purchase is being conducted as part of a corporate flip restructuring to migrate the existing
-
-### **[NEW]** Re: [Hashed Vibe Labs 지원] kachi.xyz — 온체인 트레이딩 플랫폼
-- **From**: HJ Kim <admin@kachi.xyz>
-- **Date**: Fri, 27 Feb 2026 23:21:01 +0900
-- **ID**: `19c9f79b205207ee`
-- **Preview**: 안녕하세요, 바이브랩스 채용 담당자님. 이번 바이브랩스 배치에 지원한 김현준입니다. 전형 결과 발표 일정과 관련하여 문의를 드리고자 연락드렸습니다. 기존에 안내해 주신 일정으로는 오늘이 발표일로 알고 있었으나, 혹시 내부 사정으로 일정이 변경되었는지 여쭙고 싶습니다. 혹시라도 저나 kachi.xyz에 대해 추가로 궁금하신 점이 있거나 더 필요한 자료가 있다면
-
-### **[NEW]** Thank You for the Meaningful Conversation at MoneyX
-- **From**: Simon Seojoon Kim <simon@hashed.com>
-- **Date**: Fri, 27 Feb 2026 22:09:03 +0900
-- **ID**: `19c9f380160e11cd`
-- **Preview**: Dear Chairman Kitao-san, Thank you for speaking with me at MoneyX today. It meant more than I could easily express. I have been following SBI since I entered this industry in late 2015. At a time when
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

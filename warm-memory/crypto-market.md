@@ -1,1 +1,7 @@
-BTC 하락: 5k → 3k 아래로. 고래 매도 증가, 최근 매수자들 손절 중. 추가 하락 가능성.
+# Crypto Market Auto-Study (2026-03-01)
+
+## Top Source
+- **CoinDesk**: Leading source for Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates
+
+---
+Updated: 2026-03-01 (auto-study)
