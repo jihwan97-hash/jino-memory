@@ -1,15 +1,1 @@
-## 🔴 Action Required (2026-02-28)
-
-### HF0 Fund VI Re-up Deadline
-- **Deadline:** March 9, 2026 (allocation by March 11)
-- Reply to Dan Morse (investment@hashed.com) with commitment decision
-
-### GOMBLE Token Claim
-- Claim page restored — claim pending tokens at gomble.io
-
-### Tailscale Subscription
-- Trial ended — decide: subscribe or discontinue
-
-### Upcoming Meetings
-- **Mar 3 (Tue) 11AM KST:** HVF1,2 Exit 실무 Sync (Gary Rhee, SJ Baek, Jun Kim)
-- **Mar 5 (Thu) 12PM KST:** HVF Exit Strategy (Google Meet: meet.google.com/egw-gwdi-zuv)
+## 📬 Email Alert — 2026-03-01\n- **Hashed Vibe Labs**: Loqu 팀 선발 확정! vibelabs@hashed.com에서 세부 일정 공지 대기 중\n- **Weekly Team Sync (3/2 Mon)**: edward@hashed.com이 취소 통보함\n- 나머지 이메일: 캘린더 알림 + 뉴스레터, 액션 없음
