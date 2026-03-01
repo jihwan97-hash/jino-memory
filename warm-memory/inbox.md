@@ -1,9 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 2일 월요일 오전 01:58 KST
+**Last synced**: 2026년 3월 2일 월요일 오전 07:59 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (6 total, 6 unread)
+## Recent Emails (8 total, 8 unread)
+
+### **[NEW]** 추천 페이지 - Hashed Emergent: Q4 2025
+- **From**: "'Notion Team' via Investment" <investment@hashed.com>
+- **Date**: Sun, 01 Mar 2026 22:24:58 +0000
+- **ID**: `19cab813ff7224e4`
+- **Preview**: 최신 트렌드와 추천 콘텐츠 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+
+### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+- **From**: "최경천 대표" <maximo74@naver.com>
+- **Date**: Mon, 02 Mar 2026 04:13:24 +0900
+- **ID**: `19caad1e5b7cf302`
+- **Preview**: 이번에는 인연이 아니라서 아쉽지만 진심어린 메일에 감동받고 감사함을 느낍니다. 선발된 팀들과 함께 좋은 성과 얻으셔서 이런 기회를 더 많이 만들어주시길 기원합니다. 감사합니다 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;
 
 ### **[NEW]** Canceled event: Weekly Team Sync @ Mon Mar 2, 2026 3pm - 3:30pm (GMT+9) (Astin Han)
 - **From**: Seokwon Hong <edward@hashed.com>
