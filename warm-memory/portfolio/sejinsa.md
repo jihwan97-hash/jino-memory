@@ -1,27 +1,30 @@
-# Sejinsa (세진사) - Subscription Car Wash
-Last researched: 2026-02-26
+# Sejinsa (세진사)
+Last researched: 2026-03-01
 
 ## Overview
-- **Sector:** Car Wash, Subscription Service
-- **Product:** 출장세차 (mobile car wash service)
-- **Business Model:** 아파트 방문세차 / 프리미엄 컨시어지 세차
-- **HVF Stake:** 22.1%
-- **Website:** carwashlove.com
+- Business: 구독형 출장세차 서비스
+- Tagline: "세차에 진심인 사람들, 믿을 수 있는 출장세차"
+- HVF stake: 22.1%
+- Korea-based subscription car wash service
 
-## Product & Service
-- **서비스:** 가장 가까운 세차장, 우리 아파트로 찾아오는 편리한 방문세차 서비스
-- **타겟:** 프리미엄 아파트 거주자
-- **컨셉:** 세차에 진심인 사람들
+## Recent Updates (2026 H1)
+- **송파시니어클럽과 업무협약 체결** (2주 전)
+  - 2026년 하반기 공식 사업부 런칭 예정
+  - 시니어 일자리 창출 프로그램 협력
+  - Seoul 50+ 센터와 교육 프로그램 진행 중
 
-## Market Context (2025-2026)
-- **세차 구독 시장 성장:** 도장 손상 방지, 차량 광택 유지 니즈로 월 구독제 인기 상승
-- **경쟁사 동향:** '씻자' 등 세차 월 구독제 플랫폼들이 직영/가맹점 확장 중 (20개 지점 → 연내 50호점 목표)
+## Product/Service
+- 모바일 앱 기반 출장세차 예약
+- 구독형 비즈니스 모델
+- 고객이 주차만 하면 세차 완료 (Sleep & Wake Up Clean Car)
+- Google Play Store 앱 운영 중
 
-## Status (2026)
-- Limited public information on recent funding, revenue, or expansion
-- Apartment-focused mobile car wash model
-- Subscription-based revenue stream
+## Business Model
+- 구독형 출장세차 서비스
+- 시니어 인력 활용한 일자리 창출
+- 아파트/오피스 주차장 타겟
 
-## Notes
-- Need更新 on: recent financials, expansion plans, competitive positioning
-- 22.1% stake suggests significant investor commitment
+## Status & Next Steps
+- 2026년 H2: 송파시니어클럽 협력 사업부 공식 런칭 예정
+- 시니어 일자리 + 세차 서비스 결합 모델
+- Active, 사회적 가치 + 수익성 양립 시도

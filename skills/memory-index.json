@@ -176,6 +176,105 @@
       ],
       "lastAccess": "2026-03-01",
       "updated": "2026-03-01"
+    },
+    "nurihaus": {
+      "file": "warm-memory/portfolio/nurihaus.md",
+      "tokens": 132,
+      "keywords": [
+        "nurihaus",
+        "portfolio",
+        "k-beauty",
+        "ecommerce"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "gowid": {
+      "file": "warm-memory/portfolio/gowid.md",
+      "tokens": 184,
+      "keywords": [
+        "gowid",
+        "portfolio",
+        "fintech",
+        "b2b",
+        "saas",
+        "korea"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "sejinsa": {
+      "file": "warm-memory/portfolio/sejinsa.md",
+      "tokens": 159,
+      "keywords": [
+        "sejinsa",
+        "portfolio",
+        "carwash",
+        "subscription",
+        "korea",
+        "senior"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "init-capital-infinit": {
+      "file": "warm-memory/portfolio/init-capital-infinit.md",
+      "tokens": 354,
+      "keywords": [
+        "init-capital",
+        "infinit",
+        "portfolio",
+        "defi",
+        "liquidity",
+        "crypto",
+        "hashed"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "juno-nuo-capital": {
+      "file": "warm-memory/portfolio/juno-nuo-capital.md",
+      "tokens": 407,
+      "keywords": [
+        "juno",
+        "nuo-capital",
+        "portfolio",
+        "crypto",
+        "neobank",
+        "defi",
+        "singapore"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "block-odyssey": {
+      "file": "warm-memory/portfolio/block-odyssey.md",
+      "tokens": 395,
+      "keywords": [
+        "block-odyssey",
+        "portfolio",
+        "blockchain",
+        "logistics",
+        "korea",
+        "enterprise"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "phi-labs-archway": {
+      "file": "warm-memory/portfolio/phi-labs-archway.md",
+      "tokens": 493,
+      "keywords": [
+        "phi-labs",
+        "archway",
+        "portfolio",
+        "cosmos",
+        "blockchain",
+        "developer-rewards",
+        "l1"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
     }
   }
 }

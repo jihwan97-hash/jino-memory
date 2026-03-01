@@ -1,30 +1,22 @@
-# Nurihaus (누리하우스) - K-Beauty Global Expansion
-Last researched: 2026-02-26
+# Nurihaus (누리하우스)
+Last researched: 2026-03-01
 
 ## Overview
-- **Sector:** Beauty, E-commerce, Marketing Solutions
-- **Founded:** 2020년 7월
-- **Product:** 누리라운지 (Nuri Lounge) - K-beauty brands global expansion platform
-- **CEO:** 백아람
-- **Business:** K-beauty brands overseas market expansion focus
+- K-beauty 브랜드의 글로벌 시장 진출을 위한 크로스보더 원스톱 솔루션
+- Founded: 2020, Seoul, South Korea
+- Business: K-beauty 브랜드의 해외 시장 진출 지원 (마케팅, 물류, 유통)
 
-## Recent Developments
-
-### Funding (2024)
-- **Series A:** 20억원 투자 유치 (2024년 3월)
-- Investors: Not specified in public sources
-
-### Product & Expansion
-- **누리글로우 (Nuri Glow):** One-stop platform from product marketing to sales
-- **Global Expansion:** 2024 Q2부터 누리라운지를 도쿄, 뉴욕 등 주요 거점 도시로 커뮤니티 확장 계획
-- **Focus Markets:** North America (북미 시장), Japan, key global cities
+## Recent Updates (2025-2026)
+- IR 경연 수상 (2025): 누리하우스가 K-뷰티 부문 수상
+- 크로스보더 이커머스 포지셔닝 유지
+- E-Commerce Expert Collection 포함 (CB Insights)
 
 ## Business Model
-- K-beauty brands를 글로벌 시장에 원스톱 솔루션으로 지원
-- 제품 마케팅부터 판매까지 통합 플랫폼
-- 글로벌 유통망 확대 전략
+- K-beauty 브랜드 대상 글로벌 진출 원스톱 서비스
+- 마케팅, 물류, 유통 통합 솔루션
+- Target: 해외 시장 진출 희망하는 K-beauty 스타트업/SME
 
-## Status (2026)
-- 6년차 중소기업
-- 업종: 전자상거래 소매업
-- 해외 진출 토탈 솔루션 개발 지속 투자 중
+## Status
+- Active, HVF [최우선] 포트폴리오
+- 특별한 펀딩 뉴스나 위기 신호 없음
+- K-beauty 글로벌 트렌드 수혜 기대
