@@ -1,9 +1,33 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오후 01:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오후 07:58 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (8 total, 6 unread)
+## Recent Emails (8 total, 7 unread)
+
+### **[NEW]** Canceled event: 중요 포폴 표시 @ Sun Mar 1, 2026 10am - 11am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Sun, 01 Mar 2026 06:45:07 +0000
+- **ID**: `19ca824c4db25ca3`
+- **Preview**: 중요 포폴 표시 This event has been canceled and removed from your calendar. When Sunday Mar 1, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.
+
+### **[NEW]** Canceled event: Across 반영 @ Sun Mar 1, 2026 9am - 10am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Sun, 01 Mar 2026 06:45:06 +0000
+- **ID**: `19ca824bfb242052`
+- **Preview**: Across 반영 This event has been canceled and removed from your calendar. When Sunday Mar 1, 2026 ⋅ 9am – 10am (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.
+
+### **[NEW]** Invitation: 중요 포폴 표시 @ Sun Mar 1, 2026 10am - 11am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Sun, 01 Mar 2026 06:44:39 +0000
+- **ID**: `19ca82458bb81fa3`
+- **Preview**: 중요 포폴 표시 You have been invited by Jihwan to attend an event named 중요 포폴 표시 on Sunday Mar 1, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul). When Sunday Mar 1, 2026 ⋅ 10am – 11am (Korean Standard
+
+### **[NEW]** Invitation: Across 반영 @ Sun Mar 1, 2026 9am - 10am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Sun, 01 Mar 2026 06:44:38 +0000
+- **ID**: `19ca82452bf2ecfc`
+- **Preview**: Across 반영 You have been invited by Jihwan to attend an event named Across 반영 on Sunday Mar 1, 2026 ⋅ 9am – 10am (Korean Standard Time - Seoul). When Sunday Mar 1, 2026 ⋅ 9am – 10am (Korean Standard
 
 ### **[NEW]** Accepted: [Placeholder] HVF Exit Strategy @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
 - **From**: Gary Rhee <gary@hashed.com>
@@ -28,30 +52,6 @@
 - **Date**: Sat, 28 Feb 2026 16:11:20 +0400
 - **ID**: `19ca42942c775953`
 - **Preview**: Hello Jocelyn, This is Henry from Hashed and I hope this email finds you well. First of all, thank you for joining us for Web3 Leaders Roundtable during ADFW2025 last December. I am writing this email
-
-### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: "김동우" <deri58@naver.com>
-- **Date**: Sat, 28 Feb 2026 18:29:44 +0900
-- **ID**: `19ca39531f49862b`
-- **Preview**: 좋은 말씀 감사합니다. 계속 정진하겠습니다. -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;Vibelabs&quot;&lt;vibelabs@hashed.com&gt;; Cc: Sent: 2026-02-28 (토) 09:40:24
-
-### **[NEW]** Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: "'조영호' via Vibelabs" <vibelabs@hashed.com>
-- **Date**: Sat, 28 Feb 2026 16:47:55 +0900
-- **ID**: `19ca33836e42c64a`
-- **Preview**: 안녕하세요. 미르에이아이 대표 조영호 입니다. 이렇게 마음을 담아 연락주셔서 감사합니다. 줌 발표 때, 더 보여드리지 못한 마음에 아쉬움이 많이 남은 탓에 저희 아이템에 대해 사용해보실 수 있도록 한번 더 보내드려보록 하겠습니다. 해시드라는 투자처를 이전부터 팔로잉 해왔고 함께 나아가고 싶은 마음이 커. 앞으로도 좋은 인연으로 나아갔으면 좋겠습니다. 잘 부탁
-
-### **[NEW]** Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: Ringo Kwon <admin@prismlab.dev>
-- **Date**: Sat, 28 Feb 2026 14:56:20 +0900
-- **ID**: `19ca2d1fa597884f`
-- **Preview**: 안녕하세요, 결과는 아쉽지만, 말씀하신 대로 계속 만들어가겠습니다. 지원 과정은 저희가 채워야 할 부분이 무엇인지 돌아보는 좋은 기회가 되었습니다. 앞으로 열어주신가는 퍼블릭 이벤트, 꼭 참석하겠습니다. 다음에 더 단단해진 모습으로 다시 뵐 수 있기를 바랍니다. 감사합니다. 2026년 2월 28일 (토) AM 9:40, Hashed Vibe Labs &lt;
-
-### Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: Jiseong Noh <jiseong.noh@gmail.com>
-- **Date**: Sat, 28 Feb 2026 14:21:13 +0900
-- **ID**: `19ca2b1dfe0d3c6d`
-- **Preview**: 안녕하세요 Hashed Vibe Labs 담당자님, 저희는 이번에 바이브 랩스에 지원한 산하HM Intelligence 팀입니다. 먼저, 300여 팀을 심사하시면서도 이렇게 솔직한 메일을 보내주신 것 자체가 저희에게 큰 배움이었습니다. 감사드립니다. 저희는 호텔 도메인에서 AI Revenue Intelligence를 만들고 있고, 현재 5개 호텔에서 실사용
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

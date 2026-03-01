@@ -1,9 +1,11 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오후 01:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오후 07:58 KST
 
-## Upcoming Events (1)
+## Upcoming Events (3)
 
+- **All day**: Across 반영
+- **All day**: 중요 포폴 표시
 - **All day**: 🚗 자동차번호등록
 
 ---

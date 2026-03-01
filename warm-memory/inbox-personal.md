@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오후 01:58 KST
+**Last synced**: 2026년 3월 1일 일요일 오후 07:58 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (1 total, 1 unread)
+## Recent Emails (2 total, 2 unread)
+
+### **[NEW]** Shipped in Feb: New Cryptopedia, Universal Search & more
+- **From**: Bella from Surf <bella.park@asksurf.ai>
+- **Date**: Sun, 1 Mar 2026 06:03:07 +0000
+- **ID**: `19ca7fe5298a773f`
+- **Preview**: An overview of what&#39;s new &amp; what&#39;s coming Surf Hi, I&#39;m Bella, the new Growth Strategy &amp; Customer Support Manager at Surf. I wanted to introduce myself, share what we shipped in
 
 ### **[NEW]** Agents will pay like locals, not tourists
 - **From**: a16z crypto <a16zcrypto@substack.com>
