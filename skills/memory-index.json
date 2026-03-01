@@ -275,6 +275,51 @@
       ],
       "lastAccess": "2026-03-01",
       "updated": "2026-03-01"
+    },
+    "ramper": {
+      "file": "warm-memory/portfolio/ramper.md",
+      "tokens": 425,
+      "keywords": [
+        "ramper",
+        "portfolio",
+        "web3",
+        "wallet",
+        "sdk",
+        "nft",
+        "b2b"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "dolores-park-labs-ferum": {
+      "file": "warm-memory/portfolio/dolores-park-labs-ferum.md",
+      "tokens": 426,
+      "keywords": [
+        "dolores-park-labs",
+        "ferum",
+        "portfolio",
+        "aptos",
+        "clob",
+        "defi",
+        "move"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
+    },
+    "a1-xyz-concrete": {
+      "file": "warm-memory/portfolio/a1-xyz-concrete.md",
+      "tokens": 535,
+      "keywords": [
+        "a1-xyz",
+        "concrete",
+        "portfolio",
+        "defi",
+        "credit",
+        "yield",
+        "liquidation-protection"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
     }
   }
 }
