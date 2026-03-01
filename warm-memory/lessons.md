@@ -12,3 +12,9 @@
 단체사진 촬영 공식:
 - 20명 이하 + 조명 좋음 → **(인원수 ÷ 3)** 번 찍기
 - 20명 이하 + 조명 나쁨 → **(인원수 ÷ 2)** 번 찍기
+
+## 1차 자료 직접 접근 가능한 소스 (2026-03-01)
+- SEC 공시: https://edgar.sec.gov
+- CRS 리포트: https://crsreports.congress.gov
+- 의회 증언록: https://congress.gov
+- IAEA 보고서: https://iaea.org (공개 문서)
