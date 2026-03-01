@@ -1,15 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오후 07:58 KST
+**Last synced**: 2026년 3월 2일 월요일 오전 01:58 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (1 total, 1 unread)
+## Recent Emails (2 total, 2 unread)
 
-### **[NEW]** 수락함: HVF1, 2 Exit 실무 Sync - 2026년 3월 3일 (화) AM 11시 - PM 12시 (GMT+9) (jihwan260213@gmail.com)
-- **From**: Gary Rhee <gary@hashed.com>
-- **Date**: Sat, 28 Feb 2026 14:43:57 +0000
-- **ID**: `19ca4b4cb8a27290`
-- **Preview**: HVF1, 2 Exit 실무 Sync Gary Rhee 님이 초대를 수락했습니다. 시간 2026년 3월 3일 (화요일) ⋅ AM 11시 – PM 12시 (한국 표준시 - 서울) 주최자 jihwan260213@gmail.com 참석자 Astin Han Gary Rhee SJ Baek Jun Kim 모든 참석자 정보 보기 Google Calendar에서 보낸
+### **[NEW]** 수락함: 중요 포폴 표시 - 2026년 3월 1일 (일) (jihwan260213@gmail.com)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Sun, 01 Mar 2026 16:08:32 +0000
+- **ID**: `19caa2899a909439`
+- **Preview**: 중요 포폴 표시 Astin Han 님이 초대를 수락했습니다. 시간 2026년 3월 1일 (일요일) 주최자 jihwan260213@gmail.com 참석자 Astin Han 모든 참석자 정보 보기 Google Calendar에서 보낸 초대장 캘린더 알림을 수신 허용했으므로 전송된 이메일입니다. 더 이상 이러한 이메일을 수신하지 않으려면 Calendar 설정으로
+
+### **[NEW]** 수락함: Across 반영 - 2026년 3월 1일 (일) (jihwan260213@gmail.com)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Sun, 01 Mar 2026 16:05:26 +0000
+- **ID**: `19caa25c1b9d8c6b`
+- **Preview**: Across 반영 Astin Han 님이 초대를 수락했습니다. 시간 2026년 3월 1일 (일요일) 주최자 jihwan260213@gmail.com 참석자 Astin Han 모든 참석자 정보 보기 Google Calendar에서 보낸 초대장 캘린더 알림을 수신 허용했으므로 전송된 이메일입니다. 더 이상 이러한 이메일을 수신하지 않으려면 Calendar 설정
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account jihwan_

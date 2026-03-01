@@ -1,12 +1,11 @@
-# AI News - 2026.02.28
+# AI News - 2026-03-02
 
-## OpenAI secures 10B investment
-- OpenAI raised 10B in new funding
-- 0B from SoftBank, 0B from other sources
-- Major financing round signals continued AI infrastructure expansion
+## Pentagon & OpenAI Deal
+- OpenAI announced Pentagon deal after Trump administration banned U.S. government use of Anthropic's AI products
+- Source: Latest AI news search
+- Date: 2026-03-02
 
-## Anthropic vs Defense Department
-- Anthropic rejects Defense Department AI demands
-- Signals continued ethical boundaries in military AI applications
-
-Source: Auto-study session 2026.02.28
+## Context
+- Significant shift in U.S. government AI vendor relationships
+- Anthropic products banned from government use by executive order
+- OpenAI positioning as preferred government AI partner

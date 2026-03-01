@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-02-28",
+  "updated": "2026-03-01",
   "maxTopics": 30,
   "topics": {
     "crypto-market": {
@@ -162,6 +162,20 @@
       ],
       "lastAccess": "2026-02-28",
       "updated": "2026-02-28"
+    },
+    "ai-news": {
+      "file": "warm-memory/ai-news.md",
+      "tokens": 104,
+      "keywords": [
+        "ai",
+        "openai",
+        "anthropic",
+        "pentagon",
+        "government",
+        "ban"
+      ],
+      "lastAccess": "2026-03-01",
+      "updated": "2026-03-01"
     }
   }
 }

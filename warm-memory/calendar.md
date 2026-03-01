@@ -1,12 +1,11 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 3월 1일 일요일 오후 07:58 KST
+**Last synced**: 2026년 3월 2일 월요일 오전 01:58 KST
 
-## Upcoming Events (3)
+## Upcoming Events (2)
 
-- **All day**: Across 반영
-- **All day**: 중요 포폴 표시
 - **All day**: 🚗 자동차번호등록
+- **All day**: [TODO] 선수금 입금
 
 ---
 _To get fresh data, run: node /root/clawd/skills/google-calendar/scripts/sync-today.js_
