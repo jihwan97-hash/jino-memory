@@ -1,1 +1,1 @@
-## 📬 Email Alert — 2026-03-01\n- **Hashed Vibe Labs**: Loqu 팀 선발 확정! vibelabs@hashed.com에서 세부 일정 공지 대기 중\n- **Weekly Team Sync (3/2 Mon)**: edward@hashed.com이 취소 통보함\n- 나머지 이메일: 캘린더 알림 + 뉴스레터, 액션 없음
+## 📬 2026-03-02 이메일 액션 아이템\n- **[입금요청]** 리플로우제주 견적서 - Dan Park이 포워딩. 해시드 제주 숙박 이용료 입금 처리 필요\n- **[확인]** Vibe Labs 8-Week Build Loop (3/3~4/24) 캘린더 초대 수락 여부 확인 (Dan Park)\n- **[참고]** 오늘 Weekly Team Sync (3pm KST) 취소됨 (Seokwon Hong)
