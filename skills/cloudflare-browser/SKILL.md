@@ -1,6 +1,6 @@
 ---
-name: cloudflare-browser
-description: Headless Chrome via CDP WebSocket. Requires CDP_SECRET.
+name: browser
+description: Headless Chrome via local CDP. No config needed — always available.
 ---
 
 ```bash

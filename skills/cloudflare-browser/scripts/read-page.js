@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Read a web page via headless Chrome (Cloudflare Browser Rendering)
+ * Read a web page via local headless Chrome
  *
  * Navigates to a URL, renders JavaScript, and extracts clean text.
  * Works on JS-heavy/SPA sites that plain HTTP fetch can't read.
@@ -13,7 +13,7 @@
  *   --html         Output raw HTML instead of text
  *   --wait N       Wait time in ms after navigation (default: 4000)
  *
- * Requires: CDP_SECRET, WORKER_URL environment variables
+ * Requires: Chromium running with --remote-debugging-port=9222
  */
 
 const { createClient } = require('./cdp-client');

@@ -1,11 +1,119 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 2일 월요일 오후 07:59 KST
+**Last synced**: 2026년 3월 3일 화요일 오전 02:00 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (7 total, 6 unread)
+## Recent Emails (23 total, 2 unread)
 
-### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+### Carta Alert: Login attempt from an untrusted device detected
+- **From**: no-reply via Investment <investment@hashed.com>
+- **Date**: Mon, 02 Mar 2026 16:10:45 +0000
+- **ID**: `19caf5101595ea3a`
+- **Preview**: Login attempt from an untrusted device detected We have detected a login attempt on your Carta account investment@hashed.com. Time: 03/03/2026 at 01:10:45 AM KST Location: Near Seoul, KR Public IP
+
+### Carta Alert: Login attempt from an untrusted device detected
+- **From**: no-reply via Investment <investment@hashed.com>
+- **Date**: Mon, 02 Mar 2026 16:09:40 +0000
+- **ID**: `19caf5003fed2ca7`
+- **Preview**: Login attempt from an untrusted device detected We have detected a login attempt on your Carta account investment@hashed.com. Time: 03/03/2026 at 01:09:39 AM KST Location: Near Seoul, KR Public IP
+
+### Invitation: 취등록세 @ Tue Mar 3, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 15:56:54 +0000
+- **ID**: `19caf444a987c731`
+- **Preview**: 취등록세 You have been invited by Jihwan to attend an event named 취등록세 on Tuesday Mar 3, 2026. When Tuesday Mar 3, 2026 Organizer Jihwan jihwan260213@gmail.com Guests gkswlghks118@gmail.com astin@hashed.
+
+### Invitation: Clawroid API 발급받기 @ Tue Mar 3 - Thu Mar 5, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 15:56:52 +0000
+- **ID**: `19caf4444b343c27`
+- **Preview**: Clawroid API 발급받기 You have been invited by Jihwan to attend an event named Clawroid API 발급받기 on Tuesday Mar 3 – Thursday Mar 5, 2026. When Tuesday Mar 3 – Thursday Mar 5, 2026 Organizer Jihwan
+
+### Invitation: 취등록세 @ Tue Mar 3, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 15:39:28 +0000
+- **ID**: `19caf345729c211a`
+- **Preview**: 취등록세 You have been invited by Jihwan to attend an event named 취등록세 on Tuesday Mar 3, 2026. When Tuesday Mar 3, 2026 Organizer Jihwan jihwan260213@gmail.com Guests gkswlghks118@gmail.com astin@hashed.
+
+### Invitation: clawroid API 발급받기 @ Tue Mar 3 - Thu Mar 5, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 15:39:26 +0000
+- **ID**: `19caf3455421b142`
+- **Preview**: clawroid API 발급받기 You have been invited by Jihwan to attend an event named clawroid API 발급받기 on Tuesday Mar 3 – Thursday Mar 5, 2026. When Tuesday Mar 3 – Thursday Mar 5, 2026 Organizer Jihwan
+
+### ETF flows turn positive but War risk looms over markets
+- **From**: "'Delphi Newsletter' via Investment" <investment@hashed.com>
+- **Date**: Mon, 02 Mar 2026 15:14:16 +0000
+- **ID**: `19caf1d4d354b2ed`
+- **Preview**: Week in Focus The story that defined markets this past week Bitcoin navigated a volatile week of geopolitical tensions, recovering to trade around $66k after initial sell-offs triggered by escalating
+
+### Invitation: clawroid API 발급받기 @ Tue Mar 3 - Thu Mar 5, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 15:07:25 +0000
+- **ID**: `19caf1701326c4a3`
+- **Preview**: clawroid API 발급받기 You have been invited by Jihwan to attend an event named clawroid API 발급받기 on Tuesday Mar 3 – Thursday Mar 5, 2026. When Tuesday Mar 3 – Thursday Mar 5, 2026 Organizer Jihwan
+
+### [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Mon, 2 Mar 2026 23:35:20 +0900
+- **ID**: `19caef9a15d259a1`
+- **Preview**: 안녕하세요 담당자님, 주식회사 해시드의 한지환입니다. 저희가 이번에 사용자들이 원하는 물품을 자동으로 주문할 수 있게 하는 서비스를 개발 중에 있는데, OpenAPI를 어떻게 하면 사용할 수 있을지 궁금해 이메일 드립니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177
+
+### [카카오 T 비즈니스] 관리자 가입 인증번호
+- **From**: "카카오 T 비즈니스" <noreply_biz@kakaomobility.com>
+- **Date**: Mon, 2 Mar 2026 23:17:44 +0900 (KST)
+- **ID**: `19caee9897b8d9e3`
+- **Preview**: 인증번호를 확인하세요. 안녕하세요. 카카오 T 비즈니스에 오신 것을 환영합니다. 아래 인증번호를 입력해서 회원가입을 완료해주세요. 인증번호 7241 유효기간 2026.03.03 00:17 이용 중 불편사항이나 궁금하신 사항은 운영센터(1644 - 7391)로 문의해주세요. © Kakao Mobility Corp.
+
+### Changes to Your Cloudflare Subscription
+- **From**: Cloudflare <noreply@notify.cloudflare.com>
+- **Date**: Mon, 02 Mar 2026 13:02:13 +0000
+- **ID**: `19caea46300840f3`
+- **Preview**: Hi there, We wanted to inform you that your Cloudflare Zero Trust subscription has been cancelled as of March 2. If this was intentional, no further action is required on your part. This means you will
+
+### Changes to Your Cloudflare subscription
+- **From**: Cloudflare <noreply@notify.cloudflare.com>
+- **Date**: Mon, 02 Mar 2026 12:56:28 +0000
+- **ID**: `19cae9f1cfc29589`
+- **Preview**: Hi there, We wanted to inform you that your Cloudflare Workers subscription is scheduled for cancellation on April 2. This means you will no longer benefit from processing HTTP requests to support your
+
+### Changes to Your Cloudflare subscription
+- **From**: Cloudflare <noreply@notify.cloudflare.com>
+- **Date**: Mon, 02 Mar 2026 12:55:53 +0000
+- **ID**: `19cae9e98b91261b`
+- **Preview**: Hi there, We wanted to inform you that your R2 Storage subscription is scheduled for cancellation on April 2. This means you will no longer benefit from the ability to store data with Cloudflare R2. If
+
+### Invitation: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 12:50:02 +0000
+- **ID**: `19cae99365ef1b8f`
+- **Preview**: Vibekai.com 살펴보기 You have been invited by Jihwan to attend an event named Vibekai.com 살펴보기 on Tuesday Mar 3, 2026. When Tuesday Mar 3, 2026 Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.
+
+### Canceled event: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 12am - 11:59pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 12:49:56 +0000
+- **ID**: `19cae991fe48042a`
+- **Preview**: Vibekai.com 살펴보기 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 12am – 11:59pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests
+
+### Your Cloudflare purchase confirmation
+- **From**: Cloudflare <noreply@notify.cloudflare.com>
+- **Date**: Mon, 02 Mar 2026 12:47:59 +0000
+- **ID**: `19cae975982ea06a`
+- **Preview**: Cloudflare has successfully charged $165.17 to your amex card. Cloudflare logo Cloudflare has successfully charged $165.17 to your amex card View invoice Want invoices sent over email? Just enable
+
+### Invitation: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 12am - 11:59pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 12:44:55 +0000
+- **ID**: `19cae948a77131da`
+- **Preview**: Vibekai.com 살펴보기 You have been invited by Jihwan to attend an event named Vibekai.com 살펴보기 on Tuesday Mar 3, 2026 ⋅ 12am – 11:59pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 12am – 11:
+
+### Your Cloudflare invoice is available
+- **From**: Cloudflare <noreply@notify.cloudflare.com>
+- **Date**: Mon, 02 Mar 2026 12:38:28 +0000
+- **ID**: `19cae8ea622cf648`
+- **Preview**: Invoice ID IN-58843636 is due on March 2, 2026. Thank you for using Cloudflare. Cloudflare logo Your invoice is available. Thank you for using Cloudflare. View invoice Invoice details Invoice ID: IN-
+
+### RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
 - **From**: "인생뷰티" <softkids@naver.com>
 - **Date**: Mon, 02 Mar 2026 11:28:23 +0900
 - **ID**: `19cac6024bb5f3fa`
@@ -29,23 +137,11 @@
 - **ID**: `19cab813ff7224e4`
 - **Preview**: 최신 트렌드와 추천 콘텐츠 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
 
-### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+### RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
 - **From**: "최경천 대표" <maximo74@naver.com>
 - **Date**: Mon, 02 Mar 2026 04:13:24 +0900
 - **ID**: `19caad1e5b7cf302`
 - **Preview**: 이번에는 인연이 아니라서 아쉽지만 진심어린 메일에 감동받고 감사함을 느낍니다. 선발된 팀들과 함께 좋은 성과 얻으셔서 이런 기회를 더 많이 만들어주시길 기원합니다. 감사합니다 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;
-
-### **[NEW]** Canceled event: Weekly Team Sync @ Mon Mar 2, 2026 3pm - 3:30pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Sun, 01 Mar 2026 15:50:51 +0000
-- **ID**: `19caa1869192ef2f`
-- **Preview**: Weekly Team Sync This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/bhn-obsh-vpq Join by phone (US) +1 413-338-0302 PIN: 754540652 More
-
-### **[NEW]** Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: wilsonbeam via Vibelabs <vibelabs@hashed.com>
-- **Date**: Sun, 1 Mar 2026 06:10:11 -0600
-- **ID**: `19ca94e69fb0b788`
-- **Preview**: 안녕하세요, Hashed Vibe Labs 팀. 좋은 소식 감사합니다! 참가 확정합니다. Loqu 팀 모두 정말 기대하고 있습니다. 세부 일정 안내 기다리겠습니다. 감사합니다. Wilson Beam Chief of Staff, Loqu, Inc. --- This email was reviewed and approved by Wanseob Lim, CEO of
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

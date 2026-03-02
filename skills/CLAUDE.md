@@ -29,10 +29,12 @@
 - **일정 생성 시 반드시 `--attendees astin@hashed.com` 추가.** 캘린더는 jihwan260213@gmail.com 소유지만 오너는 astin@hashed.com을 업무 캘린더로 사용함.
 - memory_search 쓰지 마라. 캘린더는 위 방법으로만 접근.
 
-## Browser (IMPORTANT)
+## Browser (IMPORTANT — 항상 사용 가능)
+- 로컬 headless Chrome이 항상 실행 중. CDP_SECRET 필요 없음.
 - 웹페이지 읽기 (JS 렌더링 포함): `exec` tool로 `node /root/clawd/skills/cloudflare-browser/scripts/read-page.js "URL" --max-chars 5000` 실행
 - 스크린샷: `exec` tool로 `node /root/clawd/skills/cloudflare-browser/scripts/screenshot.js "URL" /tmp/screenshot.png` 실행
 - **내장 browser 툴 사용하지 마라.** 페어링 오류 발생함. 반드시 위 exec 스크립트만 사용.
+- 트위터, SPA 사이트 등 JS 렌더링이 필요한 페이지도 읽을 수 있음.
 
 ## Cron Jobs (IMPORTANT — 절대 직접 실행하지 마라)
 아래 5개 크론은 OpenClaw 게이트웨이가 자동으로 관리. 서브에이전트로 직접 실행하면 pairing 에러 발생.
