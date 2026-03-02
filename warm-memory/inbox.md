@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 2일 월요일 오전 07:59 KST
+**Last synced**: 2026년 3월 2일 월요일 오후 01:59 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (8 total, 8 unread)
+## Recent Emails (11 total, 10 unread)
+
+### **[NEW]** RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+- **From**: "인생뷰티" <softkids@naver.com>
+- **Date**: Mon, 02 Mar 2026 11:28:23 +0900
+- **ID**: `19cac6024bb5f3fa`
+- **Preview**: 보내주신 메일 잘 읽어보았습니다. 수많은 지원팀 사이에서 저희의 고민과 시간을 알아주시는 따뜻한 문장들에 큰 위로와 격려를 받았습니다. 탈락의 아쉬움보다, 이런 철학을 가진 팀과 인연을 맺고 싶었다는 확신이 더 커지는 메일이었습니다. 메일에서 언급해주신 &#39;투자자의 실수&#39;와 &#39;심사의 한계&#39;에 대한 솔직한 고백을 보며 깊은 감명을
+
+### **[NEW]** Invitation: [Vibe Labs Seoul] 8-Week Build Loop @ Tue Mar 3 - Fri Apr 24, 2026 (Astin Han)
+- **From**: Dan Park <dan.park@hashed.com>
+- **Date**: Mon, 02 Mar 2026 01:37:21 +0000
+- **ID**: `19cac315d8479223`
+- **Preview**: [Vibe Labs Seoul] 8-Week Build Loop You have been invited by Dan Park to attend an event named [Vibe Labs Seoul] 8-Week Build Loop on Tuesday Mar 3 – Friday Apr 24, 2026. When Tuesday Mar 3 – Friday
+
+### Fwd: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
+- **From**: Dan Park <dan.park@hashed.com>
+- **Date**: Mon, 2 Mar 2026 10:25:37 +0900
+- **ID**: `19cac26d1400d474`
+- **Preview**: ---------- Forwarded message --------- From: 리플로우 &lt;reflow@krypton36.co&gt; Date: Fri, Feb 27, 2026 at 1:41 PM Subject: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드) To: Dan Park &lt;dan.
 
 ### **[NEW]** 추천 페이지 - Hashed Emergent: Q4 2025
 - **From**: "'Notion Team' via Investment" <investment@hashed.com>
