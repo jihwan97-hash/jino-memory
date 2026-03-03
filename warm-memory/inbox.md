@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오전 02:00 KST
+**Last synced**: 2026년 3월 3일 화요일 오전 08:00 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (23 total, 2 unread)
+## Recent Emails (24 total, 2 unread)
+
+### Invitation: [TODO] 대시보드 점검 @ Tue Mar 3, 2026 10am - 11am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 18:09:27 +0000
+- **ID**: `19cafbda691cfb97`
+- **Preview**: [TODO] 대시보드 점검 You have been invited by Jihwan to attend an event named [TODO] 대시보드 점검 on Tuesday Mar 3, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 10am – 11am (
+
+### **[NEW]** Root Access: OpenClaw, Red Hat, and Palantir
+- **From**: "'Dr. Steven Waterhouse' via Platform Team" <platform@hashed.com>
+- **Date**: Mon, 2 Mar 2026 18:09:10 +0000
+- **ID**: `19cafbd99d18fe60`
+- **Preview**: The lobsters are coming for you ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+### Invitation: [TODO] B3 업데이트 (슬랙 참고) @ Tue Mar 3, 2026 9am - 10am (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Mon, 02 Mar 2026 18:08:19 +0000
+- **ID**: `19cafbc9f5ae5a68`
+- **Preview**: [TODO] B3 업데이트 (슬랙 참고) You have been invited by Jihwan to attend an event named [TODO] B3 업데이트 (슬랙 참고) on Tuesday Mar 3, 2026 ⋅ 9am – 10am (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 9am
 
 ### Carta Alert: Login attempt from an untrusted device detected
 - **From**: no-reply via Investment <investment@hashed.com>
@@ -130,18 +148,6 @@
 - **Date**: Mon, 2 Mar 2026 10:25:37 +0900
 - **ID**: `19cac26d1400d474`
 - **Preview**: ---------- Forwarded message --------- From: 리플로우 &lt;reflow@krypton36.co&gt; Date: Fri, Feb 27, 2026 at 1:41 PM Subject: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드) To: Dan Park &lt;dan.
-
-### **[NEW]** 추천 페이지 - Hashed Emergent: Q4 2025
-- **From**: "'Notion Team' via Investment" <investment@hashed.com>
-- **Date**: Sun, 01 Mar 2026 22:24:58 +0000
-- **ID**: `19cab813ff7224e4`
-- **Preview**: 최신 트렌드와 추천 콘텐츠 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
-
-### RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: "최경천 대표" <maximo74@naver.com>
-- **Date**: Mon, 02 Mar 2026 04:13:24 +0900
-- **ID**: `19caad1e5b7cf302`
-- **Preview**: 이번에는 인연이 아니라서 아쉽지만 진심어린 메일에 감동받고 감사함을 느낍니다. 선발된 팀들과 함께 좋은 성과 얻으셔서 이런 기회를 더 많이 만들어주시길 기원합니다. 감사합니다 -----Original Message----- From: &quot;Hashed Vibe Labs&quot;&lt;vibelabs@hashed.com&gt; To: &quot;
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

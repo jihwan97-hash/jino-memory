@@ -1,45 +1,38 @@
-# Backpack (Blue Coral / Coral XYZ)
-**Last Researched:** 2026-02-25
+**Last researched:** 2026-03-02
 
-## Recent Developments (2025-2026)
+# Backpack (Blue Coral)
 
-### Major Acquisition (January 2025)
-- **FTX EU Acquisition**: Backpack Exchange acquired FTX EU (announced January 7, 2025)
-  - **Strategic Position**: Will become the **only regulated perpetual futures provider across Europe**
-  - Plans regulated crypto derivatives push across European markets
-  - CEO: Armani Ferrante (Coral)
-  - Positions Backpack for major European expansion
+## Company Overview
+- **Sector:** Crypto wallet + exchange
+- **Products:** Backpack Wallet, Backpack Exchange
+- **Related:** Mad Lads NFT collection (by same team)
+- **Target:** Unicorn valuation
 
-### Product Platform
-- **All-in-one Platform**: Wallet + Exchange + Trading features in unified interface
-- **Supported Networks**: Solana, Ethereum, Bitcoin
-- **Products**:
-  - Spot trading
-  - Futures trading
-  - Perpetual contracts
-  - Secure wallet management
-  - Lending functionalities
+## Recent Developments (2026)
 
-### Regulatory Compliance
-- Robust security measures in place
-- Considered safe for trading crypto assets (2025-2026 reviews)
-- **US Compliance**: Starting 2026, must issue Form 1099-DA to report digital asset transactions to IRS
-- EU regulatory licensing through FTX EU acquisition
+### Tokenomics & Airdrop (Jan-Feb 2026)
+- **Token Distribution Plan Announced (Feb 2026):**
+  - 25% of total supply allocated to community
+  - 240M tokens for Backpack Points program participants
+  - 1M tokens (1% of supply) reserved for Mad Lads NFT holders
+  - Design prevents "dumping on retail" via structured vesting
 
-### Technology
-- **Developer**: Coral XYZ
-- Open source: github.com/coral-xyz/backpack
-- "Next level crypto wallet" positioning
-- User-friendly interface focus
+- **No Airdrop for Mad Lads (Jan 27, 2026):**
+  - Official announcement: "No Backpack airdrop is coming, neither now nor later" to Mad Lads community
+  - Contradicts earlier expectations; community clarification made
 
-## Business Status
-- **Revenue**: W653B (from portfolio list - Trek Labs / Backpack Exchange entity)
-- **Status**: Profitable
-- **Target**: Unicorn valuation trajectory
-- Active product development and global expansion
+### Product Updates (Feb 2026)
+- **NFT Backgrounds:** Users can now use any NFT as background in Backpack Wallet and Exchange interface
+  - Supports animated NFTs
+  - Personalization feature launched in Mad News February update
 
-## Strategic Position
-- Unique position as regulated perps provider in Europe
-- Integration of wallet + exchange reduces friction
-- Strong compliance infrastructure
-- Multi-chain support (Solana, Ethereum, Bitcoin)
+### Historical Context
+- **Exchange Beta (Nov 2023):** Private beta for Backpack + Mad Lads community in Dubai
+- **Positioning:** Solana-native exchange and wallet ecosystem
+
+## HVF Portfolio Notes
+- Tagged: [최우선] Priority - Unicorn target
+- **Action Required:** Clarify token allocation to HVF/investors vs. community
+- Airdrop confusion in January needs monitoring for community sentiment impact
+- Strong product execution (NFT backgrounds, tokenomics structure)
+- Watch for official token launch date and exchange growth metrics

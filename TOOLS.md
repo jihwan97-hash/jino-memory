@@ -18,10 +18,8 @@ node /root/clawd/skills/google-calendar/scripts/calendar.js create --title "제�
 - API: UTC 입력/출력
 - Display: Asia/Seoul (KST = UTC+9)
 
-## Browser
+## Browser (항상 사용 가능 — 설정 필요 없음)
 
-- **CDP URL:** `wss://jinobot-sandbox.astin-43b.workers.dev/cdp`
-- **Secret:** `CDP_SECRET` 환경 변수
 - Screenshot: `node skills/cloudflare-browser/scripts/screenshot.js <URL> <output>`
 - Read page: `node skills/cloudflare-browser/scripts/read-page.js <URL>`
 

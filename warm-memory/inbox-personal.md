@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오전 02:00 KST
+**Last synced**: 2026년 3월 3일 화요일 오전 08:00 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (10 total, 3 unread)
+## Recent Emails (11 total, 4 unread)
+
+### **[NEW]** New in Copilot Pro: Planning and subagents in the CLI, Agent Skills, and more
+- **From**: GitHub <no-reply@github.com>
+- **Date**: Mon, 02 Mar 2026 22:30:32 +0000 (UTC)
+- **ID**: `19cb0acb0227fcab`
+- **Preview**: Recent Copilot updates that change how real work gets done. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ GitHub GitHub Below are some recent updates around planning, delegation, subagents, Agent Skills, and
 
 ### **[NEW]** 초대장: 취등록세 - 2026년 3월 3일 (화) (gkswlghks118@gmail.com)
 - **From**: Jihwan <jihwan260213@gmail.com>

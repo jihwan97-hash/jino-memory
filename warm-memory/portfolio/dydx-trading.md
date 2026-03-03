@@ -1,26 +1,31 @@
-# dYdX Trading - DeFi Derivatives
-Last researched: 2026-02-26
+**Last researched:** 2026-03-02
 
-## Overview
-- **Sector:** DeFi, Derivatives Trading
-- **Product:** Decentralized perpetual futures exchange
-- **Token:** DYDX (governance token on independent chain)
-- **Backers:** a16z, Polychain, Paradigm
+# dYdX Trading (DYdX Protocol)
+
+## Company Overview
+- **Sector:** DeFi / Decentralized derivatives exchange
+- **Token:** $DYDX (v4 chain)
+- **Business:** Perpetual futures trading on decentralized infrastructure
 
 ## Recent Developments (2026)
 
-### Product Updates
-- **Real-World Asset Perpetuals (2026):** Introduced perpetual futures for synthetic equities like Tesla, bridging DeFi and traditional markets
-- **Stake-for-Reduced Fees Initiative (2026):** Links trading fee discounts to DYDX staking, directly aligning token holding with user savings
-- **Affiliate Booster Program:** 10,000 reward pool combining proportional rewards with milestone-based bonuses
+### 2026 Roadmap Highlights
+- **Real-World Assets (RWAs):** Developing perpetual futures markets for synthetic equities (e.g., Tesla) as part of 2026 expansion
+- **Affiliate Booster Program:** New initiative recognizing affiliate partners driving trading activity to the protocol (launched after Q1 2026 program ended)
+- **Institutional focus:** Protocol emphasizes performance and institutional-grade innovation
+
+### Q4 2025 / Early 2026 Updates
+- **Analyst Call (Sept 2025):** dYdX Foundation + 21Shares presented protocol performance, new institutional channel, product roadmap through 2026
+- **Token Economics Updates:** Changes announced to better align incentives between traders, stakers, and protocol
+- **Global Distribution Partnerships:** Expanding reach through strategic partnerships
+- **Maturing Governance Model:** Continued decentralization efforts
 
 ### Market Position
-- Occupies the decentralized derivatives niche
-- Order book-based execution (vs pool-based liquidity)
-- Competitive fee structure: 0.02% maker, 0.055% taker fees
-- Self-custody focus with repeated trading optimization
+- Positioned for continued growth entering 2026
+- Focus on fast, fair, and open decentralized trading
+- Mission: Make DeFi trading competitive with centralized alternatives
 
-## Strategic Focus
-- Expanding into synthetic equity markets
-- Strengthening token utility through fee discounts
-- Building affiliate/partnership ecosystem
+## HVF Portfolio Notes
+- Tagged: [최우선] Priority
+- Token exit strategy; monitor RWA product launch and institutional adoption
+- Strong roadmap execution into 2026 with clear product differentiation (RWAs)

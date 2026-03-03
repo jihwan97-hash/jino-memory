@@ -15,6 +15,85 @@
       ],
       "lastAccess": "2026-03-02",
       "updated": "2026-03-02"
+    },
+    "lessons": {
+      "file": "warm-memory/lessons.md",
+      "tokens": 50,
+      "keywords": [
+        "browser",
+        "CDP_SECRET",
+        "lesson"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
+    },
+    "nurihaus": {
+      "file": "warm-memory/portfolio/nurihaus.md",
+      "tokens": 262,
+      "keywords": [
+        "Nurihaus",
+        "누리하우스",
+        "portfolio",
+        "community-commerce",
+        "Korea"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
+    },
+    "dydx-trading": {
+      "file": "warm-memory/portfolio/dydx-trading.md",
+      "tokens": 385,
+      "keywords": [
+        "dydx",
+        "DeFi",
+        "derivatives",
+        "blockchain",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
+    },
+    "dune-analytics": {
+      "file": "warm-memory/portfolio/dune-analytics.md",
+      "tokens": 322,
+      "keywords": [
+        "Dune",
+        "analytics",
+        "blockchain",
+        "data",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
+    },
+    "backpack": {
+      "file": "warm-memory/portfolio/backpack.md",
+      "tokens": 397,
+      "keywords": [
+        "Backpack",
+        "Blue-Coral",
+        "crypto",
+        "wallet",
+        "exchange",
+        "Solana",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
+    },
+    "gowid": {
+      "file": "warm-memory/portfolio/gowid.md",
+      "tokens": 360,
+      "keywords": [
+        "Gowid",
+        "고위드",
+        "B2B",
+        "fintech",
+        "Korea",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-02",
+      "updated": "2026-03-02"
     }
   }
 }

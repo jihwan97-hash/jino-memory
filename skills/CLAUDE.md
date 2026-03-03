@@ -30,7 +30,7 @@
 - memory_search 쓰지 마라. 캘린더는 위 방법으로만 접근.
 
 ## Browser (IMPORTANT — 항상 사용 가능)
-- 로컬 headless Chrome이 항상 실행 중. CDP_SECRET 필요 없음.
+- 로컬 headless Chrome이 항상 실행 중. 
 - 웹페이지 읽기 (JS 렌더링 포함): `exec` tool로 `node /root/clawd/skills/cloudflare-browser/scripts/read-page.js "URL" --max-chars 5000` 실행
 - 스크린샷: `exec` tool로 `node /root/clawd/skills/cloudflare-browser/scripts/screenshot.js "URL" /tmp/screenshot.png` 실행
 - **내장 browser 툴 사용하지 마라.** 페어링 오류 발생함. 반드시 위 exec 스크립트만 사용.

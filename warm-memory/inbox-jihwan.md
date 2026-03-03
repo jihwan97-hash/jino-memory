@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오전 02:00 KST
+**Last synced**: 2026년 3월 3일 화요일 오전 08:00 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (5 total, 5 unread)
+## Recent Emails (6 total, 6 unread)
+
+### **[NEW]** 수락함: [TODO] B3 업데이트 (슬랙 참고) - 2026년 3월 3일 (화) AM 9시 - AM 10시 (GMT+9) (jihwan260213@gmail.com)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Mon, 02 Mar 2026 18:08:39 +0000
+- **ID**: `19cafbceb5b76852`
+- **Preview**: [TODO] B3 업데이트 (슬랙 참고) Astin Han 님이 초대를 수락했습니다. 시간 2026년 3월 3일 (화요일) ⋅ AM 9시 – AM 10시 (한국 표준시 - 서울) 주최자 jihwan260213@gmail.com 참석자 Astin Han 모든 참석자 정보 보기 Google Calendar에서 보낸 초대장 캘린더 알림을 수신 허용했으므로 전송된
 
 ### **[NEW]** 거절함: 취등록세 - 2026년 3월 3일 (화) (jihwan260213@gmail.com)
 - **From**: Astin Han <astin@hashed.com>

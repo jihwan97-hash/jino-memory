@@ -1,54 +1,35 @@
+**Last researched:** 2026-03-02
+
 # Dune Analytics
-**Last Researched:** 2026-02-25
 
-## Recent Developments (2025-2026)
+## Company Overview
+- **Sector:** Blockchain data analytics
+- **Business:** SQL-based blockchain data platform; onchain data visualization and querying across 100+ blockchains
+- **Location:** Global
 
-### Major Product Launches (2024-2025)
+## Recent Developments (2026)
 
-1. **smlXL Acquisition** (Nov 2024)
-   - Acquired smlXL to strengthen real-time blockchain data capabilities
-   - Enhanced multichain real-time processing
+### Product Launches
+- **Stablecoin Datasets (Feb 2026):** New ready-to-use dataset consolidating stablecoin data from multiple blockchains:
+  - EVM-compatible chains
+  - Solana
+  - Tron
+- Eliminates need for manual cross-chain data aggregation
 
-2. **Echo Platform Launch** (Nov 2024)
-   - New multichain real-time developer platform
-   - Focus on real-time data streaming and APIs
+### Platform Features
+- **Direct raw blockchain data access** via SQL interface
+- Custom queries and visualizations without relying on predefined metrics
+- **APIs & DataShare:** Stream data programmatically
+- Interactive dashboards published across 100+ blockchains
+- Millions of users building and learning from onchain data
 
-3. **dbt Connector Launch** (Nov 2025)
-   - Announced at DuneCon 2025
-   - Enables teams to use Dune as crypto data warehouse
-   - Full blockchain data pipeline capabilities without infrastructure management
-   - Integration with modern data stack
+### Market Position
+- Industry-standard tool for blockchain analytics
+- Used by researchers, traders, protocols, and institutions
+- Free tier available; enterprise-grade APIs for developers
 
-4. **Snowflake Partnership** (2024)
-   - Partnership with cloud data warehouse Snowflake
-   - Making curated blockchain data available to Snowflake clients
-   - Expands enterprise accessibility
-
-### Platform Capabilities
-- **Coverage**: 100+ blockchains supported
-- **Interface**: SQL-based query engine for direct blockchain data access
-- **Features**:
-  - Real-time data streaming via APIs & DataShare
-  - Interactive dashboard publishing
-  - Custom queries and visualizations
-  - Community-driven analytics (millions of users)
-- **Scale**: Processing billions of blockchain events daily
-
-### Market Data Insights (2025)
-- Platform tracks major market trends:
-  - Stablecoin market expansion: ~$200B → $305B in 2025
-  - Key on-chain signals for crypto trading
-  - DeFi protocol analytics
-
-## Business Status
-- **Valuation**: Unicorn status (achieved 3 years after launch)
-- **Positioning**: "Leading on-chain data platform"
-- Free portal model with premium/enterprise tiers
-- Active product development and partnership expansion
-
-## Strategic Position
-- Market leader in blockchain analytics
-- Strong network effects from community contributions
-- Enterprise partnerships (Snowflake) expanding B2B opportunity
-- Real-time capabilities differentiate from competitors
-- Essential infrastructure for crypto industry
+## HVF Portfolio Notes
+- Tagged: [최우선] Priority
+- Strong product-market fit; continuous product innovation
+- Monitor for next funding round or strategic partnerships
+- Stablecoin dataset launch shows responsiveness to market needs (Feb 2026)
