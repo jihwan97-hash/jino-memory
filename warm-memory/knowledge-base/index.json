@@ -43,11 +43,876 @@
       "savedAt": "2026-03-03",
       "tier": "short-term",
       "summary": "OpenAI 폭발 성장 + 트럼프 관세 위헌 + 중간선거 현금살포 → 미국 유동성이 AI 인프라→한국 반도체로 유입 시나리오"
+    },
+    {
+      "id": "kb-010",
+      "title": "A1 XYZ / Concrete Protocol",
+      "file": "short-term/2026-03-03_portfolio_a1-xyz-concrete.md",
+      "tags": [
+        "포트폴리오",
+        "DeFi",
+        "크립토",
+        "온체인크레딧",
+        "수익집계",
+        "TGE",
+        "블록체인인프라"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/a1-xyz-concrete.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "DeFi 온체인 신용 인프라 — 청산 보호 + 자동 수익 최적화, TGE 앞두고 포인트 캠페인 진행 중"
+    },
+    {
+      "id": "kb-011",
+      "title": "Ad-Shield (애드쉴드)",
+      "file": "short-term/2026-03-03_portfolio_ad-shield.md",
+      "tags": [
+        "포트폴리오",
+        "애드테크",
+        "광고차단복구",
+        "퍼블리셔",
+        "SaaS",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/ad-shield.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "광고 차단 사용자로부터 퍼블리셔 광고 수익을 복구하는 세계 최고 수준의 Adblock Recovery 기술 회사"
+    },
+    {
+      "id": "kb-012",
+      "title": "Matonee / Aptos (APT)",
+      "file": "short-term/2026-03-03_portfolio_aptos.md",
+      "tags": [
+        "포트폴리오",
+        "크립토",
+        "Layer1",
+        "Aptos",
+        "Move",
+        "DeFi",
+        "블록체인"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/aptos.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Move 기반 고성능 Layer 1 블록체인으로 2026년 2월 디플레이션 토크노믹스 개편 + CLOB 출시 예정으로 21% 급등"
+    },
+    {
+      "id": "kb-013",
+      "title": "Atommerce / Mindcafe (아토머스 / 마인드카페)",
+      "file": "short-term/2026-03-03_portfolio_atommerce-mindcafe.md",
+      "tags": [
+        "포트폴리오",
+        "디지털헬스",
+        "멘탈헬스케어",
+        "디지털치료제",
+        "DTx",
+        "한국스타트업",
+        "헬스테크"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/atommerce-mindcafe.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 1위 멘탈헬스 플랫폼 마인드카페 운영사로, 우울증 디지털치료제 식약처 허가 진행 중"
+    },
+    {
+      "id": "kb-014",
+      "title": "Backpack (Blue Coral)",
+      "file": "short-term/2026-03-03_portfolio_backpack.md",
+      "tags": [
+        "포트폴리오",
+        "크립토",
+        "거래소",
+        "지갑",
+        "Solana",
+        "NFT",
+        "토큰런칭",
+        "유니콘"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/backpack.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Solana 네이티브 크립토 지갑+거래소로 유니콘 목표, 2026년 2월 토큰 배분 구조 공개"
+    },
+    {
+      "id": "kb-015",
+      "title": "Block Odyssey (블록오디세이)",
+      "file": "short-term/2026-03-03_portfolio_block-odyssey.md",
+      "tags": [
+        "포트폴리오",
+        "엔터프라이즈블록체인",
+        "물류",
+        "공급망",
+        "위조방지",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/block-odyssey.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "블록체인 기반 물류 플랫폼 및 엔터프라이즈 블록체인 서비스 제공 회사로 2022년 Series A 완료"
+    },
+    {
+      "id": "kb-016",
+      "title": "Borderless (Stockal)",
+      "file": "short-term/2026-03-03_portfolio_borderless-stockal.md",
+      "tags": [
+        "포트폴리오",
+        "핀테크",
+        "크로스보더투자",
+        "신흥시장",
+        "해외주식",
+        "런웨이주의"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/borderless-stockal.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "신흥시장 사용자가 미국 주식에 투자할 수 있는 크로스보더 투자 플랫폼, 런웨이 4개월 주의 요망"
+    },
+    {
+      "id": "kb-017",
+      "title": "CodeStates (코드스테이츠)",
+      "file": "short-term/2026-03-03_portfolio_codestates.md",
+      "tags": [
+        "포트폴리오",
+        "에드테크",
+        "기업교육",
+        "B2B",
+        "AI교육",
+        "코딩부트캠프",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/codestates.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 최초 코딩 부트캠프에서 B2B 기업 디지털 전환 교육 전문 회사로 성공적 피벗"
+    },
+    {
+      "id": "kb-018",
+      "title": "Comento (코멘토)",
+      "file": "short-term/2026-03-03_portfolio_comento.md",
+      "tags": [
+        "포트폴리오",
+        "에드테크",
+        "커리어플랫폼",
+        "멘토링",
+        "한국스타트업",
+        "취업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/comento.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "현직자 멘토링 + 라이브 실무 교육 중심의 커리어 커뮤니티 플랫폼, 정부 사업 수주 및 B2G 성장 중"
+    },
+    {
+      "id": "kb-019",
+      "title": "Community Gaming",
+      "file": "short-term/2026-03-03_portfolio_community-gaming.md",
+      "tags": [
+        "포트폴리오",
+        "이스포츠",
+        "게임",
+        "토너먼트",
+        "런웨이긴급"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/community-gaming.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "자동화 이스포츠 토너먼트 플랫폼이나 런웨이 1개월로 긴급 조치 필요"
+    },
+    {
+      "id": "kb-020",
+      "title": "Contextsio / Aimo",
+      "file": "short-term/2026-03-03_portfolio_contextsio-aimo.md",
+      "tags": [
+        "포트폴리오",
+        "AI에이전트",
+        "정보부족"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/contextsio-aimo.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "AI 에이전트 플랫폼으로 알려진 HVF 포트폴리오 기업이나 공개 정보 부재로 현황 불명"
+    },
+    {
+      "id": "kb-021",
+      "title": "CryptoQuant (팀블랙버드)",
+      "file": "short-term/2026-03-03_portfolio_cryptoquant.md",
+      "tags": [
+        "포트폴리오",
+        "크립토애널리틱스",
+        "온체인분석",
+        "블록체인데이터",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/cryptoquant.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 대표 블록체인 온체인 분석 플랫폼으로, 비트코인 사이클 전망 등 시장 분석 신뢰도가 높음"
+    },
+    {
+      "id": "kb-022",
+      "title": "Delivus (딜리버스)",
+      "file": "short-term/2026-03-03_portfolio_delivus.md",
+      "tags": [
+        "포트폴리오",
+        "물류",
+        "AI로지스틱스",
+        "당일배송",
+        "런웨이긴급",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/delivus.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "AI 최적화 기반 당일 배송 서비스(딜리래빗) 운영사, 런웨이 2개월로 긴급 대응 필요"
+    },
+    {
+      "id": "kb-023",
+      "title": "Dfns",
+      "file": "short-term/2026-03-03_portfolio_dfns.md",
+      "tags": [
+        "포트폴리오",
+        "크립토커스터디",
+        "기관투자",
+        "API",
+        "월렛인프라",
+        "IBM파트너십"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/dfns.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "기관급 디지털 자산 커스터디 API 플랫폼, IBM과 파트너십으로 IBM Digital Asset Haven 구축 중"
+    },
+    {
+      "id": "kb-024",
+      "title": "DG Ventures",
+      "file": "short-term/2026-03-03_portfolio_dg-ventures.md",
+      "tags": [
+        "포트폴리오",
+        "벤처캐피탈",
+        "블록체인",
+        "FinTech",
+        "AI",
+        "런웨이주의"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/dg-ventures.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "탈중앙화 기술 중심 벤처캐피탈 펀드로 AI/블록체인 교차점 투자, 런웨이 3개월 긴급 상황"
+    },
+    {
+      "id": "kb-025",
+      "title": "Doeat (두잇)",
+      "file": "short-term/2026-03-03_portfolio_doeat.md",
+      "tags": [
+        "포트폴리오",
+        "배달",
+        "무료배달앱",
+        "한국",
+        "Series A",
+        "음식테크"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/doeat.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 최초 무료 배달 앱으로 관악구 중심 운영 중, Goodwater 주도 Series A 조달"
+    },
+    {
+      "id": "kb-026",
+      "title": "Dolores Park Labs / Ferum",
+      "file": "short-term/2026-03-03_portfolio_dolores-park-labs-ferum.md",
+      "tags": [
+        "포트폴리오",
+        "DeFi",
+        "CLOB",
+        "Aptos",
+        "Move",
+        "블록체인인프라"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/dolores-park-labs-ferum.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Aptos 블록체인 위에 구축된 자산 불가지론적 온체인 CLOB(Central Limit Order Book) DeFi 인프라"
+    },
+    {
+      "id": "kb-027",
+      "title": "DrNow (닥터나우)",
+      "file": "short-term/2026-03-03_portfolio_drnow.md",
+      "tags": [
+        "포트폴리오",
+        "원격진료",
+        "헬스테크",
+        "비대면진료",
+        "한국",
+        "Series B"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/drnow.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 비대면 진료 1위 앱, 560만 사용자 보유, Series B 4000억원 목표"
+    },
+    {
+      "id": "kb-028",
+      "title": "Dune Analytics",
+      "file": "short-term/2026-03-03_portfolio_dune-analytics.md",
+      "tags": [
+        "포트폴리오",
+        "블록체인애널리틱스",
+        "온체인데이터",
+        "SQL",
+        "크립토",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/dune-analytics.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "100개 이상 블록체인 SQL 기반 온체인 데이터 분석 플랫폼, 2026년 2월 스테이블코인 데이터셋 출시"
+    },
+    {
+      "id": "kb-029",
+      "title": "dYdX Trading (dYdX Protocol)",
+      "file": "short-term/2026-03-03_portfolio_dydx-trading.md",
+      "tags": [
+        "포트폴리오",
+        "DeFi",
+        "탈중앙화거래소",
+        "무기한선물",
+        "크립토",
+        "RWA",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/dydx-trading.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "탈중앙화 무기한선물 거래 프로토콜로 2026년 RWA 합성 주식 선물 및 기관 채널 확대 추진"
+    },
+    {
+      "id": "kb-030",
+      "title": "Fitogether (핏투게더)",
+      "file": "short-term/2026-03-03_portfolio_fitogether.md",
+      "tags": [
+        "포트폴리오",
+        "스포츠테크",
+        "GPS추적",
+        "FIFA",
+        "웨어러블",
+        "스포츠AI"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/fitogether.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "KineticSense™ GPS 선수 추적 시스템으로 FIFA 공인 유일 GNSS 추적 솔루션 보유"
+    },
+    {
+      "id": "kb-031",
+      "title": "Flexity (플렉시티) / Edit Collective",
+      "file": "short-term/2026-03-03_portfolio_flexity.md",
+      "tags": [
+        "포트폴리오",
+        "AI건축설계",
+        "PropTech",
+        "부동산",
+        "SaaS",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/flexity.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "AI 자동 건축 기획설계 서비스로 토지 선택 시 3D 설계안과 사업성 분석을 즉시 제공"
+    },
+    {
+      "id": "kb-032",
+      "title": "Fusion Point Studios",
+      "file": "short-term/2026-03-03_portfolio_fusion-point-studios.md",
+      "tags": [
+        "포트폴리오",
+        "게임",
+        "FPS",
+        "런웨이긴급",
+        "스텔스"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/fusion-point-studios.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "FPS 게임 Shoot City 개발사, 런웨이 1개월로 존폐 위기 — 정체성 확인 및 즉각 조치 필요"
+    },
+    {
+      "id": "kb-033",
+      "title": "Gowid (고위드)",
+      "file": "short-term/2026-03-03_portfolio_gowid.md",
+      "tags": [
+        "포트폴리오",
+        "B2B핀테크",
+        "법인카드",
+        "기업금융",
+        "SaaS",
+        "한국스타트업",
+        "최우선",
+        "IPO"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/gowid.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "실시간 데이터 기반 고성장 기업 대상 법인카드 + 기업금융 B2B 핀테크, 네이버페이 연동 및 IPO 목표"
+    },
+    {
+      "id": "kb-034",
+      "title": "GreenLabs (그린랩스)",
+      "file": "short-term/2026-03-03_portfolio_greenlabs.md",
+      "tags": [
+        "포트폴리오",
+        "애그테크",
+        "농업",
+        "팜모닝",
+        "데이터",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/greenlabs.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "팜모닝 플랫폼을 통해 14억 농부의 데이터 기반 영농을 지원하는 한국 애그테크 선도 기업"
+    },
+    {
+      "id": "kb-035",
+      "title": "Halliday International",
+      "file": "short-term/2026-03-03_portfolio_halliday.md",
+      "tags": [
+        "포트폴리오",
+        "Web3인프라",
+        "AI에이전트",
+        "크로스체인",
+        "a16z",
+        "에이전트경제"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/halliday.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "AI 에이전트의 Web3 스마트 컨트랙트 호출을 신뢰성 있게 처리하는 Workflow Protocol 제공, a16z 주도 Series A 10M"
+    },
+    {
+      "id": "kb-036",
+      "title": "Hyperithm",
+      "file": "short-term/2026-03-03_portfolio_hyperithm.md",
+      "tags": [
+        "포트폴리오",
+        "크립토자산운용",
+        "HFT",
+        "기관투자",
+        "일본",
+        "한국",
+        "퀀트"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/hyperithm.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "일본+한국 듀얼 헤드쿼터 기반 기관급 디지털 자산 운용사로 HFT, 브로커리지, 벤처 3개 사업 라인 운영"
+    },
+    {
+      "id": "kb-037",
+      "title": "Init Capital / INFINIT",
+      "file": "short-term/2026-03-03_portfolio_init-capital-infinit.md",
+      "tags": [
+        "포트폴리오",
+        "DeFi",
+        "유동성인프라",
+        "INFINIT",
+        "토큰",
+        "Hashed투자"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/init-capital-infinit.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "DeFi 유동성 분산 문제를 해결하는 Liquidity Hooks + INFINIT 에이전틱 DeFi 플랫폼, 2026.01 IN 토큰 거래 시작"
+    },
+    {
+      "id": "kb-038",
+      "title": "JEJEMEME (제제미미)",
+      "file": "short-term/2026-03-03_portfolio_jejememe.md",
+      "tags": [
+        "포트폴리오",
+        "육아플랫폼",
+        "에드테크",
+        "한국스타트업",
+        "일본진출",
+        "AI육아"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/jejememe.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 1위 육아 성장기록 플랫폼으로 일본 시장 진출 및 AI 육아 서비스 강화 추진"
+    },
+    {
+      "id": "kb-039",
+      "title": "Juno / Nuo Capital",
+      "file": "short-term/2026-03-03_portfolio_juno-nuo-capital.md",
+      "tags": [
+        "포트폴리오",
+        "크립토뱅킹",
+        "네오뱅크",
+        "Web3",
+        "DeFi",
+        "Hashed투자"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/juno-nuo-capital.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "크립토 네이티브 네오뱅크로 미 국채 자동투자 + 20개 이상 블록체인 크립토 계정을 결합한 규정 준수 플랫폼"
+    },
+    {
+      "id": "kb-040",
+      "title": "Kite AI (구 Zettablock)",
+      "file": "short-term/2026-03-03_portfolio_kite-ai.md",
+      "tags": [
+        "포트폴리오",
+        "AI에이전트",
+        "블록체인결제",
+        "신원인증",
+        "PayPal벤처스",
+        "GeneralCatalyst"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/kite-ai.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "AI 에이전트 신원 인증 및 결제 인프라 \"Kite AIR\" 제공, PayPal Ventures + General Catalyst 주도 Series A 18M"
+    },
+    {
+      "id": "kb-041",
+      "title": "LOVO",
+      "file": "short-term/2026-03-03_portfolio_lovo.md",
+      "tags": [
+        "포트폴리오",
+        "AI보이스",
+        "TTS",
+        "음성합성",
+        "콘텐츠",
+        "SaaS"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/lovo.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "100개 언어 500개 이상 음성 AI 보이스 생성 및 텍스트-투-스피치 플랫폼"
+    },
+    {
+      "id": "kb-042",
+      "title": "Merge Holdings",
+      "file": "short-term/2026-03-03_portfolio_merge-holdings.md",
+      "tags": [
+        "포트폴리오",
+        "블록체인결제",
+        "EMI",
+        "VASP",
+        "EU규제",
+        "스테이블코인",
+        "크로스보더결제"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/merge-holdings.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "EU EMI 라이선스 + VASP 승인 취득으로 법정화폐+스테이블코인 이중 결제 인프라를 합법적으로 운영"
+    },
+    {
+      "id": "kb-043",
+      "title": "Mythical Inc.",
+      "file": "short-term/2026-03-03_portfolio_mythical-inc.md",
+      "tags": [
+        "포트폴리오",
+        "블록체인게임",
+        "NFT",
+        "MYTH토큰",
+        "MythosChain",
+        "게임플랫폼"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/mythical-inc.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "블록체인 게임 인프라 플랫폼 Mythical Platform과 Mythos Chain을 통해 게임 내 자산 진정한 소유권 제공"
+    },
+    {
+      "id": "kb-044",
+      "title": "Nurihaus (누리하우스)",
+      "file": "short-term/2026-03-03_portfolio_nurihaus.md",
+      "tags": [
+        "포트폴리오",
+        "커뮤니티커머스",
+        "인플루언서",
+        "K뷰티",
+        "한국브랜드",
+        "해외진출",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/nurihaus.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 인플루언서 기반 커뮤니티 커머스 플랫폼으로 K브랜드의 해외 시장 진출을 지원"
+    },
+    {
+      "id": "kb-045",
+      "title": "Overworld",
+      "file": "short-term/2026-03-03_portfolio_overworld.md",
+      "tags": [
+        "포트폴리오",
+        "게임",
+        "ARPG",
+        "크로스플랫폼",
+        "멀티플레이어",
+        "시드라운드"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/overworld.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "크로스플랫폼 멀티플레이어 ARPG로 Hashed 등 주도 시드 10M 조달, 2024년 이후 개발 중"
+    },
+    {
+      "id": "kb-046",
+      "title": "Payhere (페이히어)",
+      "file": "short-term/2026-03-03_portfolio_payhere.md",
+      "tags": [
+        "포트폴리오",
+        "POS",
+        "클라우드POS",
+        "소상공인",
+        "핀테크",
+        "한국스타트업",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/payhere.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "82,000개 이상 가맹점을 보유한 한국 1위 누적 판매 올인원 클라우드 POS 플랫폼"
+    },
+    {
+      "id": "kb-047",
+      "title": "Phi Labs / Archway",
+      "file": "short-term/2026-03-03_portfolio_phi-labs-archway.md",
+      "tags": [
+        "포트폴리오",
+        "Layer1",
+        "Cosmos",
+        "개발자보상",
+        "블록체인인프라",
+        "Hashed투자"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/phi-labs-archway.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Cosmos 기반 Layer 1으로 개발자가 자신이 만든 dApp 거래 수수료와 인플레이션 보상을 직접 받는 Developer Rewards Protocol"
+    },
+    {
+      "id": "kb-048",
+      "title": "PortOne (구 Chai)",
+      "file": "short-term/2026-03-03_portfolio_portone.md",
+      "tags": [
+        "포트폴리오",
+        "결제인프라",
+        "아시아결제",
+        "API결제",
+        "Terraform창업자",
+        "다운라운드"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/portone.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "아시아 전역 API 기반 통합 결제 인프라 플랫폼, 최근 다운라운드와 테라폼랩스 창업자 연관 이슈 주목"
+    },
+    {
+      "id": "kb-049",
+      "title": "RadiusXYZ",
+      "file": "short-term/2026-03-03_portfolio_radiusxyz.md",
+      "tags": [
+        "포트폴리오",
+        "Ethereum",
+        "L2",
+        "시퀀서",
+        "롤업",
+        "MEV방지",
+        "블록체인인프라"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/radiusxyz.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Ethereum 롤업을 위한 탈중앙화 공유 시퀀서 레이어 — PVDE 기술로 MEV, 검열, 프런트러닝 방지"
+    },
+    {
+      "id": "kb-050",
+      "title": "Ramper",
+      "file": "short-term/2026-03-03_portfolio_ramper.md",
+      "tags": [
+        "포트폴리오",
+        "Web3온보딩",
+        "지갑SDK",
+        "NFT결제",
+        "B2B인프라"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/ramper.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Web3 사용자 온보딩 마찰을 제거하는 B2B 지갑 SDK + NFT 체크아웃 인프라 제공사"
+    },
+    {
+      "id": "kb-051",
+      "title": "Republic (Opendeal Inc.)",
+      "file": "short-term/2026-03-03_portfolio_republic.md",
+      "tags": [
+        "포트폴리오",
+        "크라우드펀딩",
+        "대체투자",
+        "RWA",
+        "크립토",
+        "IPO파이프라인"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/republic.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "소액 투자자 대상 크라우드펀딩 + 기관 프라이빗 캐피탈 + 블록체인 토큰화 인프라를 운영하는 복합 투자 플랫폼"
+    },
+    {
+      "id": "kb-052",
+      "title": "Sejinsa (세진사)",
+      "file": "short-term/2026-03-03_portfolio_sejinsa.md",
+      "tags": [
+        "포트폴리오",
+        "구독세차",
+        "모빌리티",
+        "시니어일자리",
+        "출장세차",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/sejinsa.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "구독형 출장 세차 서비스로 아파트/오피스 주차장에서 고객이 주차만 하면 세차 완료, 시니어 일자리와 결합"
+    },
+    {
+      "id": "kb-053",
+      "title": "Seoul Exchange (서울거래)",
+      "file": "short-term/2026-03-03_portfolio_seoul-exchange.md",
+      "tags": [
+        "포트폴리오",
+        "비상장주식",
+        "RWA",
+        "Story Protocol",
+        "한국금융",
+        "규제모트",
+        "토큰화"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/seoul-exchange.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "금융위원회 혁신금융 지정 한국 비상장 증권 거래 플랫폼 2개 중 하나, Story Protocol과 3년 독점 계약으로 RWA 토큰화 선도"
+    },
+    {
+      "id": "kb-054",
+      "title": "Story Protocol / Pen Technology",
+      "file": "short-term/2026-03-03_portfolio_story-protocol.md",
+      "tags": [
+        "포트폴리오",
+        "IP블록체인",
+        "Layer1",
+        "a16z",
+        "RWA",
+        "AI",
+        "크리에이터이코노미",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/story-protocol.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "프로그래머블 IP 자산을 위한 블록체인 Layer 1으로 2025년 TGE + 80M Series B 완료, IP Vault로 AI 학습 데이터 관리 추진"
+    },
+    {
+      "id": "kb-055",
+      "title": "Taiko Labs",
+      "file": "short-term/2026-03-03_portfolio_taiko-labs.md",
+      "tags": [
+        "포트폴리오",
+        "Ethereum",
+        "Layer2",
+        "롤업",
+        "탈중앙화시퀀서",
+        "블록체인인프라"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/taiko-labs.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "이더리움과 동기적으로 합성 가능한 기반 롤업(based rollup)으로 역사상 처음으로 무허가 시퀀싱/증명을 달성"
+    },
+    {
+      "id": "kb-056",
+      "title": "TheSwing (더스윙)",
+      "file": "short-term/2026-03-03_portfolio_theswing.md",
+      "tags": [
+        "포트폴리오",
+        "공유킥보드",
+        "모빌리티",
+        "IPO",
+        "한국스타트업",
+        "흑자",
+        "최우선"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/theswing.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "한국 유일 3년 연속 흑자 공유 모빌리티 기업으로 2027년 Q4 IPO 목표, 매출 584억원"
+    },
+    {
+      "id": "kb-057",
+      "title": "Trek Labs / Backpack Exchange",
+      "file": "short-term/2026-03-03_portfolio_trek-labs-backpack-exchange.md",
+      "tags": [
+        "포트폴리오",
+        "크립토거래소",
+        "Solana",
+        "유니콘",
+        "토큰런칭",
+        "IPO목표"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/trek-labs-backpack-exchange.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "Solana 기반 크립토 거래소로 10억 달러 이상 프리머니 밸류 추진 + 창업자/VC 토큰 미배분 혁신 토크노믹스"
+    },
+    {
+      "id": "kb-058",
+      "title": "Uprise / HorizonWealth (업라이즈)",
+      "file": "short-term/2026-03-03_portfolio_uprise-horizonwealth.md",
+      "tags": [
+        "포트폴리오",
+        "로보어드바이저",
+        "자산관리",
+        "퇴직연금",
+        "AI퀀트",
+        "합병",
+        "한국스타트업"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/uprise-horizonwealth.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "헤이비트 운영사 업라이즈가 두물머리투자자문 인수 합병, HorizonWealth로 2025년 퇴직연금 수탁고 1조원 도전"
+    },
+    {
+      "id": "kb-059",
+      "title": "Yuga Labs",
+      "file": "short-term/2026-03-03_portfolio_yuga-labs.md",
+      "tags": [
+        "포트폴리오",
+        "NFT",
+        "메타버스",
+        "BAYC",
+        "CryptoPunks",
+        "Otherside",
+        "Amazon파트너십"
+      ],
+      "source": "/root/clawd/warm-memory/portfolio/yuga-labs.md",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "BAYC, CryptoPunks 등 프리미엄 NFT IP 보유사로 2025.11 Otherside 메타버스 런칭, Amazon Gaming 첫 파트너십"
     }
   ],
   "tags": {
     "AI": [
-      "kb-001"
+      "kb-001",
+      "kb-024",
+      "kb-054"
     ],
     "기억시스템": [
       "kb-001"
@@ -105,7 +970,696 @@
     ],
     "매크로": [
       "kb-002"
+    ],
+    "포트폴리오": [
+      "kb-010",
+      "kb-011",
+      "kb-012",
+      "kb-013",
+      "kb-014",
+      "kb-015",
+      "kb-016",
+      "kb-017",
+      "kb-018",
+      "kb-019",
+      "kb-020",
+      "kb-021",
+      "kb-022",
+      "kb-023",
+      "kb-024",
+      "kb-025",
+      "kb-026",
+      "kb-027",
+      "kb-028",
+      "kb-029",
+      "kb-030",
+      "kb-031",
+      "kb-032",
+      "kb-033",
+      "kb-034",
+      "kb-035",
+      "kb-036",
+      "kb-037",
+      "kb-038",
+      "kb-039",
+      "kb-040",
+      "kb-041",
+      "kb-042",
+      "kb-043",
+      "kb-044",
+      "kb-045",
+      "kb-046",
+      "kb-047",
+      "kb-048",
+      "kb-049",
+      "kb-050",
+      "kb-051",
+      "kb-052",
+      "kb-053",
+      "kb-054",
+      "kb-055",
+      "kb-056",
+      "kb-057",
+      "kb-058",
+      "kb-059"
+    ],
+    "DeFi": [
+      "kb-010",
+      "kb-012",
+      "kb-026",
+      "kb-029",
+      "kb-037",
+      "kb-039"
+    ],
+    "크립토": [
+      "kb-010",
+      "kb-012",
+      "kb-014",
+      "kb-028",
+      "kb-029",
+      "kb-051"
+    ],
+    "온체인크레딧": [
+      "kb-010"
+    ],
+    "수익집계": [
+      "kb-010"
+    ],
+    "TGE": [
+      "kb-010"
+    ],
+    "블록체인인프라": [
+      "kb-010",
+      "kb-026",
+      "kb-047",
+      "kb-049",
+      "kb-055"
+    ],
+    "애드테크": [
+      "kb-011"
+    ],
+    "광고차단복구": [
+      "kb-011"
+    ],
+    "퍼블리셔": [
+      "kb-011"
+    ],
+    "SaaS": [
+      "kb-011",
+      "kb-031",
+      "kb-033",
+      "kb-041"
+    ],
+    "한국스타트업": [
+      "kb-011",
+      "kb-013",
+      "kb-015",
+      "kb-017",
+      "kb-018",
+      "kb-021",
+      "kb-022",
+      "kb-031",
+      "kb-033",
+      "kb-034",
+      "kb-038",
+      "kb-046",
+      "kb-052",
+      "kb-056",
+      "kb-058"
+    ],
+    "Layer1": [
+      "kb-012",
+      "kb-047",
+      "kb-054"
+    ],
+    "Aptos": [
+      "kb-012",
+      "kb-026"
+    ],
+    "Move": [
+      "kb-012",
+      "kb-026"
+    ],
+    "블록체인": [
+      "kb-012",
+      "kb-024"
+    ],
+    "디지털헬스": [
+      "kb-013"
+    ],
+    "멘탈헬스케어": [
+      "kb-013"
+    ],
+    "디지털치료제": [
+      "kb-013"
+    ],
+    "DTx": [
+      "kb-013"
+    ],
+    "헬스테크": [
+      "kb-013",
+      "kb-027"
+    ],
+    "거래소": [
+      "kb-014"
+    ],
+    "지갑": [
+      "kb-014"
+    ],
+    "Solana": [
+      "kb-014",
+      "kb-057"
+    ],
+    "NFT": [
+      "kb-014",
+      "kb-043",
+      "kb-059"
+    ],
+    "토큰런칭": [
+      "kb-014",
+      "kb-057"
+    ],
+    "유니콘": [
+      "kb-014",
+      "kb-057"
+    ],
+    "엔터프라이즈블록체인": [
+      "kb-015"
+    ],
+    "물류": [
+      "kb-015",
+      "kb-022"
+    ],
+    "공급망": [
+      "kb-015"
+    ],
+    "위조방지": [
+      "kb-015"
+    ],
+    "핀테크": [
+      "kb-016",
+      "kb-046"
+    ],
+    "크로스보더투자": [
+      "kb-016"
+    ],
+    "신흥시장": [
+      "kb-016"
+    ],
+    "해외주식": [
+      "kb-016"
+    ],
+    "런웨이주의": [
+      "kb-016",
+      "kb-024"
+    ],
+    "에드테크": [
+      "kb-017",
+      "kb-018",
+      "kb-038"
+    ],
+    "기업교육": [
+      "kb-017"
+    ],
+    "B2B": [
+      "kb-017"
+    ],
+    "AI교육": [
+      "kb-017"
+    ],
+    "코딩부트캠프": [
+      "kb-017"
+    ],
+    "커리어플랫폼": [
+      "kb-018"
+    ],
+    "멘토링": [
+      "kb-018"
+    ],
+    "취업": [
+      "kb-018"
+    ],
+    "이스포츠": [
+      "kb-019"
+    ],
+    "게임": [
+      "kb-019",
+      "kb-032",
+      "kb-045"
+    ],
+    "토너먼트": [
+      "kb-019"
+    ],
+    "런웨이긴급": [
+      "kb-019",
+      "kb-022",
+      "kb-032"
+    ],
+    "AI에이전트": [
+      "kb-020",
+      "kb-035",
+      "kb-040"
+    ],
+    "정보부족": [
+      "kb-020"
+    ],
+    "크립토애널리틱스": [
+      "kb-021"
+    ],
+    "온체인분석": [
+      "kb-021"
+    ],
+    "블록체인데이터": [
+      "kb-021"
+    ],
+    "AI로지스틱스": [
+      "kb-022"
+    ],
+    "당일배송": [
+      "kb-022"
+    ],
+    "크립토커스터디": [
+      "kb-023"
+    ],
+    "기관투자": [
+      "kb-023",
+      "kb-036"
+    ],
+    "API": [
+      "kb-023"
+    ],
+    "월렛인프라": [
+      "kb-023"
+    ],
+    "IBM파트너십": [
+      "kb-023"
+    ],
+    "벤처캐피탈": [
+      "kb-024"
+    ],
+    "FinTech": [
+      "kb-024"
+    ],
+    "배달": [
+      "kb-025"
+    ],
+    "무료배달앱": [
+      "kb-025"
+    ],
+    "한국": [
+      "kb-025",
+      "kb-027",
+      "kb-036"
+    ],
+    "Series A": [
+      "kb-025"
+    ],
+    "음식테크": [
+      "kb-025"
+    ],
+    "CLOB": [
+      "kb-026"
+    ],
+    "원격진료": [
+      "kb-027"
+    ],
+    "비대면진료": [
+      "kb-027"
+    ],
+    "Series B": [
+      "kb-027"
+    ],
+    "블록체인애널리틱스": [
+      "kb-028"
+    ],
+    "온체인데이터": [
+      "kb-028"
+    ],
+    "SQL": [
+      "kb-028"
+    ],
+    "최우선": [
+      "kb-028",
+      "kb-029",
+      "kb-033",
+      "kb-044",
+      "kb-046",
+      "kb-054",
+      "kb-056"
+    ],
+    "탈중앙화거래소": [
+      "kb-029"
+    ],
+    "무기한선물": [
+      "kb-029"
+    ],
+    "RWA": [
+      "kb-029",
+      "kb-051",
+      "kb-053",
+      "kb-054"
+    ],
+    "스포츠테크": [
+      "kb-030"
+    ],
+    "GPS추적": [
+      "kb-030"
+    ],
+    "FIFA": [
+      "kb-030"
+    ],
+    "웨어러블": [
+      "kb-030"
+    ],
+    "스포츠AI": [
+      "kb-030"
+    ],
+    "AI건축설계": [
+      "kb-031"
+    ],
+    "PropTech": [
+      "kb-031"
+    ],
+    "부동산": [
+      "kb-031"
+    ],
+    "FPS": [
+      "kb-032"
+    ],
+    "스텔스": [
+      "kb-032"
+    ],
+    "B2B핀테크": [
+      "kb-033"
+    ],
+    "법인카드": [
+      "kb-033"
+    ],
+    "기업금융": [
+      "kb-033"
+    ],
+    "IPO": [
+      "kb-033",
+      "kb-056"
+    ],
+    "애그테크": [
+      "kb-034"
+    ],
+    "농업": [
+      "kb-034"
+    ],
+    "팜모닝": [
+      "kb-034"
+    ],
+    "데이터": [
+      "kb-034"
+    ],
+    "Web3인프라": [
+      "kb-035"
+    ],
+    "크로스체인": [
+      "kb-035"
+    ],
+    "a16z": [
+      "kb-035",
+      "kb-054"
+    ],
+    "에이전트경제": [
+      "kb-035"
+    ],
+    "크립토자산운용": [
+      "kb-036"
+    ],
+    "HFT": [
+      "kb-036"
+    ],
+    "일본": [
+      "kb-036"
+    ],
+    "퀀트": [
+      "kb-036"
+    ],
+    "유동성인프라": [
+      "kb-037"
+    ],
+    "INFINIT": [
+      "kb-037"
+    ],
+    "토큰": [
+      "kb-037"
+    ],
+    "Hashed투자": [
+      "kb-037",
+      "kb-039",
+      "kb-047"
+    ],
+    "육아플랫폼": [
+      "kb-038"
+    ],
+    "일본진출": [
+      "kb-038"
+    ],
+    "AI육아": [
+      "kb-038"
+    ],
+    "크립토뱅킹": [
+      "kb-039"
+    ],
+    "네오뱅크": [
+      "kb-039"
+    ],
+    "Web3": [
+      "kb-039"
+    ],
+    "블록체인결제": [
+      "kb-040",
+      "kb-042"
+    ],
+    "신원인증": [
+      "kb-040"
+    ],
+    "PayPal벤처스": [
+      "kb-040"
+    ],
+    "GeneralCatalyst": [
+      "kb-040"
+    ],
+    "AI보이스": [
+      "kb-041"
+    ],
+    "TTS": [
+      "kb-041"
+    ],
+    "음성합성": [
+      "kb-041"
+    ],
+    "콘텐츠": [
+      "kb-041"
+    ],
+    "EMI": [
+      "kb-042"
+    ],
+    "VASP": [
+      "kb-042"
+    ],
+    "EU규제": [
+      "kb-042"
+    ],
+    "스테이블코인": [
+      "kb-042"
+    ],
+    "크로스보더결제": [
+      "kb-042"
+    ],
+    "블록체인게임": [
+      "kb-043"
+    ],
+    "MYTH토큰": [
+      "kb-043"
+    ],
+    "MythosChain": [
+      "kb-043"
+    ],
+    "게임플랫폼": [
+      "kb-043"
+    ],
+    "커뮤니티커머스": [
+      "kb-044"
+    ],
+    "인플루언서": [
+      "kb-044"
+    ],
+    "K뷰티": [
+      "kb-044"
+    ],
+    "한국브랜드": [
+      "kb-044"
+    ],
+    "해외진출": [
+      "kb-044"
+    ],
+    "ARPG": [
+      "kb-045"
+    ],
+    "크로스플랫폼": [
+      "kb-045"
+    ],
+    "멀티플레이어": [
+      "kb-045"
+    ],
+    "시드라운드": [
+      "kb-045"
+    ],
+    "POS": [
+      "kb-046"
+    ],
+    "클라우드POS": [
+      "kb-046"
+    ],
+    "소상공인": [
+      "kb-046"
+    ],
+    "Cosmos": [
+      "kb-047"
+    ],
+    "개발자보상": [
+      "kb-047"
+    ],
+    "결제인프라": [
+      "kb-048"
+    ],
+    "아시아결제": [
+      "kb-048"
+    ],
+    "API결제": [
+      "kb-048"
+    ],
+    "Terraform창업자": [
+      "kb-048"
+    ],
+    "다운라운드": [
+      "kb-048"
+    ],
+    "Ethereum": [
+      "kb-049",
+      "kb-055"
+    ],
+    "L2": [
+      "kb-049"
+    ],
+    "시퀀서": [
+      "kb-049"
+    ],
+    "롤업": [
+      "kb-049",
+      "kb-055"
+    ],
+    "MEV방지": [
+      "kb-049"
+    ],
+    "Web3온보딩": [
+      "kb-050"
+    ],
+    "지갑SDK": [
+      "kb-050"
+    ],
+    "NFT결제": [
+      "kb-050"
+    ],
+    "B2B인프라": [
+      "kb-050"
+    ],
+    "크라우드펀딩": [
+      "kb-051"
+    ],
+    "대체투자": [
+      "kb-051"
+    ],
+    "IPO파이프라인": [
+      "kb-051"
+    ],
+    "구독세차": [
+      "kb-052"
+    ],
+    "모빌리티": [
+      "kb-052",
+      "kb-056"
+    ],
+    "시니어일자리": [
+      "kb-052"
+    ],
+    "출장세차": [
+      "kb-052"
+    ],
+    "비상장주식": [
+      "kb-053"
+    ],
+    "Story Protocol": [
+      "kb-053"
+    ],
+    "한국금융": [
+      "kb-053"
+    ],
+    "규제모트": [
+      "kb-053"
+    ],
+    "토큰화": [
+      "kb-053"
+    ],
+    "IP블록체인": [
+      "kb-054"
+    ],
+    "크리에이터이코노미": [
+      "kb-054"
+    ],
+    "Layer2": [
+      "kb-055"
+    ],
+    "탈중앙화시퀀서": [
+      "kb-055"
+    ],
+    "공유킥보드": [
+      "kb-056"
+    ],
+    "흑자": [
+      "kb-056"
+    ],
+    "크립토거래소": [
+      "kb-057"
+    ],
+    "IPO목표": [
+      "kb-057"
+    ],
+    "로보어드바이저": [
+      "kb-058"
+    ],
+    "자산관리": [
+      "kb-058"
+    ],
+    "퇴직연금": [
+      "kb-058"
+    ],
+    "AI퀀트": [
+      "kb-058"
+    ],
+    "합병": [
+      "kb-058"
+    ],
+    "메타버스": [
+      "kb-059"
+    ],
+    "BAYC": [
+      "kb-059"
+    ],
+    "CryptoPunks": [
+      "kb-059"
+    ],
+    "Otherside": [
+      "kb-059"
+    ],
+    "Amazon파트너십": [
+      "kb-059"
     ]
   },
-  "lastUpdated": "2026-03-03T06:58:00+09:00"
+  "lastUpdated": "2026-03-03T07:45:00+09:00"
 }
