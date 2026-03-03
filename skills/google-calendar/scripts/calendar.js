@@ -193,7 +193,6 @@ async function createEvent(opts) {
   if (opts.attendees) {
     body.attendees = opts.attendees.split(',').map((email) => ({ email: email.trim() }));
   }
-  if (opts.visibility) body.visibility = opts.visibility; // public | private | default
 
   const sendUpdates = opts['no-notify'] ? 'none' : 'all';
   const data = await calendarFetch(`/events?sendUpdates=${sendUpdates}`, {
@@ -305,10 +304,9 @@ async function updateEvent(opts) {
   if (opts.attendees) {
     body.attendees = opts.attendees.split(',').map((email) => ({ email: email.trim() }));
   }
-  if (opts.visibility) body.visibility = opts.visibility; // public | private | default
 
   if (Object.keys(body).length === 0) {
-    throw new Error('No fields to update. Use --title, --start, --end, --description, --location, --attendees, or --visibility');
+    throw new Error('No fields to update. Use --title, --start, --end, --description, --location, or --attendees');
   }
 
   const sendUpdates = opts['no-notify'] ? 'none' : 'all';
