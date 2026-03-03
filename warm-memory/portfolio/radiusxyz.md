@@ -1,50 +1,62 @@
 # RadiusXYZ
-**Last Researched:** 2026-02-25
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-03
 
-### Mainnet Launch Timeline
-- **Q1 2025**: Planned mainnet launch with full cross-rollup features
-- Status update needed on actual mainnet deployment
+## Company Overview
+Decentralized shared sequencing layer for Ethereum rollups. Focused on trustless sequencing infrastructure to eliminate centralized sequencer risks.
 
-### Product Evolution
-- **Core Infrastructure**: Trustless shared sequencing layer for Ethereum rollups
-- **Value Proposition**: 
-  - Decentralized sequencing-as-a-service for rollups
-  - Eliminates centralized sequencer risks (censorship, harmful MEV)
-  - Cross-rollup interoperability solutions
-  - Prevents frontrunning, sandwiching, and transaction censoring
+## Technology & Product
 
-### Technology Platform
-- **PVDE (Practical Verifiable Delay Encryption)**: Ensures trustless transaction sequencing
-- **Architecture**: 
-  - Parallel processing for AI economy transaction speeds
-  - Breaks limitations of conventional blockchains
-  - Addresses legacy finance constraints
-- **Network Structure**: Connects rollups and searchers into collaborative network
+### Core Problem Addressed
+In rollups, **single centralized sequencers** create risks:
+- Censorship power
+- Harmful MEV extraction
+- Single point of failure
+- Monopoly control over block ordering
 
-### Strategic Positioning
-- **Target Market**: "Next generation of institutional adoption"
-- **Infrastructure Type**: Open market infrastructure for Ethereum scaling
-- **Products**: Suite creating sustainable economic utility for decentralized systems
-- Integration with Alchemy's RaaS (Rollup-as-a-Service) platform
+### Radius Solution
+**Trustless shared sequencing layer** that provides:
+- **Decentralized sequencing** across multiple rollups
+- **Fast finality** guarantees
+- **Enhanced security** vs centralized alternatives
+- **Simplified interoperability** between rollups
 
-### Technical Approach
-- **Shared Sequencing**: Flexible and customizable sequencing services
-- **Focus Areas**: 
-  - Security and trust in rollups
-  - Cross-rollup opportunities
-  - MEV mitigation
-  - Censorship resistance
+### Technical Architecture
+- **Order commitment** via hash chaining before decryption
+- Time-lock puzzles for transaction ordering
+- Sequencer generates commitment even before resolving puzzles
+- Prevents sequencer from manipulating order for MEV
 
-## Business Status
-- **Funding**: $8.7M seed round (from portfolio list)
-- **Website**: theradius.xyz (primary), radiustech.xyz (tech-focused)
-- Active documentation and developer platform
-- Testnet operational
+### Portico Testnet
+- **Active testnet** documentation available
+- Block signing process:
+  - Takes empty transaction lists
+  - Current timestamp
+  - Block height
+  - Sequencer private key
+  - Rollup type
+  - Signs block officially
 
-## Strategic Position
-- **Market Timing**: Positioned for Ethereum L2 scaling wave
-- **Differentiation**: Decentralized sequencer vs. centralized alternatives
-- **Institutional Focus**: Building for institutional adoption requirements
-- **Infrastructure Play**: Critical middleware for rollup ecosystem
+## Market Position
+- **Institutional focus**: "Powering next generation of institutional adoption"
+- Suite of products creating sustainable economic utility for decentralized systems
+- Positioned in competitive shared sequencing space (vs Espresso, Astria, etc.)
+
+## Funding
+- **Seed: .7M** raised
+- Well-capitalized for early-stage infrastructure play
+
+## Strategic Assessment
+✅ **Solid technical foundation**:
+- Clear value prop addressing real rollup pain point
+- Active development (testnet live)
+- Institutional positioning smart for this infra layer
+- Seed funding sufficient for current stage
+
+⏳ **Early stage** - Success depends on:
+- Rollup adoption of shared sequencing
+- Competition from other sequencing layers
+- Ethereum scaling roadmap alignment
+
+## Status
+🟢 **Active development** - Product in testnet, clear technical approach, well-funded for early stage. Monitor rollup partnerships and mainnet timeline.

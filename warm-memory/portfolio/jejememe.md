@@ -1,34 +1,56 @@
 # JEJEMEME (제제미미) - Parenting Platform
-Last researched: 2026-02-26
 
-## Overview
-- **Sector:** Parenting, EdTech, Community Platform
-- **Product:** 쑥쑥찰칵 (child growth record platform)
-- **CEO:** 박미영
-- **Investors:** Hashed, Spring Camp, 하나벤처스
-- **Status:** 국내 1위 육아 플랫폼
+**Last researched:** 2026-03-03
 
-## Recent Developments
+## Company Overview
+Family-oriented parenting platform centered on child photo sharing and growth tracking. Main product: **쑥쑥찰칵** app.
+
+## Product: 쑥쑥찰칵
+
+### Core Features
+- **Automatic photo organization** from parents' smartphones
+- **Family sharing** - entire family participates in child's growth
+- Growth video creation
+- Daily memories capture and organization
+- "하루 동안 찍은 소중한 순간" - Capturing precious daily moments
+
+### Unique Value Prop
+**"Korea's only family-participation parenting platform"**
+- 1:1 ratio of parents to extended family users
+- Entire family (grandparents, aunts, uncles) engaged in child's growth
+- Creates culture of family-shared parenting documentation
+
+## Traction & Scale
+
+### User-Generated Content
+- **300M+ cumulative uploads** (업로드 누적 3억 건 돌파)
+- Massive engagement - parents actively documenting children's lives
+- Platform effects from family network participation
 
 ### Funding
-- **Series A (Oct 2023):** 20억원 투자 유치 (하나벤처스 주도)
-
-### Awards & Recognition (2025)
-- **SW 고성장클럽 (Dec 2025):** 정보통신산업진흥원장상 수상
-- AI 육아 서비스 성장성 인정
-
-### Japan Expansion (2024-2025)
-- **Launch:** 2024년 12월 일본 시장 진출
-- **Marketing (2025.05~):** 현지 육아 인플루언서 130명과 협업 콘텐츠 제작
-- **앰배서더 프로그램:** 실사용자 중심의 마케팅 본격화
-- **빠른 안착:** 일본 시장에서 초기 트랙션 확보
-
-## Strategic Vision
-- **CEO 박미영:** "출산율 세계 꼴찌 국가에서 꼭 글로벌 1위 육아 서비스를 만들어 내겠다"
-- 기존에 존재하지 않던 새로운 시장 창출
-- AI 기반 육아 서비스 강화
+- **Series A: W2.5B total** (약 25억 원)
+  - W2.0B initial round
+  - **W500M additional** from Hashed (해시드)
+  - Series A closed recently (2024)
 
 ## Market Position
-- 국내 1위 육아 성장기록 플랫폼
-- 일본 진출로 글로벌 확장 본격화
-- 인플루언서 마케팅 + 커뮤니티 중심 성장 전략
+- Created **new market** that didn't exist before (per company claims)
+- "우리는 쑥쑥찰칵을 통해 기존에 존재하지 않던 새로운 시장을 만들어 냈습니다"
+- Addresses pain point: parents' phones cluttered with thousands of child photos
+
+## Strategic Assessment
+✅ **Strong product-market fit**:
+- 300M uploads = deep engagement
+- Family network effects (1:1 parent:family ratio)
+- Solving real pain point (photo organization + sharing)
+- Well-funded with Hashed backing
+- Korea parenting market sizable, competitive but differentiated
+
+📊 **Need metrics**:
+- MAU/DAU counts
+- Retention rates
+- Monetization strategy (freemium? subscription?)
+- Expansion plans (international? adjacent products?)
+
+## Status
+🟢 **Healthy growth** - Strong traction with 300M uploads, family participation model is sticky. Request: monetization roadmap, user retention data, potential Series B timeline.

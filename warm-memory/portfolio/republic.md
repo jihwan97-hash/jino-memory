@@ -1,26 +1,36 @@
 # Republic (Opendeal Inc.)
-**Last Researched:** 2026-02-25
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-03
 
-### Key Updates
-- **IPO Pipeline**: Republic Capital reported 2 IPOs completed in 2025, with 3 more in queue for 2026 (as of Jan 2026)
-- **INX Digital Acquisition**: In April 2025, Republic announced acquisition of crypto trader INX Digital (INXDF) for up to $60M
-  - Strategic move to strengthen blockchain investor position
-  - Creates pathway for trading tokens and secondary market opportunities across crypto and RWAs
-  - INX shares spiked from $0.02 to $0.16 on announcement before settling at $0.09
-- **Secondary Market**: Actively operating secondary trading infrastructure for Republic Notes and digital assets
-- **Infrastructure**: Registered to offer end-to-end infrastructure for traditional and digital assets including issuance, brokerage, secondary trading, and transfer agency
+## Company Overview
+Platform for designing, launching, and managing digital assets represented as blockchain tokens. Focus on secondary trading markets and tokenization infrastructure.
 
-### Business Status
-- Three portfolio companies reported exits in 2025
-- Operating multiple business arms:
-  - Retail investment platform ($10 minimum investments)
-  - Private capital division (~$1B AUM for accredited investors)
-  - Blockchain consultancy (technical, financing, distribution, tokenization services)
-- Secondary exchange development ongoing (announced in 2021 $150M funding round)
+## Recent Developments (2026)
+
+### Major Acquisition - INX Digital Company (Nov 2025)
+- **Closed acquisition** of INX Digital Company (Cboe CA: INXD, OTCQB: INXDF) in November 2025
+- OpenDeal Inc. (d/b/a Republic) acquired all outstanding shares through wholly-owned subsidiary
+- Plan of arrangement completed successfully
+- This positions Republic for expanded regulated digital asset trading capabilities
+
+### Platform Infrastructure
+- **Registered end-to-end infrastructure** for traditional and digital assets:
+  - Issuance
+  - Brokerage
+  - Secondary trading
+  - Transfer agency
+- All integrated in one tech stack
+
+### Recent Activity
+- Platform remains active with crowdfunding campaigns
+- Example: CureValue campaign closed Feb 4, 2026
+- Continuing to facilitate startup and crypto investments
 
 ## Strategic Position
-- **Valuation Target**: ~$1B secondary exit potential
-- Focus on blockchain, crypto, and RWA tokenization
-- Positioned at intersection of traditional and digital asset infrastructure
+- Moving toward ~B secondary exit potential
+- Building comprehensive regulated digital asset infrastructure
+- INX acquisition brings exchange capabilities and regulatory licenses
+- Positioning as full-stack tokenization and trading platform
+
+## Status
+✅ **Active** - Strong execution on M&A strategy, platform growth continuing

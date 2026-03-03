@@ -1,47 +1,41 @@
 # Delivus (딜리버스)
-**Last Researched:** 2026-02-25
+
+**Last researched:** 2026-03-03
 
 ## Company Overview
-- **Status:** 긴급 URGENT - Runway 2 months
-- **Sector:** DaaS (Delivery as a Service), AI Logistics
-- **Market:** South Korea
+AI-based DaaS (Delivery as a Service) platform in South Korea. Brand: **딜리래빗**. Same-day delivery and returns logistics.
 
-## Recent Developments (2025-2026)
+## Product & Technology
 
-### Business Model
-- **Service:** Same-day delivery at traditional parcel pricing
-- **Technology:** AI logistics optimization
-  - K-means clustering for delivery zone classification
-  - Vector data from ML models for route optimization
-- **Brand:** "DillyRabbit" (딜리래빗) for premium same-day/return logistics
+**Value Prop**: Same-day delivery at traditional courier prices
+- AI-powered route optimization (K-means clustering)
+- Vector data from ML models to reduce sorting time
+- Widest delivery network in Korean same-day space
+- B2B DaaS for e-commerce merchants
 
-### Technical Stack
-- **Infrastructure:** AWS (ECS, CodeDeploy Blue/Green, CDK, GitHub Actions)
-- **Innovation:** AI reduces package sorting time, optimizes zones
-- **Vision:** "Space-capable delivery" (ambitious positioning)
+### Partnerships
+- Integrated with major platforms (Starbucks POS, etc.)
+- E-commerce fulfillment focus
 
-### Market Position
-- **Value Prop:** Fast same-day at competitive cost (vs. 2-3 day parcel)
-- **Target:** E-commerce sellers needing quick fulfillment
-- **Differentiation:** AI optimization (not just labor + vehicles)
+## Strategic Assessment
+⚠️ **CRITICAL - 2 MONTH RUNWAY**:
 
-## Strategic Situation
-- **Runway:** 2 months - URGENT, ~6-8 week fundraising window
-- **Competition:** CJ Logistics, Lotte, Coupang Rocket, Market Kurly, Baemin
-- **Challenge:** Capital-intensive model, tight margins
+**Status signals**:
+- 🔴 **2mo runway** = imminent funding need or shutdown
+- ✅ Active operations (recruiting, tech blog updated)
+- ✅ Real AI tech (documented on Medium)
+- ✅ B2B revenue model
+- ⚠️ Brutal competition (Coupang Rocket, Kurly, etc.)
 
-## Risk Factors
-- **Capital Intensity:** Logistics requires heavy investment
-- **Unit Economics:** Same-day at parcel pricing = thin margins
-- **Moat:** AI alone may not be defensible vs. incumbents
-- **2-Month Runway:** Fast action required
+### Immediate Actions Required
+1. **Emergency funding check** - any term sheets in flight?
+2. Unit economics review - path to profitability?
+3. Bridge financing from existing investors?
+4. Strategic sale to Coupang/Kurly/etc.?
+5. Burn rate reduction options
 
-## Recommended Actions
-- **Weeks 1-3:** Approach logistics incumbents (CJ, Lotte, Hyundai Glovis) for acquisition; pitch AI as cost reducer
-- **Weeks 4-6:** Target strategic VCs; consider pivot to B2B SaaS (sell AI routing tech)
-- **Weeks 7-8:** If no funding, negotiate wind-down or asset sale (AI IP + contracts)
+**Positive**: Still hiring, tech differentiated, B2B can be capital-efficient
+**Negative**: 2mo very short, last-mile logistics capital-intensive
 
-## Notes
-- Strong tech (AWS, AI, K-means)
-- 2 months = viable fundraising window
-- SaaS pivot could extend runway (lower capex)
+## Status
+🔴 **URGENT** - 2mo runway requires immediate founder contact. Appears operationally active (likely fundraising). Request: fundraising timeline, monthly burn, Q1 revenue, unit economics. Could be saveable if raise closes Q1.

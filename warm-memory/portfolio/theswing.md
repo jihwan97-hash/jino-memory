@@ -1,54 +1,45 @@
 # TheSwing (더스윙)
-**Last Researched:** 2026-02-25
+
+**Last researched:** 2026-03-03
 
 ## Company Overview
-- **Status:** 최우선 Priority - IPO Target Q4 2027
-- **Revenue:** ₩584B (W584B)
-- **Sector:** E-scooter Sharing, Mobility Platform
-- **Market:** South Korea (expanding internationally)
-- **Founded:** 2018 | CEO: Kim Hyung-san (김형산)
+E-scooter and personal mobility sharing platform in South Korea. Second-largest player in Korean PM market.
 
-## Recent Developments (2023-2026)
-
-### IPO Planning
-- **Target:** Q4 2027 IPO
-- **Accounting:** Adopted K-IFRS in preparation for public listing
-- **Financial Performance:** 3 consecutive years of profitability - ONLY profitable shared mobility company in Korea
+## Recent Developments (2026)
 
 ### Market Position
-- **Domestic Leadership:** Rapidly conquered Korean market
-- **Service:** Electric scooter sharing platform with proprietary IoT devices
-- **Revenue Scale:** ₩584B - substantial for shared mobility segment
+- **2nd largest** in Korean personal mobility industry
+- Operating electric scooter sharing service across Seoul and other cities
+- Brand: "차를 위한 도시를 사람을 위한 도시로" (From cities for cars to cities for people)
 
-### International Expansion (2023)
-- Launched services for foreign users (March 2023)
-- Diversified identity verification methods (beyond Korean ID)
-- Targeting tourist and expat markets
+### Shareholder Changes & Industry Challenges
+- **Humax (veteran tech company) divested** entire stake in TheSwing
+- Industry facing **multi-front pressure**:
+  - Political oversight
+  - Local government regulations
+  - Police enforcement
+  - Accident and safety concerns growing
+  
+### Regulatory Environment
+- Shared scooter industry experiencing **increased scrutiny**
+- Safety incidents driving regulatory crackdowns
+- Local authorities imposing stricter rules on operations
 
-### Operational Features
-- Integrated mobility app: Taxis, Bikes, Scooters
-- IoT device connectivity and control
-- QR code scanning, return photo verification
-- Seoul Pass integration for transport card functionality
+### Current Operations
+- **Active platform** with mobile app (SWING)
+- Services include:
+  - E-scooter sharing
+  - Bike sharing
+  - Taxi integration
+  - Seoul Pass integration
+- App features QR scanning, return photos, IoT device control
 
-## Strategic Outlook
-- **IPO Timeline:** 18 months out (Q4 2027)
-- **Unique Position:** Only consistently profitable shared mobility player in Korea (vs. competitors burning cash)
-- **Growth Strategy:** International expansion while maintaining domestic profitability
-- **Differentiation:** Full-stack approach (hardware + software + operations)
+## Strategic Concerns
+⚠️ **Watch** - IPO target Q4 2027, but facing significant headwinds:
+- Regulatory pressure mounting
+- Major investor (Humax) exited completely
+- Industry sentiment negative due to safety issues
+- Revenue W584B reported, but profitability under pressure from compliance costs
 
-## Competitive Advantage
-- Proven profitability model (3+ years consecutive profit)
-- Early mover in Korea with strong market share
-- Multi-modal mobility platform (not just e-scooters)
-
-## Key Metrics
-- Revenue: ₩584B
-- Profitability: 3+ years consecutive
-- Market: Korea leader, expanding internationally
-
-## Risk Factors
-- Regulatory changes in shared mobility (parking, safety)
-- Competition from well-funded players
-- IPO market conditions in 2027
-- International expansion execution risk
+## Status
+🟡 **Caution** - IPO timeline at risk. Monitor regulatory developments and ability to maintain market share under stricter safety/operational requirements.

@@ -1,47 +1,51 @@
 # Story Protocol / Pen Technology
-**Last Researched:** 2026-02-25
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-03
 
-### Token Launch (February 2025)
-- ** Token TGE**: Successfully launched in February 2025
-- **Mainnet Launch**: Public mainnet went live alongside community token claim
-- **Exchange Listings**: In discussions with Coinbase, OKX, and other major global exchanges
-- Token used for transaction fees and governance
+## Company Overview
+Blockchain protocol for intellectual property (IP) tokenization, licensing, and commercialization. Makes IP programmable and tradeable.
 
-### Major Funding
-- **Series B**: $80M raised (February 19, 2025)
-- **Total Raised**: $80M Series B (previous notes indicated this round)
-- **Key Backers**: a16z-backed project
+## Recent Developments (2026)
 
-### Recent Product Updates (2026)
-- **IP Vault Feature**: New core feature announced
-  - Allows attaching confidential data (like AI training sets) directly to on-chain IP assets
-  - Programmatic access control for license holders
-  - Devnet launched late 2025
-  - **Mainnet launch planned for 2026**
-- **Token Unlock Update (Feb 2026)**: PIP Labs announced revised unlock schedule
-  - **No new liquidity from locked tokens until August 13, 2026**
-  - Extended lock-up period for early investors, team, and insiders
-  - Adjustment made as network evolves toward AI-driven use cases
+### Token Launch & Unlock Delay (Feb 2026)
+- **IP token** trading on major exchanges (CoinMarketCap listed)
+- **Major unlock DELAYED** by 6 months until August 2026
+  - Team and investor tokens remain locked
+  - Extension announced Feb 9, 2026
+  - Reason: "Project needs more time" to build usage before large unlocks
+  - Originally scheduled unlock postponed to prevent price pressure
 
-### Market Position
-- **Positioning**: "Most talked-about crypto projects of 2025"
-- Redefining digital ownership and creator economy
-- Layer 1 blockchain focused on IP management
-- Emerging AI-driven use cases gaining traction
+### Funding Rates & Market Sentiment
+- Perpetual funding rates turned **negative (-0.0016%)**, favoring shorts
+- Market showing bearish sentiment on token price
+- Protocol fees remain **<00/day** - low adoption so far
 
-### Partnerships
-- Heritage Distilling and other brand partnerships announced
+### Partnership - AI Training Standard (Jan 2026)
+- **Story + OpenLedger** launched legal AI training standard
+- Focus: Tracking AI model training rights using IP protocol
+- Bullish signal for IP use case expansion into AI/ML sector
+- Addresses growing need for provenance in AI training data
 
-## Business Status
-- **Company**: PIP Labs / Pen Technology Inc. (core development team)
-- **Token**:  (live on mainnet)
-- Mainnet active with growing ecosystem
-- Focus shifting toward AI + IP intersection
+### Infrastructure Position
+- Transparent blockchain framework for:
+  - IP attribution
+  - Licensing automation
+  - Commercialization tracking
+  - Remix rights management
 
-## Strategic Position
-- Leader in blockchain IP infrastructure
-- Strong VC backing (a16z)
-- First-mover in programmable IP assets
-- AI integration roadmap with IP Vault
+## Funding History
+- **Series B: 0M** (led by a16z crypto, previous rounds)
+- TGE (Token Generation Event): Feb 2025
+- Well-capitalized but struggling with product-market fit
+
+## Strategic Assessment
+⚠️ **Mixed** signals:
+- ✅ Strong partnerships (OpenLedger AI standard)
+- ✅ Well-funded (Series B 0M)
+- ⚠️ Low protocol usage (<00/day fees)
+- ⚠️ Token unlock delayed - team buying time
+- ⚠️ Negative funding rates suggest market skepticism
+- 🔄 Large unlocks coming August 2026 - price risk
+
+## Status
+🟡 **Watch closely** - Protocol has strong backing and vision, but adoption lagging. Token unlock in Aug 2026 will be critical test. AI partnership could be growth catalyst if executed well.

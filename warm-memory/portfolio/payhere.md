@@ -1,37 +1,60 @@
 # Payhere (페이히어)
-**Last Researched:** 2026-02-25
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-03
 
-### Key Updates
-- **2025 Seoul Cafe Show Participation**: Participated in Seoul Cafe Show at COEX (Nov 19-22, 2025) showcasing integrated store management solutions
-- **Partnership with Karrot (당근)**: Partnered with Korea's leading local community platform Karrot
-  - Integrated Karrot Pay payment method into Payhere POS
-  - Enhanced local neighborhood marketing capabilities for merchants
-  - Improved payment convenience for customers
-- **Market Position**: 
-  - Cumulative sales #1 all-in-one terminal
-  - 82,000+ merchants using the platform (industry leading)
-  - Offering 25% discount + 7 types of gifts promotion
-- **Smart Store Program**: Selected as Smart Store supplier for 3 consecutive years (as of March 2025)
+## Company Overview
+Cloud-based mobile POS (Point of Sale) fintech company in South Korea. Founded 2019. Integrates payments with store management.
 
-### Product & Platform
-- **POS Terminal**: Cloud-based mobile POS system
-- **Integrated Features**: 
-  - Naver Review integration (auto review request on payment)
-  - Multi-payment support (Karrot Pay, cards, etc.)
-  - Store management from startup to operation
-  - Industry-specific customized features
-- **Free download model** with hardware sales
+## Recent Developments (2026)
 
-## Business Status
-- **Revenue**: W131B (from portfolio list)
-- **Founded**: 2019
-- **CEO**: Park Jun-ki (박준기)
-- **Market**: South Korea
-- Active product development and merchant expansion ongoing
+### Strategic Investment from Karrot (당근)
+- **W8B (~M) strategic investment** from Karrot (당근마켓)
+- Partnership focus: Small business advertising performance measurement
+- Synergies expected in SMB merchant ecosystem
 
-## Strategic Position
-- Leading position in Korea's cloud POS market
-- Strong integration with local platforms (Karrot, Naver)
-- Focus on small business digitalization
+### Funding
+- **Series B: W20B (~5M)** total raised
+- Well-capitalized for market expansion
+- Active recruitment (Backend, Frontend roles)
+
+## Product Portfolio
+
+### Payhere Terminal (페이히어 터미널)
+- Cloud-based mobile POS
+- Card payment terminals
+- Store management integration
+- Event-optimized (flexible rental model)
+
+### Flexible Hardware Rental
+- Tablets for POS
+- Card terminals
+- Waiting list management systems
+- Kiosks
+- Mix-and-match based on event/business needs
+- Reduces upfront costs for merchants
+
+### Target Market
+- Small to medium businesses (SMBs)
+- Event organizers (optimized for high-traffic temporary setups)
+- Retail and F&B
+
+## Scale & Performance
+- **Revenue: W131B (~8M)** [per portfolio notes]
+- **51-100 employees** (per ensun.io)
+- Strong market position in Korean cloud POS space
+
+## Strategic Assessment
+✅ **Strong execution**:
+- Solid revenue (W131B) with growth trajectory
+- Strategic partnership with Karrot expands merchant ecosystem reach
+- Well-funded (Series B W20B complete)
+- Product-market fit evident (rental model differentiated)
+- Attractive market: Korean SMB digitization accelerating
+
+📊 **Growth levers**:
+- Karrot integration = access to local commerce merchants
+- Event business = high-margin, scalable
+- Recurring SaaS revenue from store management
+
+## Status
+🟢 **Healthy growth** - Strong fundamentals, strategic partnership with Karrot is smart move. Request: Q4 2025/Q1 2026 GMV, merchant count, churn rates, Karrot integration timeline.

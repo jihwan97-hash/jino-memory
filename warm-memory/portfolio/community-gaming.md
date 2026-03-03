@@ -1,38 +1,42 @@
 # Community Gaming
-**Last Researched:** 2026-02-25
-**⚠️ URGENT: Runway 1 month**
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-03
 
-### Platform Status
-- **Active Platform**: communitygaming.io operational
-- **Core Product**: Automated esports tournaments platform
-- **Value Proposition**: 
-  - Free tournaments with instant skill-based rewards
-  - Community connection features
-  - Monetization opportunities for players
-  - Services for both players and tournament organizers
+## Company Overview
+E-sports tournament and community platform.
+
+## Recent Developments (2026)
+
+### Industry Context
+- **Esports funding environment** remains active:
+  - Esports World Cup Foundation committed **5M** for Esports Nations Cup 2026 (Jan 2026)
+  - Institutional esports investments continuing (NC State arena opening late 2026)
+  - Matcherino and other crowdfunding platforms active in space
+
+### Company Status
+⚠️ **CRITICAL RUNWAY WARNING**
+- **~1 month runway** remaining (per portfolio notes)
+- No public announcements found on recent funding
+- No major product launches or partnerships visible
 
 ### Competitive Landscape
-- **Competitors**: Faceit, PlayVS, Game.tv
-  - PlayVS secured funding in July 2025 (most recent among competitors)
-- **Market Position**: Listed as competitor to GameCentric in gaming platform space
-- Platform offers automated esports tournaments and member invitations
+- AFK Gaming (India) raised 97K recently
+- Multiple esports platforms competing for market share
+- Platform play requires significant capital to scale
 
-### Market Trends (2025-2026)
-- Esports industry seeing growth in community casting and streaming
-- More streamers and community broadcasts across languages and platforms
-- MOBA games (League of Legends, Dota 2) dominating with 28.7% of global esports revenue in 2026
-- Community engagement and interactivity key trends
+## Strategic Assessment
+🔴 **URGENT - IMMEDIATE ATTENTION REQUIRED**:
+- **1mo runway = crisis mode**
+- No visible signs of fundraising success
+- No pivot or product announcements
+- Esports market has capital, but Company Gaming not capturing it
 
-## Business Status
-- **⚠️ Critical Runway**: Only 1 month remaining
-- **Funding Need**: Urgent
-- Platform is live and operational
-- Competing in crowded automated tournament space
+### Recommended Actions
+1. **Immediate founder/management check-in** - what's the plan?
+2. Assess wind-down vs emergency bridge options
+3. If no credible path to funding, begin orderly shutdown planning
+4. Review liquidation value of any platform assets/IP
+5. Consider acqui-hire scenarios if team has value
 
-## Strategic Considerations
-- **Immediate Action Needed**: Extension financing or exit options
-- Platform has functional product and user base
-- Market is competitive but growing
-- Community engagement features aligned with industry trends
+## Status
+🔴 **CRITICAL** - Likely facing shutdown without immediate intervention. Expect write-down. Request emergency status call with founders THIS WEEK.

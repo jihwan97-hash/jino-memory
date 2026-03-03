@@ -1,9 +1,57 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오후 08:20 KST
+**Last synced**: 2026년 3월 4일 수요일 오전 02:20 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 10 unread)
+## Recent Emails (30 total, 4 unread)
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Wed, 4 Mar 2026 01:40:00 +0900
+- **ID**: `19cb4925aeff145d`
+- **Preview**: Dear Medha I&#39;ve already shared the details with Attorney Sujeong Park, and I&#39;ll be sending over the revised document shortly. Best regards. Sera Kim. --- Sera Kim (Siyeon) | Head of Business
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Tue, 3 Mar 2026 22:00:50 +0530
+- **ID**: `19cb48abf02fb89e`
+- **Preview**: Dear Sera, Having reviewed the SAFE Cancellation Agreement, it appears that the agreement relates to the cancellation of stock option grants (Affiliate Options) in connection with the Flip-Up
+
+### **[NEW]** Re: Introduction – Avocado Guild Transition
+- **From**: Edward Tan <edward.tan@hashed.com>
+- **Date**: Wed, 4 Mar 2026 00:19:36 +0800
+- **ID**: `19cb47faefdaed7b`
+- **Preview**: Hi Matthew, Good to connect with you. By way of introduction, I am Edward from the Hashed Investment team. I have been liaising with Brendan over the last few years about Avocado&#39;s business updates
+
+### Open API 포털 이메일 인증
+- **From**: "신한은행" <admin@shinhan.com>
+- **Date**: Wed, 04 Mar 2026 01:01:25 +0900
+- **ID**: `19cb46ed9b384c13`
+- **Preview**: Open API 마켓 이메일 인증 한지환님 안녕하세요? 인증번호는 [464130]입니다 본 메일은 발신 전용 메일로서 고객님께서 신한은행 메일 수신 동의를 하셨거나 고객님의 기존거래 유지 등을 위해 안내드리는 메일입니다. 상담을 원하시는 경우 Web 고객센터로 문의하시기 바랍니다. This mail is only for transmission purpose.
+
+### Open API 포털 회원가입 인증
+- **From**: "신한은행" <admin@shinhan.com>
+- **Date**: Wed, 04 Mar 2026 00:55:54 +0900
+- **ID**: `19cb469cb6cd8ad9`
+- **Preview**: Open API 마켓 이메일 인증 한지환님 안녕하세요? 아래 인증 버튼을 클릭하여 가입을 완료하여 주십시오. 인증 링크가 유효하다고 나오지 않을 경우, 아래의 URL 링크를 복사하여 인터넷 주소창에 넣어 주시기 바랍니다. 인증 https://api.shinhan.com/shbaas/auth/registerValidComp?validToken=
+
+### **[NEW]** Edge Capital: February Flash Update | Stable Performance Through Volatility, Structurally Positive Backdrop
+- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
+- **Date**: Tue, 3 Mar 2026 15:13:36 +0000
+- **ID**: `19cb44347a65f3e7`
+- **Preview**: Dear Investor, Please find our February performance update, along with our insights and perspective on current market conditions, and a business continuity update. February Flash Estimate (net,
+
+### [포트원] 비밀번호 재설정
+- **From**: cs@portone.io
+- **Date**: Tue, 03 Mar 2026 14:48:37 +0000 (UTC)
+- **ID**: `19cb42c26a7966c0`
+- **Preview**: 비밀번호를 재설정하세요. 본 메일은 관리자콘솔 계정 비밀번호 재설정을 위해 발송되는 메일입니다. 고객님께서 요청하지 않았다면 계정 보안을 위해 관리자콘솔 계정에 로그인하여 확인해주세요. 비밀번호 재설정을 요청하셨다면 아래 버튼을 눌러 비밀번호를 변경해주세요. 비밀번호 재설정하기 (주)코리아포트원 | 홈페이지 서울특별시 성동구 성수이로20길 16 JK타워 4층
+
+### Brave Search API login attempt
+- **From**: Brave Search API <search-api@brave.com>
+- **Date**: Tue, 3 Mar 2026 13:16:11 +0000
+- **ID**: `19cb3d787e64f9ee`
+- **Preview**: Brave Hi Astin Han, Here is your verification code to complete the sign-in process: 554463 This verification code will expire in 15 minutes. For security reasons, this code can only be used once. For
 
 ### API 사용 문의
 - **From**: Astin Han <astin@hashed.com>
@@ -17,7 +65,7 @@
 - **ID**: `19cb363be2e4c08e`
 - **Preview**: 안녕하세요 결과메일이 발송되었다고 들었는데 어떠한 회신을 받지 못하여 문의드립니다. 2026년 2월 18일 (수) 오후 10:33, pfplay hello &lt;gm@pfplay.io&gt;님이 작성: Team Member Founder: 이종화 (@DinN0000) CTO: 정주영 (풀타임) PM: 박채운 (사이드) Developer: 이상직, 김주연 (
 
-### **[NEW]** 회원가입 완료
+### 회원가입 완료
 - **From**: hyphen@hyphen.im
 - **Date**: Tue, 3 Mar 2026 20:04:17 +0900 (KST)
 - **ID**: `19cb35ece0911178`
@@ -35,7 +83,7 @@
 - **ID**: `19cb35c1afd91047`
 - **Preview**: 회원가입 인증번호 회원가입 화면에서 아래 인증번호를 입력 해 주세요. 인증번호 Nj0OT1Xo COMPANY. 서울특별시 서초구 강남대로 351, 12층(서초동) (주)하이픈코퍼레이션 사업자등록번호 498-81-02543 COPYRIGHT © Hyphen, co. ALL RIGHTS RESERVED
 
-### **[NEW]** [포트원] 관리자콘솔 계정설정을 완료해주세요
+### [포트원] 관리자콘솔 계정설정을 완료해주세요
 - **From**: cs@portone.io
 - **Date**: Tue, 03 Mar 2026 10:57:14 +0000 (UTC)
 - **ID**: `19cb35855db969c6`
@@ -47,7 +95,7 @@
 - **ID**: `19cb324aab1134ca`
 - **Preview**: 최근 임시주주총회 일정 변경 및 서류 정정 건으로 심려를 끼쳐드린 점 다시 한번 사과의 말씀드립니다. 금번에는 예정된 Series A 투자 및 법인 인수 관련 유상증자 절차 진행에 앞서, 정관상 발행할 주식의 총수 한도 변경에 대한 절차를 이행하고자, 아래와 같이 요청드리고자 합니다. 안녕하세요. 다음과 같이 투자자 동의서 송부 및 임시 주주총회 소집을 통지
 
-### **[NEW]** ‘국내/해외 출장비 보고 (Domestic/international business trip expenses report)’의 승인이 완료되었어요.
+### ‘국내/해외 출장비 보고 (Domestic/international business trip expenses report)’의 승인이 완료되었어요.
 - **From**: flex team <no-reply@flex.team>
 - **Date**: Tue, 3 Mar 2026 09:42:30 +0000
 - **ID**: `19cb313e6eaf87d2`
@@ -59,43 +107,43 @@
 - **ID**: `19cb30eafa8a3f7b`
 - **Preview**: 문서승인 완료 &#39;FIAT 비용 지급 요청 (Payment request for expenses)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 3일 오후 6:36 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
 
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: Medha Srivastava <medha@hashed.com>
 - **Date**: Tue, 3 Mar 2026 14:03:00 +0530
 - **ID**: `19cb2d4e67e9c30b`
 - **Preview**: Dear Sera, Thank you for sharing the SAFE documents. Could you please provide confirmation regarding the status of the Bank of Korea (BOK) reporting and approval process? Dear Attorney Park, It is a
 
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: "'Sera Kim' via Investment" <investment@hashed.com>
 - **Date**: Tue, 3 Mar 2026 17:28:52 +0900
 - **ID**: `19cb2d0c4e2f054f`
 - **Preview**: Dear Medha, Thank you for your detailed comments. We appreciate your acceptance of our position on the liquidation preference and fully acknowledge your concerns regarding the preservation of investor
 
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: Medha Srivastava <medha@hashed.com>
 - **Date**: Tue, 3 Mar 2026 12:44:55 +0530
 - **ID**: `19cb28d720ff49fa`
 - **Preview**: Dear Sera, We acknowledge your position regarding the maintenance of rights and obligations as provided under the original Korean documents. To that end, we accept your position on the liquidation
 
-### **[NEW]** Canceled event: 강남파라곤 투룸 B동 오피스텔라인 @ Tue Mar 3, 2026 3pm - 3:30pm (GMT+9) (astin@hashed.com)
+### Canceled event: 강남파라곤 투룸 B동 오피스텔라인 @ Tue Mar 3, 2026 3pm - 3:30pm (GMT+9) (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
 - **Date**: Tue, 03 Mar 2026 06:40:44 +0000
 - **ID**: `19cb26d796856a5a`
 - **Preview**: 강남파라곤 투룸 B동 오피스텔라인 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 3pm – 3:30pm (Korean Standard Time - Seoul) Location 논현동 241-1 강남파라곤 B동 View map Organizer
 
-### **[NEW]** Canceled event: 삼성동24 탐방 @ Tue Mar 3, 2026 4pm - 4:30pm (GMT+9) (astin@hashed.com)
+### Canceled event: 삼성동24 탐방 @ Tue Mar 3, 2026 4pm - 4:30pm (GMT+9) (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
 - **Date**: Tue, 03 Mar 2026 06:40:42 +0000
 - **ID**: `19cb26d6e369e0f2`
 - **Preview**: 삼성동24 탐방 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 4pm – 4:30pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.
 
-### **[NEW]** Canceled event: [TODO] 두잇 회신 @ Tue Mar 3, 2026 7:30pm - 8pm (GMT+9) (astin@hashed.com)
+### Canceled event: [TODO] 두잇 회신 @ Tue Mar 3, 2026 7:30pm - 8pm (GMT+9) (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
 - **Date**: Tue, 03 Mar 2026 06:40:39 +0000
 - **ID**: `19cb26d66540cd95`
 - **Preview**: [TODO] 두잇 회신 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 7:30pm – 8pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests astin@
 
-### **[NEW]** Canceled event: [TODO] 주노, mythical 업데이트 @ Tue Mar 3, 2026 7pm - 7:30pm (GMT+9) (astin@hashed.com)
+### Canceled event: [TODO] 주노, mythical 업데이트 @ Tue Mar 3, 2026 7pm - 7:30pm (GMT+9) (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
 - **Date**: Tue, 03 Mar 2026 06:40:34 +0000
 - **ID**: `19cb26d51861bdc6`
@@ -136,54 +184,6 @@
 - **Date**: Tue, 03 Mar 2026 05:09:33 +0000
 - **ID**: `19cb21a0173fb39b`
 - **Preview**: You&#39;re almost there! To complete your sign up, please verify your email address. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
-
-### [한국시니어연구소] 정기주주총회 일정 확인 요청의 건
-- **From**: "이진열" <jy@kslab.co.kr>
-- **Date**: Tue, 3 Mar 2026 13:59:23 +0900
-- **ID**: `19cb210d170c3835`
-- **Preview**: 수신자 제위, 안녕하세요. 한국시니어연구소 대표 이진열입니다. 연휴 잘 보내셨나요? 금번 경영간담회 겸 정기주주총회 진행을 위해 일정 확인차 메일을 보내드립니다. 아마 정기주총으로 일정이 많이 바쁘실 것으로 예상되어 아래 일정 중 가능하신 시간대를 편히 공유주시면 최대한 맞춰 진행해보겠습니다. 3월 25일 ~ 3월 31일 중 가능한 시간 전체를 공유해주시면
-
-### Fwd: [동의 요청] 두잇 스톡옵션 풀 확대 및 SAFE 투자 진행을 위한 동의 요청
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Tue, 3 Mar 2026 13:41:55 +0900
-- **ID**: `19cb200e77399144`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Re: Waterfield Global – Fund of Funds I - Capital Call
-- **From**: Shasank Konger <shasank@hashed.com>
-- **Date**: Tue, 3 Mar 2026 09:12:54 +0530
-- **ID**: `19cb1cb204206bd0`
-- **Preview**: Dear Team, Please find the remittance copy attached. Best, Shasank On Thu, Feb 26, 2026 at 8:58 PM &#39;Shareholder Services&#39; via Legal &lt;legal@hashed.com&gt; wrote: Dear Investor, I hope this
-
-### Invitation: 삼성동24 탐방 @ Tue Mar 3, 2026 4pm - 4:30pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Tue, 03 Mar 2026 03:25:42 +0000
-- **ID**: `19cb1baebf16ef81`
-- **Preview**: 삼성동24 탐방 You have been invited by Jihwan to attend an event named 삼성동24 탐방 on Tuesday Mar 3, 2026 ⋅ 4pm – 4:30pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 4pm – 4:30pm (Korean Standard
-
-### Invitation: 강남파라곤 투룸 B동 오피스텔라인 @ Tue Mar 3, 2026 3pm - 3:30pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Tue, 03 Mar 2026 03:22:07 +0000
-- **ID**: `19cb1b7a31dadacb`
-- **Preview**: 강남파라곤 투룸 B동 오피스텔라인 You have been invited by Jihwan to attend an event named 강남파라곤 투룸 B동 오피스텔라인 on Tuesday Mar 3, 2026 ⋅ 3pm – 3:30pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 3pm – 3:
-
-### Re: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 12:13:03 +0900
-- **ID**: `19cb1af56bd22365`
-- **Preview**: 안녕하세요 박영주님, 아래 사업자등록증 및 이메일 참고하셔서 세금계산서 선발행해주시면 바로 조치될 수 있도록 하겠습니다! 절차상 처리가 늦어져 죄송합니다. 세금계산서 수령 이메일: bill@hashed.com 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177
-
-### Accepted: [Placeholder] HVF Exit Strategy @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
-- **From**: Baek Kim <baek@hashed.com>
-- **Date**: Tue, 03 Mar 2026 03:05:23 +0000
-- **ID**: `19cb1a8530300af6`
-- **Preview**: [Placeholder] HVF Exit Strategy Baek Kim has accepted this invitation. Join with Google Meet Meeting link meet.google.com/egw-gwdi-zuv Join by phone (US) +1 513-855-2394 PIN: 736870700 More phone
-
-### Signup reminder:  CCP Mixer | GDC 2026
-- **From**: "'The CCP Team' via Investment" <investment@hashed.com>
-- **Date**: Tue, 03 Mar 2026 03:00:29 +0000
-- **ID**: `19cb1a3e0f6393c0`
-- **Preview**: View this message in browser Hi Seojoon Venture into the unknown at the Dawn Club on Tuesday 10 March. The CCP Games GDC Mixer is invite only. Please RSVP early if you wish to attend as space is
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

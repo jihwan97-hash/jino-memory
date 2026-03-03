@@ -1,30 +1,48 @@
 # Sejinsa (세진사)
-Last researched: 2026-03-01
 
-## Overview
-- Business: 구독형 출장세차 서비스
-- Tagline: "세차에 진심인 사람들, 믿을 수 있는 출장세차"
-- HVF stake: 22.1%
-- Korea-based subscription car wash service
+**Last researched:** 2026-03-03
 
-## Recent Updates (2026 H1)
-- **송파시니어클럽과 업무협약 체결** (2주 전)
-  - 2026년 하반기 공식 사업부 런칭 예정
-  - 시니어 일자리 창출 프로그램 협력
-  - Seoul 50+ 센터와 교육 프로그램 진행 중
-
-## Product/Service
-- 모바일 앱 기반 출장세차 예약
-- 구독형 비즈니스 모델
-- 고객이 주차만 하면 세차 완료 (Sleep & Wake Up Clean Car)
-- Google Play Store 앱 운영 중
+## Company Overview
+Subscription-based mobile car wash service in South Korea. "세차에 진심인 사람들" - People serious about car washing. On-site service while customers rest.
 
 ## Business Model
-- 구독형 출장세차 서비스
-- 시니어 인력 활용한 일자리 창출
-- 아파트/오피스 주차장 타겟
+**Convenience-first mobile car washing**:
+- Book via mobile app
+- Park car in designated lot
+- Sleep/rest at home
+- Wake up to clean car
+- Eliminates need to visit car wash facilities
 
-## Status & Next Steps
-- 2026년 H2: 송파시니어클럽 협력 사업부 공식 런칭 예정
-- 시니어 일자리 + 세차 서비스 결합 모델
-- Active, 사회적 가치 + 수익성 양립 시도
+## Recent Developments (2026)
+
+### Senior Employment Partnership (Feb 2026)
+- **MOU signed** with Songpa Senior Club (송파시니어클럽)
+- Planning **new business unit** leveraging senior workforce
+- Operational plans for **H2 2026 launch**
+- Also collaborating with Seoul 50+ Center for training programs
+
+### Strategic Pivot
+- Expanding beyond pure car wash service
+- **Social impact angle**: Senior employment integration
+- Creates jobs for 50+ demographic while scaling operations
+- Could improve unit economics with experienced, stable workforce
+
+### Market Position
+- Active in Korean market with established app presence (Google Play)
+- Subscription model provides recurring revenue
+- Differentiated by extreme convenience (sleep-while-clean model)
+
+## HVF Position
+- **22.1% stake** held
+- Modest investment, not leading position
+
+## Strategic Assessment
+🟢 **Interesting pivot**:
+- ✅ Clear value prop (convenience)
+- ✅ Recurring revenue model (subscription)
+- ✅ Senior employment partnership shows social responsibility + potential cost optimization
+- ⏳ Small market (Korea car wash), need to see traction metrics
+- 📊 No revenue data available - request update
+
+## Status
+🟢 **Active & evolving** - Senior partnership is smart move. Request Q1 2026 metrics: subscriber count, churn rate, unit economics, expansion plans for H2 business unit.
