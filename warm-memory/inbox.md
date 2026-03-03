@@ -1,9 +1,129 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오전 08:00 KST
+**Last synced**: 2026년 3월 3일 화요일 오후 02:44 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (24 total, 2 unread)
+## Recent Emails (30 total, 0 unread)
+
+### Fwd: [VC협회] 중동 사태 관련 경영 활동 애로사항 접수 안내
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Tue, 3 Mar 2026 14:13:20 +0900
+- **ID**: `19cb21daa0998786`
+- **Preview**: Fyi ---------- Forwarded message --------- From: VC협회 &lt;ms@kvca.or.kr&gt; Date: Tue, Mar 3, 2026 at 2:11 PM Subject: [VC협회] 중동 사태 관련 경영 활동 애로사항 접수 안내 To: &lt;ft@hashed.com&gt; 첨부파일 1개 [회사명] 중동 분쟁 관련
+
+### Please verify your email address
+- **From**: The DataCamp Team <team@reply.datacamp.com>
+- **Date**: Tue, 03 Mar 2026 05:09:33 +0000
+- **ID**: `19cb21a0173fb39b`
+- **Preview**: You&#39;re almost there! To complete your sign up, please verify your email address. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+
+### [한국시니어연구소] 정기주주총회 일정 확인 요청의 건
+- **From**: "이진열" <jy@kslab.co.kr>
+- **Date**: Tue, 3 Mar 2026 13:59:23 +0900
+- **ID**: `19cb210d170c3835`
+- **Preview**: 수신자 제위, 안녕하세요. 한국시니어연구소 대표 이진열입니다. 연휴 잘 보내셨나요? 금번 경영간담회 겸 정기주주총회 진행을 위해 일정 확인차 메일을 보내드립니다. 아마 정기주총으로 일정이 많이 바쁘실 것으로 예상되어 아래 일정 중 가능하신 시간대를 편히 공유주시면 최대한 맞춰 진행해보겠습니다. 3월 25일 ~ 3월 31일 중 가능한 시간 전체를 공유해주시면
+
+### Fwd: [동의 요청] 두잇 스톡옵션 풀 확대 및 SAFE 투자 진행을 위한 동의 요청
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Tue, 3 Mar 2026 13:41:55 +0900
+- **ID**: `19cb200e77399144`
+- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
+
+### Re: Waterfield Global – Fund of Funds I - Capital Call
+- **From**: Shasank Konger <shasank@hashed.com>
+- **Date**: Tue, 3 Mar 2026 09:12:54 +0530
+- **ID**: `19cb1cb204206bd0`
+- **Preview**: Dear Team, Please find the remittance copy attached. Best, Shasank On Thu, Feb 26, 2026 at 8:58 PM &#39;Shareholder Services&#39; via Legal &lt;legal@hashed.com&gt; wrote: Dear Investor, I hope this
+
+### Invitation: 삼성동24 탐방 @ Tue Mar 3, 2026 4pm - 4:30pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 03:25:42 +0000
+- **ID**: `19cb1baebf16ef81`
+- **Preview**: 삼성동24 탐방 You have been invited by Jihwan to attend an event named 삼성동24 탐방 on Tuesday Mar 3, 2026 ⋅ 4pm – 4:30pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 4pm – 4:30pm (Korean Standard
+
+### Invitation: 강남파라곤 투룸 B동 오피스텔라인 @ Tue Mar 3, 2026 3pm - 3:30pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 03:22:07 +0000
+- **ID**: `19cb1b7a31dadacb`
+- **Preview**: 강남파라곤 투룸 B동 오피스텔라인 You have been invited by Jihwan to attend an event named 강남파라곤 투룸 B동 오피스텔라인 on Tuesday Mar 3, 2026 ⋅ 3pm – 3:30pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 3pm – 3:
+
+### Re: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 3 Mar 2026 12:13:03 +0900
+- **ID**: `19cb1af56bd22365`
+- **Preview**: 안녕하세요 박영주님, 아래 사업자등록증 및 이메일 참고하셔서 세금계산서 선발행해주시면 바로 조치될 수 있도록 하겠습니다! 절차상 처리가 늦어져 죄송합니다. 세금계산서 수령 이메일: bill@hashed.com 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177
+
+### Accepted: [Placeholder] HVF Exit Strategy @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
+- **From**: Baek Kim <baek@hashed.com>
+- **Date**: Tue, 03 Mar 2026 03:05:23 +0000
+- **ID**: `19cb1a8530300af6`
+- **Preview**: [Placeholder] HVF Exit Strategy Baek Kim has accepted this invitation. Join with Google Meet Meeting link meet.google.com/egw-gwdi-zuv Join by phone (US) +1 513-855-2394 PIN: 736870700 More phone
+
+### Signup reminder:  CCP Mixer | GDC 2026
+- **From**: "'The CCP Team' via Investment" <investment@hashed.com>
+- **Date**: Tue, 03 Mar 2026 03:00:29 +0000
+- **ID**: `19cb1a3e0f6393c0`
+- **Preview**: View this message in browser Hi Seojoon Venture into the unknown at the Dawn Club on Tuesday 10 March. The CCP Games GDC Mixer is invite only. Please RSVP early if you wish to attend as space is
+
+### RE: [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
+- **From**: "SSG파트너오피스 - SSG.COM" <partners@ssg.com>
+- **Date**: Tue, 3 Mar 2026 02:09:13 +0000
+- **ID**: `19cb1750123935a5`
+- **Preview**: 안녕하세요. SSG.COM 셀러성장팀 셀러지원파트 입니다. OpenAPI를 사용하려면 → API Key 발급 → 문서 확인 → API 호출 → 응답 처리의 순으로 진행됩니다. 특정 OpenAPI 사용을 말씀하시는 경우,어떤 OpenAPI인지 말씀 해 주시면 하단과 같이 확인 후 안내드리도록 하겠습니다. ○ 실제 경로 ○ 계정 발급 방법 ○인증 방식 ○ 호출
+
+### Invitation: 미팅 @ Tue Mar 3, 2026 11am - 12pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 02:02:15 +0000
+- **ID**: `19cb16e84fa66102`
+- **Preview**: 미팅 You have been invited by Jihwan to attend an event named 미팅 on Tuesday Mar 3, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul)
+
+### Canceled event: 미팅 @ Tue Mar 3, 2026 11am - 12pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 02:02:13 +0000
+- **ID**: `19cb16e7a9d6b384`
+- **Preview**: 미팅 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.com
+
+### Invitation: 미팅 @ Tue Mar 3, 2026 11am - 12pm (GMT+9) (astin@hashed.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 02:01:27 +0000
+- **ID**: `19cb16dc8bdffe4b`
+- **Preview**: 미팅 You have been invited by Jihwan to attend an event named 미팅 on Tuesday Mar 3, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul)
+
+### Edge DeFi Offshore Fund, Ltd. - BTC | Investor Account Statement for January 2026 | Distributed Protocols Pte. Ltd.
+- **From**: NAV Fund Services <investor.relations@navfundservices.com>
+- **Date**: Tue, 3 Mar 2026 07:14:33 +0530
+- **ID**: `19cb15ed31c49154`
+- **Preview**: Your Investor Statement is Ready to View The Investor Statement for the current period, for your investment in Edge DeFi Offshore Fund, Ltd. - BTC, is attached. The accompanying Disclosure Document is
+
+### Carta Alert: Login attempt from an untrusted device detected
+- **From**: no-reply via Investment <investment@hashed.com>
+- **Date**: Tue, 03 Mar 2026 01:43:13 +0000
+- **ID**: `19cb15d1f800a8c6`
+- **Preview**: Login attempt from an untrusted device detected We have detected a login attempt on your Carta account investment@hashed.com. Time: 03/03/2026 at 10:43:13 AM KST Location: Near Seoul, KR Public IP
+
+### [프레인글로벌] 2026년 3월 3일(화) 해시드 국내 뉴스 데일리 모니터링
+- **From**: "해시드 국내PR" <hashed_kr@prain.com>
+- **Date**: Tue, 3 Mar 2026 01:30:00 +0000
+- **ID**: `19cb1512171324ec`
+- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 3일 화요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.3(화) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 2/27(금) 김서준 해시드 대표 &quot;AI 시대 IP 성공은 확장
+
+### Re: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
+- **From**: Dohoon Chang <dohoonchang@gmail.com>
+- **Date**: Tue, 3 Mar 2026 10:05:47 +0900
+- **ID**: `19cb13b029b2bfa0`
+- **Preview**: 안녕하세요? 1분사진관 장도훈입니다. 프로그램에 큰 관심과 기대를 가지고 있었는데 선정되지 않아 아쉽습니다. 이메일을 드린 이유는, 결과 안내 메일을 읽으며 실망하고 낙담하기도 하였지만 과정에 대한 설명이 진실함으로 전달되며 오히려 더 열심히 해야될 동기를 얻게 되었습니다 처음 이 프로그램을 보고 흥분 했던 것처럼 정성스런 진행과 안내에 감사드리며 프로그램의
+
+### Fwd: [동의 요청] 두잇 스톡옵션 풀 확대 및 SAFE 투자 진행을 위한 동의 요청
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Tue, 3 Mar 2026 09:58:16 +0900
+- **ID**: `19cb134287d7e49f`
+- **Preview**: ---------- Forwarded message --------- 보낸사람: Yunseok Lee &lt;yslee@doeat.io&gt; Date: 2026년 3월 3일 (화) AM 9:50 Subject: [동의 요청] 두잇 스톡옵션 풀 확대 및 SAFE 투자 진행을 위한 동의 요청 To: Jin Oh &lt;joh@goodwatercap.com
+
+### Your Account Has Been Created
+- **From**: NAV Fund Services <investor.relations@navfundservices.com>
+- **Date**: Tue, 03 Mar 2026 00:19:00 +0000
+- **ID**: `19cb110038d5de83`
+- **Preview**: Your User Account Has Been Created An account has been created for you on the Portal to access information on your following investments: Distributed Protocols Pte. Ltd. Krew Capital Venture Fund I LP
 
 ### Invitation: [TODO] 대시보드 점검 @ Tue Mar 3, 2026 10am - 11am (GMT+9) (astin@hashed.com)
 - **From**: Jihwan <jihwan260213@gmail.com>
@@ -11,7 +131,7 @@
 - **ID**: `19cafbda691cfb97`
 - **Preview**: [TODO] 대시보드 점검 You have been invited by Jihwan to attend an event named [TODO] 대시보드 점검 on Tuesday Mar 3, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 10am – 11am (
 
-### **[NEW]** Root Access: OpenClaw, Red Hat, and Palantir
+### Root Access: OpenClaw, Red Hat, and Palantir
 - **From**: "'Dr. Steven Waterhouse' via Platform Team" <platform@hashed.com>
 - **Date**: Mon, 2 Mar 2026 18:09:10 +0000
 - **ID**: `19cafbd99d18fe60`
@@ -64,90 +184,6 @@
 - **Date**: Mon, 02 Mar 2026 15:14:16 +0000
 - **ID**: `19caf1d4d354b2ed`
 - **Preview**: Week in Focus The story that defined markets this past week Bitcoin navigated a volatile week of geopolitical tensions, recovering to trade around $66k after initial sell-offs triggered by escalating
-
-### Invitation: clawroid API 발급받기 @ Tue Mar 3 - Thu Mar 5, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Mon, 02 Mar 2026 15:07:25 +0000
-- **ID**: `19caf1701326c4a3`
-- **Preview**: clawroid API 발급받기 You have been invited by Jihwan to attend an event named clawroid API 발급받기 on Tuesday Mar 3 – Thursday Mar 5, 2026. When Tuesday Mar 3 – Thursday Mar 5, 2026 Organizer Jihwan
-
-### [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 2 Mar 2026 23:35:20 +0900
-- **ID**: `19caef9a15d259a1`
-- **Preview**: 안녕하세요 담당자님, 주식회사 해시드의 한지환입니다. 저희가 이번에 사용자들이 원하는 물품을 자동으로 주문할 수 있게 하는 서비스를 개발 중에 있는데, OpenAPI를 어떻게 하면 사용할 수 있을지 궁금해 이메일 드립니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177
-
-### [카카오 T 비즈니스] 관리자 가입 인증번호
-- **From**: "카카오 T 비즈니스" <noreply_biz@kakaomobility.com>
-- **Date**: Mon, 2 Mar 2026 23:17:44 +0900 (KST)
-- **ID**: `19caee9897b8d9e3`
-- **Preview**: 인증번호를 확인하세요. 안녕하세요. 카카오 T 비즈니스에 오신 것을 환영합니다. 아래 인증번호를 입력해서 회원가입을 완료해주세요. 인증번호 7241 유효기간 2026.03.03 00:17 이용 중 불편사항이나 궁금하신 사항은 운영센터(1644 - 7391)로 문의해주세요. © Kakao Mobility Corp.
-
-### Changes to Your Cloudflare Subscription
-- **From**: Cloudflare <noreply@notify.cloudflare.com>
-- **Date**: Mon, 02 Mar 2026 13:02:13 +0000
-- **ID**: `19caea46300840f3`
-- **Preview**: Hi there, We wanted to inform you that your Cloudflare Zero Trust subscription has been cancelled as of March 2. If this was intentional, no further action is required on your part. This means you will
-
-### Changes to Your Cloudflare subscription
-- **From**: Cloudflare <noreply@notify.cloudflare.com>
-- **Date**: Mon, 02 Mar 2026 12:56:28 +0000
-- **ID**: `19cae9f1cfc29589`
-- **Preview**: Hi there, We wanted to inform you that your Cloudflare Workers subscription is scheduled for cancellation on April 2. This means you will no longer benefit from processing HTTP requests to support your
-
-### Changes to Your Cloudflare subscription
-- **From**: Cloudflare <noreply@notify.cloudflare.com>
-- **Date**: Mon, 02 Mar 2026 12:55:53 +0000
-- **ID**: `19cae9e98b91261b`
-- **Preview**: Hi there, We wanted to inform you that your R2 Storage subscription is scheduled for cancellation on April 2. This means you will no longer benefit from the ability to store data with Cloudflare R2. If
-
-### Invitation: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Mon, 02 Mar 2026 12:50:02 +0000
-- **ID**: `19cae99365ef1b8f`
-- **Preview**: Vibekai.com 살펴보기 You have been invited by Jihwan to attend an event named Vibekai.com 살펴보기 on Tuesday Mar 3, 2026. When Tuesday Mar 3, 2026 Organizer Jihwan jihwan260213@gmail.com Guests astin@hashed.
-
-### Canceled event: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 12am - 11:59pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Mon, 02 Mar 2026 12:49:56 +0000
-- **ID**: `19cae991fe48042a`
-- **Preview**: Vibekai.com 살펴보기 This event has been canceled and removed from your calendar. When Tuesday Mar 3, 2026 ⋅ 12am – 11:59pm (Korean Standard Time - Seoul) Organizer Jihwan jihwan260213@gmail.com Guests
-
-### Your Cloudflare purchase confirmation
-- **From**: Cloudflare <noreply@notify.cloudflare.com>
-- **Date**: Mon, 02 Mar 2026 12:47:59 +0000
-- **ID**: `19cae975982ea06a`
-- **Preview**: Cloudflare has successfully charged $165.17 to your amex card. Cloudflare logo Cloudflare has successfully charged $165.17 to your amex card View invoice Want invoices sent over email? Just enable
-
-### Invitation: Vibekai.com 살펴보기 @ Tue Mar 3, 2026 12am - 11:59pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Mon, 02 Mar 2026 12:44:55 +0000
-- **ID**: `19cae948a77131da`
-- **Preview**: Vibekai.com 살펴보기 You have been invited by Jihwan to attend an event named Vibekai.com 살펴보기 on Tuesday Mar 3, 2026 ⋅ 12am – 11:59pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 12am – 11:
-
-### Your Cloudflare invoice is available
-- **From**: Cloudflare <noreply@notify.cloudflare.com>
-- **Date**: Mon, 02 Mar 2026 12:38:28 +0000
-- **ID**: `19cae8ea622cf648`
-- **Preview**: Invoice ID IN-58843636 is due on March 2, 2026. Thank you for using Cloudflare. Cloudflare logo Your invoice is available. Thank you for using Cloudflare. View invoice Invoice details Invoice ID: IN-
-
-### RE: [Hashed Vibe Labs: Seoul] 선발 결과 안내드립니다
-- **From**: "인생뷰티" <softkids@naver.com>
-- **Date**: Mon, 02 Mar 2026 11:28:23 +0900
-- **ID**: `19cac6024bb5f3fa`
-- **Preview**: 보내주신 메일 잘 읽어보았습니다. 수많은 지원팀 사이에서 저희의 고민과 시간을 알아주시는 따뜻한 문장들에 큰 위로와 격려를 받았습니다. 탈락의 아쉬움보다, 이런 철학을 가진 팀과 인연을 맺고 싶었다는 확신이 더 커지는 메일이었습니다. 메일에서 언급해주신 &#39;투자자의 실수&#39;와 &#39;심사의 한계&#39;에 대한 솔직한 고백을 보며 깊은 감명을
-
-### **[NEW]** Invitation: [Vibe Labs Seoul] 8-Week Build Loop @ Tue Mar 3 - Fri Apr 24, 2026 (Astin Han)
-- **From**: Dan Park <dan.park@hashed.com>
-- **Date**: Mon, 02 Mar 2026 01:37:21 +0000
-- **ID**: `19cac315d8479223`
-- **Preview**: [Vibe Labs Seoul] 8-Week Build Loop You have been invited by Dan Park to attend an event named [Vibe Labs Seoul] 8-Week Build Loop on Tuesday Mar 3 – Friday Apr 24, 2026. When Tuesday Mar 3 – Friday
-
-### Fwd: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드)
-- **From**: Dan Park <dan.park@hashed.com>
-- **Date**: Mon, 2 Mar 2026 10:25:37 +0900
-- **ID**: `19cac26d1400d474`
-- **Preview**: ---------- Forwarded message --------- From: 리플로우 &lt;reflow@krypton36.co&gt; Date: Fri, Feb 27, 2026 at 1:41 PM Subject: [견적][입금요청] 리플로우제주 공간 및 숙박 이용료 견적서 - 미이용 싱글 2박 제외적용 (해시드) To: Dan Park &lt;dan.
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

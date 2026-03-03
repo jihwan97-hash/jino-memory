@@ -1,9 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 3일 화요일 오전 08:00 KST
+**Last synced**: 2026년 3월 3일 화요일 오후 02:44 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (11 total, 4 unread)
+## Recent Emails (12 total, 5 unread)
+
+### **[NEW]** 초대장: 피부과 방문 - 2026년 3월 3일 (화) PM 5시 - PM 6시 (GMT+9) (gkswlghks118@gmail.com)
+- **From**: Jihwan <jihwan260213@gmail.com>
+- **Date**: Tue, 03 Mar 2026 04:57:49 +0000
+- **ID**: `19cb20f4176a0c14`
+- **Preview**: 피부과 방문 Jihwan님이 2026년 3월 3일 (화요일) ⋅ PM 5시 – PM 6시 (한국 표준시 - 서울)에 열리는 피부과 방문 일정에 나를 초대했습니다. 시간 2026년 3월 3일 (화요일) ⋅ PM 5시 – PM 6시 (한국 표준시 - 서울) 주최자 Jihwan jihwan260213@gmail.com 참석자 gkswlghks118@gmail.
+
+### **[NEW]** Your receipt from Anthropic, PBC #2184-4515-6918
+- **From**: "Anthropic, PBC" <invoice+statements@mail.anthropic.com>
+- **Date**: Tue, 3 Mar 2026 03:12:55 +0000
+- **ID**: `19cb1af39d5af60c`
+- **Preview**: Your receipt from Anthropic, PBC #2184-4515-6918 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
 
 ### **[NEW]** New in Copilot Pro: Planning and subagents in the CLI, Agent Skills, and more
 - **From**: GitHub <no-reply@github.com>
@@ -64,12 +76,6 @@
 - **Date**: Mon, 02 Mar 2026 12:28:48 +0100
 - **ID**: `19cae4ed834e0caf`
 - **Preview**: Dear Sir or Madam In order to verify your email address, please open the following link: https://accounts.hetzner.com/signUp/verify/3409129-DKaxgqW9tFkVXUzhLPfSNu9gLsnYg6jg Please note that the link is
-
-### **[NEW]** 4 Startups Rebuilding Power for the AI Era | Jarsy Weekly #13
-- **From**: Jarsy Weekly <weekly@jarsynews.com>
-- **Date**: Mon, 02 Mar 2026 01:29:26 +0000 (UTC)
-- **ID**: `19cac2a268cdd289`
-- **Preview**: Westinghouse generators, Hydroelectric power station, Niagara Falls, USA, published 1898 Image Credit: Getty Images Electricity used to be the “easy” part of the energy system: generate it somewhere,
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_

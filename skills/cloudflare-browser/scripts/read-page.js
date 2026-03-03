@@ -1,19 +1,12 @@
 #!/usr/bin/env node
 /**
- * Read a web page via local headless Chrome
+ * Read a web page via Playwright Chromium (on-demand)
  *
  * Navigates to a URL, renders JavaScript, and extracts clean text.
  * Works on JS-heavy/SPA sites that plain HTTP fetch can't read.
  *
  * Usage:
  *   node read-page.js URL [--max-chars 3000] [--html] [--wait 4000]
- *
- * Options:
- *   --max-chars N  Max characters to extract (default: 3000)
- *   --html         Output raw HTML instead of text
- *   --wait N       Wait time in ms after navigation (default: 4000)
- *
- * Requires: Chromium running with --remote-debugging-port=9222
  */
 
 const { createClient } = require('./cdp-client');
@@ -56,27 +49,22 @@ async function main() {
         console.log(html.substring(0, maxChars));
       }
     } else {
-      // Extract clean article text, stripping nav/footer/sidebar noise
-      var expression = 'JSON.stringify((function() {' +
-        'var article = document.querySelector("article") || document.querySelector("[role=main]") || document.querySelector("main");' +
-        'var el = article || document.body;' +
-        'var clone = el.cloneNode(true);' +
-        'var remove = clone.querySelectorAll("nav, footer, aside, header, script, style, [role=navigation], [role=banner], [role=complementary]");' +
-        'for (var i = 0; i < remove.length; i++) remove[i].remove();' +
-        'return clone.innerText.replace(/\\\\s+/g, " ").trim().substring(0, ' + maxChars + ');' +
-        '})())';
-
-      var result = await client.send('Runtime.evaluate', {
-        expression: expression,
-        returnByValue: true
+      var text = await client.evaluate(function () {
+        var article = document.querySelector('article') || document.querySelector('[role=main]') || document.querySelector('main');
+        var el = article || document.body;
+        var clone = el.cloneNode(true);
+        var remove = clone.querySelectorAll('nav, footer, aside, header, script, style, [role=navigation], [role=banner], [role=complementary]');
+        for (var i = 0; i < remove.length; i++) remove[i].remove();
+        return clone.innerText.replace(/\s+/g, ' ').trim();
       });
 
-      if (result && result.result && result.result.value) {
+      if (text) {
+        text = text.substring(0, maxChars);
         var output = {
           url: url,
           timestamp: new Date().toISOString(),
-          charCount: JSON.parse(result.result.value).length,
-          content: JSON.parse(result.result.value)
+          charCount: text.length,
+          content: text
         };
         console.log(JSON.stringify(output, null, 2));
       } else {

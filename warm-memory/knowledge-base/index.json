@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "description": "지식 베이스 인덱스 — 단기/중기/장기 기억 파이프라인",
+  "entries": [
+    {
+      "id": "kb-001",
+      "title": "AI 기억 시스템으로 배움 효율 극대화",
+      "file": "short-term/2026-03-03_AI기억시스템_Nathan.md",
+      "tags": [
+        "AI",
+        "기억시스템",
+        "지식관리",
+        "SecondBrain",
+        "학습",
+        "자동화",
+        "OpenClaw"
+      ],
+      "source": "https://x.com/nathanyjlee/status/2028664469384237135",
+      "savedAt": "2026-03-03",
+      "tier": "short-term",
+      "summary": "지식을 AI로 DB화하고 단기→중기→장기 기억으로 증류 저장"
+    }
+  ],
+  "tags": {
+    "AI": [
+      "kb-001"
+    ],
+    "기억시스템": [
+      "kb-001"
+    ],
+    "지식관리": [
+      "kb-001"
+    ],
+    "SecondBrain": [
+      "kb-001"
+    ],
+    "학습": [
+      "kb-001"
+    ],
+    "자동화": [
+      "kb-001"
+    ],
+    "OpenClaw": [
+      "kb-001"
+    ]
+  },
+  "lastUpdated": "2026-03-03T05:48:00+09:00"
+}
