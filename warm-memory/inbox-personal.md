@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오전 02:20 KST
+**Last synced**: 2026년 3월 4일 수요일 오전 08:20 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (8 total, 7 unread)
+## Recent Emails (7 total, 6 unread)
 
 ### **[NEW]** 새 기기 로그인
 - **From**: Uber <noreply@uber.com>
@@ -46,12 +46,6 @@
 - **Date**: Tue, 3 Mar 2026 03:12:55 +0000
 - **ID**: `19cb1af39d5af60c`
 - **Preview**: Your receipt from Anthropic, PBC #2184-4515-6918 ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
-
-### **[NEW]** New in Copilot Pro: Planning and subagents in the CLI, Agent Skills, and more
-- **From**: GitHub <no-reply@github.com>
-- **Date**: Mon, 02 Mar 2026 22:30:32 +0000 (UTC)
-- **ID**: `19cb0acb0227fcab`
-- **Preview**: Recent Copilot updates that change how real work gets done. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ GitHub GitHub Below are some recent updates around planning, delegation, subagents, Agent Skills, and
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_

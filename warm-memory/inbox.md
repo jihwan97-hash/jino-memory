@@ -1,9 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오전 02:20 KST
+**Last synced**: 2026년 3월 4일 수요일 오전 08:20 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 4 unread)
+## Recent Emails (30 total, 6 unread)
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Sujung Park <spark@fidealaw.com>
+- **Date**: Tue, 3 Mar 2026 11:41:46 -0800
+- **ID**: `19cb53922be70ab5`
+- **Preview**: Hi, Medha, it is a pleasure to e-meet you as well. I am revising the previously shared documents to incorporate some of your comments. I will get back to you shortly with the updated drafts for your
+
+### **[NEW]** Edge Capital: Inside U.S. Crypto Sentiment | Insights from New York, Mar-a-Lago, ETH Denver & Miami
+- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
+- **Date**: Tue, 3 Mar 2026 17:28:24 +0000
+- **ID**: `19cb4bee14a90b33`
+- **Preview**: Dear Investor, Over the past few weeks, senior management at Edge Capital conducted over 70 meetings with institutional allocators, broker-dealers, custodians, policy stakeholders, and builders across
 
 ### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: "'Sera Kim' via Investment" <investment@hashed.com>
@@ -172,18 +184,6 @@
 - **Date**: Tue, 3 Mar 2026 14:56:35 +0900
 - **ID**: `19cb2450c639dab5`
 - **Preview**: 안녕하세요 이진열 대표님, 해시드 운영매니저 한지환입니다. 정기주총 관련하여 비대면으로 가능한 일정 전달드립니다. (기본적으로 오전 10시부터 오후 6시 정도까지 가능합니다.) 25일: 오후 4시-5시 제외 26일: 오전 10시부터 ~ (오후 1시-3시 제외) 27일: 오전 11시-오후 1시 제외, 오후 3시-4시 제외 30일: 오후 3시-5시 제외 31일:
-
-### Fwd: [VC협회] 중동 사태 관련 경영 활동 애로사항 접수 안내
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Tue, 3 Mar 2026 14:13:20 +0900
-- **ID**: `19cb21daa0998786`
-- **Preview**: Fyi ---------- Forwarded message --------- From: VC협회 &lt;ms@kvca.or.kr&gt; Date: Tue, Mar 3, 2026 at 2:11 PM Subject: [VC협회] 중동 사태 관련 경영 활동 애로사항 접수 안내 To: &lt;ft@hashed.com&gt; 첨부파일 1개 [회사명] 중동 분쟁 관련
-
-### Please verify your email address
-- **From**: The DataCamp Team <team@reply.datacamp.com>
-- **Date**: Tue, 03 Mar 2026 05:09:33 +0000
-- **ID**: `19cb21a0173fb39b`
-- **Preview**: You&#39;re almost there! To complete your sign up, please verify your email address. ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

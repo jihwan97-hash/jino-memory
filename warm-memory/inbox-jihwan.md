@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오전 02:20 KST
+**Last synced**: 2026년 3월 4일 수요일 오전 08:20 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (9 total, 9 unread)
+## Recent Emails (8 total, 8 unread)
 
 ### **[NEW]** 수락함: Vibekai.com 살펴보기 - 2026년 3월 3일 (화) (jihwan260213@gmail.com)
 - **From**: Astin Han <astin@hashed.com>
@@ -52,12 +52,6 @@
 - **Date**: Tue, 03 Mar 2026 03:21:08 +0000
 - **ID**: `19cb1b6babab5ea7`
 - **Preview**: 미팅 Astin Han 님이 초대를 거부했습니다. Google Meet으로 참여하기 회의 링크 meet.google.com/vkn-nkkw-aox 시간 2026년 3월 3일 (화요일) ⋅ AM 11시 – PM 12시 (한국 표준시 - 서울) 주최자 jihwan260213@gmail.com 참석자 Astin Han SJ Baek 모든 참석자 정보 보기
-
-### **[NEW]** 수락함: [TODO] B3 업데이트 (슬랙 참고) - 2026년 3월 3일 (화) AM 9시 - AM 10시 (GMT+9) (jihwan260213@gmail.com)
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 02 Mar 2026 18:08:39 +0000
-- **ID**: `19cafbceb5b76852`
-- **Preview**: [TODO] B3 업데이트 (슬랙 참고) Astin Han 님이 초대를 수락했습니다. 시간 2026년 3월 3일 (화요일) ⋅ AM 9시 – AM 10시 (한국 표준시 - 서울) 주최자 jihwan260213@gmail.com 참석자 Astin Han 모든 참석자 정보 보기 Google Calendar에서 보낸 초대장 캘린더 알림을 수신 허용했으므로 전송된
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account jihwan_
