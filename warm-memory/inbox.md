@@ -1,11 +1,17 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오후 05:57 KST
+**Last synced**: 2026년 3월 4일 수요일 오후 11:57 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 1 unread)
+## Recent Emails (30 total, 0 unread)
 
-### **[NEW]** Fwd: [해시드벤처스] 2025년 기말 결산자료 요청의 건
+### Updated invitation: 닥터나우 주주간담회 @ Fri Mar 6, 2026 4pm - 5:30pm (GMT+9) (Astin Han)
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Wed, 04 Mar 2026 11:24:20 +0000
+- **ID**: `19cb8977cc9c68f7`
+- **Preview**: 닥터나우 주주간담회 You have been invited by SJ Baek to attend an event named 닥터나우 주주간담회 on Friday Mar 6, 2026 ⋅ 4pm – 5:30pm (Korean Standard Time - Seoul). This event has been updated Changed: title When
+
+### Fwd: [해시드벤처스] 2025년 기말 결산자료 요청의 건
 - **From**: Sun choi <sun@hashed.com>
 - **Date**: Wed, 4 Mar 2026 17:18:16 +0900
 - **ID**: `19cb7ed4d9bff64d`
@@ -178,12 +184,6 @@
 - **Date**: Wed, 4 Mar 2026 01:30:00 +0000
 - **ID**: `19cb6777abb3efc5`
 - **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 4일 수요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.4(수) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/3(화) 가상자산거래소 지분 제한? 누가 왜 밀어붙이나. 슬로우뉴스
-
-### Re: [닥터나우] 주주간담회 일정 조율 - 정진웅 대표 메일 후속 팔로업 건
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Wed, 4 Mar 2026 10:12:22 +0900
-- **ID**: `19cb667635c3a934`
-- **Preview**: 네 부대표님, 만약 금요일 오후 3시로 확정이 되게되면 저희 회사 플랫폼팀에 새로 조인하셔서 포트폴리오 실무 지원 맡아주고 계신 한지환 매니저님께서 먼저 참석하실 수 있도록 하겠습니다. 일정 확정되면 말씀 부탁 드려요! 감사합니다. 백수진 드림 SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오후 05:57 KST
+**Last synced**: 2026년 3월 4일 수요일 오후 11:57 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (4 total, 4 unread)
+## Recent Emails (3 total, 3 unread)
 
 ### **[NEW]** [컬러스케일] 비회원 님 주문 내역을 알려드립니다.
 - **From**: "컬러스케일" <no-reply@cafe24shop.com>
@@ -21,12 +21,6 @@
 - **From**: Uber <noreply@uber.com>
 - **Date**: Tue, 03 Mar 2026 15:43:12 +0000
 - **ID**: `19cb45e20bf61653`
-- **Preview**: 새 기기에서 회원님의 Uber 계정에 로그인했습니다. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
-
-### **[NEW]** 새 기기 로그인
-- **From**: Uber <noreply@uber.com>
-- **Date**: Tue, 03 Mar 2026 10:53:22 +0000
-- **ID**: `19cb354c48e5adc0`
 - **Preview**: 새 기기에서 회원님의 Uber 계정에 로그인했습니다. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
 
 ---
