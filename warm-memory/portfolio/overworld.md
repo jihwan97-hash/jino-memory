@@ -1,47 +1,15 @@
-# Overworld
-**Last Researched:** 2026-02-27
+### Overworld
+- Status: 🟡 Watch
+- Key finding: Hashed 리드 $10M Seed (Feb 2024), Xterio 퍼블리싱 Web3 ARPG - 아직 미출시, 개발 지속 중
+- Action needed: 게임 출시 타임라인 확인, Xterio Season Two 연계 활동 모니터링
+- Source: https://en.wowtale.net/2024/02/15/71749/
+- Last researched: 2026-03-04
 
-## Recent Developments (2024-2026)
-
-### Funding (Feb 2024)
-- **Seed round: 0M**
-- **Co-led by**: Hashed, The Spartan Group, Sanctor Capital, Galaxy Interactive
-- Additional investors: Signum Capital, Big Brain Holdings, Foresight Ventures, others
-
-### Team & Background
-- **Led by**: Jeremy Horn (Xterio co-founder)
-- Previous experience building cross-platform multiplayer games
-- Remote-first company based in Los Angeles
-
-### Product Focus
-- **Cross-platform multiplayer action RPG (ARPG)**
-- "Vibrant, high-quality" online RPG
-- PvP (Player vs Player) focused
-- Built for modern gaming platforms
-
-### Development Status (as of early 2026)
-- In development since seed round (Feb 2024)
-- ~2 years post-funding
-- No public launch or beta announcement found in recent search
-- Likely still in pre-launch/alpha phase
-
-### Market Position
-- Targeting competitive online ARPG market
-- Competitors: Diablo series, Path of Exile, Lost Ark
-- Differentiation: Cross-platform support, modern tech stack
-- Blockchain integration status unclear (Hashed involvement suggests potential web3 elements)
-
-### Strategic Context
-- Seed funding timing: Feb 2024 (height of blockchain gaming investment)
-- 2026 context: Game development typically 3-5 years, on track for potential 2026-2027 launch
-- Key risk: Competitive market with established AAA titles
-
-### Next Steps to Monitor
-- **Beta launch announcement** (critical milestone)
-- Gameplay reveals, trailers, or demo releases
-- Platform announcements (PC, console, mobile)
-- Blockchain/web3 integration clarity (if any)
-- Team expansion and hiring velocity
-- Additional fundraising (Series A likely needed for full launch)
-- Competitive positioning and differentiation clarity
-- Marketing and community building efforts
+## 상세 내용
+- 애니메이션 스타일 3D 크로스플랫폼 온라인 ARPG
+- 투자: $10M Seed (Feb 2024, Hashed 리드, Spartan Group, Sanctor Capital, Galaxy Interactive)
+- 퍼블리셔: Xterio (FunPlus 백킹 Web3 게임 플랫폼)
+- 게임 아직 미출시 (upcoming sandbox RPG with on-chain collectibles)
+- Xterio Season Two 2025년 7월 참조
+- 게임 펀딩 전반 2025년 십년 저점 기록 - 어려운 시장 환경
+- NFT 콜렉터블 선판매 완료, 플레이어 커뮤니티 형성 중

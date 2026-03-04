@@ -1,43 +1,15 @@
-# LOVO
-**Last Researched:** 2026-02-27
+### LOVO
+- Status: 🟡 Watch
+- Key finding: AI 보이스 TTS 플랫폼 (Genny), 총 $6.5M 펀딩, ElevenLabs 대비 기능 풍부하나 음질에서 열위 - 경쟁 심화
+- Action needed: 차별화 전략 및 추가 펀딩 필요 여부 확인, Open API 수익화 진행 상황 점검
+- Source: https://youraisoft.com/lovo-ai-review/
+- Last researched: 2026-03-04
 
-## Recent Developments (2025-2026)
-
-### Product & Technology
-- **AI voice generator and text-to-speech platform**
-- **500+ voices in 100 languages**
-- Features: Voice cloning, realistic AI voiceovers, online video editor
-- Award-winning platform (specific awards not detailed in search)
-- Use cases: Content creators, businesses, educators
-
-### Pricing Structure (2025-2026)
-- **Pro Plan**: 5 hours of synthesis
-- **Next tier**: 20 hours (significantly higher price point)
-- Customer feedback: Pricing gaps between tiers are large
-- Rigid payment plan structure (no flexibility reported)
-- Target market: Small projects, content creators needing occasional TTS
-
-### Market Position
-- Competing in crowded AI voice synthesis market
-- Competitors: ElevenLabs, Murf.ai, Speechify, Play.ht
-- Differentiation: Multi-language support, voice variety, integrated video editor
-
-### User Feedback
-- Positive: Quality of voice synthesis, language variety
-- Negative: Inflexible pricing tiers, jump from Pro to next level too steep
-- Ideal for: Small projects, non-enterprise users
-
-### Business Model
-- SaaS subscription model
-- Usage-based tiers (hours of synthesis)
-- Focus on self-serve platform vs enterprise sales
-
-### Next Steps to Monitor
-- Pricing model updates/flexibility improvements
-- Enterprise tier introduction for larger clients
-- Voice quality improvements vs ElevenLabs competition
-- Series A/B fundraising status (no recent funding news found)
-- Revenue and user growth metrics
-- Expansion to new languages/voice styles
-- Integration partnerships (video editing platforms, content tools)
-- Competitive positioning as AI voice market consolidates
+## 상세 내용
+- AI 음성 생성/TTS 플랫폼 (Genny Studio)
+- 총 펀딩: $6.5M (2라운드: Seed + Pre-Series A $4.5M from Kakao Entertainment)
+- 제품: 500개+ 음성, 100개 언어, 비디오 편집 통합, Open API ($0.03/1000자)
+- 강점: 광범위한 크리에이터 툴셋, AI 작가 포함
+- 약점: ElevenLabs 대비 음성 품질 열위
+- 경쟁: ElevenLabs (수억 달러 펀딩), Murf, PlayAI, Cartesia
+- Kakao Entertainment, LG CNS가 주요 투자자

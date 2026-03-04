@@ -1,48 +1,14 @@
-# DG Ventures
+### DG Ventures
+- Status: 🔴 Critical
+- Key finding: Tracxn 기준 2025년 단 한 건도 투자 집행 없음 (Oct 2025 기준) - 활동 정지 가능성
+- Action needed: DG Ventures의 HVF1 포트폴리오 내 정확한 성격 파악 필요 (VC 펀드? 스타트업?) + 경영진 직접 컨택
+- Source: https://tracxn.com/d/venture-capital/dg-ventures/__T4bkeVC2CEY_tRzaLE94PouC-HlDmZhkSDc6hU_vvxM
+- Last researched: 2026-03-04
 
-**Last researched:** 2026-03-03
-
-## Company Overview
-Blockchain ecosystem fund/project (DGP - likely Digital Garage Portfolio or similar).
-
-## Recent Developments (2026)
-
-### DG Daiwa Ventures (Possible Confusion)
-Note: Search results primarily show **DG Daiwa Ventures** (Tokyo VC, joint venture of Daiwa Securities + Digital Garage). May be different entity than portfolio company.
-
-**DG Daiwa Ventures context**:
-- Closed **Fund III at ¥10B (~0M)** in Aug 2025
-- Focus: fintech, AI, blockchain, healthcare, security
-- **No investments in 2026** so far (per Tracxn, Jan 25 2026)
-- 10-year fund timeline
-
-### DG Ventures (San Francisco)
-- Corporate VC arm of Digital Garage (founded 2009)
-- Invests in US, Canada, Asia, Europe
-- Focus: FinTech, AI, Blockchain, SaaS, PropTech, Mobility, Healthcare
-- Active on LinkedIn (328 followers)
-
-## Strategic Assessment
-⚠️ **URGENT CLARIFICATION NEEDED**:
-
-**Critical question**: Is portfolio "DG Ventures" the same as:
-1. DG Daiwa Ventures (Tokyo VC fund)?
-2. DG Ventures SF (CVC arm)?
-3. Separate blockchain project called "DGP"?
-
-If **separate blockchain project**:
-- **3mo runway** is CRITICAL
-- No public information found
-- No funding announcements
-- No product updates visible
-- Possible stealth mode OR dying quietly
-
-### Immediate Actions Required
-1. **Clarify entity** - which DG Ventures is in portfolio?
-2. If blockchain project: emergency founder contact
-3. Request cap table, burn rate, fundraising status
-4. Assess bridge financing need vs wind-down
-5. Review IP/asset value for potential sale
-
-## Status
-🔴 **URGENT** - **3mo runway** requires immediate attention. Cannot assess without clarity on which entity this is. If standalone blockchain project with no visible activity + 3mo runway = likely write-off unless stealth raise in progress.
+## 상세 내용
+- Digital Garage의 VC 부문 (본사 San Francisco, AUM $700M USD)
+- 투자 섹터: FinTech, AI, Blockchain, SaaS, EC, PropTech, Mobility, Healthcare
+- 투자 지역: 미국, 캐나다, 아시아, 인도, 일본, 유럽
+- ⚠️ 2025년 투자 활동 없음 (Tracxn Oct 2025)
+- HVF1 포트폴리오 항목으로서의 정확한 성격 불명확 (LP로서? 또는 다른 DG Ventures 회사?)
+- DG Daiwa Ventures와 구분 필요 (별도 엔티티)

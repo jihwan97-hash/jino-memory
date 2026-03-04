@@ -1,32 +1,50 @@
 # Ad-Shield (애드쉴드)
-**Last Researched:** 2026-02-27
 
-## Recent Developments (2025-2026)
+**Last researched:** 2026-03-04
+
+## Quick Status
+- Status: 🟢 Healthy
+- Key finding: Pre-Series A $2M 유치 완료, 누적 $3.22M, 월 30% 성장률 유지, 광고차단 복구 기술 선도
+- Action needed: Series A 펀딩 타임라인 확인, 글로벌 클라이언트 확장 현황 파악
+- Source: https://www.ad-shield.io/blog/announcing-our-pre-series-a-funding
+- Last researched: 2026-03-04
+
+## Company Overview
+- Sector: AdTech, Publisher Monetization
+- Location: Korea
+- Product: 세계 최고 수준의 광고차단 복구 기술
+- Mission: 광고차단 손실을 새로운 매출로
+
+## Business Model
+- Publishers가 ad blocker 사용자로부터 잃는 수익 복구
+- 평균 publisher 광고 수익 10-40% 광고차단으로 손실
+- 5분 내 광고차단 비율 측정 (무료 Ad-Shield Analytics)
+- Demand 연동으로 수익 극대화
+
+## Recent Developments
+
+### Funding
+- Pre-Series A: $2M 유치 완료
+- 총 누적: $3.22M (3 투자자)
+- 성장 가속화를 위한 자본 확보
 
 ### Business Performance
-- **30% MoM growth** reported in portfolio documentation
-- Total funding: **.22M** (1 round)
-- Adblock recovery technology helping publishers monetize dark traffic
+- MoM 성장률: 30%
+- 와이고수 등 주요 퍼블리셔 고객 확보
+- 다양한 demand 연동으로 수익 개선 사례
 
-### Product & Technology
-- World's most advanced adblock recovery technology
-- Helps publishers measure and monetize previously unreachable audiences (adblock users)
-- Provides real-time tracking of adblock-enabled visitors and revenue loss metrics
-- Proprietary technology to bypass ad blockers and recover lost revenue
+## Market Context (2026)
+- 플랫폼 광고차단 단속 강화 (YouTube 등)
+- 퍼블리셔 수익 압박 증가
+- 광고차단 복구 솔루션 수요 확대
+- 경쟁사: Blockthrough, Admiral, PageFair
 
-### Market Context (2026)
-- Ad blocking remains a major friction point between consumers and platforms
-- Platforms increasingly enforcing anti-adblock measures in 2025-2026
-- Growing market demand for adblock prevention solutions as publishers face revenue pressure
-- Industry trend: Platform crackdowns on ad blockers accelerating in 2026
+## HVF Portfolio Notes
+- Exit Priority: 8위 [유망]
+- Sector: Non-Token
+- 강한 성장세, Series A 준비 단계
 
-### Strategic Position
-- Positioned as premium solution for publishers losing revenue to ad blockers
-- Direct competitor to solutions from Blockthrough, Admiral, and similar providers
-- Focus on "dark traffic" monetization - users with ad blockers enabled
-
-### Next Steps to Monitor
-- Revenue growth trajectory and client acquisition rate
-- Product roadmap and new feature releases
-- Potential Series A fundraising as company scales
-- Market share vs competitors in adblock recovery space
+## Technical Moat
+- 독자적 광고차단 우회 기술
+- 실시간 광고차단 사용자 추적 및 수익 측정
+- 다양한 DSP/Demand 소스 통합

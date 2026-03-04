@@ -1,37 +1,14 @@
-# DrNow (닥터나우)
-**Last Researched:** 2026-02-27
+### DrNow (닥터나우)
+- Status: 🟢 Healthy
+- Key finding: 비대면 진료 앱 1위, 3년 만에 투자 유치 추진 (Apr 2025) + 전면 허용 규제 개선으로 성장 모멘텀 강함
+- Action needed: 투자 유치 진행 상황 확인, '닥터나우 방지법' 입법 진행 여부 모니터링
+- Source: https://biz.chosun.com/stock/market_trend/2025/04/21/S7BAOWXATVBTFFUI53LKDKK7SE/
+- Last researched: 2026-03-04
 
-## Recent Developments (2025-2026)
-
-### Business Scale
-- **5.6M users** (per portfolio documentation)
-- #1 non-face-to-face telemedicine app in Korea
-- Series B: **W400B (~00M)** funding target/completed
-
-### Product & Services
-- Remote consultation and prescription drug delivery
-- Key specialties: General medicine, pediatrics, dermatology (acne, hair loss), weight management
-- Weekend and holiday consultations available (including pediatrics, OBGYN)
-- Prescription medications + delivery service
-- Weight management injections (Wegovy/위고비, Mounjaro/마운자로, etc.)
-- Operates under Korean telemedicine regulations
-
-### Market Position
-- **Leader in Korean telemedicine market** - "비대면 진료 1위"
-- Platform enables patients to receive medical care anytime, anywhere
-- Strong focus on convenience and accessibility
-- Competitive advantages: Brand recognition, user base, regulatory compliance
-
-### Regulatory Context (Korea)
-- Operating within Korea's telemedicine framework
-- Remote consultations + prescription delivery legally permitted
-- Differentiation from traditional in-person care
-
-### Next Steps to Monitor
-- Series B funding close status (W400B target)
-- User growth trajectory beyond 5.6M
-- Expansion to additional medical specialties
-- Revenue and unit economics disclosure
-- Potential IPO timeline (typical path for Korean healthtech unicorns)
-- Competition from Naver/Kakao healthtech initiatives
-- Regulatory changes in Korean telemedicine landscape
+## 상세 내용
+- 한국 비대면 진료 플랫폼 1위
+- 2025년 9월 현재 비대면 진료 초진부터 전면 허용
+- 3년 만에 신규 투자 유치 추진 중 (2025년 4월)
+- 약 배송 서비스, 위고비/마운자로 다이어트 주사 처방 포함
+- 위험 요소: '닥터나우 방지법' 언급 존재 (규제 리스크)
+- 경쟁: 닥터나우 vs. 솔닥 등 타 플랫폼

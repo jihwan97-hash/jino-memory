@@ -1,58 +1,53 @@
-# Atommerce / Mindcafe (아토머스 / 마인드카페) - Digital Mental Health
-Last researched: 2026-02-26
+# Atommerce / Mindcafe (아토머스 / 마인드카페)
 
-## Overview
-- **Sector:** Digital Health, Mental Healthcare Platform
-- **Founded:** 2015년
-- **Product:** 마인드카페 - 멘탈 종합 플랫폼
-- **CEO:** 김규태
-- **Location:** 서울 강남구
-- **Total Funding:** 누적 335.5억원 (Series B 6.6M mentioned in portfolio)
+**Last researched:** 2026-03-04
 
-## Funding
+## Quick Status
+- Status: 🟡 Watch
+- Key finding: 우울증 디지털치료제 임상시험 진행 중 (서울대병원), 삼성벤처+롯데헬스케어 전략투자, 식약처 허가 준비 중
+- Action needed: 디지털치료제 식약처 허가 결과 모니터링, Series C 펀딩 계획 파악
+- Source: https://techcrunch.com/2022/02/10/atommerce-wants-to-scale-its-mental-health-platform-with-16-7m-funding/
+- Last researched: 2026-03-04
 
-### Series B Bridge (Jan 2023)
-- **Amount:** 60억원
-- **Lead:** 롯데헬스케어 + 삼성벤처투자 전략적 투자(SI) 목적 펀드
-- Strategic partnership with major healthcare players
+## Company Overview
+- Founded: 2015
+- CEO: 김규태
+- Product: 마인드카페 (멘탈 종합 플랫폼)
+- Location: 서울 강남구
+- Total Funding: 누적 335.5억원
 
-## Product & Service
+## Products & Services
 
-### Platform Overview
-- **멘탈 종합 플랫폼:** 상담과 치료, 회복의 모든 여정 함께하는 서비스
-- **대면/비대면:** 다양한 멘탈케어 서비스 제공
-- **익명 보장:** 이용자-전문가 중개 서비스
-- **24시간 멘탈케어, 심리상담, 코칭**
+### 마인드카페 Platform
+- 24시간 멘탈케어, 심리상담, 코칭
+- 대면/비대면 다양한 멘탈케어
+- 익명 보장 이용자-전문가 중개
+- 오프라인 심리상담센터 운영
+- 마음지원금 (상담비 일부 지원)
 
-### Offline Expansion
-- **심리상담센터:** 오프라인 상담 센터 운영
-- 상담비 일부 지원 (마음지원금) 제공
+### Digital Therapeutics (DTx)
+- 우울증 디지털치료제 개발 완료
+- 서울대병원 임상시험 진행 중
+- 식약처 허가 준비 단계
+- 비전: '가장 상용화에 성공한 DTx 개발사'
 
-## Digital Therapeutics (DTx) Development
-
-### 우울증 디지털치료제
-- **개발 완료:** 우울증 치료용 디지털치료제
-- **임상시험:** 서울대학병원에서 임상실험 진행 (2024)
-- **식약처 허가 준비 중**
-- **목표 (2022 인터뷰 기준):** 이르면 2023년 말 허가 목표 → 2026년 현재 진행 중
-- **비전:** "가장 먼저보다는 가장 상용화에 성공한 디지털치료제 개발사"
+## Funding History
+- Series B: $16.7M (2022, TechCrunch 보도, 3배 초과청약)
+- Series B Bridge: 60억원 (롯데헬스케어 + 삼성벤처투자 전략투자)
+- 삼성, 롯데 등 대기업 SI 유치
 
 ## Strategic Partnerships
+- DTx Alliance 멤버 (글로벌 디지털치료제 협의체)
+- 서울대병원 임상 파트너
+- 롯데헬스케어, 삼성벤처투자 전략투자
 
-### B2B Expansion
-- **코웨이라이프솔루션:** 고객 전용 멤버십 할인 혜택 협력
-- 기업향 수요 고속성장
+## HVF Portfolio Notes
+- Exit Priority: 9위 [유망]
+- Sector: Non-Token
+- Series B $6.6M (HVF 문서 기준)
 
-### Awards
-- **신SW상품대상 국무총리상 수상**
-- AI 기반 개인 맞춤형 정신건강 솔루션 인정
-
-## Strategic Vision (CEO 김규태)
-- "기술 기반 심리케어 모델 본격화"
-- "기술과 사람, 콘텐츠가 연결된 구조로 정신건강 산업의 새로운 표준 제시"
-- 멘탈 헬스케어 대중화
-
-## Status (2026)
-- DTx 허가 진행 중
-- B2B/B2C 병행 성장
-- Need update: DTx approval status, revenue, MAU
+## Market Context (2026)
+- 한국 정신건강 앱 시장 성장
+- DTx 글로벌 시장 확대
+- 경쟁사: 트로스트, 다이어리앱, 해외 Headspace/Calm
+- 대기업 헬스케어 진출 경쟁 심화

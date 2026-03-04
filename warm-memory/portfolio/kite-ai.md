@@ -1,51 +1,15 @@
-# Kite AI (formerly Zettablock)
-**Last Researched:** 2026-02-27
+### Kite AI (Datalego/Kite AI)
+- Status: 🟢 Healthy
+- Key finding: Hashed/Samsung Next/General Catalyst 투자 3M+, Google AP2 파트너십 (Feb 2026), Binance Alpha 런치
+- Action needed: None (토큰 상장 및 파트너십 진전 중)
+- Source: https://www.gate.com/news/detail/15489848
+- Last researched: 2026-03-04
 
-## Recent Developments (2025-2026)
-
-### Funding Round (Sept 2025)
-- **Series A: 8M**
-- **Co-led by**: PayPal Ventures and General Catalyst
-- Raised to build infrastructure for "agentic web"
-
-### Company Evolution
-- **Formerly known as**: Zettablock
-- **Rebrand to**: Kite
-- Original focus: Real-time blockchain data infrastructure
-- New focus: AI agent identity, payments, and trust infrastructure
-
-### Product: Kite Agent Identity Resolution ("Kite AIR")
-- **Pioneering solution** for autonomous agent authentication
-- Enables agents to:
-  - Authenticate independently
-  - Transact in real-world environments
-  - Operate with verified identity
-- Infrastructure-level trust enforcement for agentic web
-
-### Additional Product: On/Off-Ramp API
-- Bridge between traditional finance and agent economy
-- Integrated with global providers: Coinbase, PayPal
-- Use cases:
-  - Users fund agent wallets (local payment methods, stablecoins, bank accounts)
-  - Merchants withdraw earnings to bank accounts
-- Leverages Kite's identity and trust infrastructure
-
-### Strategic Positioning
-- **"The First AI Payment Blockchain"** (marketing positioning)
-- PayPal Ventures thesis: "Infrastructure-level building still needs to happen for agents to become transformative"
-- Target: Enable autonomous agents to participate in economy
-- Previous clients (as Zettablock): Sui, Polygon, Chainlink, EigenLayer
-
-### Market Context (2026)
-- Growing AI agent ecosystem needs payment/identity infrastructure
-- Competition: Limited direct competitors in agent-specific identity/payments
-- Adjacent competitors: Stripe Identity, Plaid, traditional KYC/payment providers
-
-### Next Steps to Monitor
-- Kite AIR adoption metrics (agents onboarded, transactions processed)
-- Additional partnerships beyond PayPal/Coinbase integrations
-- Revenue model clarity and go-to-market execution
-- Product roadmap: additional identity/payment features
-- Competition from web3 wallet providers, agent platforms
-- Series B fundraising timeline
-- Agent economy growth as tailwind for Kite's infrastructure thesis
+## 상세 내용
+- Web3 AI Agent 마켓 플레이스/인프라
+- 투자자: Hashed, Samsung Next, General Catalyst (3M+ 추정, 미공개)
+- 2026-02-25: Google AP2 community partnership 체결
+- 2025-11-04: Bitget USDT-Margined KITE 퍼페추얼 계약 상장
+- Binance Alpha 런치 완료
+- Agent-Aware Modules (AI agent 스티펜드/리워드 툴) 개발 중 (2026 출시 예정)
+- 경쟁: 다른 AI Agent 인프라 (Virtuals, Eliza 등)

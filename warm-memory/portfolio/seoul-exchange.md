@@ -1,40 +1,14 @@
-# Seoul Exchange (서울거래) Research
+### Seoul Exchange
+- Status: 🟡 Watch
+- Key finding: 한국 비상장 증권 거래 2개 허가 기관 중 하나, K-culture 토큰 발행으로 블록체인 사업 확장 (Sep 2025)
+- Action needed: 한국 암호화폐 규제 (거래소 지분 15-20% 상한 논의) 영향 여부 모니터링
+- Source: https://www.bitget.com/amp/news/detail/12560604981040
+- Last researched: 2026-03-04
 
-Last Researched: 2026-02-28
-
-## Company Overview
-- **Business:** Unlisted securities trading platform
-- **Status:** 1 of only 2 licensed platforms for unlisted securities in Korea
-- **Designation:** Innovative financial business (Financial Services Commission)
-
-## Major Development: Story Protocol Partnership (Sep 2025)
-
-### Exclusive 3-Year Agreement
-- **Story as sole infrastructure provider** for tokenizing and settling all offerings
-- **Asset classes:** Music IP, webtoons, patents, private securities
-- **Technical:** All listings on Story blockchain, using $IP token economy
-
-### Strategic Significance
-- **Rare License:** Only 2 FSC-approved platforms in Korea
-- **RWA Pioneer:** Leading real-world asset tokenization in Korea
-- **HVF Synergy:** Story Protocol also in HVF portfolio - direct portfolio synergy!
-
-## Investment Thesis
-
-**Strengths:**
-- Rare regulatory license moat
-- Story Protocol partnership (3yr exclusive)
-- Diverse asset classes (equity + IP)
-- Korea unlisted securities market is large
-
-**Opportunities:**
-- RWA tokenization mega-trend
-- K-pop/webtoon IP monetization
-- Potential regional expansion
-
-## Next Steps to Monitor
-- Trading volume and user metrics
-- First tokenized offerings timeline
-- Revenue model details
-- Story Protocol integration milestones
-- Follow-on funding
+## 상세 내용
+- 한국 비상장 증권 거래 허가 기관 2개 중 하나 (정부 인가)
+- 2025년 9월: K-culture 토큰 발행 통해 블록체인 $80T 시장 진출 발표
+- 한국 암호화폐 규제 환경: 2025년 $110B 암호화폐 해외 유출, 규제 미비
+- 2026년: 한국 거래소 암호화폐 ETF, 24/7 거래 계획 발표
+- FSC 지분 상한(15-20%) 규제 논의 중 - 거래소 대형화에 영향
+- 비상장 주식 + 블록체인 토큰 듀얼 비즈니스 모델
