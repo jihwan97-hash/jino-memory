@@ -310,6 +310,69 @@
       ],
       "lastAccess": "2026-03-04",
       "updated": "2026-03-04"
+    },
+    "dfns": {
+      "file": "warm-memory/portfolio/dfns.md",
+      "tokens": 353,
+      "keywords": [
+        "Dfns",
+        "portfolio",
+        "hvf1",
+        "custody",
+        "wallet",
+        "MPC",
+        "digital asset",
+        "IBM"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "payhere": {
+      "file": "warm-memory/portfolio/payhere.md",
+      "tokens": 274,
+      "keywords": [
+        "Payhere",
+        "페이히어",
+        "portfolio",
+        "hvf1",
+        "POS",
+        "payment",
+        "fintech",
+        "SMB"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "matonee": {
+      "file": "warm-memory/portfolio/matonee.md",
+      "tokens": 330,
+      "keywords": [
+        "Matonee",
+        "Aptos",
+        "APT",
+        "portfolio",
+        "hvf1",
+        "Layer1",
+        "blockchain",
+        "token"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "halliday": {
+      "file": "warm-memory/portfolio/halliday.md",
+      "tokens": 342,
+      "keywords": [
+        "Halliday International",
+        "portfolio",
+        "hvf1",
+        "web3",
+        "AI agent",
+        "blockchain",
+        "a16z"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
     }
   }
 }
