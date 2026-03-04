@@ -1,31 +1,21 @@
-**Last researched:** 2026-03-02
-
-# dYdX Trading (DYdX Protocol)
+### dYdX Trading (dYdX Protocol)
+- Status: 🟡 Watch
+- Key finding: 2026년 1월 악성 소프트웨어 패키지 보안 경고 발생, 75% 프로토콜 수수료 DYDX 토큰 바이백 프로그램 실행 중, 토큰 언락 2026년 6월 완료 예정.
+- Action needed: 보안 사고 후속 조치 확인, 토큰 언락 완료 후 가격 안정성 모니터링
+- Source: https://coinmarketcap.com/cmc-ai/dydx-chain/latest-updates/
+- Last researched: 2026-03-04
 
 ## Company Overview
-- **Sector:** DeFi / Decentralized derivatives exchange
-- **Token:** $DYDX (v4 chain)
-- **Business:** Perpetual futures trading on decentralized infrastructure
+- **Sector:** Decentralized Exchange (DEX), DeFi Perpetuals
+- **HQ:** Decentralized / USA
+- **Stage:** Protocol (token: DYDX)
 
-## Recent Developments (2026)
+## Recent Developments (2025-2026)
+- **Jan 2026:** Security alert — malicious client packages discovered, warned users of fund theft risk
+- **Nov 2025:** Governance approves 75% protocol fees → DYDX token buyback program
+- **Sept 2025:** 21Shares analyst call — positioned as "best in global DeFi" entering 2026
+- **Jun 2026:** All token unlocks set to conclude (85% already unlocked as of March 2025)
+- Token emissions decreasing 50% from June 2025
 
-### 2026 Roadmap Highlights
-- **Real-World Assets (RWAs):** Developing perpetual futures markets for synthetic equities (e.g., Tesla) as part of 2026 expansion
-- **Affiliate Booster Program:** New initiative recognizing affiliate partners driving trading activity to the protocol (launched after Q1 2026 program ended)
-- **Institutional focus:** Protocol emphasizes performance and institutional-grade innovation
-
-### Q4 2025 / Early 2026 Updates
-- **Analyst Call (Sept 2025):** dYdX Foundation + 21Shares presented protocol performance, new institutional channel, product roadmap through 2026
-- **Token Economics Updates:** Changes announced to better align incentives between traders, stakers, and protocol
-- **Global Distribution Partnerships:** Expanding reach through strategic partnerships
-- **Maturing Governance Model:** Continued decentralization efforts
-
-### Market Position
-- Positioned for continued growth entering 2026
-- Focus on fast, fair, and open decentralized trading
-- Mission: Make DeFi trading competitive with centralized alternatives
-
-## HVF Portfolio Notes
-- Tagged: [최우선] Priority
-- Token exit strategy; monitor RWA product launch and institutional adoption
-- Strong roadmap execution into 2026 with clear product differentiation (RWAs)
+## Status Assessment
+- 🟡 **Watch** — Security incident in Jan 2026 warrants monitoring; buyback program is positive signal

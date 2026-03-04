@@ -1,48 +1,21 @@
-# Flexity (플렉시티) / Edit Collective (에디트콜렉티브) - AI Architectural Design
-Last researched: 2026-02-26
+### Flexity (플렉시티) / Edit Collective
+- Status: 🟡 Watch
+- Key finding: AI 건축기획설계 플랫폼 flexity.app 운영 중, 법규 검토·3D 설계안·사업성 분석 자동화 — 2026년 신규 펀딩/파트너십 소식 없음.
+- Action needed: 최근 고객사 확보 현황 및 매출 성장세 확인
+- Source: https://flexity.app/
+- Last researched: 2026-03-04
 
-## Overview
-- **Sector:** PropTech, AI, Architectural Design
-- **Founded:** 2018년 9월 10일
-- **Product:** 플렉시티(Flexity) - AI 자동기획설계 웹서비스
-- **CEO:** 전주형
-- **Website:** flexity.app
+## Company Overview
+- **Sector:** PropTech, AI Architectural Design
+- **HQ:** Seoul, South Korea
+- **Product:** Flexity — AI 자동 건축기획설계 서비스
+- **Operator:** 에디트콜렉티브 (EDIT Collective)
 
-## Funding
+## Recent Developments (2025-2026)
+- flexity.app 운영 중 — 법규 검토, 건축물 용도/개발 시나리오, 주차계획, 지형 고저차 반영 3D 설계안 자동 생성
+- LinkedIn 제품 페이지 운영 중 ("빠르고 효율적인 기획설계 서비스")
+- flexity.oopy.io about us 페이지 활성
+- 2026년 신규 자금 조달 또는 주요 파트너십 공개 뉴스 없음
 
-### Series A (2021)
-- **Lead:** Hashed (해시드, 대표 김서준)
-- Blockchain 전문 투자사의 PropTech 투자
-
-### Series A Bridge (2022)
-- Additional funding for product development
-
-### Government Support
-- **TIPS (일반형):** R&D 자금 최대 5억원 (2년) + 창업사업화·해외마케팅 자금 각 최대 1억원
-
-## Product & Technology
-
-### Core Engine
-- **AI 자동기획설계 엔진:** 건축사의 설계사고를 그대로 반영
-- **실시간 건축법규 분석:** 개발하고자 하는 토지의 건축법규 자동 검토
-- **3D 설계안 도출:** 유저의 개발기획의도가 반영된 3차원 기획설계안
-
-### Key Features
-- 정확한 법규 검토
-- 다양한 건축물 용도 (다세대, 오피스텔, 아파트, 상가 등)
-- 개발 시나리오별 사업성 검토
-- 현실적인 주차계획
-- 지형 고저차 반영한 3D 설계안
-
-## Partnerships (2023)
-- **프롭테크 디스코:** AI 자동 건축설계 서비스 협업 (2023.11)
-- 토지 선택 시 실시간으로 용도별 다양한 기획설계안 제공
-
-## Business Model
-- SaaS 구독 모델 (스탠다드 이용권, 연간 라이센스)
-- B2B (건설사, 부동산 개발사) + B2C (개인 투자자, 건축주)
-- Partnership integrations (디스코 등)
-
-## Status (2026)
-- 가격 정책 개편 진행 (스탠다드 이용권 중심)
-- Need update: MAU, ARR, partnership expansion
+## Status Assessment
+- 🟡 **Watch** — 제품 운영 중이나 성장 검증 데이터 부족; 한국 부동산 AI 시장 수요는 긍정적

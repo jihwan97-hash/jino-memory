@@ -1,36 +1,21 @@
-# Republic (Opendeal Inc.)
-
-**Last researched:** 2026-03-03
+### Republic (Opendeal Inc.)
+- Status: 🟢 Healthy
+- Key finding: 총 $214M 펀딩 완료 (193명 투자자), 디지털 증권용 2차 거래소 구축 계획 발표, US/UK/EU 규제 라이선스 보유.
+- Action needed: None (안정적 운영, 2차 거래소 오픈 타임라인 모니터링)
+- Source: https://tracxn.com/d/companies/republic/__Hjs3I-2qp_mKnxVmZon4XIqPUCo321VFmcwH4VGRotI
+- Last researched: 2026-03-04
 
 ## Company Overview
-Platform for designing, launching, and managing digital assets represented as blockchain tokens. Focus on secondary trading markets and tokenization infrastructure.
+- **Sector:** Alternative Investment Platform (Startups, Real Estate, Crypto, Gaming)
+- **HQ:** New York, USA
+- **Stage:** Public Company
+- **Total Funding:** $214M (193 investors, 11 rounds)
 
-## Recent Developments (2026)
+## Recent Developments (2025-2026)
+- Building secondary exchange for digital securities fueled by $150M in new capital
+- Licensed across US, UK, and EU for regulated fundraising, trading, and financial services
+- On-chain investment platform focus with distributions, vesting, and reporting tools
+- Investors include Binance, Borderless Capital, Calm Ventures, Diverse Angels
 
-### Major Acquisition - INX Digital Company (Nov 2025)
-- **Closed acquisition** of INX Digital Company (Cboe CA: INXD, OTCQB: INXDF) in November 2025
-- OpenDeal Inc. (d/b/a Republic) acquired all outstanding shares through wholly-owned subsidiary
-- Plan of arrangement completed successfully
-- This positions Republic for expanded regulated digital asset trading capabilities
-
-### Platform Infrastructure
-- **Registered end-to-end infrastructure** for traditional and digital assets:
-  - Issuance
-  - Brokerage
-  - Secondary trading
-  - Transfer agency
-- All integrated in one tech stack
-
-### Recent Activity
-- Platform remains active with crowdfunding campaigns
-- Example: CureValue campaign closed Feb 4, 2026
-- Continuing to facilitate startup and crypto investments
-
-## Strategic Position
-- Moving toward ~B secondary exit potential
-- Building comprehensive regulated digital asset infrastructure
-- INX acquisition brings exchange capabilities and regulatory licenses
-- Positioning as full-stack tokenization and trading platform
-
-## Status
-✅ **Active** - Strong execution on M&A strategy, platform growth continuing
+## Status Assessment
+- 🟢 **Healthy** — Public company with strong funding, regulatory licenses, and expanding into secondary markets
