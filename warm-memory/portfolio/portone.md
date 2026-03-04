@@ -1,48 +1,15 @@
-# PortOne (formerly Chai) Research
+### Portone (포트원 / Chai)
+- Status: 🟡 Watch
+- Key finding: 코리아포트원 2025년 1월 새 요금제 도입, B2B 결제 인프라 사업 지속 중이나 런웨이 10개월로 자금 조달 또는 흑자 전환 시급.
+- Action needed: 매출/거래액 현황 및 다음 투자 라운드 계획 확인 (Runway 10개월)
+- Source: https://blog.portone.io/pricing-plan-updates/
+- Last researched: 2026-03-04
 
-Last Researched: 2026-02-28
-
-## Company Overview
-- **Business:** Integrated payment infrastructure platform
-- **Former Name:** CHAI
-- **Entity:** CHAI PAY HOLDING COMPANY PTE. LTD.
-- **Co-founder:** Daniel Shin (also Terraform Labs co-founder)
-- **Geography:** South Korea primary, expanding across Asia
-
-## Recent Developments (2024-2026)
-
-### Funding Activity
-- **Bridge Round (March 2024):** Raised funding from investors including Korea Payment Networks
-- **Recent Funding (2025-2026):** $1.53 million secured
-- **Purpose:** Support continued expansion across Asia
-- **Characterization:** "Down round" per DealStreetAsia coverage
-
-### Product & Market
-- **Core Offering:** API-based payment solutions
-- **Target Market:** Merchants and platforms integrating local payment methods
-- **Regional Focus:** Pan-Asia payment infrastructure
-- **Competitive Position:** Ranks 40th among 120 active competitors (23 funded)
-- **Funding Rank:** 11th in total funding among competitors
-
-### Strategic Context
-- **Terraform Labs Connection:** Daniel Shin's involvement may create perception challenges given Terra/Luna collapse
-- **Bridge Funding Signal:** Suggests company between major funding rounds, potentially cash-constrained
-- **Down Round:** Indicates valuation pressure
-
-## Concerns & Risks
-- **Founder Association:** Daniel Shin's Terraform Labs history may impact fundraising and partnerships
-- **Down Round:** Valuation decreased from previous round - market skepticism
-- **Competitive Market:** Payment infrastructure is crowded, especially in Asia
-- **Modest Recent Raise:** $1.53M is relatively small for a regional payment platform
-
-## Strategic Value
-- **Infrastructure Play:** Payments infrastructure has network effects if successful
-- **Korea Payment Networks Investment:** Strategic investor provides market access and credibility
-- **Pan-Asia Opportunity:** If successful, large addressable market
-
-## Next Steps to Monitor
-- Follow-on funding and valuation trajectory
-- Customer acquisition metrics and merchant adoption
-- Regulatory approvals in target markets
-- Leadership changes or strategic pivots
-- Distance from Terraform Labs narrative
+#### 상세 현황
+- 사업: B2B 통합결제 인프라 (PG 통합 연동, 파트너 정산, 해외결제)
+- 구조: 코리아포트원 (국내) + 포트원솔루션스 (글로벌, 차이)
+- 2025년 1월 새 요금제: 순거래액 5,000만원 미만 무료 제공
+- 블로그 최근 포스트: 2026.02.05 (파트너 정산 관련)
+- 경쟁사: PayU, 토스페이먼츠 등
+- 런웨이: 10개월 (Series B 또는 흑자 전환 필요)
+- 강점: 대규모 고객사 기반 (코드 한 줄로 PG 연동)

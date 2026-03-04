@@ -1,36 +1,15 @@
-# Uprise / HorizonWealth (업라이즈) - Asset Management
-Last researched: 2026-02-26
+### Uprise (업라이즈)
+- Status: 🟡 Watch
+- Key finding: 시리즈C 240억 완료, 헤이비트(디지털자산)·든든(로보어드바이저) 운영 중이나 2023년 투자자 소송 이력 있으며 런웨이 모니터링 필요.
+- Action needed: 소송 결과 및 현재 런웨이 확인 필요
+- Source: https://thevc.kr/uprise
+- Last researched: 2026-03-04
 
-## Overview
-- **Sector:** Asset Management, Robo-advisor, Blockchain
-- **Founded:** 2018년 1월
-- **Product:** 헤이비트 (Heybit) - 블록체인 자산관리
-- **CEO:** 이충엽 (Uprise), 문일호 (업라이즈투자자문), 이승규 (두물머리투자자문)
-- **Runway:** Listed as [긴급] in portfolio - merged with Doomoolmuri
-
-## Strategic Merger (Nov 2024)
-
-### HorizonWealth 법인 설립
-- **발표:** 2024년 11월 26일 (삼성동 벨지움 기자간담회)
-- **구조:** 업라이즈가 사업분할을 통해 '호라이즌웰스(HorizonWealth)' 법인 설립
-- **인수 대상:** 업라이즈투자자문 + 두물머리투자자문
-- **Timeline:** 2025년 1분기 경 법인 설립 예정
-
-### 전략적 시너지
-- **업라이즈투자자문:** 로보어드바이저 '든든'
-- **두물머리투자자문:** 로보어드바이저 '불리오'
-- **핵심 역량:** AI 퀀트 기술력 + 자산배분 노하우 결합
-
-## Ambitious 2025 Goal
-- **퇴직연금 수탁고 1조 원 도전** (2025년 목표)
-- 로보어드바이저 업계 지각변동 예고
-
-## Market Context
-- 로보어드바이저 시장에서 양사 합병으로 규모 확대
-- AI 기반 퀀트 전략 + 전통 자산배분 노하우 융합
-- 퇴직연금 시장 공략 집중
-
-## Status (2026)
-- Merger execution phase
-- Focus on retirement pension market penetration
-- Need update: actual AUM, merger completion status, market performance
+#### 상세 현황
+- 사업: 로보어드바이저 (든든) + 디지털자산 예치 플랫폼 (헤이비트)
+- 누적 투자: Series C 240억 완료 (KTB네트워크 주도), KB인베스트먼트, Hashed 참여
+- 법적 리스크: 2023년 서울투자파트너스가 투자금 반환 소송 제기
+- 웹사이트 uprise.financial 운영 중
+- 서비스: 이루다투자(든든) + 헤이비트 운영 중
+- 런웨이: 원래 10개월로 파악 (소송 영향으로 변동 가능)
+- 강점: Series C 완료, Hashed·KB 등 신뢰 투자자 보유

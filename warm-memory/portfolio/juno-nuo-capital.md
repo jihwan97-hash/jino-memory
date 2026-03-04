@@ -1,50 +1,18 @@
-# Juno / Nuo Capital
-Last researched: 2026-03-01
+### Juno (Nuo Capital)
+- Status: 🔴 Critical
+- Key finding: Juno 플랫폼이 2025년 9월 30일 완전 종료됨 — Synapse/Evolve Bank 파산으로 2024년 5월부터 뱅킹 서비스 중단, 브라질 운영(Velo)도 2024년 12월 폐쇄.
+- Action needed: 포트폴리오 손실 처리 및 청산 상태 확인. 창업팀(Varun Deshpande, Ratnesh Ray, Siddharth Verma) 다음 행보 추적.
+- Source: https://www.thewaystowealth.com/juno-review/
+- Last researched: 2026-03-04
 
-## Overview
-- **Juno**: Crypto-native neobank (Web3 banking platform)
-- **Nuo Protocol**: DeFi protocol (predecessor, 2019, top 5 DeFi protocol)
-- Founded: 2020 (Juno), Singapore-based
-- Founders: Varun Deshpande, Ratnesh Ray, Siddharth Verma
+#### Background
+- Founded 2020 by Nuo Protocol team
+- Raised $18M Series A (ParaFi Capital)
+- Cross-border neo-bank with crypto yield on USDC
+- Disrupted May 2024 by Synapse Chapter 11 bankruptcy
+- Treasury accounts closed May 12, 2025
+- Platform fully shut down September 30, 2025
 
-## Funding (Series A, Oct 2022)
-- Raised: **8M**
-- Lead: ParaFi Capital's Growth Fund
-- Investors:
-  - **Hashed** (HVF)
-  - Jump Crypto
-  - Greycroft
-  - Antler Global
-  - Mithril
-  - Uncorrelated Fund
-  - 6th Man Ventures
-  - Abstract Ventures
-
-## Products/Services
-- **Cash Management Account**: Auto-invest in U.S. Treasury Bills
-- **Crypto Account**: Buy/sell/transfer crypto across 20+ blockchain networks (no withdrawal holding periods)
-- **Tokenized Loyalty Program**: First of its kind (launched with Series A)
-- Compliance-first approach
-- User-friendly for web3 newcomers
-
-## Business Model
-- Neo-banking for crypto-native users
-- Combining traditional banking (Treasury Bills) with crypto rails
-- Beautiful UX + compliance at core
-
-## Team Background
-- Previously created **Nuo Protocol** (2019) - top 5 DeFi protocol with significant scale
-- Experience in DeFi + user-centric design
-
-## Status & Outlook (2026)
-- Last major funding: Oct 2022 (8M)
-- No recent news (2025-2026)
-- Likely in product growth phase post-Series A
-- Operating in competitive crypto neobank space
-- Need to verify current traction/user base
-
-## Notes
-- Strong investor backing (Hashed, Jump, ParaFi)
-- Positioned in crypto neobank category
-- Compliance-focused differentiation
-- Limited recent public updates — check for 2026 product/user metrics
+#### Links
+- https://juno.finance/
+- https://help.juno.finance/en/articles/9319041-juno-service-updates

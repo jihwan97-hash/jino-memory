@@ -373,6 +373,72 @@
       ],
       "lastAccess": "2026-03-04",
       "updated": "2026-03-04"
+    },
+    "borderless-stockal": {
+      "file": "warm-memory/portfolio/borderless-stockal.md",
+      "tokens": 187,
+      "keywords": [
+        "Borderless",
+        "Stockal",
+        "portfolio",
+        "hvf2",
+        "critical"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "block-odyssey": {
+      "file": "warm-memory/portfolio/block-odyssey.md",
+      "tokens": 134,
+      "keywords": [
+        "BlockOdyssey",
+        "블록오디세이",
+        "portfolio",
+        "hvf2",
+        "blockchain"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "nextunicorn": {
+      "file": "warm-memory/portfolio/nextunicorn.md",
+      "tokens": 68,
+      "keywords": [
+        "Nextunicorn",
+        "portfolio",
+        "hvf2",
+        "writeoff",
+        "critical"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "loco-interactive": {
+      "file": "warm-memory/portfolio/loco-interactive.md",
+      "tokens": 64,
+      "keywords": [
+        "LocoInteractive",
+        "portfolio",
+        "hvf2",
+        "liquidated",
+        "critical"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
+    },
+    "the-trive": {
+      "file": "warm-memory/portfolio/the-trive.md",
+      "tokens": 129,
+      "keywords": [
+        "TheTrive",
+        "더트라이브",
+        "portfolio",
+        "hvf2",
+        "subscription",
+        "car"
+      ],
+      "lastAccess": "2026-03-04",
+      "updated": "2026-03-04"
     }
   }
 }

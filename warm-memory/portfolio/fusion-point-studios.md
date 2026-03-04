@@ -1,51 +1,19 @@
-# Fusion Point Studios
-**Last Researched:** 2026-02-25
+### Fusion Point Studios
+- Status: 🟡 Watch
+- Key finding: 게임 서브브랜드 'Distinct Possibility Studios'로 리브랜딩, 블록체인 통합 오픈월드 추출 슈팅게임 개발 중 — Reboot Develop Blue 2025 참가 확인.
+- Action needed: 게임 출시 일정 및 자금 상황 확인. 구체적인 마일스톤과 투자 현황 업데이트 필요.
+- Source: https://www.bloomberg.com/profile/company/2580470D:US
+- Last researched: 2026-03-04
 
-## Company Overview
-- **Status:** 긴급 URGENT - Runway 1 month
-- **Sector:** FPS Game (Shoot City)
-- **Critical:** Immediate funding or wind-down needed
+#### Background
+- Fusion Point Studios Inc. (법인명)
+- DBA: Distinct Possibility Studios (게임 스튜디오 브랜드)
+- 상표 등록: 2024년 10월 (USPTO)
+- 개발 중: 오픈월드 추출 슈팅 게임 + 블록체인 기능
+- Reboot Develop Blue 2025 참가 (2025년 4월)
+- Reddit 커뮤니티에서 PlanetSide 팬들이 관심 보임
 
-## Recent Developments (2025-2026)
-
-### Identity Issue
-- **Search Confusion:** Multiple entities named "Fusion Point Studios"
-  - Reddit (March 2025): Claims "Fusion Point Studios" is NOT real studio behind PlanetSide successors
-  - CB Insights shows "Distinct Possibility Studios" (2025, Delaware) developing 'Reaper Actual'
-  - Various indie projects use similar names
-- **Likely:** Stealth mode, renamed, or extremely low profile
-
-### Game Status
-- **Shoot City (FPS):** Zero public information found
-- **Market:** Crowded FPS segment (AAA + indie competition)
-- **Funding:** Gaming studios broadly struggling
-
-## Strategic Situation
-- **Runway:** 1 month - EXISTENTIAL
-- **Options:**
-  1. Emergency bridge (unlikely without traction)
-  2. Early Access launch (if playable)
-  3. Publisher deal (requires demo)
-  4. Shutdown
-
-### Red Flags
-- **No Public Presence:** Zero news, social media, community
-- **Identity Confusion:** Name collision or stealth
-- **1-Month Runway:** Insufficient for growth execution
-- **Competitive Market:** FPS requires heavy capital
-
-## Recommended Actions
-- **Week 1:** 
-  - Verify company identity (correct Fusion Point Studios?)
-  - Assess product: Is Shoot City shippable?
-- **Week 2:**
-  - If shippable: Launch Early Access (immediate revenue)
-  - If not: Approach publishers (assets + team acquihire)
-- **Week 3-4:**
-  - No revenue/deal = prepare shutdown
-  - Archive code/assets for future
-
-## Notes
-- **Identity Verification Critical**
-- Limited info = stealth or minimal ops
-- 1 month = no pivot room
+#### Notes
+- 모회사 Fusion Point가 게임 외 다른 사업도 진행 가능
+- 크립토 투자 받은 것으로 알려짐
+- 아직 게임 출시 없음, 알파/베타 일정 미공개
