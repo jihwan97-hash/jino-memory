@@ -1,53 +1,15 @@
-# Ramper
-Last researched: 2026-03-01
+### Ramper
+- Status: 🔴 Critical
+- Key finding: 웹사이트 거의 빈 페이지, Crunchbase 'Low Activity' 표시, 2023년 3월 마지막 펀딩 이후 소식 없음.
+- Action needed: 팀 LinkedIn 확인. 서비스 운영 여부 직접 테스트. 창업자 연락해 현황 파악.
+- Source: https://www.crunchbase.com/organization/ramper-724e / https://www.ramper.xyz
+- Last researched: 2026-03-04
 
-## Overview
-- **Mission**: Onramp the next billion people to Web3
-- **Product**: B2B Web3 infrastructure (wallet provider SDK)
-- Focus: Simplifying Web3 onboarding by removing friction
-
-## Products/Services
-### Ramper SDK (Wallet Provider)
-- **Easy-to-integrate wallet provider** for developers
-- **No private keys or browser extensions** required for end users
-- Familiar auth methods (social login, email, etc.)
-- Beautiful UI/UX design
-- Scalable infrastructure
-
-### NFT Checkout
-- Fast NFT checkout supporting **both crypto & fiat**
-- Handles chargebacks automatically
-- Instant wallet creation for users
-- Pays merchants in NFT contract's native tokens
-- Turnkey solution for NFT sales
-
-## Value Proposition
-- **Remove Web3 onboarding friction**:
-  - No wallet downloads
-  - No private key management
-  - No separate exchange accounts
-  - Familiar login methods
-  
-- **B2B focus**: SDK for developers to integrate into their dapps/games/NFT platforms
-
-## Status & Outlook (2026)
-- Last major update: March 2022 (Medium post)
-- No recent funding news found
-- Limited 2025-2026 public updates
-- Need to verify:
-  - Current client/partner count
-  - SDK adoption metrics
-  - Funding status
-  - Team size and runway
-  
-## Competitive Landscape
-- Competing with wallet-as-a-service providers
-- Similar space to Privy, Magic, Web3Auth
-- Differentiation: NFT checkout + fiat support
-
-## Notes
-- Strong product positioning (onboarding friction is real problem)
-- B2B SDK model makes sense
-- Very quiet publicly — need to check if still active or pivoted
-- HVF portfolio company, but limited recent traction signals
-- Worth follow-up on client wins and current status
+#### Research Notes
+- Web3 온보딩/지갑 SDK 제공 (소셜 로그인으로 Web3 지갑 생성)
+- 2023년 3월: Venture 라운드 (금액 미공개)
+- Crunchbase: 'Low Activity - High Activity' 스케일에서 하위권
+- 웹사이트(ramper.xyz): 타이틀만 있는 거의 빈 페이지
+- 최근 제품 업데이트/뉴스 없음
+- 경쟁사: Privy, Dynamic, Web3Auth 등이 시장 선점
+- PitchBook: Financial Software 카테고리

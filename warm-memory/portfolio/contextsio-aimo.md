@@ -1,34 +1,15 @@
-# Contextsio / Aimo Research
+### Contextsio (Aimo)
+- Status: 🔴 Critical
+- Key finding: 검색 결과 전무. 'Contextsio' 및 'Aimo' 관련 어떤 온라인 정보도 발견되지 않음.
+- Action needed: HVF2 원본 투자 서류 확인. 창업자 이름/LinkedIn 직접 검색 필요. 사업 중단 가능성 높음.
+- Source: N/A (no web presence found)
+- Last researched: 2026-03-04
 
-Last Researched: 2026-02-28
-
-## Company Overview
-- **Business:** AI Agent platform
-- **Status:** Limited public information available
-
-## Research Findings (2026-02-28)
-
-### Search Results
-- **No Recent News:** Web search for "Contextsio" and "Aimo" as AI agent platform returned no relevant results
-- **Name Confusion:** "Aimo" search returns unrelated companies:
-  - MeiG Smart's AIMO (AI smart entity hardware product, CES 2025)
-  - Aimo.ai (AI robotic patrolling platforms)
-  - Neither appears connected to HVF portfolio company
-
-### Possible Scenarios
-1. **Stealth Mode:** Company operating in stealth with minimal public presence
-2. **Pivot/Rebrand:** May have changed name or direction
-3. **Early Stage:** Too early for significant public footprint
-4. **Data Gap:** Company name in portfolio may be outdated or incorrect
-
-## Next Steps to Research
-- **Internal Check:** Verify current company name with HVF team
-- **Direct Outreach:** If contact information available, reach out directly
-- **LinkedIn Search:** Check for company LinkedIn profile
-- **Crunchbase/PitchBook:** Search funding databases for entity info
-- **Portfolio Update:** Confirm company is still active in portfolio
-
-## Status
-⚠️ **Insufficient Data:** Unable to provide meaningful research update without confirmed company identity or public information.
-
-**Recommendation:** Internal verification needed before next research cycle.
+#### Research Notes
+- 'Contextsio' 검색: 결과 없음
+- 'Aimo' + B2B AI + context platform 검색: 결과 없음
+- 'aimo.io' 또는 'contextsio.com' 도메인 확인 안 됨
+- HVF2 투자 시 초기 스테이지였을 가능성
+- B2B AI 컨텍스트 플랫폼이라는 카테고리 자체는 현재 활발 (Contextual AI 등과 다른 회사)
+- 완전한 스텔스 모드거나 사업 중단 추정
+- 긴급 실사 필요

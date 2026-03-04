@@ -1,56 +1,18 @@
-# Doeat (두잇)
-**Last Researched:** 2026-02-27
+### Doeat (두잇)
+- Status: 🟢 Healthy
+- Key finding: 2025년 1월 시리즈A+A2 총 306억원 유치 (GoodWater Capital 리드 + Hashed 참여). 1인 가구 배달앱 PMF 확인, J커브 성장 중.
+- Action needed: None — 모니터링만. 2025-2026 성장 지표 정기 체크.
+- Source: https://www.edaily.co.kr/News/Read?newsId=02961846642041000 / https://www.hankyung.com/article/202501248487O
+- Last researched: 2026-03-04
 
-## Recent Developments (2024-2026)
-
-### Funding
-- **Series A: W30.6B (~3-24M USD)**
-- **Lead investor**: Goodwater Capital
-- Additional investors: Hashed, SBVA
-- Capital designated for regional and business expansion
-
-### Business Model Innovation
-- **Zero-fee delivery app** - 무료배달
-- Industry first in Korea
-- Launched: February 2022
-- Operating continuously since launch (~4 years as of 2026)
-
-### Market Coverage (Current)
-- **Primary market**: Gwanak-gu (관악구), Seoul
-- **Expansion**: 4 additional adjacent districts
-- ~2 years of focused experimentation in these regions
-- Strategy: Deep penetration before broad expansion
-
-### Team & Operations
-- **Headcount**: 177 employees (per Wanted)
-- **Average salary**: W39.86M (~0K USD)
-- **Company age**: 4 years (founded ~2022)
-- Location: Gwanak-gu, Seoul
-
-### Market Positioning
-- Differentiation: Zero delivery fees (vs Baemin/Coupang Eats charging W3,000-5,000)
-- Target: Price-sensitive consumers, frequent delivery users
-- Competitive pressure on dominant players (Baemin, Coupang Eats, Yogiyo)
-
-### Business Model Questions
-- **Unit economics unclear**: How is zero-fee model sustainable?
-- Potential revenue sources:
-  - Restaurant commissions (likely primary)
-  - Advertising on platform
-  - Premium features or subscriptions
-  - Venture-backed growth prioritizing market share
-
-### Strategic Context
-- Korean delivery market: Highly competitive, consolidated around 2-3 major players
-- Zero-fee strategy: Customer acquisition play vs. sustainable long-term model
-- Series A funding: Likely needed to sustain zero-fee subsidies during growth phase
-
-### Next Steps to Monitor
-- **Geographic expansion** beyond current 5 districts
-- Unit economics disclosure and path to profitability
-- GMV (Gross Merchandise Value) growth metrics
-- Restaurant partner count and satisfaction
-- User retention and order frequency
-- Competition response from Baemin/Coupang Eats
-- Series B fundraising and valuation
-- Potential pivot or fee introduction as company matures
+#### Research Notes
+- 서비스: 1인 가구 대상 배달비 없는 배달 플랫폼
+- 2025년 1월 24일: 시리즈A + A2 라운드, 총 306억원
+- 투자자: GoodWater Capital(리드), SBVA, 베이스벤처스, Hashed, 비디씨랩스
+- GoodWater Capital: 카카오, 쿠팡, 토스 초기 투자사
+- 특징: PMF 확인 후 폭발적 성장 (주 30%+ 성장, 80%+ 월 재주문율)
+- 2024년: 1인 가구 큐레이션 제품 출시
+- 2024년 매출: 149억 1,024만원
+- 직원 177명 (Wanted 기준)
+- 한국 1인 가구 증가 트렌드 수혜 (전체 가구의 34.5%)
+- 누적 총 투자규모 306억원 (시드 26억 포함)

@@ -1,60 +1,17 @@
-# Yuga Labs Research
+### Yuga Labs
+- Status: 🟡 Watch
+- Key finding: 2023-2024년 두 차례 대규모 구조조정/해고. CEO 교체(Daniel Alegre → 공동창업자 Greg Solano 복귀). BAYC NFT 가치 급락. 하지만 여전히 최대 NFT 회사.
+- Action needed: ApeCoin 생태계 모니터링. Otherside 메타버스 진행 상황 추적. 2025년 전략 문의.
+- Source: https://cointelegraph.com/news/yuga-labs-restructures-layoffs-new-exec / https://nftnewstoday.com/2024/04/29/yuga-labs-announces-layoffs/
+- Last researched: 2026-03-04
 
-Last Researched: 2026-02-28
-
-## Company Overview
-- **Business:** NFT and metaverse company
-- **Flagship IP:** Bored Ape Yacht Club (BAYC)
-- **Major Funding:** Series B $450M
-- **Products:** BAYC, CryptoPunks (acquired), Otherside metaverse
-
-## Recent Developments (2025-2026)
-
-### Otherside Metaverse Launch (Nov 2025)
-- **Launch Date:** November 12, 2025 (recently launched!)
-- **Development:** Crypto-powered virtual world built with $450M Series B funding
-- **Timing:** Launched after ~2+ years of development
-
-### Amazon Partnership (Oct-Dec 2025)
-- **Announcement:** December 2025
-- **First Retail Partnership:** Yuga Labs' first collaboration with Amazon Gaming
-- **Product:** "Boximus" NFT avatar
-  - Part of Otherside Voyager series
-  - Player-controllable avatar in Otherside
-  - Live on Amazon Gaming front page (Oct 30 launch)
-
-### IP Integration Strategy
-- **Multi-IP Approach:** Otherside features multiple NFT projects:
-  - BAYC (owned)
-  - CryptoPunks (owned)
-  - Cool Cats
-  - Meebits (owned)
-  - Other partner NFT collections
-
-## Market Position
-- **Brand Leader:** Still the most recognized NFT brand globally
-- **Metaverse Bet:** Major capital deployed to Otherside
-- **Distribution:** Amazon partnership provides mainstream retail distribution
-
-## Investment Considerations
-
-**Strengths:**
-- $450M Series B provides long runway
-- Otherside now LIVE (moved from vaporware to reality)
-- Amazon partnership validates mainstream appeal
-- Multi-IP strategy creates network effects
-- Owns premier NFT IPs (BAYC, CryptoPunks)
-
-**Risks & Challenges:**
-- NFT market has cooled significantly from 2021-22 peaks
-- Metaverse adoption uncertain (needs to track Otherside engagement)
-- Competition from established gaming/metaverse companies
-- Need to demonstrate retention and monetization
-
-## Next Steps to Monitor
-- Otherside daily/monthly active users (DAU/MAU)
-- Revenue/monetization metrics
-- Expansion of Amazon partnership
-- Additional IP partnerships or acquisitions
-- Secondary NFT market performance (BAYC floor price)
-- Follow-on funding or path to profitability
+#### Research Notes
+- BAYC(10K) + MAYC(20K) + BAKC(10K) + CryptoPunks + Meebits + Otherside 보유
+- ATH: BAYC 128 ETH (2022년 5월, 약 $354K)
+- 2023년 10월: 첫 번째 대규모 해고 + CEO Daniel Alegre의 구조조정 발표
+- 2024년 4월: 두 번째 해고 + Won Kim(브랜드 파트너십 헤드) 임명
+- CEO 변경: Alegre 퇴임 → 공동창업자 Greg Solano(Garga) 복귀
+- 2025년 1월: CryptoPunks 플로어 40.39 ETH, IP 매각 루머 (CEO 부인)
+- Otherside: 2025년 토큰 획득 게임플레이 업데이트 계획
+- ApeCoin(APE) 유틸리티 토큰 운영 중
+- 회사 웹사이트(yuga.com) 정상 운영
