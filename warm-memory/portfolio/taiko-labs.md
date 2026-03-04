@@ -1,56 +1,23 @@
-# Taiko Labs Research
+### Taiko Labs
+- Status: 🟢 Healthy
+- Key finding: Ethereum 기반 Based Rollup으로 메인넷 출시(2024.05), TVL $295M(2025.01), Binance 상장 + Pacaya 하드포크(Q2 2025), Gwyneth 론칭 + 온체인 거버넌스 활성화(2025.10) — 활발한 개발 지속 중.
+- Action needed: TKO 토큰 가격 트래킹 및 Shasta 하드포크(Q4 2025) 완료 여부 확인.
+- Source: https://taiko.xyz/
+- Last researched: 2026-03-04
 
-Last Researched: 2026-02-28
+#### Background
+- 기술: Based Rollup (zkEVM) on Ethereum
+- 메인넷 출시: 2024년 5월
+- TVL: $295M (2025년 1월 기준, Based Rollup 중 최대)
+- 토큰: TKO (Binance 상장)
 
-## Company Overview
-- **Business:** Ethereum Layer 2 (based rollup)
-- **Total Funding:** $37M raised
-- **Product:** Gwyneth - synchronously composable with Ethereum
+#### 2025 주요 이정표
+- Q1 2025: OpenZeppelin 파트너십 (차세대 Based Rollup 스택 개발)
+- Q2 2025: Pacaya 하드포크 + Binance 상장
+- Q3 2025: Gwyneth 테스트넷, preconfirmations 출시
+- Q4 2025: Shasta 하드포크 (100% ZK, 비용 감소), Gwyneth 메인넷 예정
+- 2025.10: 커뮤니티 온체인 거버넌스 활성화
+- 그랜트 프로그램: $32M, 67개 프로젝트 지원 (19% 수락률)
 
-## Recent Developments (2024-2026)
-
-### Mainnet Launch & Decentralization (June 2024)
-- **Mainnet Rollout:** Successfully launched mainnet with token
-- **Historic Achievement:** First rollup to enable permissionless sequencing and proving
-- **Decentralization:** Anyone can sequence Taiko blocks (vs centralized sequencers on other L2s)
-
-### Technical Architecture
-- **Type:** Based rollup (synchronously composable with Ethereum)
-- **Sequencing:** Permissionless - decentralized block ordering
-- **Proving:** Permissionless - anyone can submit proofs
-- **Security:** Reduced centralization risks compared to competitors
-
-### Challenges & Solutions
-- **Block Time Issue:** L2 block building profitability affects block times
-- **Temporary Fix:** Taiko Labs operates proposers without profit-seeking to maintain stability
-- **Long-term Solution:** Planning to introduce "Preconfirmation" concept to address:
-  - Block building profitability
-  - Block time improvement
-  - Data posting efficiency
-
-## Market Position
-- **Differentiation:** Only permissionless sequencing/proving L2 at launch
-- **Competitive Edge:** Decentralization vs Arbitrum, Optimism, Base (all centralized sequencers)
-- **Risk:** First-mover on decentralization means untested at scale
-
-## Investment Considerations
-
-**Strengths:**
-- $37M funding provides runway
-- Technical innovation (permissionless architecture)
-- Mainnet live with real usage
-- Differentiated from major competitors
-
-**Concerns:**
-- Block time issues suggest economic model challenges
-- Requires temporary centralized intervention (ironic given decentralization goals)
-- Competition from well-funded, faster L2s
-- Preconfirmation solution still in planning
-
-## Next Steps to Monitor
-- Preconfirmation implementation and impact
-- TVL (Total Value Locked) growth
-- Transaction volume and user adoption
-- Block time stabilization
-- Economic sustainability of decentralized sequencing
-- Follow-on funding or path to profitability
+#### Roadmap (2026)
+- Q1 2026: Pectra EVM 업그레이드 (EIP-7702 AA), 완전 분산형 Preconfirmations

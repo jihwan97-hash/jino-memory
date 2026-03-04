@@ -1,57 +1,12 @@
-# A1 XYZ / Concrete Protocol
-Last researched: 2026-03-01
+### A1 XYZ (A1 Concrete)
+- Status: 🔴 Critical
+- Key finding: 공개된 정보 전무 — 'A1 XYZ' 또는 'A1 Concrete' 스타트업 관련 웹 검색 결과 없음. 스텔스 모드이거나 다른 이름으로 운영 중일 가능성.
+- Action needed: 투자 담당자를 통해 회사명/웹사이트/대표 연락처 직접 확인 필요. 내부 포트폴리오 DB 재확인 요망.
+- Source: 검색 결과 없음
+- Last researched: 2026-03-04
 
-## Overview
-- **Concrete Protocol (formerly Blueprint Finance)**: On-chain credit infrastructure
-- Mission: Foundation for on-chain credit, debt, and structured products
-- Focus: DeFi yield infrastructure with institutional-grade products
-
-## Product/Technology
-### Core Innovation: On-Chain Credit Market
-- **Liquidation protection** for borrowers
-- Native on-chain credit market
-- Automated yield aggregation across DeFi
-
-### Yield Infrastructure
-- **Automated yield routing**: Deposits auto-allocated to best-performing strategies
-- Multi-protocol aggregation (lending markets, money protocols, chains)
-- Idle liquidity used for short-term liquidation protections
-- Risk-managed, transparent performance
-
-### Key Features
-- Highest risk-adjusted yields in DeFi
-- Programmatic liquidity allocation
-- Cross-chain yield optimization
-- Institutional-grade infrastructure
-
-## Recent Activity (2026)
-- **Phase 1 Social Bags Campaign** launched (Feb 2026)
-- Users earn "Bags" → convert to Concrete Points
-- Airdrop campaign ahead of **Token Generation Event (TGE)**
-- Active pre-launch community building
-
-## Business Model
-- Yield aggregation + liquidation protection
-- Foundation for on-chain credit products
-- Targeting institutional + retail DeFi users
-- Revenue from yield optimization spread + credit products
-
-## Status & Outlook (2026)
-- **Pre-TGE phase** (token launch upcoming)
-- Active airdrop/points campaign
-- Building user base before mainnet/token launch
-- Positioned as next-gen DeFi infrastructure
-- No public funding info found yet
-
-## Competitive Landscape
-- Competing with yield aggregators (Yearn, Beefy) and credit protocols (Maple, TrueFi)
-- Differentiation: Liquidation protection + institutional-grade infrastructure
-- Multi-chain, automated approach
-
-## Notes
-- Strong product positioning (on-chain credit is underserved)
-- Active pre-launch marketing (airdrop campaign)
-- TGE upcoming — token launch imminent
-- HVF portfolio company (A1 XYZ)
-- Worth monitoring TGE date and initial traction post-launch
-- Official site: concrete.xyz | Twitter: @ConcreteXYZ
+#### Notes
+- HVF2 포트폴리오 내 건설 테크 카테고리로 분류됨
+- 'A1 XYZ' 및 'A1 Concrete' 어떤 검색에서도 해당 스타트업 미발견
+- 완전 스텔스, 이름 변경, 또는 피봇 가능성 높음
+- 조사 재시도 필요: 창업자 이름, 정확한 법인명, LinkedIn 프로필 등
