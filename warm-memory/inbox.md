@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오전 08:20 KST
+**Last synced**: 2026년 3월 4일 수요일 오전 11:57 KST
 **Account**: astin@hashed.com
 
 ## Recent Emails (30 total, 6 unread)
+
+### [제제미미] 정기주주총회 소집 결의를 위한 이사회 소집 통지
+- **From**: Jewoo Jeon <jeje@jejememe.com>
+- **Date**: Wed, 4 Mar 2026 11:00:15 +0900
+- **ID**: `19cb6939c8e640e5`
+- **Preview**: 안녕하세요. 제제미미 전제우입니다. 제 6기 정기 주주총회에 앞서 주주총회 소집 결의를 위한 이사회가 필요함에 따라 당사에 기타비상무이사로 등재되어 있는 김서준 대표님께 다음과 같이 이사회 소집통지서를 전달드립니다. (소집 통시저 별첨) • 일 시 : 2026년 3월 12일(목) 오전 10시 00분 • 장 소 : 서울특별시 영등포구 의사당대로 83, 오투타워
+
+### [프레인글로벌] 2026년 3월 4일(수) 해시드 국내 뉴스 데일리 모니터링
+- **From**: "해시드 국내PR" <hashed_kr@prain.com>
+- **Date**: Wed, 4 Mar 2026 01:30:00 +0000
+- **ID**: `19cb6777abb3efc5`
+- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 4일 수요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.4(수) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/3(화) 가상자산거래소 지분 제한? 누가 왜 밀어붙이나. 슬로우뉴스
+
+### Re: [닥터나우] 주주간담회 일정 조율 - 정진웅 대표 메일 후속 팔로업 건
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Wed, 4 Mar 2026 10:12:22 +0900
+- **ID**: `19cb667635c3a934`
+- **Preview**: 네 부대표님, 만약 금요일 오후 3시로 확정이 되게되면 저희 회사 플랫폼팀에 새로 조인하셔서 포트폴리오 실무 지원 맡아주고 계신 한지환 매니저님께서 먼저 참석하실 수 있도록 하겠습니다. 일정 확정되면 말씀 부탁 드려요! 감사합니다. 백수진 드림 SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011
 
 ### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: Sujung Park <spark@fidealaw.com>
@@ -166,24 +184,6 @@
 - **Date**: Tue, 3 Mar 2026 15:37:12 +0900
 - **ID**: `19cb26a3e6ca65f2`
 - **Preview**: 안녕하세요 이윤석 대표님, 해시드 플랫폼팀 운영 매니저 한지환입니다. 해시드에서는 제3호 안건 세부조건까지 확인했으며, 위 결의 안건(제1호, 제2호, 제3호)에 모두 동의합니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www
-
-### Invitation: [TODO] 두잇 회신 @ Tue Mar 3, 2026 7:30pm - 8pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Tue, 03 Mar 2026 06:01:20 +0000
-- **ID**: `19cb24966382b4bf`
-- **Preview**: [TODO] 두잇 회신 You have been invited by Jihwan to attend an event named [TODO] 두잇 회신 on Tuesday Mar 3, 2026 ⋅ 7:30pm – 8pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026 ⋅ 7:30pm – 8pm (Korean
-
-### Invitation: [TODO] 주노, mythical 업데이트 @ Tue Mar 3, 2026 7pm - 7:30pm (GMT+9) (astin@hashed.com)
-- **From**: Jihwan <jihwan260213@gmail.com>
-- **Date**: Tue, 03 Mar 2026 06:01:19 +0000
-- **ID**: `19cb24965d9507f2`
-- **Preview**: [TODO] 주노, mythical 업데이트 You have been invited by Jihwan to attend an event named [TODO] 주노, mythical 업데이트 on Tuesday Mar 3, 2026 ⋅ 7pm – 7:30pm (Korean Standard Time - Seoul). When Tuesday Mar 3, 2026
-
-### Re: [한국시니어연구소] 정기주주총회 일정 확인 요청의 건
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 14:56:35 +0900
-- **ID**: `19cb2450c639dab5`
-- **Preview**: 안녕하세요 이진열 대표님, 해시드 운영매니저 한지환입니다. 정기주총 관련하여 비대면으로 가능한 일정 전달드립니다. (기본적으로 오전 10시부터 오후 6시 정도까지 가능합니다.) 25일: 오후 4시-5시 제외 26일: 오전 10시부터 ~ (오후 1시-3시 제외) 27일: 오전 11시-오후 1시 제외, 오후 3시-4시 제외 30일: 오후 3시-5시 제외 31일:
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
