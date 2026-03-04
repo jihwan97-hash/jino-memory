@@ -19,6 +19,10 @@
 - personal (gkswlghks118@gmail.com) — 읽기 전용
 - jihwan (jihwan260213@gmail.com) — 전체 접근 (send, reply, trash, delete, modify, labels)
 
+## 형 관심사 / 즐겨찾기
+- F1 Cosmos 실시간 대시보드: https://f1cosmos.com/ko/dashboard/live
+- F1 The Data (데이터 분석): https://f1thedata.com/
+
 ## 오너 선호
 - 짧고 핵심적인 답변 선호
 - 건강 관련은 과학적 근거 기반으로 자세히
