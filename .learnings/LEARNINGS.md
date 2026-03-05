@@ -1,5 +1,12 @@
 # Learnings
 
+## [LRN-20260305-001] calendar.js — --calendar, --visibility 플래그 미구현 버그
+- **패턴:** `--calendar astin@hashed.com` 줘도 primary에 생성, `--visibility private` 줘도 default로 생성
+- **R(재발):** 1 | **C(확인):** 1 | **D(반증):** 0
+- **원인:** calendar.js createEvent가 `GOOGLE_CALENDAR_ID` 환경변수만 읽고 `--calendar` 플래그는 무시. `body.visibility` 코드 자체가 없었음.
+- **수정:** `--visibility` → `body.visibility` 반영 추가. `--calendar` → `GOOGLE_CALENDAR_ID=xxx` 환경변수로 전달해야 함.
+- **교훈:** astin 캘린더에 만들 때는 `GOOGLE_CALENDAR_ID=astin@hashed.com` 앞에 붙이기. 비공개는 `--visibility private`.
+
 ## [LRN-20260304-002] 캘린더 종일 일정은 --allday 플래그 + date 형식
 - **패턴:** "종일로 만들어줘" 요청 시 시간 포함 일정(09:00~23:00)으로 생성
 - **R(재발):** 1 | **C(확인):** 1 | **D(반증):** 0

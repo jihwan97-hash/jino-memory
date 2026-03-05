@@ -192,6 +192,7 @@ async function createEvent(opts) {
 
   if (opts.description) body.description = opts.description;
   if (opts.location) body.location = opts.location;
+  if (opts.visibility) body.visibility = opts.visibility;
   if (opts.attendees) {
     body.attendees = opts.attendees.split(',').map((email) => ({ email: email.trim() }));
   }
