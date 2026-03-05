@@ -1,9 +1,93 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 5일 목요일 오전 11:57 KST
+**Last synced**: 2026년 3월 5일 목요일 오후 05:57 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 2 unread)
+## Recent Emails (22 total, 8 unread)
+
+### **[NEW]** Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
+- **From**: Sun choi <sun@hashed.com>
+- **Date**: Thu, 5 Mar 2026 17:26:17 +0900
+- **ID**: `19cbd1afafd8f973`
+- **Preview**: 안녕하세요 김민중 대표님, 자료 회신 감사드립니다. Best regards, Thanks Sun Seonwoong Choi, Accountant +82-10-4011-0334 www.hashed.com The content of this message and any attachment is confidential, and may contain
+
+### **[NEW]** Fwd: [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Thu, 5 Mar 2026 17:18:48 +0900
+- **ID**: `19cbd14269dd4ddf`
+- **Preview**: 가급적이면 함께 참석하시죠 캘린더 초대 부탁 드려요 SJ 드림 ---------- Forwarded message --------- 보낸사람: 박형규 &lt;hk.park@payhere.in&gt; Date: 2026년 3월 5일 (목) PM 5:14 Subject: [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건 To:
+
+### **[NEW]** [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건
+- **From**: "박형규" <hk.park@payhere.in>
+- **Date**: Thu, 5 Mar 2026 17:14:20 +0900
+- **ID**: `19cbd1074e7338c5`
+- **Preview**: 안녕하세요. 주식회사 페이히어 Head of Staff 박형규입니다. 항상 페이히어에 보내주시는 관심과 성원에 깊이 감사드립니다. 2025년 결산 및 주요 안건 처리를 위하여 이사회, 정기주주총회 및 임시주주총회, 그리고 주주간담회 일정을 아래와 같이 안내드립니다. 당초 정기주주총회 당일에 주주간담회를 함께 진행하고자 하였으나, 일부 주주님들의 일정 참석이
+
+### **[NEW]** Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
+- **From**: Min Kim <mjkim@vrism.com>
+- **Date**: Thu, 5 Mar 2026 17:03:31 +0900
+- **ID**: `19cbd06a0e6d0194`
+- **Preview**: 안녕하세요 최선웅 님, 브리즘 김민중 입니다. 요청하신 2025년 말 기준 완전자본잠식 해소 확인을 위한 유상증자 관련 증빙 서류를 아래와 같이 첨부하여 보내드립니다. 아영님께서 휴가 중이신 관계로 제가 대신 보내드리니 참고 부탁드립니다. [첨부 서류] 1. 증자 후 최근일 등기부등본 2. 증자 후 주주명부 보내드린 자료와 관련하여 추가로 확인이 필요하시거나
+
+### **[NEW]** [국내제작 원목가구 웰리스가구] 비회원 님 주문 내역을 알려드립니다.
+- **From**: "국내제작 원목가구 웰리스가구" <no-reply@cafe24shop.com>
+- **Date**: Thu, 05 Mar 2026 00:02:03 -0800 (PST)
+- **ID**: `19cbd04a22b5215f`
+- **Preview**: 안녕하세요. 국내제작 원목가구 웰리스가구 입니다. 저희 쇼핑몰을 이용해주셔서 진심으로 감사드립니다. 한지환(비회원) 고객님께서 저희 쇼핑몰에서 주문하신 내역입니다. 고객님께서는 2026-03-05 17:01:26 에 국내제작 원목가구 웰리스가구에서 아래와 같은 상품을 주문하셨고, 3090000원 무통장 입금 결제방법으로 선택하셨습니다. 주문자 주문번호 주문
+
+### **[NEW]** Krew Capital Venture Fund I LP | Investor Account Statement for February 2026 | Distributed Protocols Pte. Ltd.
+- **From**: NAV Fund Services <investor.relations@navfundservices.com>
+- **Date**: Thu, 5 Mar 2026 13:08:26 +0530
+- **ID**: `19cbcf07fec72cb2`
+- **Preview**: Your Investor Statement is Ready to View The Investor Statement for the current period, for your investment in Krew Capital Venture Fund I LP, is attached. The accompanying Disclosure Document is an
+
+### FW: [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
+- **From**: "홍서연(팀장) - 영업2담당셀러성장팀" <hongseo@ssg.com>
+- **Date**: Thu, 5 Mar 2026 06:20:54 +0000
+- **ID**: `19cbca81aeaf7afe`
+- **Preview**: 안녕하세요. 에스에스지닷컴 셀러성장팀 홍서연입니다. 당사 셀러지원센터 통하여 API 문의 주신 것으로 확인되어 회신드립니다. 당사 오픈 API는 자유롭게 사용 가능합니다. (Open API URL : https://eapi.ssgadm.com/info/main.ssg) 다만, 당사 API 개발을 위한 테스트 환경 세팅이 필요하시다면 입점 계약이 선행되어야
+
+### Invitation: [한국시니어연구소] 정기주주총회 @ Tue Mar 31, 2026 10am - 11am (GMT+9) (astin@hashed.com)
+- **From**: "이진열" <jy@kslab.co.kr>
+- **Date**: Thu, 05 Mar 2026 05:57:25 +0000
+- **ID**: `19cbc9289f19c335`
+- **Preview**: [한국시니어연구소] 정기주주총회 Join with Google Meet – You have been invited by 이진열 to attend an event named [한국시니어연구소] 정기주주총회 on Tuesday Mar 31, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul). Join with Google
+
+### Re: [한국시니어연구소] 정기주주총회 일정 확인 요청의 건
+- **From**: "이진열" <jy@kslab.co.kr>
+- **Date**: Thu, 5 Mar 2026 14:57:10 +0900
+- **ID**: `19cbc92774576365`
+- **Preview**: 수신자 제위, 안녕하세요. 한국시니어연구소 이진열입니다. 금번 정기 주주총회 겸 간담회 진행일정 공유드립니다. 금번 정기 주주총회는 3월 31일 오전 10시~11시에 구글밋으로 진행하도록 하겠으며, 캘린더도 초대드렸습니다. 최대한 많은 분들의 참석이 가능한 시간으로 조율해보았으나 참석이 어려우신 경우, 별도로 내용 공유드릴 수 있도록 하겠습니다. 이상입니다.
+
+### Fwd: [업라이즈] 피세무조사 보고
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Thu, 5 Mar 2026 13:18:58 +0900
+- **ID**: `19cbc389bf4a8024`
+- **Preview**: ---------- Forwarded message --------- 보낸사람: &#39;이충엽&#39; via Investment &lt;investment@hashed.com&gt; Date: 2026년 3월 5일 (목) PM 12:49 Subject: [업라이즈] 피세무조사 보고 To: 이충엽 &lt;ir@heybit.io&gt; 안녕하세요, 업라이즈
+
+### 제주도 리플로우 Hashed Vibe Labs Offsite 세금계산서 전달드립니다. (2월 22-27일 사용건)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Thu, 5 Mar 2026 13:06:48 +0900
+- **ID**: `19cbc2d427da3aaf`
+- **Preview**: 제 이메일로 발행되어서 파일만 전달드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Delivery Status Notification (Failure)
+- **From**: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+- **Date**: Wed, 04 Mar 2026 20:05:49 -0800 (PST)
+- **ID**: `19cbc2c5c7a4ff4d`
+- **Preview**: Address not found Your message wasn&#39;t delivered to bil@hashed.com because the address couldn&#39;t be found, or is unable to receive mail. LEARN MORE The response was: 550 5.1.1 The email account
+
+### 제주도 리플로우 Hashed Vibe Labs Offsite 세금계산서 전달드립니다. (2월 22-27일 사용건)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Thu, 5 Mar 2026 13:05:36 +0900
+- **ID**: `19cbc2c2a01f84b0`
+- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
+
+### [업라이즈] 피세무조사 보고
+- **From**: "'이충엽' via Investment" <investment@hashed.com>
+- **Date**: Thu, 05 Mar 2026 03:49:37 +0000
+- **ID**: `19cbc1dc4c6fc962`
+- **Preview**: 안녕하세요, 업라이즈 이충엽입니다. VC 주주들께 보내드립니다. 서울지방국세청에서 지난 주 목요일(2월 26일) 업라이즈에 세무조사(영치조사)를 나왔습니다. 보고 없이 가볍게 넘어갈 부분은 아니라고 판단되어 메일 드립니다. 세무조사 개요 설명 조사대상세목 : 통합조사(법인세, 부가세 등 국세 통합) 조사대상 과세기간 : 21년~23년 3개년 조사기간 : 26
 
 ### [프레인글로벌] 2026년 3월 5일(목) 해시드 국내 뉴스 데일리 모니터링
 - **From**: "해시드 국내PR" <hashed_kr@prain.com>
@@ -52,138 +136,6 @@
 - **Date**: Wed, 04 Mar 2026 11:24:20 +0000
 - **ID**: `19cb8977cc9c68f7`
 - **Preview**: 닥터나우 주주간담회 You have been invited by SJ Baek to attend an event named 닥터나우 주주간담회 on Friday Mar 6, 2026 ⋅ 4pm – 5:30pm (Korean Standard Time - Seoul). This event has been updated Changed: title When
-
-### Fwd: [해시드벤처스] 2025년 기말 결산자료 요청의 건
-- **From**: Sun choi <sun@hashed.com>
-- **Date**: Wed, 4 Mar 2026 17:18:16 +0900
-- **ID**: `19cb7ed4d9bff64d`
-- **Preview**: 안녕하세요 변영민님, 해시드 재무팀 최선웅입니다. 다름이 아니라, 내부 회계 검토 과정에서 그린랩스의 완전자본잠식 현황이 확인되어, 추가 손상 검토 목적으로 아래 정보를 확인요청드립니다. 1. 자본구조 정상화 계획 • 유상증자, 무상증자, 감자 등 자본금 증자 또는 감자 계획 및 현황 • 예정 시기 및 구체적인 방법 (확정된 경우) • 주요 투자자 또는 이해
-
-### [하이픈코퍼레이션]정부24 서비스 시스템 정기 점검으로 인한 일시 중단 예정 안내 
-- **From**: noreply3@hyphen.im
-- **Date**: Wed, 4 Mar 2026 17:04:05 +0900 (KST)
-- **ID**: `19cb7e0318a69249`
-- **Preview**: [하이픈코퍼레이션]정부24 서비스 시스템 정기 점검으로 인한 일시 중단 예정 안내 안녕하세요, 하이픈 데이터마켓입니다. 정부24 시스템 정기점검으로 인한 서비스 일시 중단 예정 공지가 있어 공유드립니다. 변경사항 발생 시 바로 재안내 드리도록 하겠습니다. 점 검 시 간 2026.03.13(금) 19:30 ~ 2026.03.14(토) 20:00 (총 24시간
-
-### Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
-- **From**: Sun choi <sun@hashed.com>
-- **Date**: Wed, 4 Mar 2026 16:53:44 +0900
-- **ID**: `19cb7d6dd74f83e3`
-- **Preview**: 안녕하세요 백아영님, 해시드 재무팀입니다. 25년말 기준 완전자본잠식 해소 확인 목적으로, 유상증자 관련 아래 증빙 서류 전달부탁드립니다. - 증자 후 최근일 등기부등본 - 증자 후 주주명부 Best regards, Thanks Sun Seonwoong Choi, Accountant +82-10-4011-0334 www.hashed.com The
-
-### IMPORTANT TAX RETURN DOCUMENT AVAILABLE | Krew Capital Venture Fund I LP | Password for 2025 K-1 | Distributed Protocols Pte. Ltd.
-- **From**: NAV Fund Services <investor.relations@navfundservices.com>
-- **Date**: Wed, 4 Mar 2026 13:22:17 +0530
-- **ID**: `19cb7d6290601212`
-- **Preview**: Password for Schedule K-1 The password to open your Schedule K-1 is attached. Your Schedule K-1 will be sent to your registered e-mail address shortly. If you have any questions or comments, please
-
-### IMPORTANT TAX RETURN DOCUMENT AVAILABLE | Krew Capital Venture Fund I LP | 2025 Schedule K-1 | Distributed Protocols Pte. Ltd.
-- **From**: NAV Fund Services <investor.relations@navfundservices.com>
-- **Date**: Wed, 4 Mar 2026 13:22:16 +0530
-- **ID**: `19cb7d5ee9ef7925`
-- **Preview**: Your Schedule K-1 is Ready to View Dear Investor, Please see attached your Schedule K-1. For your record, you can print it out and save it with your tax paperwork or send it to your tax professional.
-
-### Updated invitation: [Block] 닥터나우 주주간담회 @ Fri Mar 6, 2026 4pm - 5:30pm (GMT+9) (Astin Han)
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Wed, 04 Mar 2026 07:43:44 +0000
-- **ID**: `19cb7cd84c3150ea`
-- **Preview**: [Block] 닥터나우 주주간담회 You have been invited by SJ Baek to attend an event named [Block] 닥터나우 주주간담회 on Friday Mar 6, 2026 ⋅ 4pm – 5:30pm (Korean Standard Time - Seoul). This event has been updated Changed:
-
-### [해시드] 미래에셋캐피탈 이진우 선임님 소개 - AI 에이전트 협업 관련 미팅 요청드립니다.
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Wed, 4 Mar 2026 16:42:45 +0900
-- **ID**: `19cb7ccc945b2fcc`
-- **Preview**: 신연웅 팀장님 안녕하세요, 저는 미래에셋캐피탈 이진우 선임님 소개로 연락드리는 해시드 투자팀의 백수진 수석입니다. 먼저 이렇게 불쑥 메일로 처음 인사 드리게 된 점 양해 부탁드립니다. 해시드는 블록체인/AI 분야 투자를 하고 있는 VC인데요, 최근 Vibe Labs라는 AI native 극초기 창업자 투자 프로그램을 운영하면서 (관련 기사) in-house
-
-### Re: [코멘토] 이사회 소집 안내
-- **From**: "최재형" <jaehyeong.choi@comento.kr>
-- **Date**: Wed, 4 Mar 2026 16:37:45 +0900
-- **ID**: `19cb7c8a4cc47539`
-- **Preview**: 안녕하세요. 코멘토 최재형입니다. 기존에 안내드렸던 이사회 의안 중 변경사항이 있어서 전달드립니다. 제2호의안 : 정관 변경의 건 나. 주식매수선택권을 이사회에서 부여하는 특례 규정을 추가하려고 하였으나, 법령 상 내부 임직원에게 부여할때에는 주주총회에서 부여하는 것만 가능하여 해당 안건은 제외되었습니다. 변경된 내용으로 이사회 의안 설명서 재전달드리니 참고
-
-### RE: [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
-- **From**: "SSG파트너오피스 - SSG.COM" <partners@ssg.com>
-- **Date**: Wed, 4 Mar 2026 07:23:38 +0000
-- **ID**: `19cb7bb23a7ed81b`
-- **Preview**: 안녕하세요. SSG.COM 셀러성장팀 셀러지원파트 입니다. 담당부서에 해당 내용 공유하도록 하겠습니다. 감사합니다. [ 추가문의 사항 ] 파트너 오피스(PO) 로그인 불가 : 대표메일 ( partners@ssg.com ) 파트너 오피스(PO) 로그인 가능 : 이용문의/장애신고 문의하기 또는 1833-6479 보낸 사람: Astin Han &lt;astin@
-
-### Accepted: HVF Exit Strategy Meeting @ Thu Mar 5, 2026 12pm - 12:45pm (GMT+9) (Astin Han)
-- **From**: Sean Hong <sean@hashed.com>
-- **Date**: Wed, 04 Mar 2026 07:09:34 +0000
-- **ID**: `19cb7ae3c282f148`
-- **Preview**: HVF Exit Strategy Meeting Sean Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/egw-gwdi-zuv Join by phone (US) +1 513-855-2394 PIN: 736870700 More phone numbers
-
-### Re: [API 사용 문의] 신세계 OpenAPI 사용방법 문의드립니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Wed, 4 Mar 2026 16:04:55 +0900
-- **ID**: `19cb7a9fa85e88b5`
-- **Preview**: 안녕하세요 담당자님, 주식회사 해시드의 한지환입니다. 해시드는 블록체인/AI 분야 투자를 하고 있는 VC인데요, 최근 Vibe Labs라는 AI native 극초기 창업자 투자 프로그램을 운영하면서 (https://www.hankyung.com/article/202601201637O) in-house로도 다양한 프로젝트를 빌딩하고 있습니다. 그 중 하나가
-
-### Re: [닥터나우] 주주간담회 일정 조율 - 정진웅 대표 메일 후속 팔로업 건
-- **From**: "임경호" <ho@doctornow.co.kr>
-- **Date**: Wed, 4 Mar 2026 15:40:50 +0900
-- **ID**: `19cb79418ecb31ec`
-- **Preview**: 심사역님 감사합니다! 금요일 오후 4시로 확정 입니다. 곧 전체 안내 메일 보내드리겠습니다. 금요일 오후 4시로 먼저 참고 부탁 드리겠습니다! 2026년 3월 4일 (수) AM 10:12, SJ Baek &lt;sj@hashed.com&gt;님이 작성: 네 부대표님, 만약 금요일 오후 3시로 확정이 되게되면 저희 회사 플랫폼팀에 새로 조인하셔서 포트폴리오
-
-### RE: Waterfield Global – Fund of Funds I - Capital Call
-- **From**: "'Shareholder Services' via Investment" <investment@hashed.com>
-- **Date**: Wed, 4 Mar 2026 06:27:23 +0000
-- **ID**: `19cb7885211c67f4`
-- **Preview**: Dear Investor, Thank you very much for your kind email and we confirm that the provided document is in good order. We truly appreciate your continuous support. As a small request, we would be grateful
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:10:19 -0800
-- **ID**: `19cb777f9646fe83`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:10:07 -0800
-- **ID**: `19cb777cb2efe809`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:48 -0800
-- **ID**: `19cb77780e69f052`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:40 -0800
-- **ID**: `19cb777600c05dd0`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:34 -0800
-- **ID**: `19cb7774ab05141c`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:32 -0800
-- **ID**: `19cb77743188038b`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:28 -0800
-- **ID**: `19cb77735296a983`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:18 -0800
-- **ID**: `19cb7770c20eedf9`
-- **Preview**: This message was automatically generated by Gmail.
-
-### unsubscribe
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 3 Mar 2026 22:09:07 -0800
-- **ID**: `19cb776e08fc614d`
-- **Preview**: This message was automatically generated by Gmail.
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

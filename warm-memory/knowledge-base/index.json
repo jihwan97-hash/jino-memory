@@ -3,6 +3,22 @@
   "description": "지식 베이스 인덱스 — 단기/중기/장기 기억 파이프라인",
   "entries": [
     {
+      "id": "leopold-aschenbrenner-situational-awareness-fund",
+      "title": "Leopold Aschenbrenner — Situational Awareness 펀드",
+      "tier": "short-term",
+      "date": "2026-03-05",
+      "tags": [
+        "AI",
+        "펀드",
+        "인프라",
+        "에너지",
+        "AGI",
+        "투자전략"
+      ],
+      "file": "short-term/2026-03-05_Leopold-Aschenbrenner-Situational-Awareness-Fund.md",
+      "summary": "24세 펀드 매니저가 AGI 인프라 올인 전략으로 12개월 만에 $225M → $5.5B 달성"
+    },
+    {
       "id": "kb-001",
       "title": "AI 기억 시스템으로 배움 효율 극대화",
       "file": "short-term/2026-03-03_AI기억시스템_Nathan.md",
