@@ -1,9 +1,33 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 4일 수요일 오후 11:57 KST
+**Last synced**: 2026년 3월 5일 목요일 오전 05:57 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 0 unread)
+## Recent Emails (30 total, 4 unread)
+
+### **[NEW]** DeFi Alliance Delaware Feeder I LP | Investor Account Statement for December 2025 | Hashed International LLC
+- **From**: NAV Fund Services <investor.relations@navfundservices.com>
+- **Date**: Thu, 5 Mar 2026 00:24:57 +0530
+- **ID**: `19cba362ba456e2b`
+- **Preview**: Your Investment Documents are Ready to View Dear investor of DeFi Alliance Fund I Ltd, Please find attached your Investor Statement (at the relevant feeder fund) and Portfolio Report for the period
+
+### **[NEW]** Canceled event: Weekly Sync #2 @ Fri Mar 6, 2026 3pm - 3:30pm (GMT+9) (Astin Han)
+- **From**: Seokwon Hong <edward@hashed.com>
+- **Date**: Wed, 04 Mar 2026 17:31:53 +0000
+- **ID**: `19cb9e7fbd6484de`
+- **Preview**: Weekly Sync #2 This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/qkf-dfjv-drp Join by phone (US) +1 413-728-2959 PIN: 727141958 More phone
+
+### **[NEW]** You have documents from BSQ Digital Opportunities Fund, I LP
+- **From**: investorservices via Investment <investment@hashed.com>
+- **Date**: Wed, 04 Mar 2026 16:54:45 +0000
+- **ID**: `19cb9c603e4e1bec`
+- **Preview**: View documents now to stay up to date. Dear Investors, Please logon to the Carta portal to access the draft Q4 2025 capital account statement. The final Q4 2025 capital account statement is expected to
+
+### **[NEW]** You have documents from BSQ Digital Opportunities Fund, I LP
+- **From**: investorservices via Investment <investment@hashed.com>
+- **Date**: Wed, 04 Mar 2026 16:19:23 +0000
+- **ID**: `19cb9a5a193c1028`
+- **Preview**: View documents now to stay up to date. Dear Investors, Please logon to the Carta portal to access the Quarterly Investment Report – Q4 2025 for Report for BSQ Digital Opportunities Fund, I LP. New
 
 ### Updated invitation: 닥터나우 주주간담회 @ Fri Mar 6, 2026 4pm - 5:30pm (GMT+9) (Astin Han)
 - **From**: SJ Baek <sj@hashed.com>
@@ -160,30 +184,6 @@
 - **Date**: Tue, 03 Mar 2026 20:26:21 -0800
 - **ID**: `19cb718cc1fe38b0`
 - **Preview**: Irene Youngran Park (irene@hashed.com) assigned you an action item in the following document 법인카드사용내역_총괄 2026.xlsx 1 comment Irene Youngran Park • 1:21 PM, Mar 4 (KST) New @astin@hashed.com 메모 작성해주세요.
-
-### Invitation: EastPoint Bi Weekly @ Every 2 weeks from 4:30pm to 5:30pm on Monday (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Wed, 04 Mar 2026 03:56:53 +0000
-- **ID**: `19cb6fdd4b408097`
-- **Preview**: EastPoint Bi Weekly Join with Google Meet – You have been invited by Seokwon Hong to attend an event named EastPoint Bi Weekly on Every 2 weeks from 4:30pm to 5:30pm on Monday (Korean Standard Time -
-
-### Invitation:  [Vibe Labs Seoul] Jeju Offsite @ Sun Mar 22 - Sat Mar 28, 2026 (Astin Han)
-- **From**: Dan Park <dan.park@hashed.com>
-- **Date**: Wed, 04 Mar 2026 03:19:21 +0000
-- **ID**: `19cb6db759da0bc3`
-- **Preview**: [Vibe Labs Seoul] Jeju Offsite You have been invited by Dan Park to attend an event named [Vibe Labs Seoul] Jeju Offsite on Sunday Mar 22 – Saturday Mar 28, 2026. When Sunday Mar 22 – Saturday Mar 28,
-
-### [제제미미] 정기주주총회 소집 결의를 위한 이사회 소집 통지
-- **From**: Jewoo Jeon <jeje@jejememe.com>
-- **Date**: Wed, 4 Mar 2026 11:00:15 +0900
-- **ID**: `19cb6939c8e640e5`
-- **Preview**: 안녕하세요. 제제미미 전제우입니다. 제 6기 정기 주주총회에 앞서 주주총회 소집 결의를 위한 이사회가 필요함에 따라 당사에 기타비상무이사로 등재되어 있는 김서준 대표님께 다음과 같이 이사회 소집통지서를 전달드립니다. (소집 통시저 별첨) • 일 시 : 2026년 3월 12일(목) 오전 10시 00분 • 장 소 : 서울특별시 영등포구 의사당대로 83, 오투타워
-
-### [프레인글로벌] 2026년 3월 4일(수) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "해시드 국내PR" <hashed_kr@prain.com>
-- **Date**: Wed, 4 Mar 2026 01:30:00 +0000
-- **ID**: `19cb6777abb3efc5`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 4일 수요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.4(수) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/3(화) 가상자산거래소 지분 제한? 누가 왜 밀어붙이나. 슬로우뉴스
 
 ---
 _To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
