@@ -1,7 +1,7 @@
 # Phi Labs / Archway
 
 **태그:** #포트폴리오 #Layer1 #Cosmos #개발자보상 #블록체인인프라 #Hashed투자
-**소스:** /root/clawd/warm-memory/portfolio/phi-labs-archway.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/phi-labs-archway.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

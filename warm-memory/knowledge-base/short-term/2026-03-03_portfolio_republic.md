@@ -1,7 +1,7 @@
 # Republic (Opendeal Inc.)
 
 **태그:** #포트폴리오 #크라우드펀딩 #대체투자 #RWA #크립토 #IPO파이프라인
-**소스:** /root/clawd/warm-memory/portfolio/republic.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/republic.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

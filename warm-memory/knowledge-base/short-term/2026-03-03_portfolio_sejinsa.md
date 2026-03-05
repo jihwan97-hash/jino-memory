@@ -1,7 +1,7 @@
 # Sejinsa (세진사)
 
 **태그:** #포트폴리오 #구독세차 #모빌리티 #시니어일자리 #출장세차 #한국스타트업
-**소스:** /root/clawd/warm-memory/portfolio/sejinsa.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/sejinsa.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

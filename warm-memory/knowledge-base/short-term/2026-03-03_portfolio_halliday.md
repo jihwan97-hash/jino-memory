@@ -1,7 +1,7 @@
 # Halliday International
 
 **태그:** #포트폴리오 #Web3인프라 #AI에이전트 #크로스체인 #a16z #에이전트경제
-**소스:** /root/clawd/warm-memory/portfolio/halliday.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/halliday.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

@@ -1,7 +1,7 @@
 # PortOne (구 Chai)
 
 **태그:** #포트폴리오 #결제인프라 #아시아결제 #API결제 #Terraform창업자 #다운라운드
-**소스:** /root/clawd/warm-memory/portfolio/portone.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/portone.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

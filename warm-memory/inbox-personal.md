@@ -12,5 +12,5 @@
 - **Preview**: Cards will dominate agentic commerce for existing merchants. Stablecoins will power the ones that don&#39;t exist yet. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
 
 ---
-_To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_
-_To search: node /root/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account personal_
+_To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_
+_To search: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account personal_

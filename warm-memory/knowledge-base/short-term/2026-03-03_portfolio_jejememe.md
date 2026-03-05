@@ -1,7 +1,7 @@
 # JEJEMEME (제제미미)
 
 **태그:** #포트폴리오 #육아플랫폼 #에드테크 #한국스타트업 #일본진출 #AI육아
-**소스:** /root/clawd/warm-memory/portfolio/jejememe.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/jejememe.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

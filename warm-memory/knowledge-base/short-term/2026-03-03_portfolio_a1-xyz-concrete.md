@@ -1,7 +1,7 @@
 # A1 XYZ / Concrete Protocol
 
 **태그:** #포트폴리오 #DeFi #크립토 #온체인크레딧 #수익집계 #TGE #블록체인인프라
-**소스:** /root/clawd/warm-memory/portfolio/a1-xyz-concrete.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/a1-xyz-concrete.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

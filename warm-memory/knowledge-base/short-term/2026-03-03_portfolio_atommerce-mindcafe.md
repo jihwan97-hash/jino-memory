@@ -1,7 +1,7 @@
 # Atommerce / Mindcafe (아토머스 / 마인드카페)
 
 **태그:** #포트폴리오 #디지털헬스 #멘탈헬스케어 #디지털치료제 #DTx #한국스타트업 #헬스테크
-**소스:** /root/clawd/warm-memory/portfolio/atommerce-mindcafe.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/atommerce-mindcafe.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

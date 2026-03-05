@@ -1,7 +1,7 @@
 # Mythical Inc.
 
 **태그:** #포트폴리오 #블록체인게임 #NFT #MYTH토큰 #MythosChain #게임플랫폼
-**소스:** /root/clawd/warm-memory/portfolio/mythical-inc.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/mythical-inc.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

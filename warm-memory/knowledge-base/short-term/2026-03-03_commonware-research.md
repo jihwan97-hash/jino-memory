@@ -1,7 +1,7 @@
 # Commonware 리서치 - Rust 기반 블록체인 프레임워크
 
 **태그:** #블록체인 #인프라 #Rust #Commonware #Tempo #Stripe #DeFi #모듈형
-**소스:** /root/clawd/warm-memory/commonware-research.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/commonware-research.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

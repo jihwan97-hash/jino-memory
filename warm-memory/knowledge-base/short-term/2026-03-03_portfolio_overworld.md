@@ -1,7 +1,7 @@
 # Overworld
 
 **태그:** #포트폴리오 #게임 #ARPG #크로스플랫폼 #멀티플레이어 #시드라운드
-**소스:** /root/clawd/warm-memory/portfolio/overworld.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/overworld.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

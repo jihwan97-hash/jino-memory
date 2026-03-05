@@ -1,7 +1,7 @@
 # Fusion Point Studios
 
 **태그:** #포트폴리오 #게임 #FPS #런웨이긴급 #스텔스
-**소스:** /root/clawd/warm-memory/portfolio/fusion-point-studios.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/fusion-point-studios.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

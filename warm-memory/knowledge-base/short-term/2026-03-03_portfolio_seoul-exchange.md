@@ -1,7 +1,7 @@
 # Seoul Exchange (서울거래)
 
 **태그:** #포트폴리오 #비상장주식 #RWA #Story Protocol #한국금융 #규제모트 #토큰화
-**소스:** /root/clawd/warm-memory/portfolio/seoul-exchange.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/seoul-exchange.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

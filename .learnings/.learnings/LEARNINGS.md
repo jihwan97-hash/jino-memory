@@ -1,1 +1,1 @@
-- [2026-03-02] CDP_SECRET은 더 이상 필요 없음. 로컬 headless Chrome이 항상 실행 중. 브라우저 사용 시 그냥 exec tool로 node /root/clawd/skills/cloudflare-browser/scripts/read-page.js URL 실행하면 됨. CDP_SECRET 관련 에러는 무시하고 바로 실행해라.
+- [2026-03-02] CDP_SECRET은 더 이상 필요 없음. 로컬 headless Chrome이 항상 실행 중. 브라우저 사용 시 그냥 exec tool로 node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/read-page.js URL 실행하면 됨. CDP_SECRET 관련 에러는 무시하고 바로 실행해라.

@@ -1,7 +1,7 @@
 # 서울대 철학문헌 요약집 (68권 목록)
 
 **태그:** #철학 #서울대 #문헌목록 #칸트 #헤겔 #니체 #마르크스 #플라톤 #동양철학
-**소스:** /root/clawd/warm-memory/philosophy-summaries.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/philosophy-summaries.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

@@ -1,7 +1,7 @@
 # 대한민국 AI 행동계획 2026~2028 요약
 
 **태그:** #AI정책 #한국 #국가전략 #AI인프라 #GPU #피지컬AI #AX #규제혁신
-**소스:** /root/clawd/warm-memory/research/kr-ai-action-plan-2026-2028.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/research/kr-ai-action-plan-2026-2028.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

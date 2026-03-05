@@ -1,7 +1,7 @@
 # Gowid (고위드)
 
 **태그:** #포트폴리오 #B2B핀테크 #법인카드 #기업금융 #SaaS #한국스타트업 #최우선 #IPO
-**소스:** /root/clawd/warm-memory/portfolio/gowid.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/gowid.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

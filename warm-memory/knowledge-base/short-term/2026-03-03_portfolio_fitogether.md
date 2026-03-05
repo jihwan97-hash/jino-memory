@@ -1,7 +1,7 @@
 # Fitogether (핏투게더)
 
 **태그:** #포트폴리오 #스포츠테크 #GPS추적 #FIFA #웨어러블 #스포츠AI
-**소스:** /root/clawd/warm-memory/portfolio/fitogether.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/fitogether.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

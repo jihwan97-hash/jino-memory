@@ -1,7 +1,7 @@
 # How Crypto Works - 챕터별 핵심 요약
 
 **태그:** #크립토 #블록체인 #비트코인 #이더리움 #솔라나 #DeFi #MEV #NFT #스테이블코인 #DePIN #양자내성
-**소스:** /root/clawd/warm-memory/crypto-book-summary.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/crypto-book-summary.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

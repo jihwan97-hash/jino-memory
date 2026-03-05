@@ -1,7 +1,7 @@
 # TheSwing (더스윙)
 
 **태그:** #포트폴리오 #공유킥보드 #모빌리티 #IPO #한국스타트업 #흑자 #최우선
-**소스:** /root/clawd/warm-memory/portfolio/theswing.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/theswing.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

@@ -1,7 +1,7 @@
 # Uprise / HorizonWealth (업라이즈)
 
 **태그:** #포트폴리오 #로보어드바이저 #자산관리 #퇴직연금 #AI퀀트 #합병 #한국스타트업
-**소스:** /root/clawd/warm-memory/portfolio/uprise-horizonwealth.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/uprise-horizonwealth.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

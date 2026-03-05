@@ -1,7 +1,7 @@
 # Story Protocol / Pen Technology
 
 **태그:** #포트폴리오 #IP블록체인 #Layer1 #a16z #RWA #AI #크리에이터이코노미 #최우선
-**소스:** /root/clawd/warm-memory/portfolio/story-protocol.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/story-protocol.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

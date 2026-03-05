@@ -1,7 +1,7 @@
 # DrNow (닥터나우)
 
 **태그:** #포트폴리오 #원격진료 #헬스테크 #비대면진료 #한국 #Series B
-**소스:** /root/clawd/warm-memory/portfolio/drnow.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/drnow.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

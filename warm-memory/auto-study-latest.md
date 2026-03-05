@@ -81,5 +81,5 @@
 
 ---
 
-*Full report: /root/clawd/warm-memory/knowledge-base/short-term/2026-03-04_auto-study.md*
+*Full report: /Users/astin/.jinobot/clawd/warm-memory/knowledge-base/short-term/2026-03-04_auto-study.md*
 *Next study: 2026-03-05*

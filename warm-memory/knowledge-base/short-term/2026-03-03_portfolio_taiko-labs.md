@@ -1,7 +1,7 @@
 # Taiko Labs
 
 **태그:** #포트폴리오 #Ethereum #Layer2 #롤업 #탈중앙화시퀀서 #블록체인인프라
-**소스:** /root/clawd/warm-memory/portfolio/taiko-labs.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/taiko-labs.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

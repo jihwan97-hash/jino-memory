@@ -1,7 +1,7 @@
 # RadiusXYZ
 
 **태그:** #포트폴리오 #Ethereum #L2 #시퀀서 #롤업 #MEV방지 #블록체인인프라
-**소스:** /root/clawd/warm-memory/portfolio/radiusxyz.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/radiusxyz.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

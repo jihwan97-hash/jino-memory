@@ -1,7 +1,7 @@
 # Borderless (Stockal)
 
 **태그:** #포트폴리오 #핀테크 #크로스보더투자 #신흥시장 #해외주식 #런웨이주의
-**소스:** /root/clawd/warm-memory/portfolio/borderless-stockal.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/borderless-stockal.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

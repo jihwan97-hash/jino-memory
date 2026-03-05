@@ -29,13 +29,16 @@
 - 한국어 기본, 반말 사용
 - Telegram 스트리밍: block 모드
 
+## 하드웨어
+- M4 맥북으로 이사 완료 (2026-03-05 확인)
+
 ## 시스템 설정
 - startup-guard 훅 활성화: 게이트웨이 시작 시 streaming=block 자동 복원
 - 지식 파이프라인: 링크 받으면 요약 → 형에게 확인 → 저장 (`warm-memory/knowledge-base/`)
 - 지식베이스: short-term/mid-term/long-term 티어, 현재 53개 항목
 
 ## 웹 스크래핑 도구
-- **Scrapling**: 스텔스 HTTP 스크래퍼. `python3 /root/clawd/skills/scrapling/scripts/fetch.py "URL"`
+- **Scrapling**: 스텔스 HTTP 스크래퍼. `python3 /Users/astin/.jinobot/clawd/skills/scrapling/scripts/fetch.py "URL"`
 - 모드: http (기본) / stealth (봇 우회) / playwright (JS 렌더링)
 - 일반 스크래핑은 Scrapling 우선, JS 렌더링 필요 시 playwright 모드 or 기존 cloudflare-browser
 

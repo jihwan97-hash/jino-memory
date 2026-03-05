@@ -138,5 +138,5 @@
 - **Preview**: 닥터나우 주주간담회 You have been invited by SJ Baek to attend an event named 닥터나우 주주간담회 on Friday Mar 6, 2026 ⋅ 4pm – 5:30pm (Korean Standard Time - Seoul). This event has been updated Changed: title When
 
 ---
-_To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
-_To search: node /root/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account work_
+_To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
+_To search: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account work_

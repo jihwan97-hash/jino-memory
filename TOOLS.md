@@ -6,12 +6,12 @@
 
 **캘린더 확인:**
 ```bash
-node /root/clawd/skills/google-calendar/scripts/calendar.js list --days 1
+node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/calendar.js list --days 1
 ```
 
 **일정 생성:**
 ```bash
-node /root/clawd/skills/google-calendar/scripts/calendar.js create --title "제목" --start "YYYY-MM-DDTHH:MM" --end "YYYY-MM-DDTHH:MM"
+node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/calendar.js create --title "제목" --start "YYYY-MM-DDTHH:MM" --end "YYYY-MM-DDTHH:MM"
 ```
 
 ### 타임존
@@ -26,5 +26,5 @@ node /root/clawd/skills/google-calendar/scripts/calendar.js create --title "제�
 ## Web Research
 
 ```bash
-node /root/clawd/skills/web-researcher/scripts/research.js "query" --fetch
+node /Users/astin/.jinobot/clawd/skills/web-researcher/scripts/research.js "query" --fetch
 ```

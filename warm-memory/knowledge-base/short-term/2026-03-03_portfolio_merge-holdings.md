@@ -1,7 +1,7 @@
 # Merge Holdings
 
 **태그:** #포트폴리오 #블록체인결제 #EMI #VASP #EU규제 #스테이블코인 #크로스보더결제
-**소스:** /root/clawd/warm-memory/portfolio/merge-holdings.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/merge-holdings.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

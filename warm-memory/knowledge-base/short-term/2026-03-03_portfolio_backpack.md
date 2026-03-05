@@ -1,7 +1,7 @@
 # Backpack (Blue Coral)
 
 **태그:** #포트폴리오 #크립토 #거래소 #지갑 #Solana #NFT #토큰런칭 #유니콘
-**소스:** /root/clawd/warm-memory/portfolio/backpack.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/backpack.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

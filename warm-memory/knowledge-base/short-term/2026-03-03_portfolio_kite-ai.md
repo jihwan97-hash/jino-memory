@@ -1,7 +1,7 @@
 # Kite AI (구 Zettablock)
 
 **태그:** #포트폴리오 #AI에이전트 #블록체인결제 #신원인증 #PayPal벤처스 #GeneralCatalyst
-**소스:** /root/clawd/warm-memory/portfolio/kite-ai.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/kite-ai.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

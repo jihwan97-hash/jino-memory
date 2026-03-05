@@ -3,7 +3,7 @@ import path from "node:path";
 import { execSync } from "node:child_process";
 
 const CONFIG_PATH = path.join(process.env.HOME || "/root", ".openclaw/openclaw.json");
-const CLAWD_DIR = "/root/clawd";
+const CLAWD_DIR = "/Users/astin/.jinobot/clawd";
 const HOME = process.env.HOME || "/root";
 
 interface Check {
@@ -65,7 +65,7 @@ const handler = async (event: any) => {
 
   // Check: Google Calendar 인증
   try {
-    execSync("node /root/clawd/skills/google-calendar/scripts/calendar.js list --days 0", { stdio: "pipe", timeout: 8000 });
+    execSync("node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/calendar.js list --days 0", { stdio: "pipe", timeout: 8000 });
     checks.push({ name: "google-calendar auth", ok: true });
   } catch {
     checks.push({ name: "google-calendar auth", ok: false, detail: "캘린더 인증 실패 — 재인증 필요" });
@@ -85,7 +85,7 @@ const handler = async (event: any) => {
 
   // Check: jino-memory git uncommitted
   try {
-    const result = execSync("cd /root/clawd/jino-memory && git status --porcelain", { encoding: "utf8" });
+    const result = execSync("cd /Users/astin/.jinobot/clawd/jino-memory && git status --porcelain", { encoding: "utf8" });
     const count = result.trim().split("\n").filter(Boolean).length;
     if (count >= 10) {
       checks.push({ name: "jino-memory git", ok: false, detail: `uncommitted ${count}개 — 커밋 필요` });

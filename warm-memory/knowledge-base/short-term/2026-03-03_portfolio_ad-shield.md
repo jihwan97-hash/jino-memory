@@ -1,7 +1,7 @@
 # Ad-Shield (애드쉴드)
 
 **태그:** #포트폴리오 #애드테크 #광고차단복구 #퍼블리셔 #SaaS #한국스타트업
-**소스:** /root/clawd/warm-memory/portfolio/ad-shield.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/ad-shield.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

@@ -14,5 +14,5 @@
 - **10:00-11:00**: [이사회] 정기주주총회 개최 안내 (서울특별시 중구 칠패로 28, 메리츠강북타워 3층 본점 회의실)
 
 ---
-_To get fresh data, run: node /root/clawd/skills/google-calendar/scripts/sync-today.js_
-_To create/update/delete events, run: node /root/clawd/skills/google-calendar/scripts/calendar.js <command>_
+_To get fresh data, run: node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/sync-today.js_
+_To create/update/delete events, run: node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/calendar.js <command>_

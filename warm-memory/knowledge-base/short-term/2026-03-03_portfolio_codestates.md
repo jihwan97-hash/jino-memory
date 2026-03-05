@@ -1,7 +1,7 @@
 # CodeStates (코드스테이츠)
 
 **태그:** #포트폴리오 #에드테크 #기업교육 #B2B #AI교육 #코딩부트캠프 #한국스타트업
-**소스:** /root/clawd/warm-memory/portfolio/codestates.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/codestates.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

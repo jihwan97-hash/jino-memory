@@ -1,7 +1,7 @@
 # Dolores Park Labs / Ferum
 
 **태그:** #포트폴리오 #DeFi #CLOB #Aptos #Move #블록체인인프라
-**소스:** /root/clawd/warm-memory/portfolio/dolores-park-labs-ferum.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/dolores-park-labs-ferum.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

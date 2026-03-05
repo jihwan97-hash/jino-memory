@@ -1,7 +1,7 @@
 # Flexity (플렉시티) / Edit Collective
 
 **태그:** #포트폴리오 #AI건축설계 #PropTech #부동산 #SaaS #한국스타트업
-**소스:** /root/clawd/warm-memory/portfolio/flexity.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/flexity.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

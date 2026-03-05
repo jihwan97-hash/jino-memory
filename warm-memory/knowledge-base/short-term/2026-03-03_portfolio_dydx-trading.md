@@ -1,7 +1,7 @@
 # dYdX Trading (dYdX Protocol)
 
 **태그:** #포트폴리오 #DeFi #탈중앙화거래소 #무기한선물 #크립토 #RWA #최우선
-**소스:** /root/clawd/warm-memory/portfolio/dydx-trading.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/dydx-trading.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

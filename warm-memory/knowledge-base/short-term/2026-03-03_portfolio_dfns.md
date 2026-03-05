@@ -1,7 +1,7 @@
 # Dfns
 
 **태그:** #포트폴리오 #크립토커스터디 #기관투자 #API #월렛인프라 #IBM파트너십
-**소스:** /root/clawd/warm-memory/portfolio/dfns.md
+**소스:** /Users/astin/.jinobot/clawd/warm-memory/portfolio/dfns.md
 **저장일:** 2026-03-03
 **티어:** short-term
 

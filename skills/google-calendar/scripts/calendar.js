@@ -178,21 +178,18 @@ async function listEvents(opts) {
 }
 
 async function createEvent(opts) {
-  // 종일 일정 지원 (--allday 또는 날짜만 입력 시)
-  const isAllDay = opts.allday || (opts.start && !opts.start.includes("T") && (!opts.end || !opts.end.includes("T")));
   if (!opts.title) throw new Error('--title is required');
   if (!opts.start) throw new Error('--start is required');
   if (!opts.end) throw new Error('--end is required');
 
   const body = {
     summary: opts.title,
-    start: isAllDay ? { date: opts.start } : { dateTime: toDateTimeWithTZ(opts.start), timeZone: TIMEZONE },
-    end: isAllDay ? { date: opts.end || opts.start } : { dateTime: toDateTimeWithTZ(opts.end), timeZone: TIMEZONE },
+    start: { dateTime: toDateTimeWithTZ(opts.start), timeZone: TIMEZONE },
+    end: { dateTime: toDateTimeWithTZ(opts.end), timeZone: TIMEZONE },
   };
 
   if (opts.description) body.description = opts.description;
   if (opts.location) body.location = opts.location;
-  if (opts.visibility) body.visibility = opts.visibility;
   if (opts.attendees) {
     body.attendees = opts.attendees.split(',').map((email) => ({ email: email.trim() }));
   }
