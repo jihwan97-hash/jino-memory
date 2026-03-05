@@ -1,5 +1,11 @@
 # Learnings
 
+## [LRN-20260305-002] 캘린더 생성 시 GOOGLE_CALENDAR_ID 환경변수 항상 명시
+- **패턴:** `--calendar astin@hashed.com` 플래그 줘도 primary(jihwan) 캘린더에 생성됨. 가스점검, 소개팅 2건 모두 같은 실수.
+- **R(재발):** 2 | **C(확인):** 2 | **D(반증):** 0
+- **원인:** `--calendar` 플래그는 calendar.js에서 무시됨. 환경변수 `GOOGLE_CALENDAR_ID=astin@hashed.com`만 작동.
+- **교훈:** 캘린더 생성/수정 명령어 앞에 **항상** `GOOGLE_CALENDAR_ID=astin@hashed.com` 붙이기. 예외 없음.
+
 ## [LRN-20260305-001] calendar.js — --calendar, --visibility 플래그 미구현 버그
 - **패턴:** `--calendar astin@hashed.com` 줘도 primary에 생성, `--visibility private` 줘도 default로 생성
 - **R(재발):** 1 | **C(확인):** 1 | **D(반증):** 0
