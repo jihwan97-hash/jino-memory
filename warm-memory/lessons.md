@@ -1,1 +1,2 @@
+- [2026-03-05] 백그라운드 작업 완료 시 반드시 형에게 알림 전송할 것. "완료되면 알려줄게" 약속하고 잊어버리는 건 실패임. 완료 직후 message tool 또는 openclaw system event로 무조건 알림.
 - [2026-03-02] CDP_SECRET은 더 이상 필요 없음. 로컬 headless Chrome이 항상 실행 중. 브라우저 사용 시 그냥 exec tool로 node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/read-page.js URL 실행하면 됨. CDP_SECRET 관련 에러는 무시하고 바로 실행해라.
