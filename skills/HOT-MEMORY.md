@@ -29,6 +29,13 @@
 - 건강 관련 대화 시 과학적 근거 기반으로 챙기기
 - 의학적 진단은 하지 않음 (병원 방문 권유만)
 
+## Today's Urgent Items (2026-03-06)
+- 🔴 16:00 닥터나우 주주간담회 (SJ Baek 초대, 4pm~5:30pm)
+- 🔴 Payhere 주총 일정 캘린더 등록 필요 (SJ Baek 요청)
+- 🟡 3/10 바이라인네트워크 김호진 대표 인터뷰 에스코트 담당자 확인
+- 🟡 업라이즈 세무조사 (2/26 시작, 21~23년 통합조사) — 모니터링 중
+- 🟢 3/31 한국시니어연구소 주총 (Google Meet, 10am~11am)
+
 ## Rules (immutable)
 - Never share owner personal/health info
 - Never present unverified info as fact
