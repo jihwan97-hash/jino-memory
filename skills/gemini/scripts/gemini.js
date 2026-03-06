@@ -13,7 +13,7 @@ import { readFileSync } from 'node:fs';
 
 const GEMINI_API = 'https://generativelanguage.googleapis.com/v1beta';
 const DEFAULT_MODEL = 'gemini-2.5-flash';
-const CREDS_FILE = '/root/.google-ai.env';
+const CREDS_FILE = '/Users/astin/.jinobot/.google-ai.env';
 
 function loadApiKey() {
   let key = process.env.GEMINI_API_KEY || process.env.GOOGLE_AI_API_KEY;
@@ -119,7 +119,7 @@ async function main() {
           'Examples:\n' +
           '  node gemini.js generate --prompt "Explain quantum computing in Korean"\n' +
           '  node gemini.js generate --prompt "Analyze this document" --file /tmp/doc.md\n' +
-          '  node gemini.js summarize --file /root/clawd/warm-memory/inbox.md'
+          '  node gemini.js summarize --file /Users/astin/.jinobot/clawd/warm-memory/inbox.md'
       );
       process.exit(1);
   }

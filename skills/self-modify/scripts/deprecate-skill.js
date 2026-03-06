@@ -11,9 +11,9 @@
 const fs = require('fs');
 const path = require('path');
 
-const SKILLS_DIR = '/root/clawd/skills';
+const SKILLS_DIR = '/Users/astin/.jinobot/clawd/skills';
 const DEPRECATED_DIR = path.join(SKILLS_DIR, '.deprecated');
-const HISTORY_DIR = '/root/clawd/.modification-history';
+const HISTORY_DIR = '/Users/astin/.jinobot/clawd/.modification-history';
 const CHANGELOG_FILE = path.join(HISTORY_DIR, 'changelog.jsonl');
 
 function logChange(entry) {

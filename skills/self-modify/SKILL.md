@@ -16,22 +16,22 @@ description: Safely modify agent memory, personality, skills, and cron schedules
 ## Commands
 ```bash
 # 파일 수정 (안전하게)
-node /root/clawd/skills/self-modify/scripts/modify.js --file HOT-MEMORY.md --content "new content"
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/modify.js --file HOT-MEMORY.md --content "new content"
 
 # 변경 이력 조회
-node /root/clawd/skills/self-modify/scripts/changelog.js [--last 10]
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/changelog.js [--last 10]
 
 # 이전 버전으로 복원
-node /root/clawd/skills/self-modify/scripts/rollback.js --file HOT-MEMORY.md [--version 2]
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/rollback.js --file HOT-MEMORY.md [--version 2]
 
 # 새 스킬 생성
-node /root/clawd/skills/self-modify/scripts/create-skill.js --name my-skill --description "..." --skill-md "content"
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/create-skill.js --name my-skill --description "..." --skill-md "content"
 
 # 스킬 비활성화
-node /root/clawd/skills/self-modify/scripts/deprecate-skill.js --name my-skill [--restore]
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/deprecate-skill.js --name my-skill [--restore]
 
 # 크론 수정
-node /root/clawd/skills/self-modify/scripts/modify-cron.js --name auto-study --every "12h" --message "new prompt"
+node /Users/astin/.jinobot/clawd/skills/self-modify/scripts/modify-cron.js --name auto-study --every "12h" --message "new prompt"
 ```
 
 ## Rules

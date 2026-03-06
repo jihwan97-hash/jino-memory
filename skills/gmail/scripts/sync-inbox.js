@@ -16,25 +16,25 @@ import { dirname } from 'node:path';
 const TIMEZONE = 'Asia/Seoul';
 const TOKEN_URL = 'https://oauth2.googleapis.com/token';
 const GMAIL_API = 'https://www.googleapis.com/gmail/v1/users/me';
-const WARM_MEMORY_DIR = '/root/clawd/warm-memory';
+const WARM_MEMORY_DIR = '/Users/astin/.jinobot/clawd/warm-memory';
 
 const ACCOUNTS = {
   work: {
     label: 'astin@hashed.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail.env',
     outputFile: `${WARM_MEMORY_DIR}/inbox.md`,
   },
   personal: {
     label: 'gkswlghks118@gmail.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_PERSONAL_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail-personal.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail-personal.env',
     outputFile: `${WARM_MEMORY_DIR}/inbox-personal.md`,
   },
   jihwan: {
     label: 'jihwan260213@gmail.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_JIHWAN_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail-jihwan.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail-jihwan.env',
     outputFile: `${WARM_MEMORY_DIR}/inbox-jihwan.md`,
   },
 };
@@ -165,8 +165,8 @@ function writeInboxMarkdown(account, messages, hours) {
 
   md += `---\n`;
   const acctFlag = Object.entries(ACCOUNTS).find(([, v]) => v === account)?.[0];
-  md += `_To read full email: node /root/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account ${acctFlag}_\n`;
-  md += `_To search: node /root/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account ${acctFlag}_\n`;
+  md += `_To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account ${acctFlag}_\n`;
+  md += `_To search: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js search --query "검색어" --account ${acctFlag}_\n`;
 
   mkdirSync(dirname(account.outputFile), { recursive: true });
   writeFileSync(account.outputFile, md, 'utf-8');

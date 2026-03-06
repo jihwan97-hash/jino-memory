@@ -14,7 +14,7 @@ import { readFileSync } from 'node:fs';
 const TIMEZONE = 'Asia/Seoul';
 const CALENDAR_API = 'https://www.googleapis.com/calendar/v3';
 const TOKEN_URL = 'https://oauth2.googleapis.com/token';
-const CREDS_FILE = '/root/.google-calendar.env';
+const CREDS_FILE = '/Users/astin/.jinobot/.google-calendar.env';
 
 function loadCredsFromFile() {
   try {

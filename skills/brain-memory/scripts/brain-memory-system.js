@@ -15,10 +15,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const AGENTS_DIR = '/root/.openclaw/agents';
-const SESSIONS_BACKUP_DIR = '/root/clawd/brain-memory/sessions';
-const STATE_FILE = '/root/clawd/brain-memory/.brain-state.json';
-const DAILY_DIR = '/root/clawd/brain-memory/daily';
+const AGENTS_DIR = '/Users/astin/.openclaw/agents';
+const SESSIONS_BACKUP_DIR = '/Users/astin/.jinobot/clawd/brain-memory/sessions';
+const STATE_FILE = '/Users/astin/.jinobot/clawd/brain-memory/.brain-state.json';
+const DAILY_DIR = '/Users/astin/.jinobot/clawd/brain-memory/daily';
 
 const SKIP_PATTERNS = [
   /^(hi|hello|hey|yo|sup|안녕|ㅎㅇ|ㅋ+|ㅎ+|ㅇㅇ|ㄱㅊ)/i,

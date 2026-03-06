@@ -14,8 +14,8 @@ import { dirname } from 'node:path';
 const TIMEZONE = 'Asia/Seoul';
 const TOKEN_URL = 'https://oauth2.googleapis.com/token';
 const CALENDAR_API = 'https://www.googleapis.com/calendar/v3';
-const OUTPUT_FILE = '/root/clawd/warm-memory/calendar.md';
-const CREDS_FILE = '/root/.google-calendar.env';
+const OUTPUT_FILE = '/Users/astin/.jinobot/clawd/warm-memory/calendar.md';
+const CREDS_FILE = '/Users/astin/.jinobot/.google-calendar.env';
 
 function loadCredsFromFile() {
   try {
@@ -130,8 +130,8 @@ async function main() {
     }
   }
 
-  md += `\n---\n_To get fresh data, run: node /root/clawd/skills/google-calendar/scripts/sync-today.js_\n`;
-  md += `_To create/update/delete events, run: node /root/clawd/skills/google-calendar/scripts/calendar.js <command>_\n`;
+  md += `\n---\n_To get fresh data, run: node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/sync-today.js_\n`;
+  md += `_To create/update/delete events, run: node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/calendar.js <command>_\n`;
 
   mkdirSync(dirname(OUTPUT_FILE), { recursive: true });
   writeFileSync(OUTPUT_FILE, md, 'utf-8');

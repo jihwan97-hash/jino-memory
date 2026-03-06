@@ -10,15 +10,15 @@
 const fs = require('fs');
 const path = require('path');
 
-const SKILLS_DIR = '/root/clawd/skills';
-const HISTORY_DIR = '/root/clawd/.modification-history';
+const SKILLS_DIR = '/Users/astin/.jinobot/clawd/skills';
+const HISTORY_DIR = '/Users/astin/.jinobot/clawd/.modification-history';
 const CHANGELOG_FILE = path.join(HISTORY_DIR, 'changelog.jsonl');
 const MAX_CUSTOM_SKILLS = 10;
 const MAX_SKILL_TOKENS = 300;
 const RESERVED_NAMES = ['prompt-guard', 'self-modify', 'memory-retriever', 'brain-memory', 'web-researcher', 'cloudflare-browser'];
 
 // Blocked path references in scripts
-const BLOCKED_REFS = ['/root/.openclaw', '/root/.clawdbot', 'credentials', 'ANTHROPIC_API_KEY', 'GATEWAY_TOKEN'];
+const BLOCKED_REFS = ['/Users/astin/.openclaw', '/Users/astin/.clawdbot', 'credentials', 'ANTHROPIC_API_KEY', 'GATEWAY_TOKEN'];
 
 function estimateTokens(text) {
   return Math.ceil((text || '').length / 4);

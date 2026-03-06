@@ -21,17 +21,17 @@ const ACCOUNTS = {
   work: {
     label: 'astin@hashed.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail.env',
   },
   personal: {
     label: 'gkswlghks118@gmail.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_PERSONAL_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail-personal.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail-personal.env',
   },
   jihwan: {
     label: 'jihwan260213@gmail.com',
     refreshTokenEnv: 'GOOGLE_GMAIL_JIHWAN_REFRESH_TOKEN',
-    credsFile: '/root/.google-gmail-jihwan.env',
+    credsFile: '/Users/astin/.jinobot/.google-gmail-jihwan.env',
   },
 };
 

@@ -13,7 +13,7 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 
-const WORKSPACE = '/root/clawd';
+const WORKSPACE = '/Users/astin/.jinobot/clawd';
 const WARM_DIR = path.join(WORKSPACE, 'warm-memory');
 const DAILY_DIR = path.join(WORKSPACE, 'brain-memory', 'daily');
 const REFLECTIONS_DIR = path.join(WORKSPACE, 'brain-memory', 'reflections');

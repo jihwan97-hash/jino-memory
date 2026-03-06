@@ -1,15 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 5일 목요일 오후 05:57 KST
+**Last synced**: 2026년 3월 6일 금요일 오전 10:29 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (1 total, 1 unread)
+## Recent Emails (2 total, 1 unread)
 
-### **[NEW]** Agentic commerce won't kill cards, but it will open a gap
-- **From**: a16z crypto <a16zcrypto@substack.com>
-- **Date**: Wed, 4 Mar 2026 17:58:27 +0000
-- **ID**: `19cba00c83ecb4df`
-- **Preview**: Cards will dominate agentic commerce for existing merchants. Stablecoins will power the ones that don&#39;t exist yet. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+### [Tesla] 구동축전지 정보 안내
+- **From**: TeslaKorea-Delivery <TeslaKorea-Delivery@tesla.com>
+- **Date**: Thu, 5 Mar 2026 23:55:45 +0000
+- **ID**: `19cc06dfa8a00b10`
+- **Preview**: TeslaKorea-Delivery (TeslaKorea-Delivery@tesla.com) has sent you a protected message. Read the message Learn about messages protected by Microsoft Purview Message Encryption. Privacy Statement Learn
+
+### **[NEW]** Los ganadores ya recibieron su cashback - ¿Estuviste entre ellos? 👏
+- **From**: KAST <noreply@outreach.kast.xyz>
+- **Date**: Thu, 05 Mar 2026 22:56:12 +0000
+- **ID**: `19cc0374f892dedf`
+- **Preview**: Hola Han, Nuestra promoción de cashback en SPEI ha llegado a su fin. Queremos agradecer a todos los usuarios que participaron. Los ganadores ya han sido acreditados. ¿Hiciste tu transferencia antes del
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_

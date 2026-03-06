@@ -18,7 +18,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const WORKSPACE = '/root/clawd';
+const WORKSPACE = '/Users/astin/.jinobot/clawd';
 const SKILLS_DIR = path.join(WORKSPACE, 'skills');
 const HISTORY_DIR = path.join(WORKSPACE, '.modification-history');
 const CHANGELOG_FILE = path.join(HISTORY_DIR, 'changelog.jsonl');
@@ -86,8 +86,8 @@ function validateProtectedContent(content) {
 // Blocked paths
 function isBlocked(filePath) {
   const blocked = [
-    '/root/.openclaw',
-    '/root/.clawdbot',
+    '/Users/astin/.openclaw',
+    '/Users/astin/.clawdbot',
     'prompt-guard',
     'credentials',
   ];

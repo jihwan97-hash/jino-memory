@@ -14,14 +14,14 @@
 const fs = require('fs');
 const path = require('path');
 
-const WORKSPACE = '/root/clawd';
+const WORKSPACE = '/Users/astin/.jinobot/clawd';
 const SKILLS_DIR = path.join(WORKSPACE, 'skills');
 const WARM_DIR = path.join(WORKSPACE, 'warm-memory');
 const DAILY_DIR = path.join(WORKSPACE, 'brain-memory', 'daily');
 const INDEX_FILE = path.join(SKILLS_DIR, 'memory-index.json');
 const HOT_MEMORY_FILE = path.join(SKILLS_DIR, 'HOT-MEMORY.md');
 const CHANGELOG_FILE = path.join(WORKSPACE, '.modification-history', 'changelog.jsonl');
-const AGENTS_DIR = '/root/.openclaw/agents';
+const AGENTS_DIR = '/Users/astin/.openclaw/agents';
 
 function estimateTokens(text) {
   return Math.ceil((text || '').length / 4);

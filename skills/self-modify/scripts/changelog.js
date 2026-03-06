@@ -11,7 +11,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const CHANGELOG_FILE = path.join('/root/clawd/.modification-history', 'changelog.jsonl');
+const CHANGELOG_FILE = path.join('/Users/astin/.jinobot/clawd/.modification-history', 'changelog.jsonl');
 
 function main() {
   const args = process.argv.slice(2);

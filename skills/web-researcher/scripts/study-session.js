@@ -20,8 +20,8 @@ const path = require('path');
 const SCRIPT_DIR = path.dirname(__filename);
 const RESEARCH_SCRIPT = path.join(SCRIPT_DIR, 'research.js');
 const DEFAULT_TOPICS = path.join(SCRIPT_DIR, '..', 'topics.default.json');
-const MEMORY_TOPICS = '/root/clawd/clawd-memory/study-topics.json';
-const STATE_FILE = '/root/clawd/.study-state.json';
+const MEMORY_TOPICS = '/Users/astin/.jinobot/clawd/clawd-memory/study-topics.json';
+const STATE_FILE = '/Users/astin/.jinobot/clawd/.study-state.json';
 
 function loadTopics() {
   // Prefer memory repo topics, fall back to default

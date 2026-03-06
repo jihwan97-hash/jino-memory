@@ -16,7 +16,7 @@ const { execSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
-const HISTORY_DIR = '/root/clawd/.modification-history';
+const HISTORY_DIR = '/Users/astin/.jinobot/clawd/.modification-history';
 const CHANGELOG_FILE = path.join(HISTORY_DIR, 'changelog.jsonl');
 
 const ALLOWED_CRONS = ['auto-study', 'brain-memory', 'self-reflect'];

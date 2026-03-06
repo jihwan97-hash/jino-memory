@@ -3,7 +3,7 @@
 매 30분마다 아래 항목만 빠르게 체크. 토큰 절약 필수.
 
 ## 1. 시스템 헬스
-- 크론 체크: `TOKEN=$(node -e "try{console.log(JSON.parse(require('fs').readFileSync('/root/.openclaw/identity/device-auth.json','utf8')).tokens.operator.token)}catch(e){}") && openclaw cron list --token "$TOKEN"`
+- 크론 체크: `TOKEN=$(node -e "try{console.log(JSON.parse(require('fs').readFileSync('/Users/astin/.openclaw/identity/device-auth.json','utf8')).tokens.operator.token)}catch(e){}") && openclaw cron list --token "$TOKEN"`
 - 예상 크론 5개:
   - auto-study (매일, every 1d)
   - brain-memory (매일, every 1d)
@@ -21,12 +21,12 @@
 - warm-memory/calendar.md에 30분 내 일정 있으면 알림
 
 ## 4. 메모리 파이프라인
-- lessons.md 존재: `test -f /root/clawd/warm-memory/lessons.md && echo OK || echo MISSING`
-- todo.md 존재: `test -f /root/clawd/warm-memory/todo.md && echo OK || echo MISSING`
+- lessons.md 존재: `test -f /Users/astin/.jinobot/clawd/warm-memory/lessons.md && echo OK || echo MISSING`
+- todo.md 존재: `test -f /Users/astin/.jinobot/clawd/warm-memory/todo.md && echo OK || echo MISSING`
 - 파일 없으면 → 형에게 알림
 
 ## 5. Git 동기화
-- uncommitted: `cd /root/clawd/jino-memory && git status --porcelain 2>/dev/null | wc -l`
+- uncommitted: `cd /Users/astin/.jinobot/clawd/jino-memory && git status --porcelain 2>/dev/null | wc -l`
 - uncommitted 10개 이상이면 → 형에게 알림
 
 ## 응답

@@ -11,8 +11,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const INDEX_FILE = '/root/clawd/skills/memory-index.json';
-const WARM_DIR = '/root/clawd/warm-memory';
+const INDEX_FILE = '/Users/astin/.jinobot/clawd/skills/memory-index.json';
+const WARM_DIR = '/Users/astin/.jinobot/clawd/warm-memory';
 
 function loadIndex() {
   try {
@@ -37,7 +37,7 @@ function saveIndex(index) {
 function loadTopic(topicName, topicMeta) {
   const filePath = topicMeta.file.startsWith('/')
     ? topicMeta.file
-    : path.join('/root/clawd', topicMeta.file);
+    : path.join('/Users/astin/.jinobot/clawd', topicMeta.file);
 
   try {
     if (fs.existsSync(filePath)) {
