@@ -1,46 +1,53 @@
 # RadiusXYZ (Radius)
+**Last Updated:** 2026-03-06
 
-**Last researched:** 2026-03-04
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** Decentralized sequencing layer, rollup infrastructure
+- **Funding:** Seed $8.7M (reported as $7M in some sources)
 
-## Quick Status
-- Status: 🟡 Watch
-- Key finding: Ethereum 롤업용 신뢰 없는 공유 시퀀싱 레이어, $7M 시드 라운드 완료, MEV 방지 및 검열 저항성 기술 개발 중
-- Action needed: Portico 테스트넷 → 메인넷 전환 타임라인 확인, 생태계 파트너십 추적
-- Source: https://mirror.xyz/0x957084A1F20AB33cfA0cE07ed57F50c05954999C/-ZSe4mRXqtbqTGejIbXMvyJlFLC1IJ_UT6QoFv_Em6w
-- Last researched: 2026-03-04
+## Recent Developments (2026)
 
-## Company Overview
-탈중앙화 공유 시퀀싱 레이어 for Ethereum 롤업. 중앙화 시퀀서의 검열·MEV 위험 제거.
+### 2025-2026 Roadmap
+- **2025:** Launch Lighthouse to help rollups capture MEV revenue
+- **2026:** Expand across Ethereum to maximize revenue opportunities for rollups
+
+### Seed Round ($7M)
+- Focus: Redefining rollup revenue models
+- Vision: Help rollups succeed by capturing value they generate
 
 ## Technology
 
-### Core Solution
-- PVDE (Practical Verifiable Delay Encryption) 기반 암호화 멤풀
-- ZK 기반 트랜잭션 순서 결정
-- 크로스 롤업 상호운용성 제공
-- 롤업 간 경제적 가치 창출
+### Shared Sequencing Layer
+- **Trustless shared sequencing** for rollups
+- Disempower centralized sequencers
+- Eliminate censorship and harmful MEV
 
-### Architecture
-- 해시 체이닝으로 복호화 전 주문 확약
-- 시간 잠금 퍼즐로 트랜잭션 순서 결정
-- MEV (프론트런닝, 샌드위칭) 방지
+### Core Problems Solved
+1. **Centralization Risk:** Single sequencer has monopoly power to censor
+2. **MEV Extraction:** Centralized sequencers extract harmful MEV
+3. **Trust Issues:** Sequencer controls block outcomes unilaterally
 
-### Lighthouse 확장 계획
-- Ethereum L1, CEX, 다른 롤업과 연결
-- CEX-DEX 차익거래, 원자적 차익거래, 청산 지원
-- 크로스 롤업 MEV 기회 제공
+### Product: Lighthouse
+- Helps rollups **capture MEV revenue** (instead of leaking to sequencers)
+- Aligns incentives across rollup ecosystem
+- Flexible and customizable sequencing-as-a-service
 
-## Funding
-- Seed: $7M 완료
-- HVF 투자잔액: 소규모 (시드 단계)
-- Exit 방법: Token | Sector: Token
+## Strategic Positioning
+- **Mission:** Make Ethereum rollups more economically sustainable
+- Break down silos across rollups, CEX/DEX, isolated markets
+- Open, incentive-aligned, efficient value distribution
+- Reliable source of economic truth across networks
 
-## Market Context (2026)
-- Ethereum 모듈러 블록체인 확산으로 공유 시퀀싱 수요 증가
-- 경쟁사: Espresso Systems, Astria, Metis (공유 시퀀서)
-- Portico 테스트넷 활성화 중
+### Value Proposition
+- **For Rollups:** Capture MEV revenue, reduce centralization risk
+- **For Users:** Censorship resistance, fairer execution
+- **For Ecosystem:** More sustainable rollup economics
 
-## HVF Portfolio Notes
-- Exit Priority: 4위
-- Confidence: Medium
-- 기술적으로 차별화되나 채택 속도가 관건
+## Market Focus
+- Ethereum rollup infrastructure
+- Sequencing-as-a-service market
+- MEV redistribution/fair value capture
+
+## Sources
+- Medium (May 2023), theradius.xyz, docs.theradius.xyz, LinkedIn, Mirror.xyz (seed announcement)

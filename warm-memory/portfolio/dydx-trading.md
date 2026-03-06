@@ -1,21 +1,45 @@
-### dYdX Trading (dYdX Protocol)
-- Status: 🟡 Watch
-- Key finding: 2026년 1월 악성 소프트웨어 패키지 보안 경고 발생, 75% 프로토콜 수수료 DYDX 토큰 바이백 프로그램 실행 중, 토큰 언락 2026년 6월 완료 예정.
-- Action needed: 보안 사고 후속 조치 확인, 토큰 언락 완료 후 가격 안정성 모니터링
-- Source: https://coinmarketcap.com/cmc-ai/dydx-chain/latest-updates/
-- Last researched: 2026-03-04
+# Dydx Trading
+**Last Updated:** 2026-03-06
 
-## Company Overview
-- **Sector:** Decentralized Exchange (DEX), DeFi Perpetuals
-- **HQ:** Decentralized / USA
-- **Stage:** Protocol (token: DYDX)
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** DeFi derivatives, decentralized exchange
+- **Token:** DYDX (governance token for dYdX Chain)
+- **Exit Type:** Token exit
 
-## Recent Developments (2025-2026)
-- **Jan 2026:** Security alert — malicious client packages discovered, warned users of fund theft risk
-- **Nov 2025:** Governance approves 75% protocol fees → DYDX token buyback program
-- **Sept 2025:** 21Shares analyst call — positioned as "best in global DeFi" entering 2026
-- **Jun 2026:** All token unlocks set to conclude (85% already unlocked as of March 2025)
-- Token emissions decreasing 50% from June 2025
+## Recent Developments (2026)
 
-## Status Assessment
-- 🟡 **Watch** — Security incident in Jan 2026 warrants monitoring; buyback program is positive signal
+### 2026 Developments
+- **Affiliate Booster Program:** $200K total reward pool
+- **BONK Trading League** and other community incentive programs
+- **January 2026 Review (Coin Bureau):** "dYdX Chain is purpose-built trading network where validators secure and enforce rules, while UX depends on surrounding data/interface layer"
+
+### Network Architecture
+- **dYdX Chain:** Independent purpose-built L1 blockchain for derivatives trading
+- Order book-based perpetuals DEX (not AMM)
+- Familiar UX for experienced derivatives traders
+- Governance via DYDX token (released 2021)
+
+### Platform Features
+- **Perpetual contracts** on crypto assets
+- **Earn rewards in DYDX** while trading
+- Pro trading platform experience
+- All rewards distributed by dYdX Foundation
+
+### Funding History
+- **Jan 2021:** $10M Series B (a16z, DeFiance Capital, GSR, Hashed, Polychain, others)
+- **Jun 2021:** $65M Series C (3AC, Wintermute Trading, etc.)
+
+## Strategic Positioning
+- Fills decentralized derivatives niche (critical post-CEX trust issues)
+- Validators-secured chain vs relying on external L1s
+- Optimized for derivatives trading (cheap graph traversal)
+- Strong governance participation through token holders
+
+## Market Position
+- Top decentralized perpetuals DEX
+- DefiLlama tracked for TVL, fees, revenue
+- Competing with centralized exchanges on UX
+
+## Sources
+- dydx.xyz, Coin Bureau (Jan 2026), Phemex (Jan 2026), DefiLlama

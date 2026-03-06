@@ -1,16 +1,45 @@
-### TheSwing (더스윙)
-- Status: 🟢 Healthy
-- Key finding: 5년 연속 흑자 달성, 2025년 5월 85억원 신규 투자 유치 완료, IPO Q4 2027 목표로 사업 다각화(서울패스) 진행 중.
-- Action needed: IPO 준비 현황 모니터링 (Q4 2027 목표)
-- Source: https://www.newstof.com/news/articleView.html?idxno=28249
-- Last researched: 2026-03-04
+# TheSwing (더스윙)
+**Last Updated:** 2026-03-06
 
-#### 상세 현황
-- 사업: 전동 킥보드 공유 서비스 (서울·경기 약 1.1만대 직영)
-- 재무: 5년 연속 흑자 (업계 최고 수준)
-- 최근 투자: 85억원 신규 조달 (2025.05, 시리즈 B 이후 3년만)
-- 누적 투자: 시리즈 B 300억 포함 총 300억+ (2022년)
-- IPO: Q4 2027 목표 (상장 준비 중)
-- 사업 다각화: 서울패스 (대중교통 통합 멤버십) 출시
-- 이슈: 휴맥스가 더스윙 지분 전량 매각 (공유 킥보드 규제 리스크 우려)
-- 2025년 = 사업 다각화의 해
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** E-scooter / shared mobility
+- **Revenue:** W584B (historical)
+- **IPO Target:** Q4 2027
+- **Valuation:** W200-300B (unlisted)
+
+## Recent Developments (2026)
+
+### IPO Plans & Regulatory Risk
+- **November 2025:** Mobility startups (TheSwing, G-Bike, Beam, PUMP) concerned about proposed e-scooter ban affecting IPO plans
+- All targeting public listings despite regulatory uncertainty
+- Industry lobbying against ban proposals
+
+### Investors
+- Humax (first-gen venture)
+- Hashed Ventures
+- SJ Partners
+- Major corporate/financial firms
+
+### Operations
+- **2024 Fleet:** ~100,000 units (electric kickboards, bicycles, e-bikes, e-scooters)
+- **Market Share:** 1/3 of Korea's shared mobility market (largest player)
+- **Launch:** 2019 Korea
+- **International:** July 2022 expanded to Japan (Tokyo) - first Korean provider to go overseas
+
+### Service Brand
+- Operating as "SWING" shared scooter service
+
+## Strategic Positioning
+- Market leader in Korea shared mobility
+- International expansion (Japan)
+- Diversified fleet (kickboards, bikes, e-bikes, scooters)
+- IPO-ready despite regulatory headwinds
+
+## Risk Factors
+- Proposed e-scooter ban in Korea
+- Regulatory uncertainty affecting valuation
+- Safety/accident concerns industry-wide
+
+## Sources
+- Korea Times (Nov 2025), NamuWiki, KED Global (Jul 2022)

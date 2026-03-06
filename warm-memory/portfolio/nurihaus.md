@@ -1,21 +1,44 @@
-### Nurihaus (누리하우스)
-- Status: 🟡 Watch
-- Key finding: Crunchbase/PitchBook 프로필 유지 중이나 2026년 주요 뉴스 없음 — Series A 이후 조용한 상태.
-- Action needed: 최근 매출 및 제품 업데이트 직접 확인 필요
-- Source: https://www.crunchbase.com/organization/nurihaus
-- Last researched: 2026-03-04
+# Nurihaus (누리하우스)
+**Last Updated:** 2026-03-06
 
-## Company Overview
-- **Sector:** PropTech / Smart Home Interior
-- **HQ:** Seoul, South Korea
-- **Investors:** PS Ventures
-- **Stage:** Series A
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** K-Beauty, cross-border commerce
+- **Location:** Seoul, Korea
+- **Founded:** 2015 (per ZoomInfo)
 
-## Recent Developments (2025-2026)
-- No major news found in 2026 web search
-- Crunchbase profile lists PS Ventures as investor, GROWmatica mentioned
-- South Korea smart home market growing at 24.1% CAGR (2024-2030), expected to reach $23.31Bn by 2030
-- Market tailwinds positive but no specific Nurihaus milestones found
+## Recent Developments (2026)
 
-## Status Assessment
-- 🟡 **Watch** — No recent public activity found; needs direct check on product status and runway
+### November 2025: Creator Exchange Program
+- **Hosted North American creators in Seoul** for K-Beauty exchange
+- Invited American creator Luna with full coverage:
+  - Round-trip airfare
+  - 3-night/4-day accommodation
+  - All event participation fees
+- Building foundation for global cultural exchange
+
+### Business Model
+- **Platform:** Helping Korean brands advance overseas
+- **Service expansion** through partnerships and collaborations
+- Focus on K-Beauty sector cross-border distribution
+
+### Leadership
+- **CEO:** Baek Aram
+- Vision: "Service area of nurihaus will be further expanded through collaboration"
+
+### Funding
+- **Series A** investors include PS Ventures, GROWmatica
+
+## Strategic Positioning
+- Positioned at intersection of K-Beauty and global creator economy
+- Leveraging influencer marketing for brand internationalization
+- Experiential marketing (bringing creators to Korea)
+- Platform play for Korean brand distribution
+
+## Market Focus
+- **Primary:** K-Beauty products
+- **Geography:** North America expansion focus
+- **Strategy:** Creator-led international market entry
+
+## Sources
+- BusinessKorea (Nov 2025), Crunchbase, PitchBook, LinkedIn

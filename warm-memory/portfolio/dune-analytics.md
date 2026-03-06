@@ -1,21 +1,43 @@
-### Dune Analytics
-- Status: 🟢 Healthy
-- Key finding: 2026년 3월 스테이블코인 종합 데이터셋 출시 (EVM+Solana+Tron), AI 에이전트에 100+ 블록체인 온체인 데이터 직접 접근 기능 추가.
-- Action needed: None (활발한 제품 출시 지속)
-- Source: https://dune.com/home
-- Last researched: 2026-03-04
+# Dune Analytics
+**Last Updated:** 2026-03-06
 
-## Company Overview
-- **Sector:** Blockchain Data Analytics
-- **HQ:** Norway / Remote
-- **Stage:** Growth (previously raised Series B $69M)
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** Blockchain analytics, data platform
+- **Total Funding:** $79.4M (3 rounds, 19 investors)
+- **Founded:** 2018 by Fredrik Haga, Mats Olsen
 
-## Recent Developments (2025-2026)
-- **Mar 3, 2026:** AI Agent gets direct access to onchain data across 100+ blockchains
-- **Feb 24, 2026:** Comprehensive stablecoin dataset launched (EVM chains + Solana + Tron)
-- **Feb 21, 2026:** Dune Digest 047 — Stablecoins Special
-- **Nov 2024:** Acquired smlXL to strengthen real-time blockchain data capabilities
-- Active product cadence with regular digest newsletters
+## Recent Developments (2026)
 
-## Status Assessment
-- 🟢 **Healthy** — Continuous product launches, expanding data coverage, AI integration focus
+### Funding History
+- **Latest Round:** $69.4M (Feb 2022)
+- **Investors:** Redpoint Ventures, Coatue, and 17 others
+
+### Platform Capabilities
+- **Ethereum-centric analytics** (expanding to multi-chain)
+- **SQL-based queries** for blockchain data analysis
+- **Human-readable data** extraction from smart contracts
+- **Visualization tools** - query results displayed as charts
+- **Key metrics** for DeFi and NFTs
+
+### Product Focus
+- Prioritizes **openness and customization** over curated metrics
+- Valuable for advanced users needing granular blockchain data
+- Transparent access to on-chain data
+- Community-driven dashboard creation
+
+## Strategic Positioning
+- Distinct market position: customization > pre-built dashboards
+- Developer-friendly (SQL accessibility)
+- Infrastructure expansion with venture backing
+- Critical tool for DeFi/NFT research and due diligence
+
+## Use Cases
+- Smart contract analytics
+- DeFi protocol monitoring
+- NFT market tracking
+- On-chain behavior analysis
+- Crypto research and reporting
+
+## Sources
+- Tracxn (Jan 2026), Crunchbase, PitchBook, CryptoSlate (Nov 2023)

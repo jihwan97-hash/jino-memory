@@ -1,51 +1,55 @@
-# Story Protocol / Pen Technology
+# Story Protocol (Pen Technology)
+**Last Updated:** 2026-03-06
 
-**Last researched:** 2026-03-03
-
-## Company Overview
-Blockchain protocol for intellectual property (IP) tokenization, licensing, and commercialization. Makes IP programmable and tradeable.
+## Overview
+- **HVF Status:** [최우선] Priority
+- **Category:** IP protocol, blockchain
+- **Funding:** Series B $80M (Aug 2024) led by a16z Crypto
+- **Token:** IP token (TGE Feb 2025)
 
 ## Recent Developments (2026)
 
-### Token Launch & Unlock Delay (Feb 2026)
-- **IP token** trading on major exchanges (CoinMarketCap listed)
-- **Major unlock DELAYED** by 6 months until August 2026
-  - Team and investor tokens remain locked
-  - Extension announced Feb 9, 2026
-  - Reason: "Project needs more time" to build usage before large unlocks
-  - Originally scheduled unlock postponed to prevent price pressure
+### January 2026: Network Upgrade
+- **Hard Fork (Jan 14, 2026):** Mandatory validator update
+- Enhanced protocol features and network stability
+- Continued development of on-chain IP management
 
-### Funding Rates & Market Sentiment
-- Perpetual funding rates turned **negative (-0.0016%)**, favoring shorts
-- Market showing bearish sentiment on token price
-- Protocol fees remain **<00/day** - low adoption so far
+### Series B Details (Aug 2024)
+- **Amount:** $80M
+- **Lead:** a16z Crypto
+- **Use Case:** Solving IP theft issues created by AI
+- Focus on protecting creators' intellectual property
 
-### Partnership - AI Training Standard (Jan 2026)
-- **Story + OpenLedger** launched legal AI training standard
-- Focus: Tracking AI model training rights using IP protocol
-- Bullish signal for IP use case expansion into AI/ML sector
-- Addresses growing need for provenance in AI training data
+### Technology
+- **Layer 1 blockchain** built on Cosmos SDK
+- **Fully EVM-compatible**
+- Optimized for IP management:
+  - Cheap graph traversal
+  - Proof of Creativity protocol
+  - Programmable IP licenses
 
-### Infrastructure Position
-- Transparent blockchain framework for:
-  - IP attribution
-  - Licensing automation
-  - Commercialization tracking
-  - Remix rights management
+### Platform Capabilities
+- **IP Registration** - creators register IP assets on-chain
+- **Licensing** - transparent licensing framework
+- **Monetization** - seamless revenue distribution
+- **Attribution** - clear IP ownership and usage tracking
 
-## Funding History
-- **Series B: 0M** (led by a16z crypto, previous rounds)
-- TGE (Token Generation Event): Feb 2025
-- Well-capitalized but struggling with product-market fit
+## Market Positioning
+- Addressing AI-era IP protection challenges
+- Transparent/efficient IP commercialization
+- Blockchain-native rights management
+- Creator economy infrastructure
 
-## Strategic Assessment
-⚠️ **Mixed** signals:
-- ✅ Strong partnerships (OpenLedger AI standard)
-- ✅ Well-funded (Series B 0M)
-- ⚠️ Low protocol usage (<00/day fees)
-- ⚠️ Token unlock delayed - team buying time
-- ⚠️ Negative funding rates suggest market skepticism
-- 🔄 Large unlocks coming August 2026 - price risk
+### Token Performance
+- IP token launched Feb 2025
+- Token unlock schedule starting March 2026
+- Price target discussions: $10 (requires network upgrades, competitive differentiation)
 
-## Status
-🟡 **Watch closely** - Protocol has strong backing and vision, but adoption lagging. Token unlock in Aug 2026 will be critical test. AI partnership could be growth catalyst if executed well.
+## Strategic Focus
+- On-chain IP management adoption
+- AI content creator protection
+- Licensing automation
+- Cross-platform IP attribution
+
+## Sources
+- Crunchbase (Aug 2024), The Block (Aug 2024), CoinMarketCap (Jan 2026), VentureBurn (Dec 2025)
