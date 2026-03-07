@@ -1,11 +1,5 @@
-# AI News - 2026-03-02
+**2026-03-08 Auto-Study**
 
-## Pentagon & OpenAI Deal
-- OpenAI announced Pentagon deal after Trump administration banned U.S. government use of Anthropic's AI products
-- Source: Latest AI news search
-- Date: 2026-03-02
+Claude AI의 인기 급상승: 미군이 윤리 우려로 Claude를 블랙리스트에 올린 후, 오히려 미국과 영국 앱스토어 차트에서 Claude가 최상위권으로 급등했다. 펜타곤의 금지 조치가 역설적으로 대중의 관심을 증폭시킨 사례.
 
-## Context
-- Significant shift in U.S. government AI vendor relationships
-- Anthropic products banned from government use by executive order
-- OpenAI positioning as preferred government AI partner
+Source: Anthropic Claude 관련 최신 뉴스
