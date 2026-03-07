@@ -1,15 +1,38 @@
-### Portone (포트원 / Chai)
-- Status: 🟡 Watch
-- Key finding: 코리아포트원 2025년 1월 새 요금제 도입, B2B 결제 인프라 사업 지속 중이나 런웨이 10개월로 자금 조달 또는 흑자 전환 시급.
-- Action needed: 매출/거래액 현황 및 다음 투자 라운드 계획 확인 (Runway 10개월)
-- Source: https://blog.portone.io/pricing-plan-updates/
-- Last researched: 2026-03-04
+# PortOne - Integrated Payments (Chai Corp)
+Last researched: 2026-03-08
 
-#### 상세 현황
-- 사업: B2B 통합결제 인프라 (PG 통합 연동, 파트너 정산, 해외결제)
-- 구조: 코리아포트원 (국내) + 포트원솔루션스 (글로벌, 차이)
-- 2025년 1월 새 요금제: 순거래액 5,000만원 미만 무료 제공
-- 블로그 최근 포스트: 2026.02.05 (파트너 정산 관련)
-- 경쟁사: PayU, 토스페이먼츠 등
-- 런웨이: 10개월 (Series B 또는 흑자 전환 필요)
-- 강점: 대규모 고객사 기반 (코드 한 줄로 PG 연동)
+## Overview
+통합 결제 솔루션. 한국 및 아시아 시장의 모든 PG사를 단일 API로 연동.
+
+## Recent Developments (2025-2026)
+- **Product**: 단 한 줄의 코드로 모든 결제 연동
+  - PG사 통합 결제 연동
+  - 해외 결제
+  - 파트너 정산 관리
+  - 결제 애널리틱스
+  - 수수료 혜택
+- **Partnerships**: 
+  - Shopify, MakeShop, Cafe24 등 e-commerce 플랫폼 임베딩
+  - 570,000+ 온라인 스토어 잠재 고객 확보
+- **Market position**: 한국 결제 통합 솔루션 시장에서 주요 플레이어
+  - Competitor: Bootpay (유사 기능)
+- **Salesforce AppExchange**: South Korea Payments 솔루션으로 등록
+
+## Product
+- Unified payment API (모든 PG사 통합)
+- One Console (통합 관리)
+- One Click PG switching
+- Payment analytics
+- Settlement management
+- Fee optimization
+
+## Market Position
+- 한국 결제 시장에 특화된 통합 솔루션
+- E-commerce 플랫폼 파트너십으로 네트워크 효과
+- Ranks 40th among 120 competitors (23 funded)
+- 11th in total funding among competitors
+
+## Investment Notes
+- 한국 결제 시장의 복잡성을 해결하는 명확한 가치 제안
+- E-commerce 플랫폼 파트너십으로 확장성 확보
+- 아시아 시장 확대 가능성 (글로벌 fintech 인프라 구축 목표)

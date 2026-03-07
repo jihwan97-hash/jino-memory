@@ -1,52 +1,42 @@
-# GreenLabs (그린랩스) Research
+# GreenLabs (그린랩스) - AgTech
+Last researched: 2026-03-08
 
-Last Researched: 2026-02-28
+## Overview
+농업 플랫폼 '팜모닝' 운영. 데이터 기반 농업 생태계 구축.
 
-## Company Overview
-- **Business:** Agricultural technology (AgTech) platform
-- **Flagship Product:** 팜모닝 (Farm Morning) - comprehensive farm management platform
-- **Mission:** Data-driven farming for the modern era
-- **Vision:** Global No.1 AgTech Company
-- **Target Market:** 1.4 billion farmers worldwide
+## Recent Developments (2022-2026)
+- **Series C**: M led by BRV Capital Management (Jan 2022)
+- **Scale** (2026):
+  - 90만+ 회원 (국내 농가의 대다수)
+  - 한국 농업 시장의 1% 점유 (전 세계 시장 기준)
+  - Global No.1 AgTech Company 목표
+- **Vision**: 전 세계 14억 농민이 팜모닝 플랫폼 활용
+- **Mission**: 신선하고 건강한 식재료 생산·유통
 
-## Recent Developments (2025-2026)
+## Product
+- **팜모닝 플랫폼**:
+  - 농업 데이터 구축
+  - 생산부터 유통까지 통합 관리
+  - 농장 경영 활동 지원
+  - Digital transformation for agriculture
 
-### Platform & Technology
-- **팜모닝 Platform:**
-  - Data-driven farm management
-  - Covers production through distribution
-  - Helps farmers with operational decision-making
-  - Building comprehensive agricultural data infrastructure
+## Market Position
+- 한국 AgTech 시장 선두
+- 변화 느린 농업 산업의 디지털화 선도
+- 국내 시장 검증 완료 → 글로벌 확장 단계
 
-### Strategic Vision
-- **Digitalization Focus:** Leading AgTech digitalization in traditionally slow-to-change agriculture industry
-- **Ecosystem Building:** Contributing to broader agricultural ecosystem development
-- **Fresh Food Mission:** Producing and distributing fresher, healthier food globally
-- **Health & Happiness:** Creating world where everyone is healthy and happy through better food
+## Technology
+- 농업 데이터 플랫폼
+- AI/데이터 기반 농장 관리
+- 생산-유통 통합 솔루션
 
-### Market Position
-- **Innovation Leader:** Pioneering new opportunities in agriculture
-- **Data Advantage:** Building proprietary agricultural data that creates competitive moat
-- **Platform Approach:** End-to-end solution from production to distribution
+## Global Expansion
+- 한국에서의 성공 모델을 글로벌 14억 농민 시장으로 확대
+- AgTech 디지털화 글로벌 기회
 
-## Investment Thesis
-- **Strengths:**
-  - Massive addressable market (1.4B farmers globally)
-  - Data network effects - more farmers = better data = better insights
-  - Full-stack approach (not just one piece of ag value chain)
-  - Korea domestic market provides strong foundation
-  
-- **Challenges:**
-  - Agriculture is traditionally low-margin
-  - Farmer adoption can be slow
-  - Need to track monetization strategy
-  - Global expansion requires localization
-
-## Next Steps to Monitor
-- User growth metrics (number of farmers on platform)
-- Revenue model and unit economics
-- Geographic expansion plans and execution
-- Strategic partnerships with ag input providers, buyers
-- Follow-on funding rounds
-- Path to profitability
-- International expansion milestones
+## Investment Notes
+- Series C M으로 scale-up 단계
+- 한국 농업 시장 장악 (90만+ 회원)
+- AgTech는 거대하지만 변화 느린 시장 → first mover advantage
+- 글로벌 확장 잠재력 (14억 농민 TAM)
+- 식량 안보 & 지속가능성 트렌드와 부합

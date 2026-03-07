@@ -3,15 +3,148 @@
   "updated": "2026-03-07",
   "maxTopics": 30,
   "topics": {
-    "ai-news": {
-      "file": "warm-memory/ai-news.md",
-      "tokens": 48,
+    "jejememe": {
+      "file": "warm-memory/portfolio/jejememe.md",
+      "tokens": 147,
       "keywords": [
-        "Claude",
-        "Anthropic",
+        "JEJEMEME",
+        "제제미미",
+        "쑥쑥찰칵",
+        "parenting",
+        "portfolio",
+        "육아"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "ad-shield": {
+      "file": "warm-memory/portfolio/ad-shield.md",
+      "tokens": 229,
+      "keywords": [
+        "Ad-Shield",
+        "애드쉴드",
+        "adblock",
+        "portfolio",
+        "adtech"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "dfns": {
+      "file": "warm-memory/portfolio/dfns.md",
+      "tokens": 312,
+      "keywords": [
+        "Dfns",
+        "custody",
+        "digital-asset",
+        "portfolio",
+        "crypto"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "lovo": {
+      "file": "warm-memory/portfolio/lovo.md",
+      "tokens": 243,
+      "keywords": [
+        "LOVO",
         "AI",
-        "미군 금지",
-        "앱스토어 순위"
+        "voice-synthesis",
+        "TTS",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "halliday": {
+      "file": "warm-memory/portfolio/halliday.md",
+      "tokens": 284,
+      "keywords": [
+        "Halliday",
+        "web3",
+        "gaming",
+        "onboarding",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "mythical-games": {
+      "file": "warm-memory/portfolio/mythical-games.md",
+      "tokens": 248,
+      "keywords": [
+        "Mythical",
+        "MYTH",
+        "blockchain-gaming",
+        "NFT",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "portone": {
+      "file": "warm-memory/portfolio/portone.md",
+      "tokens": 238,
+      "keywords": [
+        "PortOne",
+        "Chai",
+        "payments",
+        "fintech",
+        "portfolio",
+        "Korea"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "taiko-labs": {
+      "file": "warm-memory/portfolio/taiko-labs.md",
+      "tokens": 334,
+      "keywords": [
+        "Taiko",
+        "Ethereum",
+        "L2",
+        "ZK-rollup",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "doeat": {
+      "file": "warm-memory/portfolio/doeat.md",
+      "tokens": 227,
+      "keywords": [
+        "Doeat",
+        "두잇",
+        "delivery",
+        "Korea",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "cryptoquant": {
+      "file": "warm-memory/portfolio/cryptoquant.md",
+      "tokens": 295,
+      "keywords": [
+        "Cryptoquant",
+        "팀블랙버드",
+        "crypto",
+        "analytics",
+        "portfolio"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "greenlabs": {
+      "file": "warm-memory/portfolio/greenlabs.md",
+      "tokens": 225,
+      "keywords": [
+        "GreenLabs",
+        "그린랩스",
+        "AgTech",
+        "팜모닝",
+        "portfolio",
+        "Korea"
       ],
       "lastAccess": "2026-03-07",
       "updated": "2026-03-07"
