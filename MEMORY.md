@@ -65,3 +65,8 @@
 ### 포트폴리오 (HVF 투자)
 - **Concrete Protocol (A1 XYZ)**: DeFi 온체인 신용 인프라, 청산 보호+수익 집계. TGE 임박 — 토큰 런칭 모니터링 필요
 - **Ad-Shield (애드쉴드)**: Adblock Recovery 기술, 30% MoM 성장. Series A 가능성 모니터링 필요
+- **Aptos (APT)**: Move 기반 L1, 2026.02 하드 공급 캡 + 바이백 + 스테이킹 보상 축소로 디플레이션 전환. Framework-level CLOB 출시 예정. Sui와 Move L1 양대 축 경쟁 중
+- **Atommerce / 마인드카페**: 한국 1위 멘탈헬스 플랫폼. 우울증 DTx 서울대병원 임상 완료, 식약처 허가 진행 중 — 국내 DTx 상용화 선도 사례 될 수 있음. 롯데헬스케어·삼성벤처 전략 투자 유치
+- **Backpack (Blue Coral)**: Solana 기반 지갑+거래소. 창업자/VC 직접 토큰 미배분 + 스테이커에 회사 주식 20% 집단 배분이라는 혁신적 토크노믹스 구조. 유니콘 밸류 신규 라운드 추진 중
+- **Block Odyssey**: 블록체인 기반 물류·위조방지·자산 토큰화 B2B 기업. 2022 Series A 완료, 최근 2년 공개 뉴스 부재 — 조용한 B2B 운영 추정
+- **Borderless (Stockal)**: 신흥시장→미국주식 크로스보더 투자 플랫폼. 런웨이 4개월 [주의], 브리지 라운드로 임시 운영 중. Series A 또는 후속 펀딩 모니터링 필수
