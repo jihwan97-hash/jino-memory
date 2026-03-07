@@ -1,45 +1,48 @@
 # TheSwing (더스윙)
-**Last Updated:** 2026-03-06
 
-## Overview
-- **HVF Status:** [최우선] Priority
-- **Category:** E-scooter / shared mobility
-- **Revenue:** W584B (historical)
-- **IPO Target:** Q4 2027
-- **Valuation:** W200-300B (unlisted)
+**Last Updated:** 2026-03-07
 
-## Recent Developments (2026)
+## Company Overview
+- **Sector:** E-scooters, Mobility
+- **Status:** Active, IPO target Q4 2027
+- **Revenue:** W584B (expected)
 
-### IPO Plans & Regulatory Risk
-- **November 2025:** Mobility startups (TheSwing, G-Bike, Beam, PUMP) concerned about proposed e-scooter ban affecting IPO plans
-- All targeting public listings despite regulatory uncertainty
-- Industry lobbying against ban proposals
+## Recent Developments (2025-2026)
 
-### Investors
-- Humax (first-gen venture)
-- Hashed Ventures
-- SJ Partners
-- Major corporate/financial firms
+### Corporate Status (Oct 2025)
+- **Established:** December 28, 2018
+- **Headquarters:** Seoul, Yongsan-gu, Seobinggo-ro 17, 28F (Central Park Tower)
+- **Preliminary Unicorn:** Designated by Korean government
+- Listed as 예비유니콘 (Preliminary Unicorn) with special guarantee program
 
-### Operations
-- **2024 Fleet:** ~100,000 units (electric kickboards, bicycles, e-bikes, e-scooters)
-- **Market Share:** 1/3 of Korea's shared mobility market (largest player)
-- **Launch:** 2019 Korea
-- **International:** July 2022 expanded to Japan (Tokyo) - first Korean provider to go overseas
+### Product & Service
+- **Main App:** SWING - Taxis, Bikes, Scooters (Google Play)
+- Multi-modal mobility platform integrating:
+  - E-scooter sharing
+  - Bike sharing
+  - Taxi services
+  - Seoul Pass integration (transport card)
 
-### Service Brand
-- Operating as "SWING" shared scooter service
+### International Expansion (2023+)
+- Launched services for foreign users (March 2023)
+- Diversified identity verification methods beyond Korean resident registration
+- Enables non-Korean residents to use platform
 
-## Strategic Positioning
-- Market leader in Korea shared mobility
-- International expansion (Japan)
-- Diversified fleet (kickboards, bikes, e-bikes, scooters)
-- IPO-ready despite regulatory headwinds
+### App Features
+- QR code scanning for device unlock
+- IoT device wireless control
+- Return photo verification
+- Phone connection with taxi drivers
+- Point sharing/gifting events
 
-## Risk Factors
-- Proposed e-scooter ban in Korea
-- Regulatory uncertainty affecting valuation
-- Safety/accident concerns industry-wide
+## Contact
+- **Email:** hello@theswing.co.kr
+- **Website:** swingmobility.co / theswing.co.kr
+
+## Strategic Direction
+- Preparing for IPO Q4 2027
+- Scaling multi-modal mobility ecosystem
+- Focus on urban mobility ('차를 위한 도시를 사람을 위한 도시로')
 
 ## Sources
-- Korea Times (Nov 2025), NamuWiki, KED Global (Jul 2022)
+- THE VC (Oct 2025), Korea Herald (Mar 2023), Google Play

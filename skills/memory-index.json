@@ -1,6 +1,144 @@
 {
   "version": 1,
-  "updated": "2026-02-13",
+  "updated": "2026-03-07",
   "maxTopics": 30,
-  "topics": {}
+  "topics": {
+    "republic": {
+      "file": "warm-memory/portfolio/republic.md",
+      "tokens": 337,
+      "keywords": [
+        "Republic",
+        "Opendeal",
+        "blockchain",
+        "secondary",
+        "crowdfunding"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "theswing": {
+      "file": "warm-memory/portfolio/theswing.md",
+      "tokens": 357,
+      "keywords": [
+        "TheSwing",
+        "더스윙",
+        "mobility",
+        "escooter",
+        "IPO"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "dydx": {
+      "file": "warm-memory/portfolio/dydx.md",
+      "tokens": 437,
+      "keywords": [
+        "dYdX",
+        "DeFi",
+        "derivatives",
+        "institutional",
+        "RWA"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "dune-analytics": {
+      "file": "warm-memory/portfolio/dune-analytics.md",
+      "tokens": 388,
+      "keywords": [
+        "Dune",
+        "analytics",
+        "blockchain",
+        "data",
+        "API"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "gowid": {
+      "file": "warm-memory/portfolio/gowid.md",
+      "tokens": 423,
+      "keywords": [
+        "Gowid",
+        "고위드",
+        "B2B",
+        "fintech",
+        "IPO",
+        "corporate-card"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "backpack": {
+      "file": "warm-memory/portfolio/backpack.md",
+      "tokens": 492,
+      "keywords": [
+        "Backpack",
+        "crypto",
+        "exchange",
+        "wallet",
+        "unicorn",
+        "Solana"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "radiusxyz": {
+      "file": "warm-memory/portfolio/radiusxyz.md",
+      "tokens": 520,
+      "keywords": [
+        "RadiusXYZ",
+        "Radius",
+        "sequencing",
+        "rollup",
+        "MEV",
+        "infrastructure"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "payhere": {
+      "file": "warm-memory/portfolio/payhere.md",
+      "tokens": 524,
+      "keywords": [
+        "Payhere",
+        "페이히어",
+        "POS",
+        "payments",
+        "cloud",
+        "SMB",
+        "Karrot"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "hyperithm": {
+      "file": "warm-memory/portfolio/hyperithm.md",
+      "tokens": 537,
+      "keywords": [
+        "Hyperithm",
+        "crypto",
+        "asset-management",
+        "quant",
+        "Japan",
+        "Korea",
+        "HFT"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    },
+    "crypto-market": {
+      "file": "warm-memory/crypto-market.md",
+      "tokens": 43,
+      "keywords": [
+        "bitcoin",
+        "ethereum",
+        "crypto",
+        "market",
+        "stabilize"
+      ],
+      "lastAccess": "2026-03-07",
+      "updated": "2026-03-07"
+    }
+  }
 }

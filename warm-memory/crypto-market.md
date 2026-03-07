@@ -1,11 +1,5 @@
-# Crypto Market Updates
+# Crypto Market Update (2026-03-07)
 
-**2026년 3월 6일 (금)**
+Bitcoin과 Ethereum 포함 주요 암호화폐 시장이 주초 하락 이후 안정세를 보이고 있음. 유가 변동의 영향을 받았던 위험자산들이 회복 중이나, 채권시장은 여전히 회의적인 시각 유지.
 
-Bitcoin 공급량이 2천만 개에 근접하고 있습니다. 전체 2,100만 개 중 95% 이상이 채굴되었으며, 마지막 100만 개를 채굴하는 데는 앞으로 약 114년이 걸릴 것으로 예상됩니다.
-
-출처: CoinDesk - Bitcoin, Ethereum, XRP, Crypto News and Price Data
-
----
-*Keywords: bitcoin, cryptocurrency, mining, supply*
-*Reason: auto-study: crypto market update*
+출처: CoinDesk (2026-03-07)

@@ -1,38 +1,62 @@
 # Payhere (페이히어)
-**Last Updated:** 2026-03-06
 
-## Overview
-- **HVF Status:** [최우선] Priority
-- **Category:** Cloud mobile POS, fintech
-- **Revenue:** W131B (historical)
-- **Location:** Korea
+**Last Updated:** 2026-03-07
 
-## Recent Developments (2026)
+## Company Overview
+- **Sector:** Cloud Mobile POS, Payments
+- **Revenue:** W131B (expected)
+- **Status:** Active, growing merchant base
 
-### Funding
-- **Series A (Dec 2021):** W10B ($8.4M) from Softbank Ventures Asia
-
-### Products & Services
-1. **Mobile POS System** - card terminals for multiple industries
-2. **Online Payment Gateway**
-3. **Short-term Payment System Rental** - for pop-up stores (beauty, fashion, K-POP events)
-4. **Foreign Tourist Services** - waiting & tax refund services
-5. **Integrated Store Management Platform**
+## Recent Developments (2025-2026)
 
 ### Market Position
-- Korea mobile payment market: $48.25B (2026, Mordor Intelligence)
-- Targeting beauty, fashion, character brands for temporary events
-- Rental model: POS tablets, card terminals, waiting tables, kiosks
+- **Merchants:** 82,000+ active locations (industry-leading)
+- **Sales Rank:** #1 in all-in-one terminal sales (누적 판매 1위)
+- Largest cloud POS player in Korean market
 
 ### Product Innovation
-- Flexible rental model for brands running pop-up stores
-- Event-specific configurations based on store size/operation
-- Multi-industry support (retail, hospitality, services)
+- **국내 최초 클라우드 기반 POS:** First cloud-based POS in Korea
+- Multi-device flexibility: smartphone, tablet, dedicated terminals
+- Free download model (POS app free, revenue from payments/hardware)
 
-## Strategic Focus
-- Event-based retail enablement
-- Overseas tourist payment facilitation
-- Integrated management platform beyond just payment processing
+### Strategic Partnership: 당근페이 (Karrot Pay) Integration (2025)
+- Partnership with Karrot (당근마켓) announced
+- Karrot Pay accepted at all Payhere POS locations
+- Major distribution expansion via leading secondhand marketplace
+
+### Product Features
+- **Industry-Specific Customization:** Tailored features by business type
+- **All-in-One Terminal:** 7종 기프트 프로모션 (25% discount + gifts)
+- **Free POS Software:** Revenue from payment processing + hardware
+- Cloud-based: works across devices without vendor lock-in
+
+### Social Presence (2025-2026)
+- **Instagram:** 12K followers (@payhere.in)
+- **Facebook:** 624 likes, 124 active followers
+- Active YouTube channel for merchant education
+
+## Contact
+- **Email:** (not publicly listed)
+- **Website:** (via social media/app stores)
+- **Support:** Through app and social channels
+
+## Strategic Direction
+- Cloud POS market leader in Korea
+- Partnership expansion (Karrot Pay model for other platforms)
+- SMB focus: making POS accessible and affordable
+- Mission: "매장의 새로운 미래" (New future for stores)
+
+## Competitive Advantages
+- First-mover in cloud POS (Korea)
+- Largest merchant network (82K+)
+- Free software model lowers barrier to entry
+- Platform partnerships (Karrot Pay as template)
+
+## Growth Drivers
+- SMB digitalization trend in Korea
+- Payment integration partnerships
+- Multi-device flexibility
+- Industry-specific customization
 
 ## Sources
-- Crunchbase, KED Global (Dec 2021), CB Insights, Mordor Intelligence
+- THE VC (2025), Instagram, Facebook, Incruit (2025), Korea tech press
