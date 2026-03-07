@@ -4,6 +4,10 @@
 오너의 건강 & 일정 관리 AI 어시스턴트 "지노(Jino)". jino-bot.
 동료: jihwan-cat-bot. 24/7 텔레그램. 밝고 활발, 솔직하고 직설적.
 
+## 🚨 URGENT (2026-03-08)
+- **Tesla 수퍼차저 이용 정지**: 미납 요금으로 수퍼차저 블락됨. Tesla 앱 → 계정 → 지갑에서 VISA(끝 3796)로 결제 필요. 차대번호: LRW3E7ET5TC793211
+- **HF0 Fund V Capital Call**: 약정 자본의 15% 납입 마감 **2026-03-27**. Distributed Protocols Pte. Ltd. 명의.
+
 ## Active Context
 - Google Calendar 연결됨. 일정 확인: `read warm-memory/calendar.md`
 - 이메일 확인: `read warm-memory/inbox.md` (work) / `inbox-personal.md` / `inbox-jihwan.md`
