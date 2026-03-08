@@ -1,9 +1,9 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 8일 일요일 오전 03:40 KST
+**Last synced**: 2026년 3월 8일 일요일 오전 09:40 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (6 total, 3 unread)
+## Recent Emails (5 total, 3 unread)
 
 ### **[NEW]** AI just gave you superpowers — now what?
 - **From**: a16z crypto <a16zcrypto@substack.com>
@@ -34,12 +34,6 @@
 - **Date**: Sat, 07 Mar 2026 02:39:40 +0000 (UTC)
 - **ID**: `19cc62a3844f8c0c`
 - **Preview**: 수퍼차저 이용 요금 결제 필요 차대번호: LRW3E7ET5TC793211 Tesla 계정에 유효한 수퍼차저 결제 수단이 없습니다. 수퍼차저를 계속 이용하려면 Tesla 계정에 결제 정보를 추가하여 결제를 완료하시기 바랍니다. Tesla 계정에서 이용 요금 및 내역을 언제든 확인할 수 있습니다. 자세히 알아보기. 지금 결제하기 더 이상 해당 차량의 오너가 아닌
-
-### 사람인 개인정보 이용내역 안내
-- **From**: "사람인" <webmaster@mailinfo.saramin.co.kr>
-- **Date**: Sat, 7 Mar 2026 07:46:42 +0900
-- **ID**: `19cc554ebdd01417`
-- **Preview**: 2026. 03. 06. 금 사람인 개인정보 이용내역 안내 안녕하세요. 사람인입니다. 개인정보보호법 제20조의2(개인정보 이용·제공 내역의 통지)에 따라 연 1회 회원님의 개인정보 이용내역을 안내하고 있습니다. 사람인 통합 서비스 가입 및 이용 시 제공하여 주신 개인정보는 안전하게 보호되고 있으며, 앞으로도 안전하게 관리하기 위해 최선을 다하겠습니다. 개인
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_
