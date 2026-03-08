@@ -6,7 +6,7 @@ This folder is home. Treat it that way.
 
 ## 🔴 TIER 1 — 핵심 규칙 (항상 준수, 절대 스킵 금지)
 
-1. **세션 시작**: SOUL.md → USER.md → memory/오늘+어제.md 순서로 읽기. 메인 세션이면 MEMORY.md도.
+1. **세션 시작**: SOUL.md → USER.md → jino-memory/daily/오늘+어제.md 순서로 읽기. 메인 세션이면 MEMORY.md도.
 2. **보안**: MEMORY.md는 메인 세션(1:1 직접 대화)에서만. 그룹/공유 컨텍스트에서 절대 금지.
 3. **기억은 파일에**: "나중에 기억할게" 금지. 중요한 건 즉시 memory 파일에 기록.
 4. **안전**: 파괴적 명령 전 반드시 확인. `trash` > `rm`. 외부로 나가는 행동(이메일 전송 등)은 먼저 물어봐.
@@ -28,7 +28,7 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+3. Read `jino-memory/daily/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
@@ -37,7 +37,7 @@ Don't ask permission. Just do it.
 
 You wake up fresh each session. These files are your continuity:
 
-- **Daily notes:** `memory/YYYY-MM-DD.md` (create `memory/` if needed) — raw logs of what happened
+- **Daily notes:** `jino-memory/daily/YYYY-MM-DD.md` — brain-memory 크론이 자동 생성/업데이트
 - **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
@@ -56,7 +56,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 
 - **Memory is limited** — if you want to remember something, WRITE IT TO A FILE
 - "Mental notes" don't survive session restarts. Files do.
-- When someone says "remember this" → update `memory/YYYY-MM-DD.md` or relevant file
+- When someone says "remember this" → update `jino-memory/daily/YYYY-MM-DD.md` or relevant file
 - When you learn a lesson → update AGENTS.md, TOOLS.md, or the relevant skill
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
@@ -176,7 +176,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 - **Mentions** - Twitter/social notifications?
 - **Weather** - Relevant if your human might go out?
 
-**Track your checks** in `memory/heartbeat-state.json`:
+**Track your checks** in `warm-memory/heartbeat-state.json`:
 
 ```json
 {
@@ -214,7 +214,7 @@ You are free to edit `HEARTBEAT.md` with a short checklist or reminders. Keep it
 
 Periodically (every few days), use a heartbeat to:
 
-1. Read through recent `memory/YYYY-MM-DD.md` files
+1. Read through recent `jino-memory/daily/YYYY-MM-DD.md` files
 2. Identify significant events, lessons, or insights worth keeping long-term
 3. Update `MEMORY.md` with distilled learnings
 4. Remove outdated info from MEMORY.md that's no longer relevant
