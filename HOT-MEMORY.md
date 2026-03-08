@@ -1,0 +1,1 @@
+/Users/astin/.jinobot/clawd/skills/HOT-MEMORY.md
