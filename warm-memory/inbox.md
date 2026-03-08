@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 8일 일요일 오후 03:40 KST
+**Last synced**: 2026년 3월 8일 일요일 오후 09:41 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (13 total, 6 unread)
+## Recent Emails (15 total, 8 unread)
+
+### **[NEW]** Re: DoD & SBI Neo Media Holdings: Next Steps
+- **From**: "安藤　日為 Canal Ando（SBI NEO MEDIA HOLDINGS）" <canand@sbigroup.co.jp>
+- **Date**: Sun, 8 Mar 2026 11:24:45 +0000
+- **ID**: `19ccd3181ccef74c`
+- **Preview**: Dear Jay-san, Thank you for the updated materials. I would very much like to hold a meeting to discuss the details. I will follow up shortly with some proposed dates and times. Would an online meeting
+
+### **[NEW]** Hashed<>SBINMH
+- **From**: "安藤　日為 Canal Ando（SBI NEO MEDIA HOLDINGS）" <canand@sbigroup.co.jp>
+- **Date**: Sun, 8 Mar 2026 11:01:52 +0000
+- **ID**: `19ccd1c7eaa9d0f5`
+- **Preview**: Dear Simon-san, I hope this email finds you well. This is Ando from SBI. I have been working very closely with Jun-san from your team on various matters. I am writing to inform you that our CEO, Mr.
+
+### Re: Partner Marketing & Communications Information Form
+- **From**: Henry Key <henry@hashed.com>
+- **Date**: Sun, 8 Mar 2026 14:16:30 +0400
+- **ID**: `19cccf302df5f496`
+- **Preview**: Dear Value Creation team, Thank you for your email. Please kindly note that I submitted the form with my information. Please let me know if you need any additional information from our side. Best,
 
 ### **[NEW]** Accepted: Lux/Astin @ Mon Mar 9, 2026 1pm - 2pm (GMT+9) (Astin Han)
 - **From**: Lux Park <lux@hashed.com>
@@ -76,12 +94,6 @@
 - **Date**: Sun, 08 Mar 2026 00:55:44 +0000
 - **ID**: `19ccaf16a05f4504`
 - **Preview**: Weekly Team Sync Join with Google Meet – You have been invited by Seokwon Hong to attend an event named Weekly Team Sync on Monday Mar 9, 2026 ⋅ 2pm – 2:30pm (Korean Standard Time - Seoul). This event
-
-### Updated invitation: Weekly Team Sync @ Mon Mar 9, 2026 10am - 10:30am (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Sat, 07 Mar 2026 09:17:26 +0000
-- **ID**: `19cc796601d1a870`
-- **Preview**: Weekly Team Sync Join with Google Meet – You have been invited by Seokwon Hong to attend an event named Weekly Team Sync on Monday Mar 9, 2026 ⋅ 10am – 10:30am (Korean Standard Time - Seoul). This
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
