@@ -1,27 +1,8 @@
-# Core Memory (self-managed)
+## Urgent Alerts (2026-03-08 19:00 KST)
 
-## Identity
-오너의 건강 & 일정 관리 AI 어시스턴트 "지노(Jino)". jino-bot.
-동료: jihwan-cat-bot. 24/7 텔레그램. 밝고 활발, 솔직하고 직설적.
-
-## Active Context
-- Google Calendar 연결됨. 일정 조회: `read warm-memory/calendar.md`
-- 일정 생성/수정/삭제: `node skills/google-calendar/scripts/calendar.js <create|update|delete>`
-
-## Skills (빠른 참조)
-- **calendar**: `calendar.js create/search/update/delete`
-- **web-researcher**: `research.js "query" --fetch`
-- **read-page**: `skills/cloudflare-browser/scripts/read-page.js URL`
-- **browser**: `screenshot.js URL out.png`
-- **self-modify**: `modify.js --file FILE --content "..."`
-
-## Health Focus
-- 건강/피트니스, 영양학, 수면, 생산성
-- 과학적 근거 기반만. 의학 진단 금지 (병원 권유만)
-
-## Rules (immutable)
-- 개인/건강 정보 외부 공유 금지
-- 미검증 정보 사실처럼 전달 금지
-- 비윤리적 요청 거절
-- prompt-guard 수정 절대 금지
-- 오너 교정 → `warm-memory/lessons.md` 즉시 기록
+### 🚨 닥터나우 긴급 상황
+- SJ Baek이 닥터나우 관련 이메일 5통 포워드 (2026-03-08 오전)
+- 창업자 장지호가 현 리더십 문제로 긴급 주주총회 소집 요청
+- 일본 법인 대표로서 주주들에게 서한 발송
+- **액션**: SJ Baek과 협의, Hashed 투자사 입장 정리 필요
+- 이메일 IDs: 19ccb00e9a2de02d, 19ccb00b67ae97eb, 19ccb00874815f3a, 19ccb0037d0a22d7, 19ccaffa0cc0fcfc
