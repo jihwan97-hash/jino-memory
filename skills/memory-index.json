@@ -1,6 +1,20 @@
 {
   "version": 1,
-  "updated": "2026-02-13",
+  "updated": "2026-03-09",
   "maxTopics": 30,
-  "topics": {}
+  "topics": {
+    "korea-tech": {
+      "file": "warm-memory/korea-tech.md",
+      "tokens": 50,
+      "keywords": [
+        "배터리",
+        "전고체",
+        "한국",
+        "스타트업",
+        "기술"
+      ],
+      "lastAccess": "2026-03-09",
+      "updated": "2026-03-09"
+    }
+  }
 }

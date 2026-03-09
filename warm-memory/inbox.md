@@ -1,9 +1,69 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 9일 월요일 오후 06:37 KST
+**Last synced**: 2026년 3월 10일 화요일 오전 01:35 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 2 unread)
+## Recent Emails (30 total, 4 unread)
+
+### **[NEW]** EDGE CAPITAL: Feb +0.5% USD & +0.6% BTC | Capturing Yield in a Compressed Market
+- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
+- **Date**: Mon, 9 Mar 2026 16:09:40 +0000
+- **ID**: `19cd35d1492ed077`
+- **Preview**: Dear Investors, In February, the Edge Capital Market Neutral Fund returned +0.5% in USD and +0.6% in BTC (net, estimate, weighted average across investors). Despite the market sell-off, we continue to
+
+### **[NEW]** Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Sarah Lee <lys2719@gmail.com>
+- **Date**: Mon, 9 Mar 2026 23:56:00 +0900
+- **ID**: `19cd319a4979983c`
+- **Preview**: 네 대면으로 가능합니다! 그럼 오후 2시 사무실에서 뵙겠습니다. 감사합니다. 이예슬 드림 On Mon, Mar 9, 2026 at 11:45 PM Astin Han &lt;astin@hashed.com&gt; wrote: 대면이 어렵다면 화상으로도 괜찮으니 편하게 말씀해주세요. 감사합니다. 한지환 드림 Astin Han, Platform Operations
+
+### RE: Re: 제로미디어 제주 오프사이트 촬영 서류
+- **From**: "김영수" <gojjaang@naver.com>
+- **Date**: Mon, 09 Mar 2026 23:50:42 +0900
+- **ID**: `19cd3143c522118f`
+- **Preview**: 안녕하세요. 제로미디어 김영수입니다. 메일 확인 후 계산서 발송했습니다. 혹시 수신이 안되시면 연락 부탁드립니다. 고맙습니다. -----Original Message----- 보낸사람: &quot;Astin Han&quot;&lt;astin@hashed.com&gt; 받는사람: &quot;김영수&quot;&lt;gojjaang@naver.com&gt; 참조:
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Mon, 9 Mar 2026 23:45:01 +0900
+- **ID**: `19cd30f03a96b28b`
+- **Preview**: 대면이 어렵다면 화상으로도 괜찮으니 편하게 말씀해주세요. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Mon, 9 Mar 2026 23:44:21 +0900
+- **ID**: `19cd30e6755a0410`
+- **Preview**: 안녕하세요 예슬님, 네 대면으로 진행하려고 하고, 오후 2시에 해시드 사무실 근처에서 가능할지 문의드립니다. (주소는 강남구 강남대로 374, 케이스퀘어강남2 20층 입니다.) 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Sarah Lee <lys2719@gmail.com>
+- **Date**: Mon, 9 Mar 2026 23:05:03 +0900
+- **ID**: `19cd2eafdcca8562`
+- **Preview**: 안녕하세요 담당자님! 회신 늦어 죄송합니다. 긍정적으로 검토해주셔서 감사합니다. 내일 모든 시간 가능합니다. 혹시 대면으로 진행하는걸까요? 감사합니다. 예슬 드림 On Mon, Mar 9, 2026 at 2:19 PM Astin Han &lt;astin@hashed.com&gt; wrote: 안녕하세요 예슬님, 해시드 플랫폼팀 매니저 한지환입니다. 전달주신
+
+### Re: Mythical Investor Update - October 2025
+- **From**: "'Kasper Joergensen' via Investment" <investment@hashed.com>
+- **Date**: Mon, 9 Mar 2026 15:01:04 +0100
+- **ID**: `19cd2e71381af7c6`
+- **Preview**: Hi Gary, Thanks for reaching out. Will get the financials over to you in the next day or so. Going forward if you can copy in @Mythical, Inc. Investor Updates on the requests would be great for
+
+### Re: DoD & SBI Neo Media Holdings: Next Steps
+- **From**: "전영재" <jay.jeon@dayonedream.com>
+- **Date**: Mon, 09 Mar 2026 20:57:11 +0900
+- **ID**: `19cd2756f7902d87`
+- **Preview**: Dear Mr. Ando, Thank you for your prompt reply. We are truly delighted to hear of your interest in holding a meeting, and greatly appreciate you sharing SBI Group&#39;s direction on the ST initiative
+
+### Re: 제로미디어 제주 오프사이트 촬영 서류
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Mon, 9 Mar 2026 18:48:35 +0900
+- **ID**: `19cd1ff9efb5839e`
+- **Preview**: 안녕하세요 김영수님, 주식회사 해시드의 한지환입니다. 서류 전달주셔서 감사드리며, bill@hashed.com 로 세금계산서 발행해주시면 감사하겠습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The
+
+### 제로미디어 제주 오프사이트 촬영 서류
+- **From**: "김영수" <gojjaang@naver.com>
+- **Date**: Mon, 09 Mar 2026 18:45:07 +0900
+- **ID**: `19cd1fc8016f052d`
+- **Preview**: 안녕하세요. 한지환 매니저님 제주 오프사이트 촬영 건으로 서류 보냅니다. 1. 견적서 2. 통장사본 사업자등록증 보내주시면 세금계산서 발송하겠습니다. 고맙습니다. 제로미디어 김영수 010-5566-7203
 
 ### 안녕하세요 Simon's rabbit crypt 방에서 열심히 활동하고 있는 blue dragon입니다
 - **From**: "김명준" <alzkak@naver.com>
@@ -124,66 +184,6 @@
 - **Date**: Mon, 09 Mar 2026 02:43:10 +0000
 - **ID**: `19cd07a222525f38`
 - **Preview**: Platform 회식 Seokwon Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers When Saturday
-
-### Accepted: Platform 회식 @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
-- **From**: Henry Key <henry@hashed.com>
-- **Date**: Mon, 09 Mar 2026 02:42:59 +0000
-- **ID**: `19cd079f79b9e732`
-- **Preview**: Platform 회식 Henry Key has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers When Saturday
-
-### Canceled event: Weekly Sync #2 @ Fri Mar 13, 2026 3pm - 3:30pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Mon, 09 Mar 2026 02:35:48 +0000
-- **ID**: `19cd073627122f3f`
-- **Preview**: Weekly Sync #2 This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/qkf-dfjv-drp Join by phone (US) +1 413-728-2959 PIN: 727141958 More phone
-
-### Canceled event: EastPoint Bi Weekly @ Mon Mar 9, 2026 4:30pm - 5:30pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Mon, 09 Mar 2026 02:34:38 +0000
-- **ID**: `19cd07252d95aa22`
-- **Preview**: EastPoint Bi Weekly This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/vhg-vrgc-pck Join by phone (US) +1 337-340-3155 PIN: 670861222 More
-
-### Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
-- **From**: Sun choi <sun@hashed.com>
-- **Date**: Mon, 9 Mar 2026 11:21:46 +0900
-- **ID**: `19cd066bd6da12d3`
-- **Preview**: 안녕하세요 백아영님, 유상증자 3억원 규모로 25년말 기준 순자산 (-)-388050831원 대비 부족한데, 증자 후 재무상태표상 완전자본잠식이 해소되었을지 확인이 가능한 증자후 최근일 재무상태표 수령이 가능할 지 확인을 부탁드립니다. 또는 추가 재무구조 개선을 위한 계획에 대해서 공유를 부탁드리겠습니다. Best regards, Thanks Sun
-
-### [프레인글로벌] 2026년 3월 9일(월) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "해시드 국내PR" <hashed_kr@prain.com>
-- **Date**: Mon, 9 Mar 2026 01:30:00 +0000
-- **ID**: `19cd037728de3be4`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 9일 월요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.9(월) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/6(금) 가상자산 업계가 빠진 &#39;바이브 코딩&#39;...
-
-### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
-- **Date**: Mon, 9 Mar 2026 10:18:24 +0900
-- **ID**: `19cd02ccd21cef3c`
-- **Preview**: Dear Media, I hope this message finds you well. As part of Ad-Shield&#39;s ongoing flip-up transaction (Ad-Shield Korea → Ad-Shield, Inc.), we are in the process of replacing the existing SAFE
-
-### Re: 최상훈_런던정경대_인턴쉽지원
-- **From**: Choi Sanghoon <sanghoonchoi506@gmail.com>
-- **Date**: Wed, 7 Jan 2026 01:15:28 +0900
-- **ID**: `19ccfd704da5c407`
-- **Preview**: 안녕하세요, Astin님. 금요일에 Business Support Intern 포지션 관련하여 지원서와 함께 커버레터, 레쥬메를 전달드린 최상훈입니다. 해당 포지션에 대해 큰 관심을 가지고 있어 조심스럽게 한 번 더 연락드리게 되었습니다. 제가 곧 해외에 다녀와야 하는 일정이 있어, 가능하다면 출국 전에 Hashed 서울 오피스에 방문드려 대면 면접이나 짧은
-
-### Hashed Internship Application - Im Sungjun
-- **From**: "林成俊" <iissii97@keio.jp>
-- **Date**: Mon, 9 Mar 2026 07:00:00 +0900
-- **ID**: `19ccf78d66a1ad00`
-- **Preview**: Dear Astin, Please find attached my resume and cover letter for the internship position at Hashed. Thank you for your consideration. Sincerely, Im Sungjun
-
-### Hashed Emergent의 인기 페이지: IncuBase Hub
-- **From**: "'Notion Team' via Investment" <investment@hashed.com>
-- **Date**: Sun, 08 Mar 2026 21:34:07 +0000
-- **ID**: `19ccf5f3493ed00b`
-- **Preview**: 인기 페이지 및 추천 콘텐츠 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
-
-### Hashed 비즈니스 인턴 지원 – 황예지
-- **From**: YEJI HWANG <0303hyj@gmail.com>
-- **Date**: Sun, 8 Mar 2026 23:39:22 +0900
-- **ID**: `19ccde40adaec1bf`
-- **Preview**: 안녕하세요, Hashed 비즈니스 인턴 포지션에 지원드리고자 메일드립니다. 레쥬메와 커버레터를 첨부하였으니 검토해 주시면 감사하겠습니다. 감사합니다. 황예지 드림
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
