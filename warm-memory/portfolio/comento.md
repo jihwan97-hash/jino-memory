@@ -1,21 +1,59 @@
-### Comento (코멘토)
-- Status: 🟢 Healthy
-- Key finding: 150만 취업준비생 커뮤니티, 고용노동부 '로컬 AI 메이커스랩' 프로그램 운영, 앱 2025년 10월 업데이트.
-- Action needed: None (안정적 운영, B2B 성장세 모니터링)
-- Source: https://thevc.kr/comento
-- Last researched: 2026-03-04
+# Comento (코멘토)
+**Last Updated:** 2026-03-09
+**Category:** [유망] Promising
+**Sector:** Career Education, EdTech, Mentorship Platform
+**Region:** Korea
 
-## Company Overview
-- **Sector:** EdTech, Career Platform, Corporate Training
-- **HQ:** Seoul, South Korea
-- **Stage:** Series B+
+## Business Model
+- **Career community platform** for people starting their careers
+- Core products:
+  1. **직무부트캠프 (Job Bootcamp):** 4-6 week live training with industry professionals
+  2. **실무PT (Practical Training):** Small-group elite practical training sessions
+  3. **Current employee mentoring:** Verified professionals mentor job seekers
 
-## Recent Developments (2025-2026)
-- App last updated October 1, 2025 (Google Play)
-- 150만 명 취업준비생 대상 멘토링 플랫폼 운영
-- 고용노동부 미래내일 일경험 사업 ESG형 프로그램 '로컬 AI 메이커스랩' 운영 (2025년 200명 지역 인재 교육)
-- 현직자 멘토링 + B2B DT 교육 서비스 이원화
-- comento.kr, 네이버 블로그, 인스타그램 등 채널 운영 중
+## Platform Features
+- Live learning (not VOD) - interactive Q&A with working professionals
+- Mentors earn credits exchangeable for cash
+- Company certification required to become mentor (quality control)
+- Mobile app (Android) + web platform (comento.kr)
 
-## Status Assessment
-- 🟢 **Healthy** — Active platform with government partnership and growing user base
+## Value Proposition
+- **For learners:** Gain practical work experience without formal internship application
+- **For mentors:** Monetize expertise, build personal brand
+- **For companies:** Talent pipeline and employer branding
+
+## Market Position
+- Addresses Korea's hyper-competitive job market pain point
+- Alternative to traditional internships (easier access)
+- Live format differentiates from VOD platforms (Inflearn, Coloso, etc.)
+
+## Recent Activity (2026)
+- Active recruiting (job postings on Incruit, JobKorea)
+- Platform operational and updated (Feb 2025 app updates)
+- Growing bootcamp offerings across multiple job functions
+
+## Investment Thesis
+- Korea's youth unemployment and job-skill mismatch create persistent demand
+- Dual-sided marketplace (learners + mentors) has strong network effects
+- B2B enterprise training potential (upskilling employees)
+- Cash-incentivized mentors ensure supply-side engagement
+
+## Risks
+- Competition from established players (Fastcampus, Elice, etc.)
+- Mentor quality control at scale
+- Economic downturn reduces hiring → lower demand for career training
+- Monetization balance (learners price-sensitive, mentors want higher payouts)
+
+## Monitoring Points
+- Revenue/GMV growth (bootcamp enrollment numbers)
+- Mentor retention and activation rates
+- B2B enterprise sales progress
+- Funding plans (Series A/B timeline)
+
+## Recommendation
+- Healthy category; no immediate urgency
+- Request quarterly metrics: enrollments, mentor count, revenue
+- Explore synergies with other HVF portfolio education companies
+
+---
+**ACTION:** Request Q1 2026 update on key metrics and funding plans

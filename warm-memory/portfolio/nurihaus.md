@@ -1,44 +1,38 @@
-# Nurihaus (누리하우스)
-**Last Updated:** 2026-03-06
+# Nurihaus
+**Last Updated:** 2026-03-09
+**Category:** [최우선] Priority
+**Sector:** K-Beauty, E-commerce, Creator Economy
+**Region:** Korea → Global expansion
 
-## Overview
-- **HVF Status:** [최우선] Priority
-- **Category:** K-Beauty, cross-border commerce
-- **Location:** Seoul, Korea
-- **Founded:** 2015 (per ZoomInfo)
+## Recent Developments (2025-2026)
 
-## Recent Developments (2026)
+### Business Model Evolution
+- **Core:** K-beauty brands' global market entry one-stop solution
+- Platform: Community commerce based on Korean influencer products
+- Focus: Helping Korean beauty brands successfully enter overseas markets
 
-### November 2025: Creator Exchange Program
-- **Hosted North American creators in Seoul** for K-Beauty exchange
-- Invited American creator Luna with full coverage:
-  - Round-trip airfare
-  - 3-night/4-day accommodation
-  - All event participation fees
-- Building foundation for global cultural exchange
+### North American Creator Exchange (Nov 2025)
+- Hosted North American creators in Seoul for K-Beauty exchange program
+- Invited American creator Luna with full coverage (flights, 3N/4D accommodation, event fees)
+- Networking sessions with Korean creators sharing beauty trends and content creation insights
+- Goal: Foster creator networking transcending nationality and language barriers beyond simple experience
 
-### Business Model
-- **Platform:** Helping Korean brands advance overseas
-- **Service expansion** through partnerships and collaborations
-- Focus on K-Beauty sector cross-border distribution
+### Partnerships
+- CEO Baek Aram announced expanded service area through new collaborations
+- Focus on helping Korean brands advance overseas through creator partnerships
 
-### Leadership
-- **CEO:** Baek Aram
-- Vision: "Service area of nurihaus will be further expanded through collaboration"
+## Strategic Position
+- Bridging Korean beauty brands with global creators and markets
+- Community-driven commerce model leveraging influencer authenticity
+- Cultural exchange approach differentiates from pure e-commerce platforms
 
-### Funding
-- **Series A** investors include PS Ventures, GROWmatica
+## Investment Thesis
+- K-beauty global demand remains strong (skincare, makeup innovation)
+- Creator economy integration provides authentic marketing channels
+- One-stop solution addresses common pain points for Korean SME brands entering foreign markets
+- Cross-border cultural exchange builds sustainable creator network effects
 
-## Strategic Positioning
-- Positioned at intersection of K-Beauty and global creator economy
-- Leveraging influencer marketing for brand internationalization
-- Experiential marketing (bringing creators to Korea)
-- Platform play for Korean brand distribution
-
-## Market Focus
-- **Primary:** K-Beauty products
-- **Geography:** North America expansion focus
-- **Strategy:** Creator-led international market entry
-
-## Sources
-- BusinessKorea (Nov 2025), Crunchbase, PitchBook, LinkedIn
+## Monitoring Points
+- Revenue/GMV metrics not publicly disclosed
+- Competition from larger K-beauty aggregators (Olive Young Global, etc.)
+- Creator retention and activation rates critical to platform value

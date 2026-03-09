@@ -1,19 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-03-08",
+  "updated": "2026-02-13",
   "maxTopics": 30,
-  "topics": {
-    "tech-trends": {
-      "file": "warm-memory/tech-trends.md",
-      "tokens": 82,
-      "keywords": [
-        "agentic AI",
-        "software trends 2026",
-        "AI agents",
-        "full-stack platforms"
-      ],
-      "lastAccess": "2026-03-08",
-      "updated": "2026-03-08"
-    }
-  }
+  "topics": {}
 }

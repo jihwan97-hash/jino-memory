@@ -1,14 +1,47 @@
-### DrNow (닥터나우)
-- Status: 🟢 Healthy
-- Key finding: 비대면 진료 앱 1위, 3년 만에 투자 유치 추진 (Apr 2025) + 전면 허용 규제 개선으로 성장 모멘텀 강함
-- Action needed: 투자 유치 진행 상황 확인, '닥터나우 방지법' 입법 진행 여부 모니터링
-- Source: https://biz.chosun.com/stock/market_trend/2025/04/21/S7BAOWXATVBTFFUI53LKDKK7SE/
-- Last researched: 2026-03-04
+# DrNow (닥터나우)
+**Last Updated:** 2026-03-09
+**Category:** [유망] Promising
+**Sector:** Telemedicine, HealthTech
+**Region:** Korea
+**Users:** 5.6M | **Funding:** Series B W400B (~M)
 
-## 상세 내용
-- 한국 비대면 진료 플랫폼 1위
-- 2025년 9월 현재 비대면 진료 초진부터 전면 허용
-- 3년 만에 신규 투자 유치 추진 중 (2025년 4월)
-- 약 배송 서비스, 위고비/마운자로 다이어트 주사 처방 포함
-- 위험 요소: '닥터나우 방지법' 언급 존재 (규제 리스크)
-- 경쟁: 닥터나우 vs. 솔닥 등 타 플랫폼
+## Business Model
+- **#1 non-face-to-face medical treatment app** in Korea
+- Remote consultation + prescription drug delivery
+- Specialties: pediatrics, dermatology, hair loss, acne, diet injections (Wegovy/Mounjaro)
+
+## Regulatory Update (Dec 2025)
+- ✅ Telemedicine legalized (보건복지부 시범사업)
+- ❌ Medicine delivery blocked by "DoctorNow Prevention Bill"
+- Impact: Platform legal but UX degraded without prescription fulfillment
+
+## Scale & Position
+- 5.6M users (strong market penetration)
+- First-mover advantage in Korean telehealth
+- Series B W400B provides multi-year runway
+
+## Investment Thesis
+- Post-pandemic telehealth adoption sticky
+- Aging population increases demand
+- Regulatory clarity improving despite setbacks
+- Critical mass achieved for network effects
+
+## Key Risks
+- **Medicine delivery ban** - degrades core value prop
+- Regulatory uncertainty (policy opposition remains)
+- Doctor supply constraints
+- Insurance reimbursement unclear
+
+## Monitoring
+- Medicine delivery ban resolution efforts
+- Prescription volume, revenue per user
+- Doctor network expansion
+- Path to profitability
+
+## Recommendation
+- Solid fundamentals but regulatory headwinds
+- Series B confidence signal
+- Monitor legislative developments
+
+---
+**ACTION:** Request update on delivery workaround strategies and advocacy progress

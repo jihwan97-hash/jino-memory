@@ -75,3 +75,8 @@
 - **Community Gaming**: 자동화 이스포츠 토너먼트 플랫폼 (communitygaming.io). ⚠️ 런웨이 1개월 긴급 — 즉각 브리지 파이낸싱 또는 엑싯 협상 필요. 제품 자체는 가동 중. MOBA 게임 이스포츠 수익 비중 28.7% (2026)
 - **Contextsio / Aimo**: AI 에이전트 플랫폼으로 분류된 HVF 포트폴리오 기업. 공개 정보 거의 없음 — 스텔스 모드·피벗·리브랜딩 가능성. 내부 확인 필요
 - **CryptoQuant (팀블랙버드)**: 블록체인 온체인 분석 플랫폼. 비트코인 사이클 저점 2026년 6-12월 예측 발표. 트레이더·기관 대상. 경쟁사: Glassnode, Nansen, Dune Analytics (일부 동일 HVF 포트폴리오)
+- **Delivus (딜리버스)**: AI 물류 최적화(K-means 클러스터링) 기반 당일 배송 DaaS 기업, 브랜드 딜리래빗. ⚠️ 런웨이 2개월 긴급 — 물류 대기업 M&A(CJ/롯데) 또는 AI SaaS 피벗, 자산 매각이 현실적 옵션
+- **Dfns**: 기관급 디지털 자산 커스터디 API 플랫폼. 2025 IBM과 IBM Digital Asset Haven 공동 구축, Q2 2026 온프레미스 배포 예정. Canton Network 통합으로 분산형 상호운용 커스터디 실현. Series A 6M 조달
+- **DG Ventures**: 탈중앙화 기술 전문 VC (Fund of Funds). ⚠️ 런웨이 3개월 긴급 — RWA 토큰화(2025 66% 성장, 25B) 및 DeAI 트렌드에 부합하는 포트폴리오 보유, 즉각 자본 확충 필요
+- **Doeat (두잇)**: 한국 최초 무료 배달 앱, 관악구 중심 5개구 운영. Goodwater 주도 306억원 Series A (Hashed·SBVA 참여). 수수료 도입 여부가 수익화 핵심 변수 — 배달의민족·쿠팡이츠 대안 포지션
+- **Dolores Park Labs / Ferum**: Aptos 기반 온체인 CLOB(Central Limit Order Book) DeFi 인프라. Move 언어 기반, AMM 방식 대체하는 기관급 오더북 제공. 유동성 공급자에게 전례 없는 통제권 부여. Aptos 생태계 성장과 연동

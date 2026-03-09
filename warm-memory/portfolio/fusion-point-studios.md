@@ -1,19 +1,36 @@
-### Fusion Point Studios
-- Status: 🟡 Watch
-- Key finding: 게임 서브브랜드 'Distinct Possibility Studios'로 리브랜딩, 블록체인 통합 오픈월드 추출 슈팅게임 개발 중 — Reboot Develop Blue 2025 참가 확인.
-- Action needed: 게임 출시 일정 및 자금 상황 확인. 구체적인 마일스톤과 투자 현황 업데이트 필요.
-- Source: https://www.bloomberg.com/profile/company/2580470D:US
-- Last researched: 2026-03-04
+# Fusion Point Studios
+**Last Updated:** 2026-03-09
+**Category:** [긴급] Urgent - Runway 1 month
+**Sector:** Gaming (FPS - Shoot City)
+**Status:** 🚨 CRITICAL - Entity verification needed
 
-#### Background
-- Fusion Point Studios Inc. (법인명)
-- DBA: Distinct Possibility Studios (게임 스튜디오 브랜드)
-- 상표 등록: 2024년 10월 (USPTO)
-- 개발 중: 오픈월드 추출 슈팅 게임 + 블록체인 기능
-- Reboot Develop Blue 2025 참가 (2025년 4월)
-- Reddit 커뮤니티에서 PlanetSide 팬들이 관심 보임
+## Portfolio Info
+- Product: FPS game "Shoot City"
+- Runway: 1 month
 
-#### Notes
-- 모회사 Fusion Point가 게임 외 다른 사업도 진행 가능
-- 크립토 투자 받은 것으로 알려짐
-- 아직 게임 출시 없음, 알파/베타 일정 미공개
+## Search Results - Red Flags
+- **No online presence** for "Fusion Point Studios" + "Shoot City"
+- Multiple unrelated entities with similar names found:
+  - Student 3D platformer project (2017)
+  - Trademark filing linked to John Smedley (Planetside dev) - no confirmed activity
+- **No website, Steam page, social media, or playable demo**
+
+## Critical Issues
+1. Cannot verify company exists publicly
+2. 1-month runway for game dev is critically short (typical dev: 12-36 months)
+3. FPS market hyper-competitive, requires significant marketing
+
+## Urgent Actions
+1. **Verify legal entity** - Check investment docs for actual company name
+2. **Contact founders** - Immediate assessment call
+3. **Pivot/wind-down decision** - If no viable demo, recommend shutdown
+4. **Acquihire potential** - Evaluate talent if product non-viable
+
+## Recommendation
+🚨 **HIGHEST PRIORITY** - May be portfolio record error or zombie investment
+- If real and 1mo runway: likely past point of no return
+- Prepare write-off documentation
+- Request immediate LP update on status
+
+---
+**ACTION:** Verify entity exists, contact founders today, prepare wind-down plan

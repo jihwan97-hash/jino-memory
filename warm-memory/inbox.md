@@ -1,9 +1,81 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 8일 일요일 오후 09:41 KST
+**Last synced**: 2026년 3월 9일 월요일 오후 01:34 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (15 total, 8 unread)
+## Recent Emails (16 total, 4 unread)
+
+### Invitation: Value Add Dashboard @ Tue Mar 10, 2026 11am - 12pm (GMT+9) (Astin Han)
+- **From**: Henry Key <henry@hashed.com>
+- **Date**: Mon, 09 Mar 2026 03:06:15 +0000
+- **ID**: `19cd08f43a07cd4f`
+- **Preview**: Value Add Dashboard Join with Google Meet – You have been invited by Henry Key to attend an event named Value Add Dashboard on Tuesday Mar 10, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul). Join
+
+### Accepted: Platform 회식 @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
+- **From**: Seokwon Hong <edward@hashed.com>
+- **Date**: Mon, 09 Mar 2026 02:43:10 +0000
+- **ID**: `19cd07a222525f38`
+- **Preview**: Platform 회식 Seokwon Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers When Saturday
+
+### Accepted: Platform 회식 @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
+- **From**: Henry Key <henry@hashed.com>
+- **Date**: Mon, 09 Mar 2026 02:42:59 +0000
+- **ID**: `19cd079f79b9e732`
+- **Preview**: Platform 회식 Henry Key has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers When Saturday
+
+### Canceled event: Weekly Sync #2 @ Fri Mar 13, 2026 3pm - 3:30pm (GMT+9) (Astin Han)
+- **From**: Seokwon Hong <edward@hashed.com>
+- **Date**: Mon, 09 Mar 2026 02:35:48 +0000
+- **ID**: `19cd073627122f3f`
+- **Preview**: Weekly Sync #2 This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/qkf-dfjv-drp Join by phone (US) +1 413-728-2959 PIN: 727141958 More phone
+
+### Canceled event: EastPoint Bi Weekly @ Mon Mar 9, 2026 4:30pm - 5:30pm (GMT+9) (Astin Han)
+- **From**: Seokwon Hong <edward@hashed.com>
+- **Date**: Mon, 09 Mar 2026 02:34:38 +0000
+- **ID**: `19cd07252d95aa22`
+- **Preview**: EastPoint Bi Weekly This event has been canceled and removed from your calendar. Join with Google Meet Meeting link meet.google.com/vhg-vrgc-pck Join by phone (US) +1 337-340-3155 PIN: 670861222 More
+
+### Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
+- **From**: Sun choi <sun@hashed.com>
+- **Date**: Mon, 9 Mar 2026 11:21:46 +0900
+- **ID**: `19cd066bd6da12d3`
+- **Preview**: 안녕하세요 백아영님, 유상증자 3억원 규모로 25년말 기준 순자산 (-)-388050831원 대비 부족한데, 증자 후 재무상태표상 완전자본잠식이 해소되었을지 확인이 가능한 증자후 최근일 재무상태표 수령이 가능할 지 확인을 부탁드립니다. 또는 추가 재무구조 개선을 위한 계획에 대해서 공유를 부탁드리겠습니다. Best regards, Thanks Sun
+
+### [프레인글로벌] 2026년 3월 9일(월) 해시드 국내 뉴스 데일리 모니터링
+- **From**: "해시드 국내PR" <hashed_kr@prain.com>
+- **Date**: Mon, 9 Mar 2026 01:30:00 +0000
+- **ID**: `19cd037728de3be4`
+- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 9일 월요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.9(월) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/6(금) 가상자산 업계가 빠진 &#39;바이브 코딩&#39;...
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Mon, 9 Mar 2026 10:18:24 +0900
+- **ID**: `19cd02ccd21cef3c`
+- **Preview**: Dear Media, I hope this message finds you well. As part of Ad-Shield&#39;s ongoing flip-up transaction (Ad-Shield Korea → Ad-Shield, Inc.), we are in the process of replacing the existing SAFE
+
+### Re: 최상훈_런던정경대_인턴쉽지원
+- **From**: Choi Sanghoon <sanghoonchoi506@gmail.com>
+- **Date**: Wed, 7 Jan 2026 01:15:28 +0900
+- **ID**: `19ccfd704da5c407`
+- **Preview**: 안녕하세요, Astin님. 금요일에 Business Support Intern 포지션 관련하여 지원서와 함께 커버레터, 레쥬메를 전달드린 최상훈입니다. 해당 포지션에 대해 큰 관심을 가지고 있어 조심스럽게 한 번 더 연락드리게 되었습니다. 제가 곧 해외에 다녀와야 하는 일정이 있어, 가능하다면 출국 전에 Hashed 서울 오피스에 방문드려 대면 면접이나 짧은
+
+### Hashed Internship Application - Im Sungjun
+- **From**: "林成俊" <iissii97@keio.jp>
+- **Date**: Mon, 9 Mar 2026 07:00:00 +0900
+- **ID**: `19ccf78d66a1ad00`
+- **Preview**: Dear Astin, Please find attached my resume and cover letter for the internship position at Hashed. Thank you for your consideration. Sincerely, Im Sungjun
+
+### **[NEW]** Hashed Emergent의 인기 페이지: IncuBase Hub
+- **From**: "'Notion Team' via Investment" <investment@hashed.com>
+- **Date**: Sun, 08 Mar 2026 21:34:07 +0000
+- **ID**: `19ccf5f3493ed00b`
+- **Preview**: 인기 페이지 및 추천 콘텐츠 ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏ ‌ ͏
+
+### Hashed 비즈니스 인턴 지원 – 황예지
+- **From**: YEJI HWANG <0303hyj@gmail.com>
+- **Date**: Sun, 8 Mar 2026 23:39:22 +0900
+- **ID**: `19ccde40adaec1bf`
+- **Preview**: 안녕하세요, Hashed 비즈니스 인턴 포지션에 지원드리고자 메일드립니다. 레쥬메와 커버레터를 첨부하였으니 검토해 주시면 감사하겠습니다. 감사합니다. 황예지 드림
 
 ### **[NEW]** Re: DoD & SBI Neo Media Holdings: Next Steps
 - **From**: "安藤　日為 Canal Ando（SBI NEO MEDIA HOLDINGS）" <canand@sbigroup.co.jp>
@@ -23,77 +95,11 @@
 - **ID**: `19cccf302df5f496`
 - **Preview**: Dear Value Creation team, Thank you for your email. Please kindly note that I submitted the form with my information. Please let me know if you need any additional information from our side. Best,
 
-### **[NEW]** Accepted: Lux/Astin @ Mon Mar 9, 2026 1pm - 2pm (GMT+9) (Astin Han)
+### Accepted: Lux/Astin @ Mon Mar 9, 2026 1pm - 2pm (GMT+9) (Astin Han)
 - **From**: Lux Park <lux@hashed.com>
 - **Date**: Sun, 08 Mar 2026 06:25:50 +0000
 - **ID**: `19ccc1fa36636424`
 - **Preview**: Lux/Astin Lux Park has accepted this invitation. Join with Google Meet Meeting link meet.google.com/cpm-bsfe-xdq Join by phone (US) +1 513-909-9082 PIN: 438845730 More phone numbers omo.bot 에 대해 논의하고자
-
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: Sujung Park <spark@fidealaw.com>
-- **Date**: Sat, 7 Mar 2026 20:25:34 -0800
-- **ID**: `19ccbb2292b1f97b`
-- **Preview**: Medha, Attached is the redlined revised agreement for your review. I have addressed your comments and incorporated many of your proposed changes where possible. However, I could not accept some of the
-
-### **[NEW]** [내러티브] 2026.01 투자자 리포트 공유드립니다.
-- **From**: Ingi Kim <ingikim@codestates.com>
-- **Date**: Sun, 08 Mar 2026 03:29:14 +0000
-- **ID**: `19ccb7e0b5a7fe0f`
-- **Preview**: 김서준 대표님, 배기홍 대표님, 권도균 대표님, 전화성 대표님, 이기하 대표님, 오동은 상무님, 조만호 의장님 외 내러티브 투자자 여러분 안녕하세요. 2026.01 투자자 리포트 공유드립니다. 많은 관심과 도움 부탁드립니다. 감사합니다. 김인기 드림 Ingi Kim, Founder &amp; CEO ingikim@codestates.com |
-
-### **[NEW]** Invitation: 팀 점심 @ Mon Mar 9, 2026 12pm - 1pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Sun, 08 Mar 2026 03:04:44 +0000
-- **ID**: `19ccb678454fcdc0`
-- **Preview**: 팀 점심 Join with Google Meet – You have been invited by Seokwon Hong to attend an event named 팀 점심 on Monday Mar 9, 2026 ⋅ 12pm – 1pm (Korean Standard Time - Seoul). Join with Google Meet Meeting link
-
-### **[NEW]** Updated invitation: Weekly Team Sync @ Mon Mar 9, 2026 11:30am - 12pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Sun, 08 Mar 2026 03:04:33 +0000
-- **ID**: `19ccb675b043db08`
-- **Preview**: Weekly Team Sync Join with Google Meet – You have been invited by Seokwon Hong to attend an event named Weekly Team Sync on Monday Mar 9, 2026 ⋅ 11:30am – 12pm (Korean Standard Time - Seoul). This
-
-### [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Sarah Lee <lys2719@gmail.com>
-- **Date**: Sun, 8 Mar 2026 11:18:10 +0900
-- **ID**: `19ccb3d739f532f3`
-- **Preview**: 안녕하세요, 담당자님. 백수진님께서 공유해주신 공고를 통해 지원하게 되었습니다. 이메일에 CV와 Resume를 첨부드리니 검토해주시면 감사하겠습니다. 감사합니다. 이예슬 드림
-
-### Fwd: [닥터나우] 현 상황에 대한 회사 입장 및 해결 방향성 제안
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Sun, 8 Mar 2026 10:12:28 +0900
-- **ID**: `19ccb00e9a2de02d`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Fwd: [닥터나우 리더십 관련 진행 상황 공유]_[닥터나우 장지호 드림]
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Sun, 8 Mar 2026 10:12:16 +0900
-- **ID**: `19ccb00b67ae97eb`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Fwd: 닥터나우 일본 법인 대표로서 주주 여러분께 드리는 글
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Sun, 8 Mar 2026 10:12:03 +0900
-- **ID**: `19ccb00874815f3a`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Fwd: [긴급] 닥터나우 향후 리더십 방향 및 긴급 주주총회 소집 요청의 건_[닥터나우 창업자 장지호 드림]
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Sun, 8 Mar 2026 10:11:42 +0900
-- **ID**: `19ccb0037d0a22d7`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### Fwd: [닥터나우] 일부 주주 소통의 건
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Sun, 8 Mar 2026 10:11:04 +0900
-- **ID**: `19ccaffa0cc0fcfc`
-- **Preview**: SJ Baek | 백수진 TG: sj_baek E: sj@hashed.com M: +82-10-5153-9011 The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the
-
-### **[NEW]** Updated invitation: Weekly Team Sync @ Mon Mar 9, 2026 2pm - 2:30pm (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Sun, 08 Mar 2026 00:55:44 +0000
-- **ID**: `19ccaf16a05f4504`
-- **Preview**: Weekly Team Sync Join with Google Meet – You have been invited by Seokwon Hong to attend an event named Weekly Team Sync on Monday Mar 9, 2026 ⋅ 2pm – 2:30pm (Korean Standard Time - Seoul). This event
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

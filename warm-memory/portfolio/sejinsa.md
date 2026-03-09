@@ -1,53 +1,46 @@
 # Sejinsa (세진사)
-**Last Updated:** 2026-03-06
+**Last Updated:** 2026-03-09
+**Category:** [최우선] Priority
+**Sector:** Subscription Car Wash, Mobility Services
+**Region:** Korea
+**HVF Stake:** 22.1%
 
-## Overview
-- **HVF Status:** [최우선] Priority
-- **Category:** Subscription car wash service
-- **HVF Stake:** 22.1%
-- **Location:** Korea
+## Business Model
+- **Service:** Subscription-based mobile car wash (출장세차)
+- **Brand Promise:** "세차에 진심인 사람들" (People serious about car washing)
+- **Safety focus:** Positioning as safe alternative to fire-risk car wash facilities
+- **Value-add:** Vehicle maintenance included with wash service
 
-## Recent Developments (2026)
+## Platform Presence
+- **Website:** carwashlove.com
+- **Mobile App:** Android app on Google Play Store
+- **Customer Support:** Kakao Talk Channel @세차에진심인사람들
+- Hours: Mon-Fri 10:00-18:00 (excl. Sat/holidays)
 
-### Product/Service
-- **Tagline:** "세차에 진심인 사람들" (People Serious About Car Washing)
-- **Unique Selling Point:** "내 방 침대에서 만나는 세차장" (Car wash you meet from your bed)
+## Market Position
+- Subscription model differentiates from traditional car wash shops
+- Mobile-first approach targets busy urban professionals
+- Safety messaging addresses consumer pain point (car wash facility fires reported in Korean media)
 
-### Service Model
-1. **Mobile App:** Car wash reservation via app
-2. **Park & Sleep:** Park car in designated lot
-3. **Overnight Service:** Car wash completed while owner sleeps
-4. **Wake Up Clean:** Car ready in the morning
+## Investment Thesis
+- **High HVF stake (22.1%)** indicates strong conviction/control
+- Subscription revenue model provides predictable cash flow
+- Low capex vs traditional car wash facilities (no fixed locations)
+- Mobility services adjacent to car subscription/sharing trends in Korea
 
-### User Experience
-- Convenience-first model (wash while you sleep)
-- Subscription-based service
-- Targets apartment complexes
-- No need to visit car wash facility
+## Information Gaps
+- No recent financial data (revenue, subscriber count, churn rate)
+- Expansion plans unclear (city coverage, team size)
+- Competitive landscape (other mobile car wash services)
+- Unit economics not disclosed
 
-## Market Context (Korea Car Wash, 2026)
+## Monitoring Points
+- Subscriber growth rate and churn metrics
+- Geographic expansion beyond initial launch cities
+- Partnership opportunities with car rental/subscription services (e.g., The Trive)
+- Potential synergies with other HVF portfolio mobility companies
 
-### Pricing Landscape
-- **Gas station washes:** W5,000
-- **Self-service:** W12,000 - W25,000+
-- **Steam cleaning:** Higher premium pricing
-- Self-wash is cheapest DIY option
-
-### Market Opportunity
-- Korea self-service car wash market growing
-- Apartment-dwelling car owners (convenience premium)
-- Busy professionals willing to pay for time savings
-
-## Strategic Positioning
-- **Subscription model** for recurring revenue
-- **On-location service** (apartment parking lots)
-- **Overnight execution** (maximizes convenience)
-- **Mobile-first** booking and management
-
-## Competitive Advantage
-- Removes need to travel to car wash
-- Time arbitrage (service during sleep hours)
-- Predictable subscription revenue vs one-time washes
-
-## Sources
-- Google Play Store, Reddit (Living_in_Korea, r/korea), LinkedIn (Korea car wash market 2026)
+## Next Steps
+- Request LP update for financial metrics (ARR, subscriber count)
+- Check for Series A/growth round plans
+- Assess B2B opportunity (fleet management for enterprises)
