@@ -5,6 +5,7 @@
 ## 캘린더 규칙
 - 일정 생성 시 **`astin@hashed.com` 캘린더에 직접 생성** (`GOOGLE_CALENDAR_ID=astin@hashed.com`)
 - jihwan 캘린더가 아닌 astin 캘린더에 만들어야 형이 직접 수정 가능
+- **메인 캘린더**: astin@hashed.com (조회/생성/확인 모두 이걸로)
 - 캘린더 소유자(인증용): jihwan260213@gmail.com
 - 타임존: Asia/Seoul
 - `--visibility private/public/default` 옵션 지원 (calendar.js에 추가됨)
