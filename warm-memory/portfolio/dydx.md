@@ -1,57 +1,41 @@
-# dYdX Trading
+# dYdX Trading Research
 
-**Last Updated:** 2026-03-07
+**Last Updated:** 2026-03-10
+**Category:** 최우선 Priority | DeFi Derivatives
+**Exit Type:** Token exit (DYDX)
 
-## Company Overview
-- **Sector:** DeFi, Derivatives
-- **Status:** Active, token exit successful
+## Recent Developments (2026)
 
-## Recent Developments (2025-2026)
+### Affiliate Booster Program
+- **2026 Booster Program:** ,000 총 리워드 풀 발표
+- **이전 프로그램:** BONK Trading League 등 다양한 인센티브 프로그램 운영
+- **목적:** 거래량 증대 및 커뮤니티 활성화
 
-### Product Evolution
+### Platform Evolution
+- **전략 전환:** 단순 perpetuals DEX → 멀티 프로덕트 트레이딩 플랫폼
+- **Telegram 통합:** 텔레그램 기반 사용자 확장 전략
+- **미국 시장:** U.S. 시장 타겟팅 강화
 
-#### U.S. Spot Market Launch (2025)
-- Launched regulated spot trading for U.S. users
-- Starting with Solana ecosystem tokens
-- Major expansion beyond derivatives-only model
+### Token Utility Enhancement
+- **스테이킹 혜택:** DYDX 토큰 스테이킹을 통한 거래 수수료 할인
+- **수요 창출:** 플랫폼 활동과 토큰 유틸리티 직접 연결
+- **공급 압박 감소:** 스테이킹 인센티브로 매도 압력 완화
 
-#### Real-World Asset Perpetuals (2026 Roadmap)
-- Introducing perpetual futures for synthetic equities (e.g., Tesla)
-- Bridging DeFi and traditional finance markets
-- Expanding product suite beyond crypto-native assets
+## Key Metrics
+- **누적 거래량:** .5 trillion+
+- **오픈 인터레스트:** M (2026년 초 기준)
+- **TVL:** M
+- **백킹:** Andreessen Horowitz(a16z), Polychain, Paradigm
 
-### Institutional Adoption (2025+)
-- CEO confirms institutions now major force in crypto derivatives
-- 2025 marked turning point for institutional scale entry
-- Interview with TheStreet Roundtable (March 2026)
+## Business Model
+- Perpetual 거래 중심 플랫폼
+- 최근 Spot 거래도 지원
+- Margin trading 기능
+- 탈중앙화 거래소 (DEX) 구조
 
-### Technical Infrastructure
-
-#### Chain Migration
-- Ethereum-based bridge shutdown by June 2025
-- 94% of ethDYDX tokens successfully migrated
-- Definitive shift to native chain model (dYdX Chain)
-
-#### Trading Features
-- **Affiliate Booster Program 2026:** ,000 reward pool
-- Enhanced API for professional traders
-- Focus on institutional-grade infrastructure
-
-### Market Performance
-- **Price Prediction 2025:**
-  - Minimum: .86
-  - Maximum: .55
-  - Average: .96
-
-### Strategic Partnerships
-- **21Shares ETP:** Institutional product offering
-- API enhancements targeting professional traders
-
-## Strategic Direction
-- Evolution from derivatives-only to multi-asset DeFi trading hub
-- Strong institutional engagement focus
-- Bridging gap between DeFi and traditional finance
-- Native chain infrastructure (no longer dependent on Ethereum L1)
-
-## Sources
-- CoinMarketCap, TheStreet (Mar 2026), Ainvest (Dec 2025), Cryptopolitan (Dec 2025)
+## Key Takeaways
+- DeFi derivatives 시장 선도 플랫폼
+- .5T+ 거래량으로 입증된 PMF
+- 토큰 유틸리티 강화로 DYDX 가치 제고
+- 멀티 프로덕트 전략으로 사용자 확장 중
+- 주요 VC 백킹으로 신뢰도 높음

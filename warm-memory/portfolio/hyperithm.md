@@ -1,64 +1,59 @@
-# Hyperithm
+# Hyperithm Research
 
-**Last Updated:** 2026-03-07
+**Last Updated:** 2026-03-10
+**Category:** 유망 Promising | Crypto Asset Management
+**Markets:** Japan + Korea
 
-## Company Overview
-- **Sector:** Crypto Asset Management
-- **Founded:** 2018
-- **Headquarters:** Tokyo, Japan and Seoul, Korea (dual HQ)
-- **Status:** [유망] Promising
+## Recent Developments (2026)
 
-## Recent Developments (2025-2026)
+### Company Overview
+- **설립:** 2017년
+- **본사:** Japan (with Korea operations)
+- **사업:** 암호자산 운용 및 투자
 
-### Focus Area Shift (2026)
-- **2026 Focus:** "Gateway intended sector" (per TwoInstitute)
-- Suggests pivot or expansion into infrastructure/access layer
+## Regulatory Licenses
+- **일본:** 
+  - Financial Services Agency (FSA) SPBQII 운영자 등록 완료
+  - Second-Type Financial Instruments Business 라이선스
+- **한국:**
+  - Korea Financial Information Analysis Institute (KoFIU) VASP 라이선스 취득
 
-### Core Business
+## Business Lines
 
-#### Digital Asset Management
-- **Strategy:** Algorithmic/High-Frequency Trading (HFT)
-- **Approach:** Market-neutral strategies
-- Custom-built infrastructure for low-latency execution
+### 1. Trading & Asset Management
+- **전략:** 알고리즘 및 고빈도 거래 (HFT)
+- **접근:** Market-neutral strategies
+- **타겟:** 기관 투자자, HNWI, 패밀리 오피스
 
-#### Venture Investments
-- Supporting Web3 ecosystem growth
-- **Geographic Focus:** Providing access to Japanese and Korean markets
-- Bridge for Western projects entering Asia
+### 2. Venture Investments
+- **포커스:** Web3 스타트업 및 프로젝트
+- **Value-add:** 일본/한국 시장 전략적 접근 제공
+- **포지셔닝:** Web3 evangelist
 
-### Team Profile
-- **Founders:** Forbes 30 Under 30 entrepreneurs
-- **Background:** Former Morgan Stanley investment bankers
-- **Technical Talent:** Presidential Scholars, International Science Olympiad medalists
-- Strong quant + traditional finance pedigree
+### Recent Investments
+- **Plume Network:** 첫 번째 RWA(Real-World Assets) 전용 모듈형 L2 블록체인
+- **Kemet:** 크립토 헤지펀드 대상 기관급 트레이딩 인프라
 
-### Market Position
-- **Premier digital asset manager** in Japan/Korea region
-- Dual headquarters model (Tokyo + Seoul)
-- Active in: Quant trading + Venture investments
+## Team Background
+- Presidential Award 수상 경력 팀원 포함
+- 금융 및 암호자산 업계 전문가 구성
 
-### Strategic Offerings
-- Algorithmic trading services
-- Venture funding for Web3 projects
-- Japan/Korea market access for global projects
-- Customized quant infrastructure
+## Market Position
+- **지역 강점:** 일본+한국 규제 환경 모두 대응
+- **Compliance-first:** 양국 라이선스 보유로 신뢰도 확보
+- **Gateway 역할:** 글로벌 프로젝트의 동아시아 진출 교두보
 
-## Strategic Direction (2026)
-- Pivot toward "gateway" infrastructure/services
-- Leveraging Japan-Korea dual presence
-- Bridging Western Web3 projects with Asian markets
-- Strong quant trading foundation + ecosystem investing
+## Services
+- 디지털 자산 게이트웨이
+- 암호화폐 서비스
+- 자산관리 및 실행 중개
+- 기관/HNWI 대상 맞춤 솔루션
+- VC, 거래소, 마이너 등 다양한 클라이언트
 
-## Competitive Position
-- Leading regional (JP/KR) crypto asset manager
-- Differentiation: Forbes-caliber team + quant expertise + regional access
-- Two key markets (Japan + Korea) via single platform
-
-## Key Strengths
-- Dual-market presence (Tokyo/Seoul HQs)
-- Strong technical team (Olympiad medalists, Presidential Scholars)
-- Traditional finance background (Morgan Stanley)
-- Market-neutral quant strategies (lower risk profile)
-
-## Sources
-- Hyperithm website, Crunchbase, TEAMZ Summit (2024), CB Insights, TwoInstitute (2026)
+## Key Takeaways
+- 일본+한국 라이선스로 규제 리스크 최소화
+- 알고리즘 트레이딩으로 안정적 수익 창출 가능
+- Web3 투자로 업사이드 포트폴리오 구축
+- 동아시아 크립토 게이트웨이 포지션
+- RWA, 기관급 인프라 등 트렌드 선도 투자
+- 컴플라이언스 우선 전략으로 장기 생존 가능성 높음

@@ -1,48 +1,35 @@
-# TheSwing (더스윙)
+# TheSwing (더스윙) Research
 
-**Last Updated:** 2026-03-07
+**Last Updated:** 2026-03-10
+**Category:** 최우선 Priority | Shared Micromobility
+**Revenue:** W584B
+**IPO Target:** Q4 2027
 
-## Company Overview
-- **Sector:** E-scooters, Mobility
-- **Status:** Active, IPO target Q4 2027
-- **Revenue:** W584B (expected)
+## Recent Developments (2026)
 
-## Recent Developments (2025-2026)
+### IPO Preparation
+- **IPO 예정:** 2026년 IPO 예고
+- **K-IFRS 적용:** 상장 준비를 위한 회계기준 전환 중
+- **차별점:** 공유 모빌리티 업계 '유일한' 3년 연속 흑자 기록
 
-### Corporate Status (Oct 2025)
-- **Established:** December 28, 2018
-- **Headquarters:** Seoul, Yongsan-gu, Seobinggo-ro 17, 28F (Central Park Tower)
-- **Preliminary Unicorn:** Designated by Korean government
-- Listed as 예비유니콘 (Preliminary Unicorn) with special guarantee program
+### Business Performance
+- **설립:** 2018년 김형산 대표 설립
+- **사업:** 공유 전동킥보드 플랫폼
+- **수익성:** 3년 연속 흑자 (국내 공유모빌리티 업계 유일)
+- **국내 시장:** 빠른 시장 점유 완료
 
-### Product & Service
-- **Main App:** SWING - Taxis, Bikes, Scooters (Google Play)
-- Multi-modal mobility platform integrating:
-  - E-scooter sharing
-  - Bike sharing
-  - Taxi services
-  - Seoul Pass integration (transport card)
+### International Expansion
+- **일본 진출:** 2022년 일본 시장 진출 (한국 공유 마이크로모빌리티 업계 최초)
+- **해외 전략:** 국내 안정화 후 여유있게 해외 투자 진행
+- **서비스 지역:** 서울 포함 주요 도시
 
-### International Expansion (2023+)
-- Launched services for foreign users (March 2023)
-- Diversified identity verification methods beyond Korean resident registration
-- Enables non-Korean residents to use platform
+### Business Model
+- 전동킥보드 공유 서비스
+- 앱 기반 이용자 관리
+- 주차/충전 인프라 운영
 
-### App Features
-- QR code scanning for device unlock
-- IoT device wireless control
-- Return photo verification
-- Phone connection with taxi drivers
-- Point sharing/gifting events
-
-## Contact
-- **Email:** hello@theswing.co.kr
-- **Website:** swingmobility.co / theswing.co.kr
-
-## Strategic Direction
-- Preparing for IPO Q4 2027
-- Scaling multi-modal mobility ecosystem
-- Focus on urban mobility ('차를 위한 도시를 사람을 위한 도시로')
-
-## Sources
-- THE VC (Oct 2025), Korea Herald (Mar 2023), Google Play
+## Key Takeaways
+- 공유모빌리티 업계 유일 흑자 기업으로 차별화
+- 2027년 IPO 목표로 준비 순조로움
+- 국내 시장 안정화 후 일본 등 해외 확장 진행
+- 마이크로모빌리티 규제 환경 개선 수혜 가능

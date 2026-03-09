@@ -1,61 +1,54 @@
-# RadiusXYZ
+# RadiusXYZ Research
 
-**Last Updated:** 2026-03-07
+**Last Updated:** 2026-03-10
+**Category:** 최우선 Priority | Blockchain Infrastructure
+**Seed Funding:** .7M (2023, led by Hashed)
 
-## Company Overview
-- **Sector:** Decentralized Sequencing Layer (Blockchain Infrastructure)
-- **Product:** Radius - Trustless shared sequencing layer
+## Recent Developments (2026)
 
-## Recent Developments (2025-2026)
+### Company Overview
+- **Product:** Radius - 탈중앙화 공유 시퀀싱 레이어
+- **Vision:** Trustless shared sequencing infrastructure
+- **Mission:** 롤업 간 상호운용성 및 sequencing-as-a-service 제공
 
-### Funding
-- **Total Raised:** .7M over 2 rounds
-- **Latest Round:** Seed M (January 24, 2025)
-- **First Round:** June 22, 2023 (.7M)
-- Source: Tracxn (June 2025), Blockworks (June 2023)
+## Funding Details (2023)
 
-### Product Status
+### Pre-Seed Round (.7M)
+- **Lead:** Hashed
+- **Participants:**
+  - Superscrypt
+  - LambdaClass
+  - Crypto.com Capital
+- **발표:** June 2023
 
-#### Mainnet Launch (Q1 2025)
-- Launched mainnet with full cross-rollup features
-- Roadmap target achieved on schedule
+## Technical Innovation
 
-### Core Technology
-- **Trustless Shared Sequencing:** Eliminates centralized sequencer risks
-- **Sequencing-as-a-Service:** Flexible and customizable for rollups
-- **MEV Protection:** Built-in resistance to harmful MEV
-- **Cross-Rollup Features:** Enables interoperability between rollups
+### Core Value Proposition
+- **Shared Sequencing Layer:** 여러 롤업이 공유 시퀀서 사용
+- **Sequencing-as-a-Service:** 롤업들이 자체 시퀀서 운영 부담 해소
+- **Cross-Rollup Interoperability:** 롤업 간 원활한 상호작용 가능
+- **Trustless Architecture:** 탈중앙화로 신뢰 최소화
 
-### Additional Products
-- **MEV-Resistant DEX:** Building alongside sequencing solution
-- Focus on censorship resistance and fair ordering
+### Problem Solved
+- 롤업 간 fragmented liquidity 문제
+- 각 롤업의 시퀀서 중앙화 리스크
+- 크로스 롤업 메시징 복잡도
+- MEV 문제 완화
 
-### Technical Infrastructure
-- Working with Starknet ecosystem (Madara sequencer fork)
-- Active GitHub development (radiusxyz org)
-- Radiuscan explorer for transparency
+## Market Context
+- **Rollup 시대:** Ethereum L2 rollup 폭발적 성장
+- **Shared Sequencing 트렌드:** Espresso, Astria 등 경쟁
+- **Modular Blockchain:** 모듈화 블록체인 인프라 수요 증가
 
-## Strategic Value Proposition
-- **Disempowering Centralized Sequencers:** Main mission
-- **Eliminating Censorship:** Trustless ordering
-- **MEV Mitigation:** Protecting users from harmful extraction
-- **Security Enhancement:** Rollup security through decentralization
+## Strategic Position
+- Hashed 주도 투자로 한국/아시아 연결성 강화
+- Early-stage이지만 핵심 인프라 레이어 타겟
+- Ethereum 롤업 생태계 확장에 따른 수혜 기대
 
-## Market Position
-- Competing in shared sequencing space with: Espresso, Astria, Fairblock
-- Differentiator: Trustless model + MEV protection
-- Target market: Rollup builders seeking decentralized sequencing
-
-## Development Activity
-- Active GitHub: radiusxyz organization
-- Recent commits: Dec 28, 2025
-- Multiple repos including Madara fork, Radiuscan
-
-## Strategic Direction
-- Production mainnet operational (Q1 2025 target met)
-- Focus on cross-rollup adoption
-- MEV-resistant DEX as ecosystem anchor
-- Building complete rollup infrastructure stack
-
-## Sources
-- Tracxn (June 2025), Medium (May 2023), Blockworks (June 2023), LinkedIn, GitHub
+## Key Takeaways
+- 롤업 간 상호운용성 문제 해결하는 핵심 인프라
+- Shared sequencing은 L2 생태계의 다음 성장 동력
+- Hashed 리드로 전략적 파트너십 기대
+- 아직 초기 단계이지만 기술적으로 중요한 포지션
+- .7M pre-seed로 MVP 개발 및 테스트넷 준비 중
+- 추가 펀딩 라운드 예상 (Series A 타이밍 주목)
