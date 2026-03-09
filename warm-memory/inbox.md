@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오전 01:35 KST
+**Last synced**: 2026년 3월 10일 화요일 오전 07:35 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 4 unread)
+## Recent Emails (30 total, 5 unread)
+
+### **[NEW]** Accepted: [Placeholder] HVF Exit Strategy Meeting @ Fri Mar 13, 2026 10am - 11am (GMT+9) (Astin Han)
+- **From**: Baek Kim <baek@hashed.com>
+- **Date**: Mon, 09 Mar 2026 22:05:57 +0000
+- **ID**: `19cd4a2ae977baf2`
+- **Preview**: [Placeholder] HVF Exit Strategy Meeting Baek Kim has accepted this invitation. Join with Google Meet Meeting link meet.google.com/brr-wdiq-xdh Join by phone (US) +1 929-299-4070 PIN: 730980471 More
 
 ### **[NEW]** EDGE CAPITAL: Feb +0.5% USD & +0.6% BTC | Capturing Yield in a Compressed Market
 - **From**: Boback Khodadoost <boback@edge-capital-fund.com>
@@ -178,12 +184,6 @@
 - **Date**: Mon, 09 Mar 2026 03:06:15 +0000
 - **ID**: `19cd08f43a07cd4f`
 - **Preview**: Value Add Dashboard Join with Google Meet – You have been invited by Henry Key to attend an event named Value Add Dashboard on Tuesday Mar 10, 2026 ⋅ 11am – 12pm (Korean Standard Time - Seoul). Join
-
-### Accepted: Platform 회식 @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
-- **From**: Seokwon Hong <edward@hashed.com>
-- **Date**: Mon, 09 Mar 2026 02:43:10 +0000
-- **ID**: `19cd07a222525f38`
-- **Preview**: Platform 회식 Seokwon Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers When Saturday
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

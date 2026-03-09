@@ -81,3 +81,8 @@
 - **DG Ventures**: 탈중앙화 기술 전문 VC (Fund of Funds). ⚠️ 런웨이 3개월 긴급 — RWA 토큰화(2025 66% 성장, 25B) 및 DeAI 트렌드에 부합하는 포트폴리오 보유, 즉각 자본 확충 필요
 - **Doeat (두잇)**: 한국 최초 무료 배달 앱, 관악구 중심 5개구 운영. Goodwater 주도 306억원 Series A (Hashed·SBVA 참여). 수수료 도입 여부가 수익화 핵심 변수 — 배달의민족·쿠팡이츠 대안 포지션
 - **Dolores Park Labs / Ferum**: Aptos 기반 온체인 CLOB(Central Limit Order Book) DeFi 인프라. Move 언어 기반, AMM 방식 대체하는 기관급 오더북 제공. 유동성 공급자에게 전례 없는 통제권 부여. Aptos 생태계 성장과 연동
+- **DrNow (닥터나우)**: 한국 비대면 진료 1위 앱, DAU 기준 560만 사용자. Series B 4000억원(~300M USD) 목표 진행 중. 원격 상담·처방·약품 배달 통합 + 위고비·마운자로 체중관리 주사 서비스 포함. IPO 로드맵 모니터링
+- **Dune Analytics**: 100개+ 블록체인 SQL 기반 온체인 데이터 분석 산업 표준 플랫폼. 2026.02 스테이블코인 통합 데이터셋(EVM·Solana·Tron) 출시. 무료+기업API 구조. HVF 최우선 포트폴리오
+- **dYdX Trading**: 탈중앙화 무기한선물(Perps) 거래 프로토콜. 2026년 RWA 합성 주식(테슬라 등) 선물 시장 출시 계획. 21Shares 파트너십 기반 기관 채널 확대. HVF 최우선 — 토큰($DYDX) 엑싯 전략 모니터링 핵심
+- **Fitogether (핏투게더)**: KineticSense™(RTK-GNSS+IMU) 선수 추적 시스템. FIFA 공인 GNSS 선수 추적 유일 공급사 3년 연속, 정확도 최고점 기록. FIFA 인증이라는 강력한 진입장벽 보유. FIFA 파트너십 2026.10까지 갱신 완료
+- **Flexity (플렉시티) / Edit Collective**: AI 자동 건축 기획설계 SaaS. 토지 입력 시 실시간 건축법규 분석 + 3D 설계안 + 사업성 검토 즉시 제공. Hashed Series A 투자. B2B(건설사)+B2C(개인투자자) 구독 모델
