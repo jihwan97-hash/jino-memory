@@ -1,11 +1,35 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 07:36 KST
+**Last synced**: 2026년 3월 11일 수요일 오전 01:37 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 1 unread)
+## Recent Emails (30 total, 4 unread)
 
-### **[NEW]** Re: [코멘토/포텐스닷] 2026년 3월 주주보고 (2월 실적)
+### **[NEW]** Accept your SAFE from RLWRLD, Inc.
+- **From**: "'Carta' via Investment" <investment@hashed.com>
+- **Date**: Tue, 10 Mar 2026 15:15:28 +0000
+- **ID**: `19cd851429f4d750`
+- **Preview**: Your SAFE has arrived! RLWRLD, Inc. has partnered with Carta, a platform that helps stakeholders manage and stay up-to-date on their equity. Review the equity information below. You can find more
+
+### **[NEW]** Accept your SAFE from RLWRLD, Inc.
+- **From**: "'Carta' via Investment" <investment@hashed.com>
+- **Date**: Tue, 10 Mar 2026 15:15:26 +0000
+- **ID**: `19cd8513c31653a9`
+- **Preview**: Your SAFE has arrived! RLWRLD, Inc. has partnered with Carta, a platform that helps stakeholders manage and stay up-to-date on their equity. Review the equity information below. You can find more
+
+### **[NEW]** Quick investor update: AI OS just broke $200M annualized during the batch
+- **From**: "'Dave Fontenot' via Investment" <investment@hashed.com>
+- **Date**: Tue, 10 Mar 2026 13:37:00 +0000
+- **ID**: `19cd7f7b190158ef`
+- **Preview**: One of our teams just broke $200M annualized during the batch We&#39;re putting together a $10M SPV for them at a favorable valuation If you want allocation, let us know right away
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Tue, 10 Mar 2026 21:45:31 +0900
+- **ID**: `19cd7c8302600d4a`
+- **Preview**: Dear Media, Thank you so much for your thorough and thoughtful review of the documents, and for taking the time to lay out your questions so clearly. We would like to start by walking you through the
+
+### Re: [코멘토/포텐스닷] 2026년 3월 주주보고 (2월 실적)
 - **From**: "이재성" <jaeseong.lee@comento.kr>
 - **Date**: Tue, 10 Mar 2026 19:02:11 +0900
 - **ID**: `19cd732a7d3b8fdc`
@@ -160,30 +184,6 @@
 - **Date**: Tue, 10 Mar 2026 15:34:38 +0900
 - **ID**: `19cd674941814ab7`
 - **Preview**: 넵 갑사합니다! 확인했으며, 여전히 지원 희망합니다. 귀한 시간 내주셔서 다시 한번 감사드립니다. 회사에서 뵐 수 있도록 잘 준비하겠습니다. 좋은 하루 보내시길 바랍니다! 이예슬 드림 On Tue, Mar 10, 2026 at 3:29 PM Astin Han &lt;astin@hashed.com&gt; wrote: 안녕하세요 이예슬님, 금일 시간 내서
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 10 Mar 2026 15:29:40 +0900
-- **ID**: `19cd66fd824b818a`
-- **Preview**: 안녕하세요 이예슬님, 금일 시간 내서 방문해주셔서 감사합니다. 절차상의 매끄럽지 않았던 부분이 있던 점 사과드리며, 공개될 JD 페이지 공유드립니다. https://hashed.notion.site/Platform-Team-Internship-Seoul-Office-47721d591fe041d28506449bdd989e58 이미 커피챗에서는 해당 부분에 대해
-
-### [임팩트 컬렉티브 코리아 펀드] 제6기 정기조합원총회 개최 안내 (~26.03.20)
-- **From**: Jisun Yeum <sun@theventures.vc>
-- **Date**: Tue, 10 Mar 2026 05:53:29 +0000
-- **ID**: `19cd64f016cda30a`
-- **Preview**: 안녕하세요, 더벤처스 염지선입니다. 임팩트 컬렉티브 코리아 펀드의 제6기(FY2025) 정기 조합원 총회를 개최합니다. 아래 내용 참고하시어 총회일까지 서면결의서 회신을 부탁드립니다. １) 총회일시 : 2026년 3월 20일(금) ２) 결의방식 : 서면결의 ３) 총회의안 - 부의안건 : 제6기 (2025년) 재무제표 승인의 건(일반결의) - 보고안건:
-
-### Re: [해시드벤처스] 2025년 기말 결산자료 요청의 건
-- **From**: Sun choi <sun@hashed.com>
-- **Date**: Tue, 10 Mar 2026 14:47:16 +0900
-- **ID**: `19cd64935fed4809`
-- **Preview**: 안녕하세요 변영민님, 내용 확인하였으며, 답변 감사드립니다. Best regards, Thanks Sun Seonwoong Choi, Accountant +82-10-4011-0334 www.hashed.com The content of this message and any attachment is confidential, and may contain
-
-### Verify your identity in Aduro FundPanel Investor Portal
-- **From**: Fundpanel Support <support@fundpanel.io>
-- **Date**: Tue, 10 Mar 2026 05:20:32 +0000 (GMT)
-- **ID**: `19cd630c4af35b86`
-- **Preview**: ----------------------------------- Verification Code: 157 944 ----------------------------------- You recently logged in to the Aduro FundPanel Investor Portal Username: investment@hashed.com To
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

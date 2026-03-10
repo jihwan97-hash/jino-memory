@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-10T11:00:58.114Z",
+  "generatedAt": "2026-03-10T17:00:58.722Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -1895,7 +1895,7 @@
     },
     "brain-memory/daily/2026-03-10.md": {
       "relativePath": "brain-memory/daily/2026-03-10.md",
-      "mtimeMs": 1773140422933.619,
+      "mtimeMs": 1773162011172.823,
       "nodes": [
         {
           "id": "note:brain-memory/daily/2026-03-10",
@@ -1906,7 +1906,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T11:00:22.933Z"
+          "modifiedAt": "2026-03-10T17:00:11.172Z"
         }
       ],
       "edges": []
@@ -3136,7 +3136,7 @@
     },
     "daily/2026-03-10.md": {
       "relativePath": "daily/2026-03-10.md",
-      "mtimeMs": 1773140448132.441,
+      "mtimeMs": 1773162045547.292,
       "nodes": [
         {
           "id": "note:daily/2026-03-10",
@@ -3147,7 +3147,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T11:00:48.132Z"
+          "modifiedAt": "2026-03-10T17:00:45.547Z"
         }
       ],
       "edges": []
@@ -5188,6 +5188,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-10-1700.md": {
+      "relativePath": "handoffs/handoff-2026-03-10-1700.md",
+      "mtimeMs": 1773162058648.9507,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-10-1700",
+          "title": "handoff-2026-03-10-1700",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-10-1700.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T17:00:58.648Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1772718612970.9497,
@@ -7065,6 +7083,190 @@
         }
       ],
       "edges": []
+    },
+    "research/companies/nearthlab-2026-03-10.md": {
+      "relativePath": "research/companies/nearthlab-2026-03-10.md",
+      "mtimeMs": 1773147368361.2136,
+      "nodes": [
+        {
+          "id": "note:research/companies/nearthlab-2026-03-10",
+          "title": "Nearthlab 2026 03 10",
+          "type": "note",
+          "category": "note",
+          "path": "research/companies/nearthlab-2026-03-10.md",
+          "tags": [
+            "edgegroup",
+            "hvf",
+            "ipo",
+            "uae"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T12:56:08.361Z"
+        },
+        {
+          "id": "tag:edgegroup",
+          "title": "#edgegroup",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:hvf",
+          "title": "#hvf",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ipo",
+          "title": "#ipo",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:edgegroup",
+          "source": "note:research/companies/nearthlab-2026-03-10",
+          "target": "tag:edgegroup",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:hvf",
+          "source": "note:research/companies/nearthlab-2026-03-10",
+          "target": "tag:hvf",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:ipo",
+          "source": "note:research/companies/nearthlab-2026-03-10",
+          "target": "tag:ipo",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:uae",
+          "source": "note:research/companies/nearthlab-2026-03-10",
+          "target": "tag:uae",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/companies/rebellions-2026-02-13.md": {
+      "relativePath": "research/companies/rebellions-2026-02-13.md",
+      "mtimeMs": 1773147368345.2598,
+      "nodes": [
+        {
+          "id": "note:research/companies/rebellions-2026-02-13",
+          "title": "Rebellions 2026 02 13",
+          "type": "note",
+          "category": "note",
+          "path": "research/companies/rebellions-2026-02-13.md",
+          "tags": [
+            "ai",
+            "ipo",
+            "npu",
+            "uae"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T12:56:08.345Z"
+        },
+        {
+          "id": "tag:ai",
+          "title": "#ai",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ipo",
+          "title": "#ipo",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:npu",
+          "title": "#npu",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/companies/rebellions-2026-02-13->tag:ai",
+          "source": "note:research/companies/rebellions-2026-02-13",
+          "target": "tag:ai",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/rebellions-2026-02-13->tag:ipo",
+          "source": "note:research/companies/rebellions-2026-02-13",
+          "target": "tag:ipo",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/rebellions-2026-02-13->tag:npu",
+          "source": "note:research/companies/rebellions-2026-02-13",
+          "target": "tag:npu",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/companies/rebellions-2026-02-13->tag:uae",
+          "source": "note:research/companies/rebellions-2026-02-13",
+          "target": "tag:uae",
+          "type": "tag"
+        }
+      ]
     },
     "research/insights.md": {
       "relativePath": "research/insights.md",
@@ -11092,7 +11294,7 @@
     },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
-      "mtimeMs": 1773138960572.6243,
+      "mtimeMs": 1773160583532.7983,
       "nodes": [
         {
           "id": "note:skills/brain-memory/SKILL",
@@ -11103,7 +11305,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.572Z"
+          "modifiedAt": "2026-03-10T16:36:23.532Z"
         }
       ],
       "edges": []
@@ -11146,7 +11348,7 @@
     },
     "skills/CLAUDE.md": {
       "relativePath": "skills/CLAUDE.md",
-      "mtimeMs": 1773138961578.3342,
+      "mtimeMs": 1773160584467.5642,
       "nodes": [
         {
           "id": "note:skills/CLAUDE",
@@ -11157,14 +11359,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:01.578Z"
+          "modifiedAt": "2026-03-10T16:36:24.467Z"
         }
       ],
       "edges": []
     },
     "skills/cloudflare-browser/SKILL.md": {
       "relativePath": "skills/cloudflare-browser/SKILL.md",
-      "mtimeMs": 1773138961738.945,
+      "mtimeMs": 1773160584626.4553,
       "nodes": [
         {
           "id": "note:skills/cloudflare-browser/SKILL",
@@ -11175,7 +11377,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:01.738Z"
+          "modifiedAt": "2026-03-10T16:36:24.626Z"
         }
       ],
       "edges": []
@@ -11364,7 +11566,7 @@
     },
     "skills/google-calendar/SKILL.md": {
       "relativePath": "skills/google-calendar/SKILL.md",
-      "mtimeMs": 1773138960993.0671,
+      "mtimeMs": 1773160583915.1262,
       "nodes": [
         {
           "id": "note:skills/google-calendar/SKILL",
@@ -11375,7 +11577,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.993Z"
+          "modifiedAt": "2026-03-10T16:36:23.915Z"
         }
       ],
       "edges": []
@@ -11418,7 +11620,7 @@
     },
     "skills/HEARTBEAT.md": {
       "relativePath": "skills/HEARTBEAT.md",
-      "mtimeMs": 1773138960797.2908,
+      "mtimeMs": 1773160583731.2134,
       "nodes": [
         {
           "id": "note:skills/HEARTBEAT",
@@ -11429,14 +11631,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.797Z"
+          "modifiedAt": "2026-03-10T16:36:23.731Z"
         }
       ],
       "edges": []
     },
     "skills/HOT-MEMORY.md": {
       "relativePath": "skills/HOT-MEMORY.md",
-      "mtimeMs": 1773138960841.5244,
+      "mtimeMs": 1773160583764.1619,
       "nodes": [
         {
           "id": "note:skills/HOT-MEMORY",
@@ -11447,14 +11649,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.841Z"
+          "modifiedAt": "2026-03-10T16:36:23.764Z"
         }
       ],
       "edges": []
     },
     "skills/memory-retriever/SKILL.md": {
       "relativePath": "skills/memory-retriever/SKILL.md",
-      "mtimeMs": 1773138960750.2688,
+      "mtimeMs": 1773160583687.798,
       "nodes": [
         {
           "id": "note:skills/memory-retriever/SKILL",
@@ -11465,7 +11667,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.750Z"
+          "modifiedAt": "2026-03-10T16:36:23.687Z"
         }
       ],
       "edges": []
@@ -11526,7 +11728,7 @@
     },
     "skills/self-modify/SKILL.md": {
       "relativePath": "skills/self-modify/SKILL.md",
-      "mtimeMs": 1773138961529.6128,
+      "mtimeMs": 1773160584424.4326,
       "nodes": [
         {
           "id": "note:skills/self-modify/SKILL",
@@ -11537,14 +11739,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:01.529Z"
+          "modifiedAt": "2026-03-10T16:36:24.424Z"
         }
       ],
       "edges": []
     },
     "skills/SOUL.md": {
       "relativePath": "skills/SOUL.md",
-      "mtimeMs": 1773138960354.5557,
+      "mtimeMs": 1773160583359.0198,
       "nodes": [
         {
           "id": "note:skills/SOUL",
@@ -11555,14 +11757,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.354Z"
+          "modifiedAt": "2026-03-10T16:36:23.359Z"
         }
       ],
       "edges": []
     },
     "skills/templates/lessons.md": {
       "relativePath": "skills/templates/lessons.md",
-      "mtimeMs": 1773138960399.4185,
+      "mtimeMs": 1773160583378.6143,
       "nodes": [
         {
           "id": "note:skills/templates/lessons",
@@ -11573,14 +11775,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.399Z"
+          "modifiedAt": "2026-03-10T16:36:23.378Z"
         }
       ],
       "edges": []
     },
     "skills/templates/todo.md": {
       "relativePath": "skills/templates/todo.md",
-      "mtimeMs": 1773138960398.4482,
+      "mtimeMs": 1773160583378.1863,
       "nodes": [
         {
           "id": "note:skills/templates/todo",
@@ -11591,7 +11793,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.398Z"
+          "modifiedAt": "2026-03-10T16:36:23.378Z"
         }
       ],
       "edges": []
@@ -11616,7 +11818,7 @@
     },
     "skills/USER.md": {
       "relativePath": "skills/USER.md",
-      "mtimeMs": 1773138960355.946,
+      "mtimeMs": 1773160583359.4868,
       "nodes": [
         {
           "id": "note:skills/USER",
@@ -11627,14 +11829,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:00.355Z"
+          "modifiedAt": "2026-03-10T16:36:23.359Z"
         }
       ],
       "edges": []
     },
     "skills/web-researcher/SKILL.md": {
       "relativePath": "skills/web-researcher/SKILL.md",
-      "mtimeMs": 1773138961112.1726,
+      "mtimeMs": 1773160584028.285,
       "nodes": [
         {
           "id": "note:skills/web-researcher/SKILL",
@@ -11645,7 +11847,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:01.112Z"
+          "modifiedAt": "2026-03-10T16:36:24.028Z"
         }
       ],
       "edges": []
@@ -11922,7 +12124,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773138991678.5332,
+      "mtimeMs": 1773160613260.395,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -11933,7 +12135,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:31.678Z"
+          "modifiedAt": "2026-03-10T16:36:53.260Z"
         }
       ],
       "edges": []
@@ -12012,7 +12214,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773139004345.021,
+      "mtimeMs": 1773160627114.878,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -12023,14 +12225,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:44.345Z"
+          "modifiedAt": "2026-03-10T16:37:07.114Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773139003186.8306,
+      "mtimeMs": 1773160625768.2437,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -12043,7 +12245,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:43.186Z"
+          "modifiedAt": "2026-03-10T16:37:05.768Z"
         },
         {
           "id": "tag:14",
@@ -12068,7 +12270,7 @@
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773139002185.2769,
+      "mtimeMs": 1773160624763.1277,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -12079,7 +12281,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T10:36:42.185Z"
+          "modifiedAt": "2026-03-10T16:37:04.763Z"
         }
       ],
       "edges": []
@@ -18225,7 +18427,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T11:00:22.933Z"
+        "modifiedAt": "2026-03-10T17:00:11.172Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -18546,7 +18748,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T11:00:48.132Z"
+        "modifiedAt": "2026-03-10T17:00:45.547Z"
       },
       {
         "id": "note:decisions/2026-03-10",
@@ -18657,6 +18859,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-10T11:00:58.038Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-03-10-1700",
+        "title": "handoff-2026-03-10-1700",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-10-1700.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T17:00:58.648Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -18877,6 +19090,38 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-05T13:50:12.971Z"
+      },
+      {
+        "id": "note:research/companies/nearthlab-2026-03-10",
+        "title": "Nearthlab 2026 03 10",
+        "type": "note",
+        "category": "note",
+        "path": "research/companies/nearthlab-2026-03-10.md",
+        "tags": [
+          "edgegroup",
+          "hvf",
+          "ipo",
+          "uae"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-10T12:56:08.361Z"
+      },
+      {
+        "id": "note:research/companies/rebellions-2026-02-13",
+        "title": "Rebellions 2026 02 13",
+        "type": "note",
+        "category": "note",
+        "path": "research/companies/rebellions-2026-02-13.md",
+        "tags": [
+          "ai",
+          "ipo",
+          "npu",
+          "uae"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-10T12:56:08.345Z"
       },
       {
         "id": "note:research/insights",
@@ -19903,7 +20148,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.572Z"
+        "modifiedAt": "2026-03-10T16:36:23.532Z"
       },
       {
         "id": "note:skills/cbt-counselor/references/reveal-framework",
@@ -19936,7 +20181,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-10T10:36:01.578Z"
+        "modifiedAt": "2026-03-10T16:36:24.467Z"
       },
       {
         "id": "note:skills/cloudflare-browser/SKILL",
@@ -19947,7 +20192,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:01.738Z"
+        "modifiedAt": "2026-03-10T16:36:24.626Z"
       },
       {
         "id": "note:skills/failure-memory/SKILL",
@@ -19979,7 +20224,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.993Z"
+        "modifiedAt": "2026-03-10T16:36:23.915Z"
       },
       {
         "id": "note:skills/hades/references/market-rules",
@@ -20012,7 +20257,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.797Z"
+        "modifiedAt": "2026-03-10T16:36:23.731Z"
       },
       {
         "id": "note:skills/HOT-MEMORY",
@@ -20023,7 +20268,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.841Z"
+        "modifiedAt": "2026-03-10T16:36:23.764Z"
       },
       {
         "id": "note:skills/memory-retriever/SKILL",
@@ -20034,7 +20279,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.750Z"
+        "modifiedAt": "2026-03-10T16:36:23.687Z"
       },
       {
         "id": "note:skills/philosopher-chat/references/philosophers",
@@ -20078,7 +20323,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:01.529Z"
+        "modifiedAt": "2026-03-10T16:36:24.424Z"
       },
       {
         "id": "note:skills/SOUL",
@@ -20089,7 +20334,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.354Z"
+        "modifiedAt": "2026-03-10T16:36:23.359Z"
       },
       {
         "id": "note:skills/templates/lessons",
@@ -20100,7 +20345,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.399Z"
+        "modifiedAt": "2026-03-10T16:36:23.378Z"
       },
       {
         "id": "note:skills/templates/todo",
@@ -20111,7 +20356,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.398Z"
+        "modifiedAt": "2026-03-10T16:36:23.378Z"
       },
       {
         "id": "note:skills/tmux-claudecode/SKILL",
@@ -20133,7 +20378,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:00.355Z"
+        "modifiedAt": "2026-03-10T16:36:23.359Z"
       },
       {
         "id": "note:skills/web-researcher/SKILL",
@@ -20144,7 +20389,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:01.112Z"
+        "modifiedAt": "2026-03-10T16:36:24.028Z"
       },
       {
         "id": "note:SOUL",
@@ -20320,7 +20565,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-10T10:36:31.678Z"
+        "modifiedAt": "2026-03-10T16:36:53.260Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -20375,7 +20620,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:42.185Z"
+        "modifiedAt": "2026-03-10T16:37:04.763Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -20386,7 +20631,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T10:36:44.345Z"
+        "modifiedAt": "2026-03-10T16:37:07.114Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -20399,7 +20644,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-10T10:36:43.186Z"
+        "modifiedAt": "2026-03-10T16:37:05.768Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -22554,7 +22799,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 37,
+        "degree": 38,
         "modifiedAt": null
       },
       {
@@ -22720,6 +22965,17 @@
         "tags": [],
         "missing": false,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:edgegroup",
+        "title": "#edgegroup",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -22950,7 +23206,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -23005,7 +23261,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 8,
+        "degree": 10,
         "modifiedAt": null
       },
       {
@@ -23160,6 +23416,17 @@
         "tags": [],
         "missing": false,
         "degree": 10,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:npu",
+        "title": "#npu",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -23506,6 +23773,17 @@
       {
         "id": "tag:tts",
         "title": "#tts",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:uae",
+        "title": "#uae",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -25798,6 +26076,54 @@
         "id": "tag:note:memory/2026-03-05->tag:2",
         "source": "note:memory/2026-03-05",
         "target": "tag:2",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:edgegroup",
+        "source": "note:research/companies/nearthlab-2026-03-10",
+        "target": "tag:edgegroup",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:hvf",
+        "source": "note:research/companies/nearthlab-2026-03-10",
+        "target": "tag:hvf",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:ipo",
+        "source": "note:research/companies/nearthlab-2026-03-10",
+        "target": "tag:ipo",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/nearthlab-2026-03-10->tag:uae",
+        "source": "note:research/companies/nearthlab-2026-03-10",
+        "target": "tag:uae",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/rebellions-2026-02-13->tag:ai",
+        "source": "note:research/companies/rebellions-2026-02-13",
+        "target": "tag:ai",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/rebellions-2026-02-13->tag:ipo",
+        "source": "note:research/companies/rebellions-2026-02-13",
+        "target": "tag:ipo",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/rebellions-2026-02-13->tag:npu",
+        "source": "note:research/companies/rebellions-2026-02-13",
+        "target": "tag:npu",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/companies/rebellions-2026-02-13->tag:uae",
+        "source": "note:research/companies/rebellions-2026-02-13",
+        "target": "tag:uae",
         "type": "tag"
       },
       {
@@ -29102,23 +29428,23 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-10T11:00:58.114Z",
-      "nodeCount": 643,
-      "edgeCount": 619,
+      "generatedAt": "2026-03-10T17:00:58.722Z",
+      "nodeCount": 649,
+      "edgeCount": 627,
       "nodeTypeCounts": {
-        "note": 347,
-        "tag": 105,
+        "note": 349,
+        "tag": 108,
         "unresolved": 166,
         "daily": 8,
         "commitment": 4,
         "decision": 2,
-        "handoff": 3,
+        "handoff": 4,
         "lesson": 2,
         "person": 1,
         "project": 5
       },
       "edgeTypeCounts": {
-        "tag": 369,
+        "tag": 377,
         "wiki_link": 250
       }
     }
