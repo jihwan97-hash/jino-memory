@@ -22,3 +22,8 @@ jino-memory/
 skills/skills
 warm-memory/philosophy-pdfs/
 warm-memory/rebuild_jd.py
+
+# ClawVault ledger (contains session tokens)
+ledger/raw/
+.clawvault-index.json
+
