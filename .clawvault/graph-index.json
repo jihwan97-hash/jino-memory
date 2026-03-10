@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-10T08:18:59.556Z",
+  "generatedAt": "2026-03-10T11:00:58.114Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -585,6 +585,97 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd.md": {
+      "relativePath": "backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd.md",
+      "mtimeMs": 1773140419469.2969,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+          "title": "Assistant Now Let Me Save The Email Summary And Check If There Are Urgent Items For Hot Memorymd",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T11:00:19.469Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:open",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:task",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid.md": {
       "relativePath": "backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid.md",
       "mtimeMs": 1773130495706.973,
@@ -1035,6 +1126,97 @@
         {
           "id": "wiki_link:note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant->unresolved:observer",
           "source": "note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl.md": {
+      "relativePath": "backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl.md",
+      "mtimeMs": 1773140412708.0217,
+      "nodes": [
+        {
+          "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+          "title": "Toolresult Dedup Hit For Task Candidate Toolresult Service Launchagent Not Loaded File Logs Tmpopenclawopencl",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl.md",
+          "tags": [
+            "observer",
+            "open",
+            "todo"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T11:00:12.708Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:todo",
+          "title": "#todo",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:observer",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:open",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:todo",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+          "target": "tag:todo",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->unresolved:observer",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -1713,7 +1895,7 @@
     },
     "brain-memory/daily/2026-03-10.md": {
       "relativePath": "brain-memory/daily/2026-03-10.md",
-      "mtimeMs": 1773130509909.4758,
+      "mtimeMs": 1773140422933.619,
       "nodes": [
         {
           "id": "note:brain-memory/daily/2026-03-10",
@@ -1724,7 +1906,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:15:09.909Z"
+          "modifiedAt": "2026-03-10T11:00:22.933Z"
         }
       ],
       "edges": []
@@ -2083,7 +2265,7 @@
     },
     "brain-memory/daily/email-2026-03-10.md": {
       "relativePath": "brain-memory/daily/email-2026-03-10.md",
-      "mtimeMs": 1773093643687.141,
+      "mtimeMs": 1773136849432.0833,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-03-10",
@@ -2092,15 +2274,15 @@
           "category": "note",
           "path": "brain-memory/daily/email-2026-03-10.md",
           "tags": [
-            "10"
+            "14"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-09T22:00:43.687Z"
+          "modifiedAt": "2026-03-10T10:00:49.432Z"
         },
         {
-          "id": "tag:10",
-          "title": "#10",
+          "id": "tag:14",
+          "title": "#14",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -2112,9 +2294,9 @@
       ],
       "edges": [
         {
-          "id": "tag:note:brain-memory/daily/email-2026-03-10->tag:10",
+          "id": "tag:note:brain-memory/daily/email-2026-03-10->tag:14",
           "source": "note:brain-memory/daily/email-2026-03-10",
-          "target": "tag:10",
+          "target": "tag:14",
           "type": "tag"
         }
       ]
@@ -2436,7 +2618,7 @@
     },
     "commitments/2026-03-10.md": {
       "relativePath": "commitments/2026-03-10.md",
-      "mtimeMs": 1773130504592.157,
+      "mtimeMs": 1773140419474.154,
       "nodes": [
         {
           "id": "note:commitments/2026-03-10",
@@ -2447,7 +2629,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:15:04.592Z"
+          "modifiedAt": "2026-03-10T11:00:19.474Z"
         },
         {
           "id": "unresolved:successfully",
@@ -2668,6 +2850,39 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:changes",
+          "title": "Changes",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:initial",
+          "title": "Initial",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:portfolio",
+          "title": "Portfolio",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -2790,6 +3005,24 @@
           "source": "note:commitments/2026-03-10",
           "target": "unresolved:enqueue",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-10->unresolved:changes",
+          "source": "note:commitments/2026-03-10",
+          "target": "unresolved:changes",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-10->unresolved:initial",
+          "source": "note:commitments/2026-03-10",
+          "target": "unresolved:initial",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-10->unresolved:portfolio",
+          "source": "note:commitments/2026-03-10",
+          "target": "unresolved:portfolio",
+          "type": "wiki_link"
         }
       ]
     },
@@ -2903,7 +3136,7 @@
     },
     "daily/2026-03-10.md": {
       "relativePath": "daily/2026-03-10.md",
-      "mtimeMs": 1773130543063.3088,
+      "mtimeMs": 1773140448132.441,
       "nodes": [
         {
           "id": "note:daily/2026-03-10",
@@ -2914,14 +3147,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:15:43.063Z"
+          "modifiedAt": "2026-03-10T11:00:48.132Z"
         }
       ],
       "edges": []
     },
     "decisions/2026-03-10.md": {
       "relativePath": "decisions/2026-03-10.md",
-      "mtimeMs": 1773130495704.2637,
+      "mtimeMs": 1773140412976.268,
       "nodes": [
         {
           "id": "note:decisions/2026-03-10",
@@ -2932,7 +3165,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:14:55.704Z"
+          "modifiedAt": "2026-03-10T11:00:12.976Z"
         },
         {
           "id": "unresolved:initializing",
@@ -3153,6 +3386,17 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:git",
+          "title": "Git",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -3286,6 +3530,12 @@
           "id": "wiki_link:note:decisions/2026-03-10->unresolved:dydx-trading",
           "source": "note:decisions/2026-03-10",
           "target": "unresolved:dydx-trading",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-10->unresolved:git",
+          "source": "note:decisions/2026-03-10",
+          "target": "unresolved:git",
           "type": "wiki_link"
         }
       ]
@@ -3517,7 +3767,7 @@
     },
     "facts/2026-03-10.md": {
       "relativePath": "facts/2026-03-10.md",
-      "mtimeMs": 1773130682622.9866,
+      "mtimeMs": 1773140412980.8223,
       "nodes": [
         {
           "id": "note:facts/2026-03-10",
@@ -3528,7 +3778,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:18:02.622Z"
+          "modifiedAt": "2026-03-10T11:00:12.980Z"
         },
         {
           "id": "unresolved:tue",
@@ -4310,6 +4560,83 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:wake",
+          "title": "Wake",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:clean",
+          "title": "Clean",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:recap",
+          "title": "Recap",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:who",
+          "title": "Who",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:was",
+          "title": "Was",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:generated",
+          "title": "Generated",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:recent-sessions",
+          "title": "Recent Sessions",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -4762,6 +5089,48 @@
           "source": "note:facts/2026-03-10",
           "target": "unresolved:blocked",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:wake",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:wake",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:clean",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:clean",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:recap",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:recap",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:who",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:who",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:was",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:was",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:generated",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:generated",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-10->unresolved:recent-sessions",
+          "source": "note:facts/2026-03-10",
+          "target": "unresolved:recent-sessions",
+          "type": "wiki_link"
         }
       ]
     },
@@ -4797,6 +5166,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-10T08:18:09.985Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-10-1100.md": {
+      "relativePath": "handoffs/handoff-2026-03-10-1100.md",
+      "mtimeMs": 1773140458038.6143,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-10-1100",
+          "title": "handoff-2026-03-10-1100",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-10-1100.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T11:00:58.038Z"
         }
       ],
       "edges": []
@@ -4912,7 +5299,7 @@
     },
     "ledger/observations/2026/03/10.md": {
       "relativePath": "ledger/observations/2026/03/10.md",
-      "mtimeMs": 1773130682328.013,
+      "mtimeMs": 1773140419197.7888,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/10",
@@ -4922,17 +5309,29 @@
           "path": "ledger/observations/2026/03/10.md",
           "tags": [
             "1",
+            "14",
             "ai",
             "openclaw",
             "secondbrain"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:18:02.328Z"
+          "modifiedAt": "2026-03-10T11:00:19.197Z"
         },
         {
           "id": "tag:1",
           "title": "#1",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:14",
+          "title": "#14",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -4991,6 +5390,12 @@
           "id": "tag:note:ledger/observations/2026/03/10->tag:1",
           "source": "note:ledger/observations/2026/03/10",
           "target": "tag:1",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:ledger/observations/2026/03/10->tag:14",
+          "source": "note:ledger/observations/2026/03/10",
+          "target": "tag:14",
           "type": "tag"
         },
         {
@@ -5813,7 +6218,7 @@
     },
     "projects/2026-03-10.md": {
       "relativePath": "projects/2026-03-10.md",
-      "mtimeMs": 1773130682625.2986,
+      "mtimeMs": 1773140412961.2012,
       "nodes": [
         {
           "id": "note:projects/2026-03-10",
@@ -5824,7 +6229,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T08:18:02.625Z"
+          "modifiedAt": "2026-03-10T11:00:12.961Z"
         },
         {
           "id": "unresolved:notion",
@@ -6210,6 +6615,116 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:status",
+          "title": "Status",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:action",
+          "title": "Action",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:summary",
+          "title": "Summary",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain-memory",
+          "title": "Brain Memory",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:consolidation",
+          "title": "Consolidation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:git",
+          "title": "Git",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:issue",
+          "title": "Issue",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:duration",
+          "title": "Duration",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:completed-steps",
+          "title": "Completed Steps",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:completed-step",
+          "title": "Completed Step",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -6433,6 +6948,66 @@
           "id": "wiki_link:note:projects/2026-03-10->unresolved:nested",
           "source": "note:projects/2026-03-10",
           "target": "unresolved:nested",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:status",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:status",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:action",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:action",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:summary",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:summary",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:brain-memory",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:brain-memory",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:consolidation",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:consolidation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:git",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:git",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:issue",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:issue",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:duration",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:duration",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:completed-steps",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:completed-steps",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-10->unresolved:completed-step",
+          "source": "note:projects/2026-03-10",
+          "target": "unresolved:completed-step",
           "type": "wiki_link"
         }
       ]
@@ -10517,7 +11092,7 @@
     },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
-      "mtimeMs": 1773128148641.8723,
+      "mtimeMs": 1773138960572.6243,
       "nodes": [
         {
           "id": "note:skills/brain-memory/SKILL",
@@ -10528,7 +11103,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.641Z"
+          "modifiedAt": "2026-03-10T10:36:00.572Z"
         }
       ],
       "edges": []
@@ -10571,7 +11146,7 @@
     },
     "skills/CLAUDE.md": {
       "relativePath": "skills/CLAUDE.md",
-      "mtimeMs": 1773128149567.4158,
+      "mtimeMs": 1773138961578.3342,
       "nodes": [
         {
           "id": "note:skills/CLAUDE",
@@ -10582,14 +11157,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:49.567Z"
+          "modifiedAt": "2026-03-10T10:36:01.578Z"
         }
       ],
       "edges": []
     },
     "skills/cloudflare-browser/SKILL.md": {
       "relativePath": "skills/cloudflare-browser/SKILL.md",
-      "mtimeMs": 1773128149724.6655,
+      "mtimeMs": 1773138961738.945,
       "nodes": [
         {
           "id": "note:skills/cloudflare-browser/SKILL",
@@ -10600,7 +11175,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:49.724Z"
+          "modifiedAt": "2026-03-10T10:36:01.738Z"
         }
       ],
       "edges": []
@@ -10789,7 +11364,7 @@
     },
     "skills/google-calendar/SKILL.md": {
       "relativePath": "skills/google-calendar/SKILL.md",
-      "mtimeMs": 1773128149026.3467,
+      "mtimeMs": 1773138960993.0671,
       "nodes": [
         {
           "id": "note:skills/google-calendar/SKILL",
@@ -10800,7 +11375,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:49.026Z"
+          "modifiedAt": "2026-03-10T10:36:00.993Z"
         }
       ],
       "edges": []
@@ -10843,7 +11418,7 @@
     },
     "skills/HEARTBEAT.md": {
       "relativePath": "skills/HEARTBEAT.md",
-      "mtimeMs": 1773128148836.999,
+      "mtimeMs": 1773138960797.2908,
       "nodes": [
         {
           "id": "note:skills/HEARTBEAT",
@@ -10854,14 +11429,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.836Z"
+          "modifiedAt": "2026-03-10T10:36:00.797Z"
         }
       ],
       "edges": []
     },
     "skills/HOT-MEMORY.md": {
       "relativePath": "skills/HOT-MEMORY.md",
-      "mtimeMs": 1773128148881.7703,
+      "mtimeMs": 1773138960841.5244,
       "nodes": [
         {
           "id": "note:skills/HOT-MEMORY",
@@ -10872,14 +11447,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.881Z"
+          "modifiedAt": "2026-03-10T10:36:00.841Z"
         }
       ],
       "edges": []
     },
     "skills/memory-retriever/SKILL.md": {
       "relativePath": "skills/memory-retriever/SKILL.md",
-      "mtimeMs": 1773128148795.8677,
+      "mtimeMs": 1773138960750.2688,
       "nodes": [
         {
           "id": "note:skills/memory-retriever/SKILL",
@@ -10890,7 +11465,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.795Z"
+          "modifiedAt": "2026-03-10T10:36:00.750Z"
         }
       ],
       "edges": []
@@ -10951,7 +11526,7 @@
     },
     "skills/self-modify/SKILL.md": {
       "relativePath": "skills/self-modify/SKILL.md",
-      "mtimeMs": 1773128149522.2036,
+      "mtimeMs": 1773138961529.6128,
       "nodes": [
         {
           "id": "note:skills/self-modify/SKILL",
@@ -10962,14 +11537,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:49.522Z"
+          "modifiedAt": "2026-03-10T10:36:01.529Z"
         }
       ],
       "edges": []
     },
     "skills/SOUL.md": {
       "relativePath": "skills/SOUL.md",
-      "mtimeMs": 1773128148456.9678,
+      "mtimeMs": 1773138960354.5557,
       "nodes": [
         {
           "id": "note:skills/SOUL",
@@ -10980,14 +11555,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.456Z"
+          "modifiedAt": "2026-03-10T10:36:00.354Z"
         }
       ],
       "edges": []
     },
     "skills/templates/lessons.md": {
       "relativePath": "skills/templates/lessons.md",
-      "mtimeMs": 1773128148493.3765,
+      "mtimeMs": 1773138960399.4185,
       "nodes": [
         {
           "id": "note:skills/templates/lessons",
@@ -10998,14 +11573,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.493Z"
+          "modifiedAt": "2026-03-10T10:36:00.399Z"
         }
       ],
       "edges": []
     },
     "skills/templates/todo.md": {
       "relativePath": "skills/templates/todo.md",
-      "mtimeMs": 1773128148492.4983,
+      "mtimeMs": 1773138960398.4482,
       "nodes": [
         {
           "id": "note:skills/templates/todo",
@@ -11016,7 +11591,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.492Z"
+          "modifiedAt": "2026-03-10T10:36:00.398Z"
         }
       ],
       "edges": []
@@ -11041,7 +11616,7 @@
     },
     "skills/USER.md": {
       "relativePath": "skills/USER.md",
-      "mtimeMs": 1773128148458.3943,
+      "mtimeMs": 1773138960355.946,
       "nodes": [
         {
           "id": "note:skills/USER",
@@ -11052,14 +11627,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:48.458Z"
+          "modifiedAt": "2026-03-10T10:36:00.355Z"
         }
       ],
       "edges": []
     },
     "skills/web-researcher/SKILL.md": {
       "relativePath": "skills/web-researcher/SKILL.md",
-      "mtimeMs": 1773128149137.7837,
+      "mtimeMs": 1773138961112.1726,
       "nodes": [
         {
           "id": "note:skills/web-researcher/SKILL",
@@ -11070,7 +11645,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:35:49.137Z"
+          "modifiedAt": "2026-03-10T10:36:01.112Z"
         }
       ],
       "edges": []
@@ -11347,7 +11922,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773128178392.5479,
+      "mtimeMs": 1773138991678.5332,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -11358,7 +11933,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:36:18.392Z"
+          "modifiedAt": "2026-03-10T10:36:31.678Z"
         }
       ],
       "edges": []
@@ -11437,7 +12012,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773128191149.8918,
+      "mtimeMs": 1773139004345.021,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -11448,14 +12023,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:36:31.149Z"
+          "modifiedAt": "2026-03-10T10:36:44.345Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773128190657.208,
+      "mtimeMs": 1773139003186.8306,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -11468,7 +12043,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-10T07:36:30.657Z"
+          "modifiedAt": "2026-03-10T10:36:43.186Z"
         },
         {
           "id": "tag:14",
@@ -11493,7 +12068,7 @@
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773128189319.3726,
+      "mtimeMs": 1773139002185.2769,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -11501,33 +12076,13 @@
           "type": "note",
           "category": "note",
           "path": "warm-memory/inbox.md",
-          "tags": [
-            "hashed"
-          ],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": "2026-03-10T07:36:29.319Z"
-        },
-        {
-          "id": "tag:hashed",
-          "title": "#hashed",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-03-10T10:36:42.185Z"
         }
       ],
-      "edges": [
-        {
-          "id": "tag:note:warm-memory/inbox->tag:hashed",
-          "source": "note:warm-memory/inbox",
-          "target": "tag:hashed",
-          "type": "tag"
-        }
-      ]
+      "edges": []
     },
     "warm-memory/insights.md": {
       "relativePath": "warm-memory/insights.md",
@@ -17350,6 +17905,21 @@
         "modifiedAt": "2026-03-10T08:14:55.710Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+        "title": "Assistant Now Let Me Save The Email Summary And Check If There Are Urgent Items For Hot Memorymd",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-10T11:00:19.469Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid",
         "title": "Assistant Now Let Me Search For The Remaining Companies Dydx And Gowid",
         "type": "note",
@@ -17423,6 +17993,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-10T08:18:02.614Z"
+      },
+      {
+        "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+        "title": "Toolresult Dedup Hit For Task Candidate Toolresult Service Launchagent Not Loaded File Logs Tmpopenclawopencl",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl.md",
+        "tags": [
+          "observer",
+          "open",
+          "todo"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-10T11:00:12.708Z"
       },
       {
         "id": "note:backlog/toolresult-lessonsok-todook-git_uncommitted7",
@@ -17640,7 +18225,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T08:15:09.909Z"
+        "modifiedAt": "2026-03-10T11:00:22.933Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -17803,11 +18388,11 @@
         "category": "note",
         "path": "brain-memory/daily/email-2026-03-10.md",
         "tags": [
-          "10"
+          "14"
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-09T22:00:43.687Z"
+        "modifiedAt": "2026-03-10T10:00:49.432Z"
       },
       {
         "id": "note:brain-memory/reflections/2026-02-25",
@@ -17883,8 +18468,8 @@
         "path": "commitments/2026-03-10.md",
         "tags": [],
         "missing": false,
-        "degree": 20,
-        "modifiedAt": "2026-03-10T08:15:04.592Z"
+        "degree": 23,
+        "modifiedAt": "2026-03-10T11:00:19.474Z"
       },
       {
         "id": "note:daily/2026-02-25",
@@ -17961,7 +18546,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T08:15:43.063Z"
+        "modifiedAt": "2026-03-10T11:00:48.132Z"
       },
       {
         "id": "note:decisions/2026-03-10",
@@ -17971,8 +18556,8 @@
         "path": "decisions/2026-03-10.md",
         "tags": [],
         "missing": false,
-        "degree": 22,
-        "modifiedAt": "2026-03-10T08:14:55.704Z"
+        "degree": 23,
+        "modifiedAt": "2026-03-10T11:00:12.976Z"
       },
       {
         "id": "note:decisions/long-term-memory",
@@ -18037,8 +18622,8 @@
         "path": "facts/2026-03-10.md",
         "tags": [],
         "missing": false,
-        "degree": 75,
-        "modifiedAt": "2026-03-10T08:18:02.622Z"
+        "degree": 82,
+        "modifiedAt": "2026-03-10T11:00:12.980Z"
       },
       {
         "id": "note:handoffs/handoff-2026-03-10-0815",
@@ -18061,6 +18646,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-10T08:18:09.985Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-03-10-1100",
+        "title": "handoff-2026-03-10-1100",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-10-1100.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T11:00:58.038Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -18106,13 +18702,14 @@
         "path": "ledger/observations/2026/03/10.md",
         "tags": [
           "1",
+          "14",
           "ai",
           "openclaw",
           "secondbrain"
         ],
         "missing": false,
-        "degree": 5,
-        "modifiedAt": "2026-03-10T08:18:02.328Z"
+        "degree": 6,
+        "modifiedAt": "2026-03-10T11:00:19.197Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -18256,8 +18853,8 @@
         "path": "projects/2026-03-10.md",
         "tags": [],
         "missing": false,
-        "degree": 37,
-        "modifiedAt": "2026-03-10T08:18:02.625Z"
+        "degree": 47,
+        "modifiedAt": "2026-03-10T11:00:12.961Z"
       },
       {
         "id": "note:projects/2026-03-13",
@@ -19306,7 +19903,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.641Z"
+        "modifiedAt": "2026-03-10T10:36:00.572Z"
       },
       {
         "id": "note:skills/cbt-counselor/references/reveal-framework",
@@ -19339,7 +19936,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-10T07:35:49.567Z"
+        "modifiedAt": "2026-03-10T10:36:01.578Z"
       },
       {
         "id": "note:skills/cloudflare-browser/SKILL",
@@ -19350,7 +19947,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:49.724Z"
+        "modifiedAt": "2026-03-10T10:36:01.738Z"
       },
       {
         "id": "note:skills/failure-memory/SKILL",
@@ -19382,7 +19979,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:49.026Z"
+        "modifiedAt": "2026-03-10T10:36:00.993Z"
       },
       {
         "id": "note:skills/hades/references/market-rules",
@@ -19415,7 +20012,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.836Z"
+        "modifiedAt": "2026-03-10T10:36:00.797Z"
       },
       {
         "id": "note:skills/HOT-MEMORY",
@@ -19426,7 +20023,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.881Z"
+        "modifiedAt": "2026-03-10T10:36:00.841Z"
       },
       {
         "id": "note:skills/memory-retriever/SKILL",
@@ -19437,7 +20034,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.795Z"
+        "modifiedAt": "2026-03-10T10:36:00.750Z"
       },
       {
         "id": "note:skills/philosopher-chat/references/philosophers",
@@ -19481,7 +20078,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:49.522Z"
+        "modifiedAt": "2026-03-10T10:36:01.529Z"
       },
       {
         "id": "note:skills/SOUL",
@@ -19492,7 +20089,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.456Z"
+        "modifiedAt": "2026-03-10T10:36:00.354Z"
       },
       {
         "id": "note:skills/templates/lessons",
@@ -19503,7 +20100,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.493Z"
+        "modifiedAt": "2026-03-10T10:36:00.399Z"
       },
       {
         "id": "note:skills/templates/todo",
@@ -19514,7 +20111,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.492Z"
+        "modifiedAt": "2026-03-10T10:36:00.398Z"
       },
       {
         "id": "note:skills/tmux-claudecode/SKILL",
@@ -19536,7 +20133,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:48.458Z"
+        "modifiedAt": "2026-03-10T10:36:00.355Z"
       },
       {
         "id": "note:skills/web-researcher/SKILL",
@@ -19547,7 +20144,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:35:49.137Z"
+        "modifiedAt": "2026-03-10T10:36:01.112Z"
       },
       {
         "id": "note:SOUL",
@@ -19723,7 +20320,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-10T07:36:18.392Z"
+        "modifiedAt": "2026-03-10T10:36:31.678Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -19775,12 +20372,10 @@
         "type": "note",
         "category": "note",
         "path": "warm-memory/inbox.md",
-        "tags": [
-          "hashed"
-        ],
+        "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-10T07:36:29.319Z"
+        "degree": 0,
+        "modifiedAt": "2026-03-10T10:36:42.185Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -19791,7 +20386,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-10T07:36:31.149Z"
+        "modifiedAt": "2026-03-10T10:36:44.345Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -19804,7 +20399,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-10T07:36:30.657Z"
+        "modifiedAt": "2026-03-10T10:36:43.186Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -21827,7 +22422,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 2,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -21849,7 +22444,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 1,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -22322,7 +22917,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 10,
+        "degree": 9,
         "modifiedAt": null
       },
       {
@@ -22586,7 +23181,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 16,
+        "degree": 18,
         "modifiedAt": null
       },
       {
@@ -22597,7 +23192,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 16,
+        "degree": 18,
         "modifiedAt": null
       },
       {
@@ -22850,7 +23445,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 14,
+        "degree": 15,
         "modifiedAt": null
       },
       {
@@ -22894,7 +23489,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -22960,6 +23555,17 @@
         "path": null,
         "tags": [],
         "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:action",
+        "title": "Action",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
         "degree": 1,
         "modifiedAt": null
       },
@@ -23147,7 +23753,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -23217,6 +23823,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:changes",
+        "title": "Changes",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:channel",
         "title": "Channel",
         "type": "unresolved",
@@ -23241,6 +23858,17 @@
       {
         "id": "unresolved:clawroid",
         "title": "Clawroid",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:clean",
+        "title": "Clean",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -23283,6 +23911,28 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:completed-step",
+        "title": "Completed Step",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:completed-steps",
+        "title": "Completed Steps",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:config",
         "title": "Config",
         "type": "unresolved",
@@ -23301,7 +23951,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -23470,6 +24120,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:duration",
+        "title": "Duration",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:dydx-trading",
         "title": "Dydx Trading",
         "type": "unresolved",
@@ -23609,7 +24270,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -23620,7 +24281,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -23690,6 +24351,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:initial",
+        "title": "Initial",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:initializing",
         "title": "Initializing",
         "type": "unresolved",
@@ -23741,7 +24413,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -24049,7 +24721,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 16,
+        "degree": 18,
         "modifiedAt": null
       },
       {
@@ -24099,6 +24771,17 @@
       {
         "id": "unresolved:path",
         "title": "Path",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:portfolio",
+        "title": "Portfolio",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -24193,6 +24876,28 @@
         "tags": [],
         "missing": true,
         "degree": 3,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:recap",
+        "title": "Recap",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:recent-sessions",
+        "title": "Recent Sessions",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -24423,7 +25128,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -24456,7 +25161,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -24614,6 +25319,39 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:wake",
+        "title": "Wake",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:was",
+        "title": "Was",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:who",
+        "title": "Who",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:woohyeon-kim",
         "title": "Woohyeon Kim",
         "type": "unresolved",
@@ -24757,6 +25495,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:open",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->tag:task",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid->tag:observer",
         "source": "note:backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid",
         "target": "tag:observer",
@@ -24844,6 +25600,24 @@
         "id": "tag:note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant->tag:task",
         "source": "note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant",
         "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:observer",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:open",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:todo",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+        "target": "tag:todo",
         "type": "tag"
       },
       {
@@ -24973,9 +25747,9 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:brain-memory/daily/email-2026-03-10->tag:10",
+        "id": "tag:note:brain-memory/daily/email-2026-03-10->tag:14",
         "source": "note:brain-memory/daily/email-2026-03-10",
-        "target": "tag:10",
+        "target": "tag:14",
         "type": "tag"
       },
       {
@@ -24994,6 +25768,12 @@
         "id": "tag:note:ledger/observations/2026/03/10->tag:1",
         "source": "note:ledger/observations/2026/03/10",
         "target": "tag:1",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/03/10->tag:14",
+        "source": "note:ledger/observations/2026/03/10",
+        "target": "tag:14",
         "type": "tag"
       },
       {
@@ -25933,12 +26713,6 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:warm-memory/inbox->tag:hashed",
-        "source": "note:warm-memory/inbox",
-        "target": "tag:hashed",
-        "type": "tag"
-      },
-      {
         "id": "tag:note:warm-memory/inbox-personal->tag:14",
         "source": "note:warm-memory/inbox-personal",
         "target": "tag:14",
@@ -26863,6 +27637,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-check-if-there-are-urgent-items-for-hot-memorymd",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-search-for-the-remaining-companies-dydx-and-gowid",
         "target": "unresolved:observer",
@@ -26889,6 +27669,12 @@
       {
         "id": "wiki_link:note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant->unresolved:observer",
         "source": "note:backlog/toolresult-create-research-files-for-each-company-using-the-modifyjs-script-dedup-hit-for-task-candidate-assistant",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->unresolved:observer",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -27007,6 +27793,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-03-10->unresolved:changes",
+        "source": "note:commitments/2026-03-10",
+        "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-03-10->unresolved:daily",
         "source": "note:commitments/2026-03-10",
         "target": "unresolved:daily",
@@ -27037,6 +27829,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-03-10->unresolved:initial",
+        "source": "note:commitments/2026-03-10",
+        "target": "unresolved:initial",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-03-10->unresolved:job",
         "source": "note:commitments/2026-03-10",
         "target": "unresolved:job",
@@ -27064,6 +27862,12 @@
         "id": "wiki_link:note:commitments/2026-03-10->unresolved:options",
         "source": "note:commitments/2026-03-10",
         "target": "unresolved:options",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-10->unresolved:portfolio",
+        "source": "note:commitments/2026-03-10",
+        "target": "unresolved:portfolio",
         "type": "wiki_link"
       },
       {
@@ -27160,6 +27964,12 @@
         "id": "wiki_link:note:decisions/2026-03-10->unresolved:generated",
         "source": "note:decisions/2026-03-10",
         "target": "unresolved:generated",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-10->unresolved:git",
+        "source": "note:decisions/2026-03-10",
+        "target": "unresolved:git",
         "type": "wiki_link"
       },
       {
@@ -27403,6 +28213,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:clean",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:clean",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-10->unresolved:command",
         "source": "note:facts/2026-03-10",
         "target": "unresolved:command",
@@ -27490,6 +28306,12 @@
         "id": "wiki_link:note:facts/2026-03-10->unresolved:gateway",
         "source": "note:facts/2026-03-10",
         "target": "unresolved:gateway",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:generated",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:generated",
         "type": "wiki_link"
       },
       {
@@ -27649,6 +28471,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:recap",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:recap",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:recent-sessions",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:recent-sessions",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-10->unresolved:role",
         "source": "note:facts/2026-03-10",
         "target": "unresolved:role",
@@ -27742,6 +28576,24 @@
         "id": "wiki_link:note:facts/2026-03-10->unresolved:vault",
         "source": "note:facts/2026-03-10",
         "target": "unresolved:vault",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:wake",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:wake",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:was",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:was",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-10->unresolved:who",
+        "source": "note:facts/2026-03-10",
+        "target": "unresolved:who",
         "type": "wiki_link"
       },
       {
@@ -27973,6 +28825,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:action",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:action",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-10->unresolved:alig",
         "source": "note:projects/2026-03-10",
         "target": "unresolved:alig",
@@ -28003,6 +28861,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:brain-memory",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:brain-memory",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-10->unresolved:brave",
         "source": "note:projects/2026-03-10",
         "target": "unresolved:brave",
@@ -28027,9 +28891,33 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:completed-step",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:completed-step",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:completed-steps",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:completed-steps",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:consolidation",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:consolidation",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-10->unresolved:developer",
         "source": "note:projects/2026-03-10",
         "target": "unresolved:developer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:duration",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:duration",
         "type": "wiki_link"
       },
       {
@@ -28051,9 +28939,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:git",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:git",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-10->unresolved:input",
         "source": "note:projects/2026-03-10",
         "target": "unresolved:input",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:issue",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:issue",
         "type": "wiki_link"
       },
       {
@@ -28153,6 +29053,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:status",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:status",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-10->unresolved:summary",
+        "source": "note:projects/2026-03-10",
+        "target": "unresolved:summary",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-10->unresolved:telegram",
         "source": "note:projects/2026-03-10",
         "target": "unresolved:telegram",
@@ -28190,24 +29102,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-10T08:18:59.556Z",
-      "nodeCount": 627,
-      "edgeCount": 590,
+      "generatedAt": "2026-03-10T11:00:58.114Z",
+      "nodeCount": 643,
+      "edgeCount": 619,
       "nodeTypeCounts": {
-        "note": 345,
+        "note": 347,
         "tag": 105,
-        "unresolved": 153,
+        "unresolved": 166,
         "daily": 8,
         "commitment": 4,
         "decision": 2,
-        "handoff": 2,
+        "handoff": 3,
         "lesson": 2,
         "person": 1,
         "project": 5
       },
       "edgeTypeCounts": {
-        "tag": 363,
-        "wiki_link": 227
+        "tag": 369,
+        "wiki_link": 250
       }
     }
   }

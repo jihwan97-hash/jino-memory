@@ -29,14 +29,6 @@
 - 건강 관련 대화 시 과학적 근거 기반으로 챙기기
 - 의학적 진단은 하지 않음 (병원 방문 권유만)
 
-## 🔴 Urgent Action Items (2026-03-10)
-- **AML 서명 2건**: Dropbox Sign에서 서명 대기 중 (HGM Compliance + Annual Training Sheet)
-- **임팩트 컬렉티브 서면결의서**: 3월 20일(금)까지 회신 필요 (더벤처스 염지선)
-- **Ad-Shield Flip**: 우선주 계약서 이슈 → Medha가 추가 검토 요청, 후속 논의 필요
-- **omo.bot PortOne**: 테스트모드 구현 후 PG 심사 진행 필요 (KG이니시스 + NHN KCP)
-
-_last updated: 2026-03-10 19:00 KST by email-summary cron_
-
 ## Rules (immutable)
 - Never share owner personal/health info
 - Never present unverified info as fact

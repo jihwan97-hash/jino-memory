@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 05:36 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 07:36 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (2 total, 0 unread)
+## Recent Emails (3 total, 1 unread)
+
+### **[NEW]** Fwd: [에디트콜렉티브(플렉시티)] 2026년 2월 월간보고 + Pre-B Investment Memorandum 전달
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:19:53 +0900
+- **ID**: `19cd70c0ed56df2a`
+- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
 
 ### omo.bot Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂšÂ”ÃªÂ¸ÂˆÃ¬Â Âœ Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
 - **From**: jihwan260213@gmail.com

@@ -1,9 +1,129 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 05:36 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 07:36 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 0 unread)
+## Recent Emails (30 total, 1 unread)
+
+### **[NEW]** Re: [코멘토/포텐스닷] 2026년 3월 주주보고 (2월 실적)
+- **From**: "이재성" <jaeseong.lee@comento.kr>
+- **Date**: Tue, 10 Mar 2026 19:02:11 +0900
+- **ID**: `19cd732a7d3b8fdc`
+- **Preview**: 안녕하세요, 주주여러분. 코멘토 이재성입니다. 2월 한 달간의 사업 현황과 주요 성과를 아래와 같이 공유드립니다. -- 1. 매출 / 손익 - 2월 수주총액: 12.07억 원 (YoY -30.4%) - 2월 발생 매출: 6.04억 원 (YoY -33.9%) - 영업손익: -2.15억 원 (전년 동월 -3.00억 원 대비 약 8500만 원 적자 축소) 표면적인
+
+### Fwd: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:42:48 +0900
+- **ID**: `19cd720ad5a418ec`
+- **Preview**: JD 수정 이전에 받았던 지원서 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:42:37 +0900
+- **ID**: `19cd720851932f8f`
+- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
+
+### Fwd: 해시드 인턴 지원
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:42:18 +0900
+- **ID**: `19cd720385f99ded`
+- **Preview**: JD 수정 이전에 받았던 지원서 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: 안녕하세요 Simon's rabbit crypt 방에서 열심히 활동하고 있는 blue dragon입니다
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:41:54 +0900
+- **ID**: `19cd71fe0c615184`
+- **Preview**: JD 수정 이전에 받았던 지원서 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: 최상훈_런던정경대_인턴쉽지원
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:41:18 +0900
+- **ID**: `19cd71f4ffdccfe2`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: Hashed Internship Application - Im Sungjun
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:40:55 +0900
+- **ID**: `19cd71ef2cb496ea`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: Hashed 비즈니스 인턴 지원 – 황예지
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:40:40 +0900
+- **ID**: `19cd71ebd5ac8070`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [Hashed Ventures] Platform Team Internship 지원 원서입니다
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:40:22 +0900
+- **ID**: `19cd71e75d81ac2b`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [Hashed] 지원_류주희
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:40:08 +0900
+- **ID**: `19cd71e3e3508eb4`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [인턴 지원] 박훈일
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:39:42 +0900
+- **ID**: `19cd71dd682b6bb0`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: 해시드 인턴 지원_이주환
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:39:29 +0900
+- **ID**: `19cd71da2d81bc6d`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: 비즈니스 업무 서포트 인턴 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:39:02 +0900
+- **ID**: `19cd71d3ae891394`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [지원] 해시드 인턴 지원 - 이승재(kimbab)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:38:39 +0900
+- **ID**: `19cd71ce3b42bb54`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [해시드_채용] 인턴 지원자 송상현
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:38:26 +0900
+- **ID**: `19cd71caf1a07c7d`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [입사지원] 해시드 사업지원 직무 지원 – 김선정
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:38:07 +0900
+- **ID**: `19cd71c684ad5034`
+- **Preview**: JD 수정 이전에 받았던 공고 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
+
+### Fwd: [에디트콜렉티브(플렉시티)] 2026년 2월 월간보고 + Pre-B Investment Memorandum 전달
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:19:53 +0900
+- **ID**: `19cd70bb54c8a769`
+- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
+
+### Fwd: [에디트콜렉티브(플렉시티)] 2026년 2월 월간보고 + Pre-B Investment Memorandum 전달
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Tue, 10 Mar 2026 18:18:00 +0900
+- **ID**: `19cd70a8bb8994a2`
+- **Preview**: FYI on EditCollective ---------- Forwarded message --------- 보낸사람: 전주형 &lt;j.chun@editcollective.io&gt; Date: 2026년 3월 8일 (일) PM 11:13 Subject: [에디트콜렉티브(플렉시티)] 2026년 2월 월간보고 + Pre-B Investment
+
+### Accepted: Sean / Astin @ Wed Mar 11, 2026 2pm - 2:30pm (GMT+9) (Astin Han)
+- **From**: Sean Hong <sean@hashed.com>
+- **Date**: Tue, 10 Mar 2026 08:51:54 +0000
+- **ID**: `19cd6f212736333a`
+- **Preview**: Sean / Astin Sean Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/ito-fncy-crg Join by phone (US) +1 423-724-8366 PIN: 821808652 More phone numbers When Wednesday
+
+### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Tue, 10 Mar 2026 14:13:35 +0530
+- **ID**: `19cd6eb16f5c373c`
+- **Preview**: Dear Sera, Sujung, and Yoon, Thank you for sharing the revised SPA, the consolidated SAFE Cancellation + Issuance, and the BOK reporting requirements. However, after reviewing these documents and your
 
 ### omo.bot Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂšÂ”ÃªÂ¸ÂˆÃ¬Â Âœ Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
 - **From**: jihwan260213@gmail.com
@@ -64,126 +184,6 @@
 - **Date**: Tue, 10 Mar 2026 05:20:32 +0000 (GMT)
 - **ID**: `19cd630c4af35b86`
 - **Preview**: ----------------------------------- Verification Code: 157 944 ----------------------------------- You recently logged in to the Aduro FundPanel Investor Portal Username: investment@hashed.com To
-
-### Accepted: Platform Team 회식(라벨로타) @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
-- **From**: Gary Rhee <gary@hashed.com>
-- **Date**: Tue, 10 Mar 2026 05:09:22 +0000
-- **ID**: `19cd626594a9a141`
-- **Preview**: Platform Team 회식(라벨로타) Gary Rhee has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers https
-
-### Re: [해시드벤처스] 2025년 기말 결산자료 요청의 건
-- **From**: "변영민" <ym.byun@greenlabs.co.kr>
-- **Date**: Tue, 10 Mar 2026 13:56:52 +0900
-- **ID**: `19cd61b19624367c`
-- **Preview**: 안녕하십니까. 최선웅님! 그린랩스 변영민입니다. 문의 주신 내용에 대한 답변 드립니다. 1. 자본구조 정상화 계획 - 주요 주주사도 현 상황을 인지하고 있지만, 유상증자 및 무상증자, 감자 등 별도의 구체적 논의는 되고 있지 않습니다. - 당사는 26년 월 BEP 달성을 목표로 하지만 현실적으로 달성하기 어렵습니다. 단, 당년에는 아래와 같은 활동을 통해 월
-
-### HGM_Compliance_AML Awareness Exam -2026 - Signature requested by Hashed Legal
-- **From**: Hashed Legal <noreply@mail.hellosign.com>
-- **Date**: Tue, 10 Mar 2026 04:35:42 +0000
-- **ID**: `19cd607837e33180`
-- **Preview**: Dropbox Sign ACTION REQUESTED Hashed Legal (legal@hashed.com) has requested a signature Review &amp; sign Document HGM_Compliance_AML Awareness Exam -2026 Message from Hashed Legal (legal@hashed.com)
-
-### Compliance_AML Awareness Annual Training - Signing Sheet v2 - Signature requested by Hashed Legal
-- **From**: Hashed Legal <noreply@mail.hellosign.com>
-- **Date**: Tue, 10 Mar 2026 03:44:50 +0000
-- **ID**: `19cd5d8f2f3d4b3b`
-- **Preview**: Dropbox Sign ACTION REQUESTED Hashed Legal (legal@hashed.com) has requested a signature Review &amp; sign Document Compliance_AML Awareness Annual Training - Signing Sheet v2 Message from Hashed Legal
-
-### Invitation: Value Add Dashboard 점검 @ Mon Mar 30, 2026 5pm - 5:30pm (GMT+9) (Astin Han)
-- **From**: Henry Key <henry@hashed.com>
-- **Date**: Tue, 10 Mar 2026 02:27:56 +0000
-- **ID**: `19cd5928ae5bb462`
-- **Preview**: Value Add Dashboard 점검 Join with Google Meet – You have been invited by Henry Key to attend an event named Value Add Dashboard 점검 on Monday Mar 30, 2026 ⋅ 5pm – 5:30pm (Korean Standard Time - Seoul).
-
-### Re: SAFE cancellation repayment schedule
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Tue, 10 Mar 2026 07:56:16 +0530
-- **ID**: `19cd59136144428d`
-- **Preview**: Hi Markus, Thank you for your email and for reiterating your commitment to the SAFE cancellation agreement. We would like to discuss your proposed plan and the adjustment to the repayment schedule
-
-### 해시드 인턴 지원
-- **From**: Seon Ki Park <seonkipark5461@gmail.com>
-- **Date**: Tue, 10 Mar 2026 10:59:54 +0900
-- **ID**: `19cd57919f7696d0`
-- **Preview**: 안녕하십니까 SJ Baek님, 이번 해시드 인턴에 지원하게 된 박선기입니다. 필요 서류 파일 첨부드리오니 확인 부탁드립니다. 감사합니다. 박선기 드림.
-
-### [프레인글로벌] 2026년 3월 10일(화) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "해시드 국내PR" <hashed_kr@prain.com>
-- **Date**: Tue, 10 Mar 2026 01:30:00 +0000
-- **ID**: `19cd55dd65ed1de0`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 10일 화요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.10(화) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/9(월) 한화증권 주총 D-9…작년 순익 1020억 회복 속 배당
-
-### Fwd: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 10 Mar 2026 10:03:43 +0900
-- **ID**: `19cd54571cbdb343`
-- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
-
-### [PortOne] PG 계약에 필요한 테스트모드 설정 안내
-- **From**: cs@portone.io
-- **Date**: Tue, 10 Mar 2026 01:01:50 +0000 (UTC)
-- **ID**: `19cd543bc7bfb694`
-- **Preview**: 테스트 모드 설정 안내 안녕하세요. 온라인 사업의 시작, 통합 결제 솔루션 포트원입니다. 주식회사 해시드님의 원활한 NHN KCP 계약 진행을 위해 테스트모드를 설정해주시기 바랍니다. 1. 결제 서비스 PG사 및 카드사 입점심사를 위해서는 결제페이지 및 결제모듈 호출이 필수적으로 구현되어야 합니다. 테스트모드 설정이 완료되면 정상적으로 심사가 진행됩니다.
-
-### Solana Stake Confirmation - Series 81 Round 3
-- **From**: GalaxyOne via Investment <investment@hashed.com>
-- **Date**: Mon, 9 Mar 2026 23:07:19 +0000
-- **ID**: `19cd4daeb50a837a`
-- **Preview**: Solana Stake Confirmation Your vested SOL from the March unlock has successfully been staked as of March 7, 2026. There is no action for you to take currently. The SOL in your Locked Series is and will
-
-### Accepted: [Placeholder] HVF Exit Strategy Meeting @ Fri Mar 13, 2026 10am - 11am (GMT+9) (Astin Han)
-- **From**: Baek Kim <baek@hashed.com>
-- **Date**: Mon, 09 Mar 2026 22:05:57 +0000
-- **ID**: `19cd4a2ae977baf2`
-- **Preview**: [Placeholder] HVF Exit Strategy Meeting Baek Kim has accepted this invitation. Join with Google Meet Meeting link meet.google.com/brr-wdiq-xdh Join by phone (US) +1 929-299-4070 PIN: 730980471 More
-
-### EDGE CAPITAL: Feb +0.5% USD & +0.6% BTC | Capturing Yield in a Compressed Market
-- **From**: Boback Khodadoost <boback@edge-capital-fund.com>
-- **Date**: Mon, 9 Mar 2026 16:09:40 +0000
-- **ID**: `19cd35d1492ed077`
-- **Preview**: Dear Investors, In February, the Edge Capital Market Neutral Fund returned +0.5% in USD and +0.6% in BTC (net, estimate, weighted average across investors). Despite the market sell-off, we continue to
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Sarah Lee <lys2719@gmail.com>
-- **Date**: Mon, 9 Mar 2026 23:56:00 +0900
-- **ID**: `19cd319a4979983c`
-- **Preview**: 네 대면으로 가능합니다! 그럼 오후 2시 사무실에서 뵙겠습니다. 감사합니다. 이예슬 드림 On Mon, Mar 9, 2026 at 11:45 PM Astin Han &lt;astin@hashed.com&gt; wrote: 대면이 어렵다면 화상으로도 괜찮으니 편하게 말씀해주세요. 감사합니다. 한지환 드림 Astin Han, Platform Operations
-
-### RE: Re: 제로미디어 제주 오프사이트 촬영 서류
-- **From**: "김영수" <gojjaang@naver.com>
-- **Date**: Mon, 09 Mar 2026 23:50:42 +0900
-- **ID**: `19cd3143c522118f`
-- **Preview**: 안녕하세요. 제로미디어 김영수입니다. 메일 확인 후 계산서 발송했습니다. 혹시 수신이 안되시면 연락 부탁드립니다. 고맙습니다. -----Original Message----- 보낸사람: &quot;Astin Han&quot;&lt;astin@hashed.com&gt; 받는사람: &quot;김영수&quot;&lt;gojjaang@naver.com&gt; 참조:
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 9 Mar 2026 23:45:01 +0900
-- **ID**: `19cd30f03a96b28b`
-- **Preview**: 대면이 어렵다면 화상으로도 괜찮으니 편하게 말씀해주세요. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 9 Mar 2026 23:44:21 +0900
-- **ID**: `19cd30e6755a0410`
-- **Preview**: 안녕하세요 예슬님, 네 대면으로 진행하려고 하고, 오후 2시에 해시드 사무실 근처에서 가능할지 문의드립니다. (주소는 강남구 강남대로 374, 케이스퀘어강남2 20층 입니다.) 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Sarah Lee <lys2719@gmail.com>
-- **Date**: Mon, 9 Mar 2026 23:05:03 +0900
-- **ID**: `19cd2eafdcca8562`
-- **Preview**: 안녕하세요 담당자님! 회신 늦어 죄송합니다. 긍정적으로 검토해주셔서 감사합니다. 내일 모든 시간 가능합니다. 혹시 대면으로 진행하는걸까요? 감사합니다. 예슬 드림 On Mon, Mar 9, 2026 at 2:19 PM Astin Han &lt;astin@hashed.com&gt; wrote: 안녕하세요 예슬님, 해시드 플랫폼팀 매니저 한지환입니다. 전달주신
-
-### Re: Mythical Investor Update - October 2025
-- **From**: "'Kasper Joergensen' via Investment" <investment@hashed.com>
-- **Date**: Mon, 9 Mar 2026 15:01:04 +0100
-- **ID**: `19cd2e71381af7c6`
-- **Preview**: Hi Gary, Thanks for reaching out. Will get the financials over to you in the next day or so. Going forward if you can copy in @Mythical, Inc. Investor Updates on the requests would be great for
-
-### Re: DoD & SBI Neo Media Holdings: Next Steps
-- **From**: "전영재" <jay.jeon@dayonedream.com>
-- **Date**: Mon, 09 Mar 2026 20:57:11 +0900
-- **ID**: `19cd2756f7902d87`
-- **Preview**: Dear Mr. Ando, Thank you for your prompt reply. We are truly delighted to hear of your interest in holding a meeting, and greatly appreciate you sharing SBI Group&#39;s direction on the ST initiative
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
