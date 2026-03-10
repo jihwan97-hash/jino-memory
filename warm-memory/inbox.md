@@ -1,9 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 04:36 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 05:36 KST
 **Account**: astin@hashed.com
 
 ## Recent Emails (30 total, 0 unread)
+
+### omo.bot Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂšÂ”ÃªÂ¸ÂˆÃ¬Â Âœ Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
+- **From**: jihwan260213@gmail.com
+- **Date**: Tue, 10 Mar 2026 02:56:44 -0500
+- **ID**: `19cd6bf9020c6cb4`
+- **Preview**: 이용약관 요금제 섹션 수정본입니다.\n\n변경: 구독제(Starter/Pro/Scale) → Free + 토큰 충전 방식으로 업데이트
+
+### omo.bot ÃªÂ°ÂœÃ¬Â Â¸Ã¬Â Â•Ã«Â³Â´Ã¬Â²Â˜Ã«Â¦Â¬Ã«Â°Â©Ã¬Â¹Â¨ & Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
+- **From**: jihwan260213@gmail.com
+- **Date**: Tue, 10 Mar 2026 03:53:12 -0400
+- **ID**: `19cd6bc5a16f95cf`
+- **Preview**: 안녕하세요,\n\nomo.bot 개인정보처리방침 및 이용약관 수정본을 첨부드립니다.\n\n주요 수정 사항:\n- 회사명: 주식회사 해시드벤처스 / 사업자번호: 508-81-42333\n- 텔레그램 중심으로 변경 (카카오 제거)\n- 개인정보 보호책임자 성명·직책 추가\n- 수탁업체 실명 기재 (AWS, 포트원)\n- 관할법원 명시 (서울중앙지방법원)\n-
 
 ### Re: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
 - **From**: Sky Kim <sky@portone.io>
@@ -172,18 +184,6 @@
 - **Date**: Mon, 09 Mar 2026 20:57:11 +0900
 - **ID**: `19cd2756f7902d87`
 - **Preview**: Dear Mr. Ando, Thank you for your prompt reply. We are truly delighted to hear of your interest in holding a meeting, and greatly appreciate you sharing SBI Group&#39;s direction on the ST initiative
-
-### Re: 제로미디어 제주 오프사이트 촬영 서류
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 9 Mar 2026 18:48:35 +0900
-- **ID**: `19cd1ff9efb5839e`
-- **Preview**: 안녕하세요 김영수님, 주식회사 해시드의 한지환입니다. 서류 전달주셔서 감사드리며, bill@hashed.com 로 세금계산서 발행해주시면 감사하겠습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The
-
-### 제로미디어 제주 오프사이트 촬영 서류
-- **From**: "김영수" <gojjaang@naver.com>
-- **Date**: Mon, 09 Mar 2026 18:45:07 +0900
-- **ID**: `19cd1fc8016f052d`
-- **Preview**: 안녕하세요. 한지환 매니저님 제주 오프사이트 촬영 건으로 서류 보냅니다. 1. 견적서 2. 통장사본 사업자등록증 보내주시면 세금계산서 발송하겠습니다. 고맙습니다. 제로미디어 김영수 010-5566-7203
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

@@ -1,21 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 04:36 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 05:36 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (2 total, 2 unread)
+## Recent Emails (1 total, 1 unread)
 
 ### **[NEW]** The Quantum IPO Wave | Jarsy Weekly #14
 - **From**: Jarsy Weekly <weekly@jarsynews.com>
 - **Date**: Tue, 10 Mar 2026 02:24:18 +0000 (UTC)
 - **ID**: `19cd58f431260133`
 - **Preview**: After the first generation of public quantum companies, a new group of startups is heading to the markets. Image Credit: IQM Quantum Computers For years, quantum computing was largely confined to
-
-### **[NEW]** Crypto Policy in Motion: U.S. Support, Korea Tightens Rules [FP Weekly 10]
-- **From**: Four Pillars Newsletter <fourpillarsfp@substack.com>
-- **Date**: Mon, 9 Mar 2026 08:16:02 +0000
-- **ID**: `19cd1ab292477223`
-- **Preview**: Here&#39;s what happened last week ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account personal_
