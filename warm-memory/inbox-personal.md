@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오전 07:35 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 01:36 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (1 total, 1 unread)
+## Recent Emails (2 total, 2 unread)
+
+### **[NEW]** The Quantum IPO Wave | Jarsy Weekly #14
+- **From**: Jarsy Weekly <weekly@jarsynews.com>
+- **Date**: Tue, 10 Mar 2026 02:24:18 +0000 (UTC)
+- **ID**: `19cd58f431260133`
+- **Preview**: After the first generation of public quantum companies, a new group of startups is heading to the markets. Image Credit: IQM Quantum Computers For years, quantum computing was largely confined to
 
 ### **[NEW]** Crypto Policy in Motion: U.S. Support, Korea Tightens Rules [FP Weekly 10]
 - **From**: Four Pillars Newsletter <fourpillarsfp@substack.com>
