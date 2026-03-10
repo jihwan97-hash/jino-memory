@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-10T17:00:58.722Z",
+  "generatedAt": "2026-03-10T17:01:55.920Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -7080,6 +7080,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-05T13:50:12.971Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/auto-study-2026-03-11.md": {
+      "relativePath": "research/auto-study-2026-03-11.md",
+      "mtimeMs": 1773162115841.882,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-03-11",
+          "title": "auto-study-2026-03-11",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-03-11.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T17:01:55.841Z"
         }
       ],
       "edges": []
@@ -19092,6 +19110,17 @@
         "modifiedAt": "2026-03-05T13:50:12.971Z"
       },
       {
+        "id": "note:research/auto-study-2026-03-11",
+        "title": "auto-study-2026-03-11",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-03-11.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T17:01:55.841Z"
+      },
+      {
         "id": "note:research/companies/nearthlab-2026-03-10",
         "title": "Nearthlab 2026 03 10",
         "type": "note",
@@ -29428,11 +29457,11 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-10T17:00:58.722Z",
-      "nodeCount": 649,
+      "generatedAt": "2026-03-10T17:01:55.920Z",
+      "nodeCount": 650,
       "edgeCount": 627,
       "nodeTypeCounts": {
-        "note": 349,
+        "note": 350,
         "tag": 108,
         "unresolved": 166,
         "daily": 8,
