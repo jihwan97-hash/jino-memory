@@ -1,0 +1,6 @@
+- [2026-03-09] 주총/주주총회/주주간담회 일정은 항상 캘린더에 시간이 있음. 시간 확인 필요하면 직접 조회할 것. 확인 전에 "시간 없어" 추정 금지.
+- [2026-03-09] 정보 검색 시 memory_search만 쓰지 말고 **qmd도 함께 사용**. memory_search는 핵심 기억(MEMORY.md 등), qmd는 전체 지식베이스(238개 파일). `qmd search "검색어"` or `qmd vsearch "검색어"`. warm-memory 저장 내용 찾을 때 특히 유용.
+- [2026-03-09] 캘린더 메인은 **astin@hashed.com**. jihwan(primary) 캘린더 아님. 일정 조회/생성/확인 모두 astin@hashed.com 기준. env 파일도 이미 수정 완료.
+- [2026-03-07] 지하철/교통 경로 질문 시 나무위키·블로그 등 비공식 출처 사용 금지. 카카오맵/네이버맵 브라우저로 직접 조회하거나, 서울교통공사 공식 데이터 사용. JS 앱이라 파싱 안 되면 솔직히 말하고 공식 앱 안내할 것.
+- [2026-03-05] 백그라운드 작업 완료 시 반드시 형에게 알림 전송할 것. "완료되면 알려줄게" 약속하고 잊어버리는 건 실패임. 완료 직후 message tool 또는 openclaw system event로 무조건 알림.
+- [2026-03-02] CDP_SECRET은 더 이상 필요 없음. 로컬 headless Chrome이 항상 실행 중. 브라우저 사용 시 그냥 exec tool로 node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/read-page.js URL 실행하면 됨. CDP_SECRET 관련 에러는 무시하고 바로 실행해라.

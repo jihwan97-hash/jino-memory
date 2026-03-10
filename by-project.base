@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("tasks")
+    - status != "done"
+formulas:
+  status_icon: if(status == "blocked", "🔴", if(status == "in-progress", "🔨", "⚪"))
+views:
+  - type: table
+    name: By Project
+    groupBy:
+      property: project
+      direction: ASC
+    order:
+      - formula.status_icon
+      - file.name
+      - status
+      - owner
+      - priority
