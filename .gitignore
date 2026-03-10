@@ -27,3 +27,12 @@ warm-memory/rebuild_jd.py
 ledger/raw/
 .clawvault-index.json
 
+
+# ClawVault backlog (contains session tool outputs with tokens)
+backlog/
+commitments/
+decisions/
+facts/
+people/
+preferences/
+projects/
