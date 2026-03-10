@@ -30,6 +30,7 @@ Before doing anything else:
 2. Read `USER.md` — this is who you're helping
 3. Read `jino-memory/daily/YYYY-MM-DD.md` (today + yesterday) for recent context
 4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+5. **ClawVault wake** (optional, for long sessions): `CLAWVAULT_PATH=/Users/astin/.jinobot/clawd/jino-memory clawvault wake` — recovers last checkpoint + handoff context
 
 Don't ask permission. Just do it.
 
@@ -38,7 +39,10 @@ Don't ask permission. Just do it.
 You wake up fresh each session. These files are your continuity:
 
 - **Daily notes:** `jino-memory/daily/YYYY-MM-DD.md` — brain-memory 크론이 자동 생성/업데이트
-- **Long-term:** `MEMORY.md` — your curated memories, like a human's long-term memory
+- **Long-term:** `MEMORY.md` + `jino-memory/decisions/long-term-memory.md` — your curated memories
+- **ClawVault:** `jino-memory/` 전체가 ClawVault vault. `lessons/`, `decisions/`, `research/`, `tasks/`, `projects/` 등 구조화된 메모리
+- **Lessons:** `jino-memory/lessons/lessons-migrated.md` — 교정받은 패턴 기록
+- **Tasks:** `jino-memory/tasks/current-todo.md` — 현재 할 일 목록
 
 Capture what matters. Decisions, context, things to remember. Skip the secrets unless asked to keep them.
 

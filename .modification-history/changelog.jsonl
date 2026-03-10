@@ -34,3 +34,14 @@
 {"ts":"2026-03-08T19:03:43.402Z","file":"warm-memory/portfolio/delivus.md","action":"update","reason":"portfolio-research","tokens_before":155,"tokens_after":531,"version":1}
 {"ts":"2026-03-08T19:04:03.027Z","file":"warm-memory/portfolio/comento.md","action":"update","reason":"portfolio-research","tokens_before":180,"tokens_after":596,"version":1}
 {"ts":"2026-03-08T19:04:30.582Z","file":"warm-memory/portfolio/drnow.md","action":"update","reason":"portfolio-research","tokens_before":122,"tokens_after":375,"version":1}
+{"ts":"2026-03-09T17:02:43.713Z","file":"warm-memory/korea-tech.md","action":"create","reason":"auto-study: korea-tech 자동 연구","tokens_before":0,"tokens_after":50,"version":1}
+{"ts":"2026-03-09T19:02:07.826Z","file":"warm-memory/portfolio/payhere.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":524,"tokens_after":185,"version":2}
+{"ts":"2026-03-09T19:02:21.738Z","file":"warm-memory/portfolio/theswing.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":357,"tokens_after":193,"version":2}
+{"ts":"2026-03-09T19:02:37.739Z","file":"warm-memory/portfolio/dydx.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":437,"tokens_after":246,"version":2}
+{"ts":"2026-03-09T19:02:53.926Z","file":"warm-memory/portfolio/dune-analytics.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":388,"tokens_after":224,"version":2}
+{"ts":"2026-03-09T19:03:10.023Z","file":"warm-memory/portfolio/gowid.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":423,"tokens_after":243,"version":2}
+{"ts":"2026-03-09T19:03:28.427Z","file":"warm-memory/portfolio/backpack.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":492,"tokens_after":332,"version":2}
+{"ts":"2026-03-09T19:03:46.865Z","file":"warm-memory/portfolio/radiusxyz.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":520,"tokens_after":338,"version":2}
+{"ts":"2026-03-09T19:04:11.205Z","file":"warm-memory/portfolio/jejememe.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":147,"tokens_after":328,"version":2}
+{"ts":"2026-03-09T19:04:32.291Z","file":"warm-memory/portfolio/hyperithm.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":537,"tokens_after":342,"version":2}
+{"ts":"2026-03-09T19:04:52.273Z","file":"warm-memory/portfolio/codestates.md","action":"update","reason":"portfolio-research cron: 2026-03-10","tokens_before":184,"tokens_after":319,"version":1}
