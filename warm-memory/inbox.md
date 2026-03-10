@@ -1,17 +1,77 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 10일 화요일 오후 01:36 KST
+**Last synced**: 2026년 3월 10일 화요일 오후 04:36 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 7 unread)
+## Recent Emails (30 total, 0 unread)
 
-### **[NEW]** HGM_Compliance_AML Awareness Exam -2026 - Signature requested by Hashed Legal
+### Re: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
+- **From**: Sky Kim <sky@portone.io>
+- **Date**: Tue, 10 Mar 2026 16:32:38 +0900
+- **ID**: `19cd6a9b2cf1ac57`
+- **Preview**: 한지환 매니저님, 안녕하세요 포트원 김민규 입니다. 현재 오모봇은 PG사 입점 검토 요청이 완료된 상황이지만 실연동이나 테스트를 할 수 있는 스테이지는 아닌 것으로 확인됩니다. 받으신 해당 메일은 오모봇 관련자분께서 당사 콘솔 내에서 PG입점심사요청을 하셔서 자동으로 발송되는 메일인 것 같습니다. 당사에서 오모봇 서비스 관련해서 입점심사 요청한 PG사로부터
+
+### Fwd: 헥토이노베이션 요청 관련
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Tue, 10 Mar 2026 16:10:00 +0900
+- **ID**: `19cd69516fa788b2`
+- **Preview**: Fyi ---------- 전달된 메일 ---------- 보낸사람: 박강민 &lt;kmpark@unopnd.com&gt; 날짜: 2026년 3월 10일 (화) 오후 4:07 제목: 헥토이노베이션 요청 관련 받는사람: &lt;jun.kim@hashed.com&gt; 참조: Hojin Kim &lt;hojin.kim@unopnd.com&gt; 안녕하세요,
+
+### Fwd: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 16:06:07 +0900
+- **ID**: `19cd6913d30fccba`
+- **Preview**: 안녕하세요 김민규 매니저님, 아래와 같은 메일을 받아 지금부터 테스트 및 실연동도 가능한지 문의드립니다. (관리자 콘솔을 살펴보니 이미 등록되어있는 것 같아) PG사가 KG 이니시스로 되어있는데 여기가 매니저님께서 연결해주신 곳일까요?! 빠르게 대응해주시고 확인해주셔서 감사합니다. 한지환 드림 Astin Han, Platform Operations
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Sarah Lee <lys2719@gmail.com>
+- **Date**: Tue, 10 Mar 2026 15:34:38 +0900
+- **ID**: `19cd674941814ab7`
+- **Preview**: 넵 갑사합니다! 확인했으며, 여전히 지원 희망합니다. 귀한 시간 내주셔서 다시 한번 감사드립니다. 회사에서 뵐 수 있도록 잘 준비하겠습니다. 좋은 하루 보내시길 바랍니다! 이예슬 드림 On Tue, Mar 10, 2026 at 3:29 PM Astin Han &lt;astin@hashed.com&gt; wrote: 안녕하세요 이예슬님, 금일 시간 내서
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Tue, 10 Mar 2026 15:29:40 +0900
+- **ID**: `19cd66fd824b818a`
+- **Preview**: 안녕하세요 이예슬님, 금일 시간 내서 방문해주셔서 감사합니다. 절차상의 매끄럽지 않았던 부분이 있던 점 사과드리며, 공개될 JD 페이지 공유드립니다. https://hashed.notion.site/Platform-Team-Internship-Seoul-Office-47721d591fe041d28506449bdd989e58 이미 커피챗에서는 해당 부분에 대해
+
+### [임팩트 컬렉티브 코리아 펀드] 제6기 정기조합원총회 개최 안내 (~26.03.20)
+- **From**: Jisun Yeum <sun@theventures.vc>
+- **Date**: Tue, 10 Mar 2026 05:53:29 +0000
+- **ID**: `19cd64f016cda30a`
+- **Preview**: 안녕하세요, 더벤처스 염지선입니다. 임팩트 컬렉티브 코리아 펀드의 제6기(FY2025) 정기 조합원 총회를 개최합니다. 아래 내용 참고하시어 총회일까지 서면결의서 회신을 부탁드립니다. １) 총회일시 : 2026년 3월 20일(금) ２) 결의방식 : 서면결의 ３) 총회의안 - 부의안건 : 제6기 (2025년) 재무제표 승인의 건(일반결의) - 보고안건:
+
+### Re: [해시드벤처스] 2025년 기말 결산자료 요청의 건
+- **From**: Sun choi <sun@hashed.com>
+- **Date**: Tue, 10 Mar 2026 14:47:16 +0900
+- **ID**: `19cd64935fed4809`
+- **Preview**: 안녕하세요 변영민님, 내용 확인하였으며, 답변 감사드립니다. Best regards, Thanks Sun Seonwoong Choi, Accountant +82-10-4011-0334 www.hashed.com The content of this message and any attachment is confidential, and may contain
+
+### Verify your identity in Aduro FundPanel Investor Portal
+- **From**: Fundpanel Support <support@fundpanel.io>
+- **Date**: Tue, 10 Mar 2026 05:20:32 +0000 (GMT)
+- **ID**: `19cd630c4af35b86`
+- **Preview**: ----------------------------------- Verification Code: 157 944 ----------------------------------- You recently logged in to the Aduro FundPanel Investor Portal Username: investment@hashed.com To
+
+### Accepted: Platform Team 회식(라벨로타) @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
+- **From**: Gary Rhee <gary@hashed.com>
+- **Date**: Tue, 10 Mar 2026 05:09:22 +0000
+- **ID**: `19cd626594a9a141`
+- **Preview**: Platform Team 회식(라벨로타) Gary Rhee has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers https
+
+### Re: [해시드벤처스] 2025년 기말 결산자료 요청의 건
+- **From**: "변영민" <ym.byun@greenlabs.co.kr>
+- **Date**: Tue, 10 Mar 2026 13:56:52 +0900
+- **ID**: `19cd61b19624367c`
+- **Preview**: 안녕하십니까. 최선웅님! 그린랩스 변영민입니다. 문의 주신 내용에 대한 답변 드립니다. 1. 자본구조 정상화 계획 - 주요 주주사도 현 상황을 인지하고 있지만, 유상증자 및 무상증자, 감자 등 별도의 구체적 논의는 되고 있지 않습니다. - 당사는 26년 월 BEP 달성을 목표로 하지만 현실적으로 달성하기 어렵습니다. 단, 당년에는 아래와 같은 활동을 통해 월
+
+### HGM_Compliance_AML Awareness Exam -2026 - Signature requested by Hashed Legal
 - **From**: Hashed Legal <noreply@mail.hellosign.com>
 - **Date**: Tue, 10 Mar 2026 04:35:42 +0000
 - **ID**: `19cd607837e33180`
 - **Preview**: Dropbox Sign ACTION REQUESTED Hashed Legal (legal@hashed.com) has requested a signature Review &amp; sign Document HGM_Compliance_AML Awareness Exam -2026 Message from Hashed Legal (legal@hashed.com)
 
-### **[NEW]** Compliance_AML Awareness Annual Training - Signing Sheet v2 - Signature requested by Hashed Legal
+### Compliance_AML Awareness Annual Training - Signing Sheet v2 - Signature requested by Hashed Legal
 - **From**: Hashed Legal <noreply@mail.hellosign.com>
 - **Date**: Tue, 10 Mar 2026 03:44:50 +0000
 - **ID**: `19cd5d8f2f3d4b3b`
@@ -53,19 +113,19 @@
 - **ID**: `19cd543bc7bfb694`
 - **Preview**: 테스트 모드 설정 안내 안녕하세요. 온라인 사업의 시작, 통합 결제 솔루션 포트원입니다. 주식회사 해시드님의 원활한 NHN KCP 계약 진행을 위해 테스트모드를 설정해주시기 바랍니다. 1. 결제 서비스 PG사 및 카드사 입점심사를 위해서는 결제페이지 및 결제모듈 호출이 필수적으로 구현되어야 합니다. 테스트모드 설정이 완료되면 정상적으로 심사가 진행됩니다.
 
-### **[NEW]** Solana Stake Confirmation - Series 81 Round 3
+### Solana Stake Confirmation - Series 81 Round 3
 - **From**: GalaxyOne via Investment <investment@hashed.com>
 - **Date**: Mon, 9 Mar 2026 23:07:19 +0000
 - **ID**: `19cd4daeb50a837a`
 - **Preview**: Solana Stake Confirmation Your vested SOL from the March unlock has successfully been staked as of March 7, 2026. There is no action for you to take currently. The SOL in your Locked Series is and will
 
-### **[NEW]** Accepted: [Placeholder] HVF Exit Strategy Meeting @ Fri Mar 13, 2026 10am - 11am (GMT+9) (Astin Han)
+### Accepted: [Placeholder] HVF Exit Strategy Meeting @ Fri Mar 13, 2026 10am - 11am (GMT+9) (Astin Han)
 - **From**: Baek Kim <baek@hashed.com>
 - **Date**: Mon, 09 Mar 2026 22:05:57 +0000
 - **ID**: `19cd4a2ae977baf2`
 - **Preview**: [Placeholder] HVF Exit Strategy Meeting Baek Kim has accepted this invitation. Join with Google Meet Meeting link meet.google.com/brr-wdiq-xdh Join by phone (US) +1 929-299-4070 PIN: 730980471 More
 
-### **[NEW]** EDGE CAPITAL: Feb +0.5% USD & +0.6% BTC | Capturing Yield in a Compressed Market
+### EDGE CAPITAL: Feb +0.5% USD & +0.6% BTC | Capturing Yield in a Compressed Market
 - **From**: Boback Khodadoost <boback@edge-capital-fund.com>
 - **Date**: Mon, 9 Mar 2026 16:09:40 +0000
 - **ID**: `19cd35d1492ed077`
@@ -124,66 +184,6 @@
 - **Date**: Mon, 09 Mar 2026 18:45:07 +0900
 - **ID**: `19cd1fc8016f052d`
 - **Preview**: 안녕하세요. 한지환 매니저님 제주 오프사이트 촬영 건으로 서류 보냅니다. 1. 견적서 2. 통장사본 사업자등록증 보내주시면 세금계산서 발송하겠습니다. 고맙습니다. 제로미디어 김영수 010-5566-7203
-
-### 안녕하세요 Simon's rabbit crypt 방에서 열심히 활동하고 있는 blue dragon입니다
-- **From**: "김명준" <alzkak@naver.com>
-- **Date**: Mon, 09 Mar 2026 18:33:54 +0900
-- **ID**: `19cd1f239d0c398d`
-- **Preview**: 텔레그램에 해시드 비즈니스 업무 인턴 공고를 보고 영어와 한글 둘 다 준비해서 제출합니다! 소중한 기회 주셔서 감사합니다!
-
-### ‘구매 신청 (Purchase request)’의 승인이 완료되었어요.
-- **From**: flex team <no-reply@flex.team>
-- **Date**: Mon, 9 Mar 2026 09:25:30 +0000
-- **ID**: `19cd1ea825cfa4f9`
-- **Preview**: 문서승인 완료 &#39;구매 신청 (Purchase request)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 9일 오후 6:25 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
-
-### **[NEW]** Re: [디오디] 투자자 동의서 송부 및 이사회/임시 주주총회 소집 통지의 건
-- **From**: Zoe Park <zoe@hashed.com>
-- **Date**: Mon, 9 Mar 2026 17:21:50 +0900
-- **ID**: `19cd1b06f9d6286d`
-- **Preview**: 안녕하세요. 이성권 이사님, 해시드벤처스 재무팀의 박푸름입니다. 요청하신 아래 서류의 스캔본을 송부드립니다. 원본 서류도 발송드렸습니다. 투자자 동의서_해시드 벤처투자조합3호 이사회 소집기간 단축 동의서_해시드 벤처투자조합3호 임시주주총회 서면의사표시 통지서_해시드 벤처투자조합3호 임시주주총회 소집절차 생략 동의서_김서준 추가로 필요하신 사항 있으면 말씀
-
-### **[NEW]** RE: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: "윤 현수" <yhs@choilee-law.com>
-- **Date**: Mon, 9 Mar 2026 07:23:11 +0000
-- **ID**: `19cd17a98e3c8a6d`
-- **Preview**: Dear Medha and Hashed team, This is Yoon Hyunsoo, Korean legal counsel of Ad-Shield on this “Flip”. Regarding your inquiry about the foreign exchange transaction reporting, please find the details
-
-### Re: Latest Round
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Mon, 9 Mar 2026 16:06:06 +0900
-- **ID**: `19cd16b112f69dad`
-- **Preview**: Dear John, I hope this email finds you well. Hashed Venture Fund II is conducting its annual audit, and please provide the items below ASAP. As of FY 2025 (Dec 31): 1. Balance sheet and income
-
-### Re: [포트원] PG 입점심사서 송부에 관한 件
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Mon, 9 Mar 2026 15:58:47 +0900
-- **ID**: `19cd164260377ccf`
-- **Preview**: 안녕하세요 김민규님, 해시드 벤처스의 한지환입니다. 상세 내용 전달주셔서 감사합니다. 요청사항에 대해 답변드리면: 1. 모두 구현예정 (1-1, 1-2는 금주내로도 바로 구현 가능하고, 1-3은 차주 중으로 진행할 것 같습니다. ) 2. 사용 예정 3. 사용 예정 빠르게 진행해주셔서 감사합니다. 잘 부탁드리겠습니다. 감사합니다. 한지환 드림 Astin Han
-
-### Re: [포트원] PG 입점심사서 송부에 관한 件
-- **From**: Sky Kim <sky@portone.io>
-- **Date**: Mon, 9 Mar 2026 15:48:04 +0900
-- **ID**: `19cd15a7367f7c24`
-- **Preview**: 한지환 매니저님, 안녕하세요 포트원 김민규 입니다. PG사 심사를 위해 몇 가지 더 필요한 정보가 있어 메일 드리게 됐습니다. 하기 내용들 확인하시어 회신 주시길 바라겠습니다. PG사 입점 외 원청사(카드사) 심사에 필요한 조건 구현 가능 여부 1-1. 오모봇 사이트 푸터 내에 상호명과 사업자등록번호 등 사업자에 대한 정보 기입 1-2. 오모봇 사이트 내에서
-
-### Accepted: Lux/Astin @ Mon Mar 9, 2026 4pm - 4:30pm (GMT+9) (Astin Han)
-- **From**: Lux Park <lux@hashed.com>
-- **Date**: Mon, 09 Mar 2026 06:47:33 +0000
-- **ID**: `19cd159de8da9569`
-- **Preview**: Lux/Astin Lux Park has accepted this invitation. Join with Google Meet Meeting link meet.google.com/cpm-bsfe-xdq Join by phone (US) +1 513-909-9082 PIN: 438845730 More phone numbers omo.bot 에 대해 논의하고자
-
-### ‘FIAT 비용 지급 요청 (Payment request for expenses)’의 승인이 완료되었어요.
-- **From**: flex team <no-reply@flex.team>
-- **Date**: Mon, 9 Mar 2026 06:30:59 +0000
-- **ID**: `19cd14abc7494052`
-- **Preview**: 문서승인 완료 &#39;FIAT 비용 지급 요청 (Payment request for expenses)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 9일 오후 3:30 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
-
-### Re: [VRISM] 가수금 신주발행(유상증자) 전환의 건
-- **From**: Sun choi <sun@hashed.com>
-- **Date**: Mon, 9 Mar 2026 15:07:35 +0900
-- **ID**: `19cd1357db8f02d1`
-- **Preview**: 안녕하세요 백아영님, 내용 확인하였습니다. 자료 회신 감사드립니다! Best regards, Thanks Sun Seonwoong Choi, Accountant +82-10-4011-0334 www.hashed.com The content of this message and any attachment is confidential, and may contain
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
