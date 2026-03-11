@@ -1,27 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 11일 수요일 오후 04:38 KST
+**Last synced**: 2026년 3월 11일 수요일 오후 06:38 KST
 **Account**: jihwan260213@gmail.com
 
-## Recent Emails (3 total, 1 unread)
+## Recent Emails (1 total, 1 unread)
 
-### **[NEW]** Fwd: [에디트콜렉티브(플렉시티)] 2026년 2월 월간보고 + Pre-B Investment Memorandum 전달
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 10 Mar 2026 18:19:53 +0900
-- **ID**: `19cd70c0ed56df2a`
-- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
-
-### omo.bot Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂšÂ”ÃªÂ¸ÂˆÃ¬Â Âœ Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
-- **From**: jihwan260213@gmail.com
-- **Date**: Tue, 10 Mar 2026 02:56:44 -0500
-- **ID**: `19cd6bf8e2e657ca`
-- **Preview**: 이용약관 요금제 섹션 수정본입니다.\n\n변경: 구독제(Starter/Pro/Scale) → Free + 토큰 충전 방식으로 업데이트
-
-### omo.bot ÃªÂ°ÂœÃ¬Â Â¸Ã¬Â Â•Ã«Â³Â´Ã¬Â²Â˜Ã«Â¦Â¬Ã«Â°Â©Ã¬Â¹Â¨ & Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
-- **From**: jihwan260213@gmail.com
-- **Date**: Tue, 10 Mar 2026 03:53:12 -0400
-- **ID**: `19cd6bc55c721253`
-- **Preview**: 안녕하세요,\n\nomo.bot 개인정보처리방침 및 이용약관 수정본을 첨부드립니다.\n\n주요 수정 사항:\n- 회사명: 주식회사 해시드벤처스 / 사업자번호: 508-81-42333\n- 텔레그램 중심으로 변경 (카카오 제거)\n- 개인정보 보호책임자 성명·직책 추가\n- 수탁업체 실명 기재 (AWS, 포트원)\n- 관할법원 명시 (서울중앙지방법원)\n-
+### **[NEW]** 일정이 휴지통으로 이동되었습니다.
+- **From**: Google Calendar <calendar-noreply@google.com>
+- **Date**: Wed, 11 Mar 2026 07:52:40 +0000
+- **ID**: `19cdbe2357295d42`
+- **Preview**: 일정이 휴지통으로 이동되었습니다. jihwan260213@gmail.com님, 안녕하세요. 이제 Google Calendar에서는 일정을 휴지통으로 이동하여 삭제합니다. 이 일정은 캘린더의 휴지통으로 이동되었습니다. omo.bot 회식, 2026년 3월 13일 (금), PM 7:00 - 휴지통 보기 컴퓨터의 Google Calendar에서 휴지통을 확인할 수
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account jihwan_

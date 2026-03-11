@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-11T05:00:50.204Z",
+  "generatedAt": "2026-03-11T11:00:52.480Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -2004,7 +2004,7 @@
     },
     "brain-memory/daily/2026-03-11.md": {
       "relativePath": "brain-memory/daily/2026-03-11.md",
-      "mtimeMs": 1773205211264.865,
+      "mtimeMs": 1773226814544.4165,
       "nodes": [
         {
           "id": "note:brain-memory/daily/2026-03-11",
@@ -2015,7 +2015,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:11.264Z"
+          "modifiedAt": "2026-03-11T11:00:14.544Z"
         }
       ],
       "edges": []
@@ -2412,7 +2412,7 @@
     },
     "brain-memory/daily/email-2026-03-11.md": {
       "relativePath": "brain-memory/daily/email-2026-03-11.md",
-      "mtimeMs": 1773180050959.7817,
+      "mtimeMs": 1773223241337.5403,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-03-11",
@@ -2420,33 +2420,13 @@
           "type": "note",
           "category": "note",
           "path": "brain-memory/daily/email-2026-03-11.md",
-          "tags": [
-            "14"
-          ],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": "2026-03-10T22:00:50.959Z"
-        },
-        {
-          "id": "tag:14",
-          "title": "#14",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-03-11T10:00:41.337Z"
         }
       ],
-      "edges": [
-        {
-          "id": "tag:note:brain-memory/daily/email-2026-03-11->tag:14",
-          "source": "note:brain-memory/daily/email-2026-03-11",
-          "target": "tag:14",
-          "type": "tag"
-        }
-      ]
+      "edges": []
     },
     "brain-memory/reflections/2026-02-25.md": {
       "relativePath": "brain-memory/reflections/2026-02-25.md",
@@ -3175,7 +3155,7 @@
     },
     "commitments/2026-03-11.md": {
       "relativePath": "commitments/2026-03-11.md",
-      "mtimeMs": 1773205207709.4148,
+      "mtimeMs": 1773226810631.3809,
       "nodes": [
         {
           "id": "note:commitments/2026-03-11",
@@ -3183,10 +3163,23 @@
           "type": "commitment",
           "category": "commitment",
           "path": "commitments/2026-03-11.md",
+          "tags": [
+            "1"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T11:00:10.631Z"
+        },
+        {
+          "id": "tag:1",
+          "title": "#1",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:07.709Z"
+          "modifiedAt": null
         },
         {
           "id": "unresolved:usage",
@@ -3275,9 +3268,70 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:your",
+          "title": "Your",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:scanning",
+          "title": "Scanning",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:process",
+          "title": "Process",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:queued",
+          "title": "Queued",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:exec",
+          "title": "Exec",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
+        {
+          "id": "tag:note:commitments/2026-03-11->tag:1",
+          "source": "note:commitments/2026-03-11",
+          "target": "tag:1",
+          "type": "tag"
+        },
         {
           "id": "wiki_link:note:commitments/2026-03-11->unresolved:usage",
           "source": "note:commitments/2026-03-11",
@@ -3324,6 +3378,36 @@
           "id": "wiki_link:note:commitments/2026-03-11->unresolved:disable",
           "source": "note:commitments/2026-03-11",
           "target": "unresolved:disable",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-11->unresolved:your",
+          "source": "note:commitments/2026-03-11",
+          "target": "unresolved:your",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-11->unresolved:scanning",
+          "source": "note:commitments/2026-03-11",
+          "target": "unresolved:scanning",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-11->unresolved:process",
+          "source": "note:commitments/2026-03-11",
+          "target": "unresolved:process",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-11->unresolved:queued",
+          "source": "note:commitments/2026-03-11",
+          "target": "unresolved:queued",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-11->unresolved:exec",
+          "source": "note:commitments/2026-03-11",
+          "target": "unresolved:exec",
           "type": "wiki_link"
         }
       ]
@@ -3456,7 +3540,7 @@
     },
     "daily/2026-03-11.md": {
       "relativePath": "daily/2026-03-11.md",
-      "mtimeMs": 1773205241169.506,
+      "mtimeMs": 1773226840374.7458,
       "nodes": [
         {
           "id": "note:daily/2026-03-11",
@@ -3467,7 +3551,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:41.169Z"
+          "modifiedAt": "2026-03-11T11:00:40.374Z"
         }
       ],
       "edges": []
@@ -5575,7 +5659,7 @@
     },
     "facts/2026-03-11.md": {
       "relativePath": "facts/2026-03-11.md",
-      "mtimeMs": 1773205208486.8467,
+      "mtimeMs": 1773226810638.5818,
       "nodes": [
         {
           "id": "note:facts/2026-03-11",
@@ -5586,7 +5670,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:08.486Z"
+          "modifiedAt": "2026-03-11T11:00:10.638Z"
         },
         {
           "id": "unresolved:wed",
@@ -5730,6 +5814,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:apple-git",
+          "title": "Apple Git",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:post",
+          "title": "Post",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:execute",
+          "title": "Execute",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:session-startup",
+          "title": "Session Startup",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -5809,6 +5937,30 @@
           "id": "wiki_link:note:facts/2026-03-11->unresolved:offset",
           "source": "note:facts/2026-03-11",
           "target": "unresolved:offset",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-11->unresolved:apple-git",
+          "source": "note:facts/2026-03-11",
+          "target": "unresolved:apple-git",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-11->unresolved:post",
+          "source": "note:facts/2026-03-11",
+          "target": "unresolved:post",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-11->unresolved:execute",
+          "source": "note:facts/2026-03-11",
+          "target": "unresolved:execute",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-11->unresolved:session-startup",
+          "source": "note:facts/2026-03-11",
+          "target": "unresolved:session-startup",
           "type": "wiki_link"
         }
       ]
@@ -5899,6 +6051,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-11T05:00:50.120Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-11-1100.md": {
+      "relativePath": "handoffs/handoff-2026-03-11-1100.md",
+      "mtimeMs": 1773226852402.8687,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-11-1100",
+          "title": "handoff-2026-03-11-1100",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-11-1100.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T11:00:52.402Z"
         }
       ],
       "edges": []
@@ -6141,7 +6311,7 @@
     },
     "ledger/observations/2026/03/11.md": {
       "relativePath": "ledger/observations/2026/03/11.md",
-      "mtimeMs": 1773205208466.421,
+      "mtimeMs": 1773226810567.803,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/11",
@@ -6154,11 +6324,14 @@
             "492",
             "857",
             "ai",
-            "nvidia"
+            "kara",
+            "nvidia",
+            "raionrobotics",
+            "uae"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:08.466Z"
+          "modifiedAt": "2026-03-11T11:00:10.567Z"
         },
         {
           "id": "tag:1",
@@ -6205,8 +6378,41 @@
           "modifiedAt": null
         },
         {
+          "id": "tag:kara",
+          "title": "#kara",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
           "id": "tag:nvidia",
           "title": "#nvidia",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:raionrobotics",
+          "title": "#raionrobotics",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -6253,9 +6459,27 @@
           "type": "tag"
         },
         {
+          "id": "tag:note:ledger/observations/2026/03/11->tag:kara",
+          "source": "note:ledger/observations/2026/03/11",
+          "target": "tag:kara",
+          "type": "tag"
+        },
+        {
           "id": "tag:note:ledger/observations/2026/03/11->tag:nvidia",
           "source": "note:ledger/observations/2026/03/11",
           "target": "tag:nvidia",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:ledger/observations/2026/03/11->tag:raionrobotics",
+          "source": "note:ledger/observations/2026/03/11",
+          "target": "tag:raionrobotics",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:ledger/observations/2026/03/11->tag:uae",
+          "source": "note:ledger/observations/2026/03/11",
+          "target": "tag:uae",
           "type": "tag"
         },
         {
@@ -6298,6 +6522,42 @@
           "id": "wiki_link:note:lessons/2026-03-10->unresolved:notion",
           "source": "note:lessons/2026-03-10",
           "target": "unresolved:notion",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "lessons/2026-03-11.md": {
+      "relativePath": "lessons/2026-03-11.md",
+      "mtimeMs": 1773226810627.575,
+      "nodes": [
+        {
+          "id": "note:lessons/2026-03-11",
+          "title": "2026 03 11",
+          "type": "lesson",
+          "category": "lesson",
+          "path": "lessons/2026-03-11.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T11:00:10.627Z"
+        },
+        {
+          "id": "unresolved:hashed",
+          "title": "Hashed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:lessons/2026-03-11->unresolved:hashed",
+          "source": "note:lessons/2026-03-11",
+          "target": "unresolved:hashed",
           "type": "wiki_link"
         }
       ]
@@ -6429,6 +6689,24 @@
           "type": "tag"
         }
       ]
+    },
+    "memory/2026-03-11.md": {
+      "relativePath": "memory/2026-03-11.md",
+      "mtimeMs": 1773221798373.6594,
+      "nodes": [
+        {
+          "id": "note:memory/2026-03-11",
+          "title": "2026 03 11",
+          "type": "note",
+          "category": "note",
+          "path": "memory/2026-03-11.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T09:36:38.373Z"
+        }
+      ],
+      "edges": []
     },
     "people/2026-03-10.md": {
       "relativePath": "people/2026-03-10.md",
@@ -6725,7 +7003,7 @@
     },
     "preferences/2026-03-11.md": {
       "relativePath": "preferences/2026-03-11.md",
-      "mtimeMs": 1773205208484.8794,
+      "mtimeMs": 1773226810633.667,
       "nodes": [
         {
           "id": "note:preferences/2026-03-11",
@@ -6736,7 +7014,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:08.484Z"
+          "modifiedAt": "2026-03-11T11:00:10.633Z"
         },
         {
           "id": "unresolved:lex-fridman",
@@ -7012,6 +7290,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:the-gen",
+          "title": "The Gen",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -7163,6 +7463,18 @@
           "id": "wiki_link:note:preferences/2026-03-11->unresolved:use",
           "source": "note:preferences/2026-03-11",
           "target": "unresolved:use",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:preferences/2026-03-11->unresolved:users",
+          "source": "note:preferences/2026-03-11",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:preferences/2026-03-11->unresolved:the-gen",
+          "source": "note:preferences/2026-03-11",
+          "target": "unresolved:the-gen",
           "type": "wiki_link"
         }
       ]
@@ -8300,7 +8612,7 @@
     },
     "projects/2026-03-11.md": {
       "relativePath": "projects/2026-03-11.md",
-      "mtimeMs": 1773205208488.9165,
+      "mtimeMs": 1773226810629.4768,
       "nodes": [
         {
           "id": "note:projects/2026-03-11",
@@ -8311,7 +8623,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T05:00:08.488Z"
+          "modifiedAt": "2026-03-11T11:00:10.629Z"
         },
         {
           "id": "unresolved:successfully",
@@ -8653,6 +8965,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:big-ideas",
+          "title": "Big Ideas",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:hades",
+          "title": "Hades",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8846,6 +9180,18 @@
           "id": "wiki_link:note:projects/2026-03-11->unresolved:funds",
           "source": "note:projects/2026-03-11",
           "target": "unresolved:funds",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-11->unresolved:big-ideas",
+          "source": "note:projects/2026-03-11",
+          "target": "unresolved:big-ideas",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-11->unresolved:hades",
+          "source": "note:projects/2026-03-11",
+          "target": "unresolved:hades",
           "type": "wiki_link"
         }
       ]
@@ -9270,6 +9616,612 @@
         }
       ]
     },
+    "research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026.md",
+      "mtimeMs": 1773205257741.197,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+          "title": "2026 03 11 ARKInvest BigIdeas2026",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026.md",
+          "tags": [
+            "2030",
+            "ai",
+            "ark",
+            "defi"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T05:00:57.741Z"
+        },
+        {
+          "id": "tag:2030",
+          "title": "#2030",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ai",
+          "title": "#ai",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ark",
+          "title": "#ark",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:defi",
+          "title": "#defi",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:2030",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+          "target": "tag:2030",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:ai",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+          "target": "tag:ai",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:ark",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+          "target": "tag:ark",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:defi",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+          "target": "tag:defi",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서.md",
+      "mtimeMs": 1773221933248.0728,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+          "title": "2026 03 11 Globespan Capital Partners V 분기보고서",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서.md",
+          "tags": [
+            "globespan",
+            "irr",
+            "lp",
+            "moic"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T09:38:53.248Z"
+        },
+        {
+          "id": "tag:globespan",
+          "title": "#globespan",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:irr",
+          "title": "#irr",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:lp",
+          "title": "#lp",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:moic",
+          "title": "#moic",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:globespan",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+          "target": "tag:globespan",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:irr",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+          "target": "tag:irr",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:lp",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+          "target": "tag:lp",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:moic",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+          "target": "tag:moic",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
+      "mtimeMs": 1773198609788.3787,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+          "title": "2026 03 11 NVIDIA AI Five Layer Cake",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
+          "tags": [
+            "ai",
+            "nvidia"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T03:10:09.788Z"
+        },
+        {
+          "id": "tag:ai",
+          "title": "#ai",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:nvidia",
+          "title": "#nvidia",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:ai",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+          "target": "tag:ai",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:nvidia",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+          "target": "tag:nvidia",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트.md",
+      "mtimeMs": 1773215391792.1804,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+          "title": "2026 03 11 RaionRobotics 사족보행로봇 미팅노트",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트.md",
+          "tags": [
+            "kara",
+            "raionrobotics",
+            "uae"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T07:49:51.792Z"
+        },
+        {
+          "id": "tag:kara",
+          "title": "#kara",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:raionrobotics",
+          "title": "#raionrobotics",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:kara",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+          "target": "tag:kara",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:raionrobotics",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+          "target": "tag:raionrobotics",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:uae",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+          "target": "tag:uae",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping.md",
+      "mtimeMs": 1773219175927.05,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "title": "2026 03 11 StandardEnergy UAE StructureMapping",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping.md",
+          "tags": [
+            "adnoc",
+            "ess",
+            "kara",
+            "khazna",
+            "kizad",
+            "standardenergy",
+            "uae",
+            "vib"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T08:52:55.927Z"
+        },
+        {
+          "id": "tag:adnoc",
+          "title": "#adnoc",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ess",
+          "title": "#ess",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:kara",
+          "title": "#kara",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:khazna",
+          "title": "#khazna",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:kizad",
+          "title": "#kizad",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:standardenergy",
+          "title": "#standardenergy",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:vib",
+          "title": "#vib",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:adnoc",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:adnoc",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:ess",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:ess",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:kara",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:kara",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:khazna",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:khazna",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:kizad",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:kizad",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:standardenergy",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:standardenergy",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:uae",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:uae",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:vib",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+          "target": "tag:vib",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep.md",
+      "mtimeMs": 1773213310351.6633,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "title": "2026 03 11 StandardEnergy VIB UAE MeetingPrep",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep.md",
+          "tags": [
+            "dc",
+            "ess",
+            "kara",
+            "standardenergy",
+            "uae",
+            "vib"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T07:15:10.351Z"
+        },
+        {
+          "id": "tag:dc",
+          "title": "#dc",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:ess",
+          "title": "#ess",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:kara",
+          "title": "#kara",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:standardenergy",
+          "title": "#standardenergy",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:uae",
+          "title": "#uae",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:vib",
+          "title": "#vib",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:dc",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:dc",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:ess",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:ess",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:kara",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:kara",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:standardenergy",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:standardenergy",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:uae",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:uae",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:vib",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+          "target": "tag:vib",
+          "type": "tag"
+        }
+      ]
+    },
     "research/knowledge-base/long-term/2026-03-11_UAE방산산업구조.md": {
       "relativePath": "research/knowledge-base/long-term/2026-03-11_UAE방산산업구조.md",
       "mtimeMs": 1773194732269.2603,
@@ -9358,6 +10310,62 @@
           "id": "tag:note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조->tag:uae",
           "source": "note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조",
           "target": "tag:uae",
+          "type": "tag"
+        }
+      ]
+    },
+    "research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일.md": {
+      "relativePath": "research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일.md",
+      "mtimeMs": 1773221582012.325,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+          "title": "2026 03 11 에이티넘인베스트먼트 경쟁사프로파일",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일.md",
+          "tags": [
+            "growth",
+            "vc"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-11T09:33:02.012Z"
+        },
+        {
+          "id": "tag:growth",
+          "title": "#growth",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:vc",
+          "title": "#vc",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일->tag:growth",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+          "target": "tag:growth",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일->tag:vc",
+          "source": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+          "target": "tag:vc",
           "type": "tag"
         }
       ]
@@ -12244,27 +13252,29 @@
         }
       ]
     },
-    "research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake.md": {
-      "relativePath": "research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
-      "mtimeMs": 1773198609788.3787,
+    "research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset.md": {
+      "relativePath": "research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset.md",
+      "mtimeMs": 1773215801368.9556,
       "nodes": [
         {
-          "id": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-          "title": "2026 03 11 NVIDIA AI Five Layer Cake",
+          "id": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+          "title": "2026 03 11 Galaxy BalanceSheet DigitalAsset",
           "type": "note",
           "category": "note",
-          "path": "research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
+          "path": "research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset.md",
           "tags": [
-            "ai",
-            "nvidia"
+            "btc",
+            "eth",
+            "galaxy",
+            "sol"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T03:10:09.788Z"
+          "modifiedAt": "2026-03-11T07:56:41.368Z"
         },
         {
-          "id": "tag:ai",
-          "title": "#ai",
+          "id": "tag:btc",
+          "title": "#btc",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -12274,8 +13284,30 @@
           "modifiedAt": null
         },
         {
-          "id": "tag:nvidia",
-          "title": "#nvidia",
+          "id": "tag:eth",
+          "title": "#eth",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:galaxy",
+          "title": "#galaxy",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:sol",
+          "title": "#sol",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -12287,15 +13319,27 @@
       ],
       "edges": [
         {
-          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:ai",
-          "source": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-          "target": "tag:ai",
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:btc",
+          "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+          "target": "tag:btc",
           "type": "tag"
         },
         {
-          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:nvidia",
-          "source": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-          "target": "tag:nvidia",
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:eth",
+          "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+          "target": "tag:eth",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:galaxy",
+          "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+          "target": "tag:galaxy",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:sol",
+          "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+          "target": "tag:sol",
           "type": "tag"
         }
       ]
@@ -13408,7 +14452,7 @@
     },
     "research/podcasts/2026-03-11-digest.md": {
       "relativePath": "research/podcasts/2026-03-11-digest.md",
-      "mtimeMs": 1773203547242.072,
+      "mtimeMs": 1773220066018.3591,
       "nodes": [
         {
           "id": "note:research/podcasts/2026-03-11-digest",
@@ -13419,7 +14463,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:32:27.242Z"
+          "modifiedAt": "2026-03-11T09:07:46.018Z"
         }
       ],
       "edges": []
@@ -13444,7 +14488,7 @@
     },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
-      "mtimeMs": 1773203831144.8828,
+      "mtimeMs": 1773225453482.5366,
       "nodes": [
         {
           "id": "note:skills/brain-memory/SKILL",
@@ -13455,7 +14499,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.144Z"
+          "modifiedAt": "2026-03-11T10:37:33.482Z"
         }
       ],
       "edges": []
@@ -13498,7 +14542,7 @@
     },
     "skills/CLAUDE.md": {
       "relativePath": "skills/CLAUDE.md",
-      "mtimeMs": 1773203832104.7695,
+      "mtimeMs": 1773225454388.5923,
       "nodes": [
         {
           "id": "note:skills/CLAUDE",
@@ -13509,14 +14553,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:12.104Z"
+          "modifiedAt": "2026-03-11T10:37:34.388Z"
         }
       ],
       "edges": []
     },
     "skills/cloudflare-browser/SKILL.md": {
       "relativePath": "skills/cloudflare-browser/SKILL.md",
-      "mtimeMs": 1773203832267.6711,
+      "mtimeMs": 1773225454537.98,
       "nodes": [
         {
           "id": "note:skills/cloudflare-browser/SKILL",
@@ -13527,7 +14571,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:12.267Z"
+          "modifiedAt": "2026-03-11T10:37:34.537Z"
         }
       ],
       "edges": []
@@ -13716,7 +14760,7 @@
     },
     "skills/google-calendar/SKILL.md": {
       "relativePath": "skills/google-calendar/SKILL.md",
-      "mtimeMs": 1773203831543.2832,
+      "mtimeMs": 1773225453836.2402,
       "nodes": [
         {
           "id": "note:skills/google-calendar/SKILL",
@@ -13727,7 +14771,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.543Z"
+          "modifiedAt": "2026-03-11T10:37:33.836Z"
         }
       ],
       "edges": []
@@ -13770,7 +14814,7 @@
     },
     "skills/HEARTBEAT.md": {
       "relativePath": "skills/HEARTBEAT.md",
-      "mtimeMs": 1773203831346.6455,
+      "mtimeMs": 1773225453678.1838,
       "nodes": [
         {
           "id": "note:skills/HEARTBEAT",
@@ -13781,14 +14825,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.346Z"
+          "modifiedAt": "2026-03-11T10:37:33.678Z"
         }
       ],
       "edges": []
     },
     "skills/HOT-MEMORY.md": {
       "relativePath": "skills/HOT-MEMORY.md",
-      "mtimeMs": 1773203831388.831,
+      "mtimeMs": 1773225453718.3396,
       "nodes": [
         {
           "id": "note:skills/HOT-MEMORY",
@@ -13799,14 +14843,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.388Z"
+          "modifiedAt": "2026-03-11T10:37:33.718Z"
         }
       ],
       "edges": []
     },
     "skills/memory-retriever/SKILL.md": {
       "relativePath": "skills/memory-retriever/SKILL.md",
-      "mtimeMs": 1773203831303.7954,
+      "mtimeMs": 1773225453634.467,
       "nodes": [
         {
           "id": "note:skills/memory-retriever/SKILL",
@@ -13817,7 +14861,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.303Z"
+          "modifiedAt": "2026-03-11T10:37:33.634Z"
         }
       ],
       "edges": []
@@ -13878,7 +14922,7 @@
     },
     "skills/self-modify/SKILL.md": {
       "relativePath": "skills/self-modify/SKILL.md",
-      "mtimeMs": 1773203832058.8362,
+      "mtimeMs": 1773225454343.064,
       "nodes": [
         {
           "id": "note:skills/self-modify/SKILL",
@@ -13889,14 +14933,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:12.058Z"
+          "modifiedAt": "2026-03-11T10:37:34.343Z"
         }
       ],
       "edges": []
     },
     "skills/SOUL.md": {
       "relativePath": "skills/SOUL.md",
-      "mtimeMs": 1773203830950.6619,
+      "mtimeMs": 1773225453309.4282,
       "nodes": [
         {
           "id": "note:skills/SOUL",
@@ -13907,14 +14951,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:10.950Z"
+          "modifiedAt": "2026-03-11T10:37:33.309Z"
         }
       ],
       "edges": []
     },
     "skills/templates/lessons.md": {
       "relativePath": "skills/templates/lessons.md",
-      "mtimeMs": 1773203830987.8237,
+      "mtimeMs": 1773225453341.7935,
       "nodes": [
         {
           "id": "note:skills/templates/lessons",
@@ -13925,14 +14969,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:10.987Z"
+          "modifiedAt": "2026-03-11T10:37:33.341Z"
         }
       ],
       "edges": []
     },
     "skills/templates/todo.md": {
       "relativePath": "skills/templates/todo.md",
-      "mtimeMs": 1773203830986.967,
+      "mtimeMs": 1773225453341.0227,
       "nodes": [
         {
           "id": "note:skills/templates/todo",
@@ -13943,7 +14987,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:10.986Z"
+          "modifiedAt": "2026-03-11T10:37:33.341Z"
         }
       ],
       "edges": []
@@ -13968,7 +15012,7 @@
     },
     "skills/USER.md": {
       "relativePath": "skills/USER.md",
-      "mtimeMs": 1773203830951.9148,
+      "mtimeMs": 1773225453310.4348,
       "nodes": [
         {
           "id": "note:skills/USER",
@@ -13979,14 +15023,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:10.951Z"
+          "modifiedAt": "2026-03-11T10:37:33.310Z"
         }
       ],
       "edges": []
     },
     "skills/web-researcher/SKILL.md": {
       "relativePath": "skills/web-researcher/SKILL.md",
-      "mtimeMs": 1773203831658.6616,
+      "mtimeMs": 1773225453951.681,
       "nodes": [
         {
           "id": "note:skills/web-researcher/SKILL",
@@ -13997,7 +15041,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:11.658Z"
+          "modifiedAt": "2026-03-11T10:37:33.951Z"
         }
       ],
       "edges": []
@@ -14274,7 +15318,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773203861342.1492,
+      "mtimeMs": 1773221877700.32,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -14285,7 +15329,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:41.342Z"
+          "modifiedAt": "2026-03-11T09:37:57.700Z"
         }
       ],
       "edges": []
@@ -14382,7 +15426,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773203873864.9465,
+      "mtimeMs": 1773221890386.888,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -14393,14 +15437,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:53.864Z"
+          "modifiedAt": "2026-03-11T09:38:10.386Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773203872689.9233,
+      "mtimeMs": 1773221889629.5203,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -14411,14 +15455,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:52.689Z"
+          "modifiedAt": "2026-03-11T09:38:09.629Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773203872032.0337,
+      "mtimeMs": 1773221888928.1877,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -14431,7 +15475,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T04:37:52.032Z"
+          "modifiedAt": "2026-03-11T09:38:08.928Z"
         },
         {
           "id": "tag:hashed",
@@ -18480,7 +19524,7 @@
     },
     "warm-memory/lessons.md": {
       "relativePath": "warm-memory/lessons.md",
-      "mtimeMs": 1773198536360.6946,
+      "mtimeMs": 1773215617053.1755,
       "nodes": [
         {
           "id": "note:warm-memory/lessons",
@@ -18491,7 +19535,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-11T03:08:56.360Z"
+          "modifiedAt": "2026-03-11T07:53:37.053Z"
         }
       ],
       "edges": []
@@ -20621,7 +21665,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T05:00:11.264Z"
+        "modifiedAt": "2026-03-11T11:00:14.544Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -20796,12 +21840,10 @@
         "type": "note",
         "category": "note",
         "path": "brain-memory/daily/email-2026-03-11.md",
-        "tags": [
-          "14"
-        ],
+        "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-10T22:00:50.959Z"
+        "degree": 0,
+        "modifiedAt": "2026-03-11T10:00:41.337Z"
       },
       {
         "id": "note:brain-memory/reflections/2026-02-25",
@@ -20886,10 +21928,12 @@
         "type": "commitment",
         "category": "commitment",
         "path": "commitments/2026-03-11.md",
-        "tags": [],
+        "tags": [
+          "1"
+        ],
         "missing": false,
-        "degree": 8,
-        "modifiedAt": "2026-03-11T05:00:07.709Z"
+        "degree": 14,
+        "modifiedAt": "2026-03-11T11:00:10.631Z"
       },
       {
         "id": "note:daily/2026-02-25",
@@ -20977,7 +22021,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T05:00:41.169Z"
+        "modifiedAt": "2026-03-11T11:00:40.374Z"
       },
       {
         "id": "note:decisions/2026-03-10",
@@ -21064,8 +22108,8 @@
         "path": "facts/2026-03-11.md",
         "tags": [],
         "missing": false,
-        "degree": 13,
-        "modifiedAt": "2026-03-11T05:00:08.486Z"
+        "degree": 17,
+        "modifiedAt": "2026-03-11T11:00:10.638Z"
       },
       {
         "id": "note:handoffs/handoff-2026-03-10-0815",
@@ -21121,6 +22165,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-11T05:00:50.120Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-03-11-1100",
+        "title": "handoff-2026-03-11-1100",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-11-1100.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-11T11:00:52.402Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -21186,11 +22241,14 @@
           "492",
           "857",
           "ai",
-          "nvidia"
+          "kara",
+          "nvidia",
+          "raionrobotics",
+          "uae"
         ],
         "missing": false,
-        "degree": 6,
-        "modifiedAt": "2026-03-11T05:00:08.466Z"
+        "degree": 9,
+        "modifiedAt": "2026-03-11T11:00:10.567Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -21202,6 +22260,17 @@
         "missing": false,
         "degree": 1,
         "modifiedAt": "2026-03-10T08:14:54.758Z"
+      },
+      {
+        "id": "note:lessons/2026-03-11",
+        "title": "2026 03 11",
+        "type": "lesson",
+        "category": "lesson",
+        "path": "lessons/2026-03-11.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-11T11:00:10.627Z"
       },
       {
         "id": "note:lessons/lessons-migrated",
@@ -21272,6 +22341,17 @@
         "modifiedAt": "2026-03-05T13:50:12.978Z"
       },
       {
+        "id": "note:memory/2026-03-11",
+        "title": "2026 03 11",
+        "type": "note",
+        "category": "note",
+        "path": "memory/2026-03-11.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-11T09:36:38.373Z"
+      },
+      {
         "id": "note:people/2026-03-10",
         "title": "2026 03 10",
         "type": "person",
@@ -21301,8 +22381,8 @@
         "path": "preferences/2026-03-11.md",
         "tags": [],
         "missing": false,
-        "degree": 25,
-        "modifiedAt": "2026-03-11T05:00:08.484Z"
+        "degree": 27,
+        "modifiedAt": "2026-03-11T11:00:10.633Z"
       },
       {
         "id": "note:projects/2025-09-03",
@@ -21356,8 +22436,8 @@
         "path": "projects/2026-03-11.md",
         "tags": [],
         "missing": false,
-        "degree": 32,
-        "modifiedAt": "2026-03-11T05:00:08.488Z"
+        "degree": 34,
+        "modifiedAt": "2026-03-11T11:00:10.629Z"
       },
       {
         "id": "note:projects/2026-03-13",
@@ -21465,6 +22545,105 @@
         "modifiedAt": "2026-03-11T01:50:58.621Z"
       },
       {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+        "title": "2026 03 11 ARKInvest BigIdeas2026",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026.md",
+        "tags": [
+          "2030",
+          "ai",
+          "ark",
+          "defi"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-11T05:00:57.741Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+        "title": "2026 03 11 Globespan Capital Partners V 분기보고서",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서.md",
+        "tags": [
+          "globespan",
+          "irr",
+          "lp",
+          "moic"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-11T09:38:53.248Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+        "title": "2026 03 11 NVIDIA AI Five Layer Cake",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
+        "tags": [
+          "ai",
+          "nvidia"
+        ],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-03-11T03:10:09.788Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+        "title": "2026 03 11 RaionRobotics 사족보행로봇 미팅노트",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트.md",
+        "tags": [
+          "kara",
+          "raionrobotics",
+          "uae"
+        ],
+        "missing": false,
+        "degree": 3,
+        "modifiedAt": "2026-03-11T07:49:51.792Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "title": "2026 03 11 StandardEnergy UAE StructureMapping",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping.md",
+        "tags": [
+          "adnoc",
+          "ess",
+          "kara",
+          "khazna",
+          "kizad",
+          "standardenergy",
+          "uae",
+          "vib"
+        ],
+        "missing": false,
+        "degree": 8,
+        "modifiedAt": "2026-03-11T08:52:55.927Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "title": "2026 03 11 StandardEnergy VIB UAE MeetingPrep",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep.md",
+        "tags": [
+          "dc",
+          "ess",
+          "kara",
+          "standardenergy",
+          "uae",
+          "vib"
+        ],
+        "missing": false,
+        "degree": 6,
+        "modifiedAt": "2026-03-11T07:15:10.351Z"
+      },
+      {
         "id": "note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조",
         "title": "2026 03 11 UAE방산산업구조",
         "type": "note",
@@ -21479,6 +22658,20 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-11T02:05:32.269Z"
+      },
+      {
+        "id": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+        "title": "2026 03 11 에이티넘인베스트먼트 경쟁사프로파일",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일.md",
+        "tags": [
+          "growth",
+          "vc"
+        ],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-03-11T09:33:02.012Z"
       },
       {
         "id": "note:research/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan",
@@ -22212,18 +23405,20 @@
         "modifiedAt": "2026-03-10T08:05:30.850Z"
       },
       {
-        "id": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-        "title": "2026 03 11 NVIDIA AI Five Layer Cake",
+        "id": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+        "title": "2026 03 11 Galaxy BalanceSheet DigitalAsset",
         "type": "note",
         "category": "note",
-        "path": "research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake.md",
+        "path": "research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset.md",
         "tags": [
-          "ai",
-          "nvidia"
+          "btc",
+          "eth",
+          "galaxy",
+          "sol"
         ],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-03-11T03:10:09.788Z"
+        "degree": 4,
+        "modifiedAt": "2026-03-11T07:56:41.368Z"
       },
       {
         "id": "note:research/knowledge-base/mid-term/2026-crypto-aml-report",
@@ -22497,7 +23692,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:32:27.242Z"
+        "modifiedAt": "2026-03-11T09:07:46.018Z"
       },
       {
         "id": "note:research/test-store-2026-03-10",
@@ -22519,7 +23714,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.144Z"
+        "modifiedAt": "2026-03-11T10:37:33.482Z"
       },
       {
         "id": "note:skills/cbt-counselor/references/reveal-framework",
@@ -22552,7 +23747,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-11T04:37:12.104Z"
+        "modifiedAt": "2026-03-11T10:37:34.388Z"
       },
       {
         "id": "note:skills/cloudflare-browser/SKILL",
@@ -22563,7 +23758,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:12.267Z"
+        "modifiedAt": "2026-03-11T10:37:34.537Z"
       },
       {
         "id": "note:skills/failure-memory/SKILL",
@@ -22595,7 +23790,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.543Z"
+        "modifiedAt": "2026-03-11T10:37:33.836Z"
       },
       {
         "id": "note:skills/hades/references/market-rules",
@@ -22628,7 +23823,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.346Z"
+        "modifiedAt": "2026-03-11T10:37:33.678Z"
       },
       {
         "id": "note:skills/HOT-MEMORY",
@@ -22639,7 +23834,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.388Z"
+        "modifiedAt": "2026-03-11T10:37:33.718Z"
       },
       {
         "id": "note:skills/memory-retriever/SKILL",
@@ -22650,7 +23845,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.303Z"
+        "modifiedAt": "2026-03-11T10:37:33.634Z"
       },
       {
         "id": "note:skills/philosopher-chat/references/philosophers",
@@ -22694,7 +23889,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:12.058Z"
+        "modifiedAt": "2026-03-11T10:37:34.343Z"
       },
       {
         "id": "note:skills/SOUL",
@@ -22705,7 +23900,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:10.950Z"
+        "modifiedAt": "2026-03-11T10:37:33.309Z"
       },
       {
         "id": "note:skills/templates/lessons",
@@ -22716,7 +23911,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:10.987Z"
+        "modifiedAt": "2026-03-11T10:37:33.341Z"
       },
       {
         "id": "note:skills/templates/todo",
@@ -22727,7 +23922,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:10.986Z"
+        "modifiedAt": "2026-03-11T10:37:33.341Z"
       },
       {
         "id": "note:skills/tmux-claudecode/SKILL",
@@ -22749,7 +23944,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:10.951Z"
+        "modifiedAt": "2026-03-11T10:37:33.310Z"
       },
       {
         "id": "note:skills/web-researcher/SKILL",
@@ -22760,7 +23955,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:11.658Z"
+        "modifiedAt": "2026-03-11T10:37:33.951Z"
       },
       {
         "id": "note:SOUL",
@@ -22936,7 +24131,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-11T04:37:41.342Z"
+        "modifiedAt": "2026-03-11T09:37:57.700Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -23004,7 +24199,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-11T04:37:52.032Z"
+        "modifiedAt": "2026-03-11T09:38:08.928Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -23015,7 +24210,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:53.864Z"
+        "modifiedAt": "2026-03-11T09:38:10.386Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -23026,7 +24221,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T04:37:52.689Z"
+        "modifiedAt": "2026-03-11T09:38:09.629Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -24053,7 +25248,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-11T03:08:56.360Z"
+        "modifiedAt": "2026-03-11T07:53:37.053Z"
       },
       {
         "id": "note:warm-memory/omo_privacy_policy",
@@ -25038,7 +26233,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -25071,7 +26266,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 3,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -25116,6 +26311,17 @@
         "tags": [],
         "missing": false,
         "degree": 4,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:2030",
+        "title": "#2030",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -25174,6 +26380,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:adnoc",
+        "title": "#adnoc",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:agentic",
         "title": "#agentic",
         "type": "tag",
@@ -25203,7 +26420,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 41,
+        "degree": 42,
         "modifiedAt": null
       },
       {
@@ -25251,6 +26468,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:ark",
+        "title": "#ark",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:arpg",
         "title": "#arpg",
         "type": "tag",
@@ -25292,6 +26520,17 @@
         "tags": [],
         "missing": false,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:btc",
+        "title": "#btc",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -25339,6 +26578,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:dc",
+        "title": "#dc",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:defi",
         "title": "#defi",
         "type": "tag",
@@ -25346,7 +26596,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 18,
+        "degree": 19,
         "modifiedAt": null
       },
       {
@@ -25418,6 +26668,28 @@
       {
         "id": "tag:error-tracking",
         "title": "#error-tracking",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:ess",
+        "title": "#ess",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:eth",
+        "title": "#eth",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -25515,6 +26787,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:galaxy",
+        "title": "#galaxy",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:generalcatalyst",
         "title": "#generalcatalyst",
         "type": "tag",
@@ -25548,6 +26831,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:globespan",
+        "title": "#globespan",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:gps",
         "title": "#gps",
         "type": "tag",
@@ -25567,6 +26861,17 @@
         "tags": [],
         "missing": false,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:growth",
+        "title": "#growth",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -25680,6 +26985,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:irr",
+        "title": "#irr",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:k",
         "title": "#k",
         "type": "tag",
@@ -25688,6 +27004,39 @@
         "tags": [],
         "missing": false,
         "degree": 3,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:kara",
+        "title": "#kara",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:khazna",
+        "title": "#khazna",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:kizad",
+        "title": "#kizad",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -25746,6 +27095,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:lp",
+        "title": "#lp",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:memory",
         "title": "#memory",
         "type": "tag",
@@ -25787,6 +27147,17 @@
         "tags": [],
         "missing": false,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:moic",
+        "title": "#moic",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -25999,6 +27370,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:raionrobotics",
+        "title": "#raionrobotics",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:replicate",
         "title": "#replicate",
         "type": "tag",
@@ -26098,6 +27480,17 @@
         "modifiedAt": null
       },
       {
+        "id": "tag:sol",
+        "title": "#sol",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "tag:solana",
         "title": "#solana",
         "type": "tag",
@@ -26111,6 +27504,17 @@
       {
         "id": "tag:sql",
         "title": "#sql",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:standardenergy",
+        "title": "#standardenergy",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -26237,12 +27641,34 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 3,
+        "degree": 7,
         "modifiedAt": null
       },
       {
         "id": "tag:vasp",
         "title": "#vasp",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:vc",
+        "title": "#vc",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:vib",
+        "title": "#vib",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -26384,6 +27810,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:apple-git",
+        "title": "Apple Git",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:applications",
         "title": "Applications",
         "type": "unresolved",
@@ -26485,6 +27922,17 @@
       {
         "id": "unresolved:best",
         "title": "Best",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:big-ideas",
+        "title": "Big Ideas",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27084,6 +28532,17 @@
         "path": null,
         "tags": [],
         "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:execute",
+        "title": "Execute",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
         "degree": 1,
         "modifiedAt": null
       },
@@ -27288,6 +28747,28 @@
       {
         "id": "unresolved:google-calendar",
         "title": "Google Calendar",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:hades",
+        "title": "Hades",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:hashed",
+        "title": "Hashed",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27902,6 +29383,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:post",
+        "title": "Post",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:price",
         "title": "Price",
         "type": "unresolved",
@@ -27931,7 +29423,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27987,6 +29479,17 @@
         "tags": [],
         "missing": true,
         "degree": 3,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:queued",
+        "title": "Queued",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -28184,7 +29687,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28267,6 +29770,17 @@
       {
         "id": "unresolved:series",
         "title": "Series",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:session-startup",
+        "title": "Session Startup",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -28441,6 +29955,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:the-gen",
+        "title": "The Gen",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:the-generalist",
         "title": "The Generalist",
         "type": "unresolved",
@@ -28602,7 +30127,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 9,
+        "degree": 10,
         "modifiedAt": null
       },
       {
@@ -28734,7 +30259,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       }
     ],
@@ -29124,9 +30649,9 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:brain-memory/daily/email-2026-03-11->tag:14",
-        "source": "note:brain-memory/daily/email-2026-03-11",
-        "target": "tag:14",
+        "id": "tag:note:commitments/2026-03-11->tag:1",
+        "source": "note:commitments/2026-03-11",
+        "target": "tag:1",
         "type": "tag"
       },
       {
@@ -29196,9 +30721,27 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:ledger/observations/2026/03/11->tag:kara",
+        "source": "note:ledger/observations/2026/03/11",
+        "target": "tag:kara",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:ledger/observations/2026/03/11->tag:nvidia",
         "source": "note:ledger/observations/2026/03/11",
         "target": "tag:nvidia",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/03/11->tag:raionrobotics",
+        "source": "note:ledger/observations/2026/03/11",
+        "target": "tag:raionrobotics",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/03/11->tag:uae",
+        "source": "note:ledger/observations/2026/03/11",
+        "target": "tag:uae",
         "type": "tag"
       },
       {
@@ -29292,6 +30835,168 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:2030",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+        "target": "tag:2030",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:ai",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+        "target": "tag:ai",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:ark",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+        "target": "tag:ark",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026->tag:defi",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_ARKInvest_BigIdeas2026",
+        "target": "tag:defi",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:globespan",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+        "target": "tag:globespan",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:irr",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+        "target": "tag:irr",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:lp",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+        "target": "tag:lp",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서->tag:moic",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_Globespan_Capital_Partners_V_분기보고서",
+        "target": "tag:moic",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:ai",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+        "target": "tag:ai",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:nvidia",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_NVIDIA_AI-five-layer-cake",
+        "target": "tag:nvidia",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:kara",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+        "target": "tag:kara",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:raionrobotics",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+        "target": "tag:raionrobotics",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트->tag:uae",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_RaionRobotics_사족보행로봇_미팅노트",
+        "target": "tag:uae",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:adnoc",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:adnoc",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:ess",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:ess",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:kara",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:kara",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:khazna",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:khazna",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:kizad",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:kizad",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:standardenergy",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:standardenergy",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:uae",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:uae",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping->tag:vib",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_UAE_StructureMapping",
+        "target": "tag:vib",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:dc",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:dc",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:ess",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:ess",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:kara",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:kara",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:standardenergy",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:standardenergy",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:uae",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:uae",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep->tag:vib",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_StandardEnergy_VIB_UAE_MeetingPrep",
+        "target": "tag:vib",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조->tag:edge",
         "source": "note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조",
         "target": "tag:edge",
@@ -29313,6 +31018,18 @@
         "id": "tag:note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조->tag:uae",
         "source": "note:research/knowledge-base/long-term/2026-03-11_UAE방산산업구조",
         "target": "tag:uae",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일->tag:growth",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+        "target": "tag:growth",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일->tag:vc",
+        "source": "note:research/knowledge-base/long-term/2026-03-11_에이티넘인베스트먼트_경쟁사프로파일",
+        "target": "tag:vc",
         "type": "tag"
       },
       {
@@ -29928,15 +31645,27 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:ai",
-        "source": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-        "target": "tag:ai",
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:btc",
+        "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+        "target": "tag:btc",
         "type": "tag"
       },
       {
-        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake->tag:nvidia",
-        "source": "note:research/knowledge-base/mid-term/2026-03-11_NVIDIA_AI-five-layer-cake",
-        "target": "tag:nvidia",
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:eth",
+        "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+        "target": "tag:eth",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:galaxy",
+        "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+        "target": "tag:galaxy",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset->tag:sol",
+        "source": "note:research/knowledge-base/mid-term/2026-03-11_Galaxy_BalanceSheet_DigitalAsset",
+        "target": "tag:sol",
         "type": "tag"
       },
       {
@@ -31476,6 +33205,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-03-11->unresolved:exec",
+        "source": "note:commitments/2026-03-11",
+        "target": "unresolved:exec",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-03-11->unresolved:gateway",
         "source": "note:commitments/2026-03-11",
         "target": "unresolved:gateway",
@@ -31494,9 +33229,33 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-03-11->unresolved:process",
+        "source": "note:commitments/2026-03-11",
+        "target": "unresolved:process",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-11->unresolved:queued",
+        "source": "note:commitments/2026-03-11",
+        "target": "unresolved:queued",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-11->unresolved:scanning",
+        "source": "note:commitments/2026-03-11",
+        "target": "unresolved:scanning",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-03-11->unresolved:usage",
         "source": "note:commitments/2026-03-11",
         "target": "unresolved:usage",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-11->unresolved:your",
+        "source": "note:commitments/2026-03-11",
+        "target": "unresolved:your",
         "type": "wiki_link"
       },
       {
@@ -32226,9 +33985,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-11->unresolved:apple-git",
+        "source": "note:facts/2026-03-11",
+        "target": "unresolved:apple-git",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-11->unresolved:command",
         "source": "note:facts/2026-03-11",
         "target": "unresolved:command",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-11->unresolved:execute",
+        "source": "note:facts/2026-03-11",
+        "target": "unresolved:execute",
         "type": "wiki_link"
       },
       {
@@ -32262,6 +34033,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-11->unresolved:post",
+        "source": "note:facts/2026-03-11",
+        "target": "unresolved:post",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-11->unresolved:price",
         "source": "note:facts/2026-03-11",
         "target": "unresolved:price",
@@ -32277,6 +34054,12 @@
         "id": "wiki_link:note:facts/2026-03-11->unresolved:read",
         "source": "note:facts/2026-03-11",
         "target": "unresolved:read",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-11->unresolved:session-startup",
+        "source": "note:facts/2026-03-11",
+        "target": "unresolved:session-startup",
         "type": "wiki_link"
       },
       {
@@ -32325,6 +34108,12 @@
         "id": "wiki_link:note:lessons/2026-03-10->unresolved:notion",
         "source": "note:lessons/2026-03-10",
         "target": "unresolved:notion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:lessons/2026-03-11->unresolved:hashed",
+        "source": "note:lessons/2026-03-11",
+        "target": "unresolved:hashed",
         "type": "wiki_link"
       },
       {
@@ -32544,6 +34333,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:preferences/2026-03-11->unresolved:the-gen",
+        "source": "note:preferences/2026-03-11",
+        "target": "unresolved:the-gen",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:preferences/2026-03-11->unresolved:the-generalist",
         "source": "note:preferences/2026-03-11",
         "target": "unresolved:the-generalist",
@@ -32559,6 +34354,12 @@
         "id": "wiki_link:note:preferences/2026-03-11->unresolved:use",
         "source": "note:preferences/2026-03-11",
         "target": "unresolved:use",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:preferences/2026-03-11->unresolved:users",
+        "source": "note:preferences/2026-03-11",
+        "target": "unresolved:users",
         "type": "wiki_link"
       },
       {
@@ -32964,6 +34765,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-11->unresolved:big-ideas",
+        "source": "note:projects/2026-03-11",
+        "target": "unresolved:big-ideas",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-11->unresolved:brave-search",
         "source": "note:projects/2026-03-11",
         "target": "unresolved:brave-search",
@@ -33021,6 +34828,12 @@
         "id": "wiki_link:note:projects/2026-03-11->unresolved:general-scopes",
         "source": "note:projects/2026-03-11",
         "target": "unresolved:general-scopes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-11->unresolved:hades",
+        "source": "note:projects/2026-03-11",
+        "target": "unresolved:hades",
         "type": "wiki_link"
       },
       {
@@ -33151,24 +34964,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-11T05:00:50.204Z",
-      "nodeCount": 729,
-      "edgeCount": 735,
+      "generatedAt": "2026-03-11T11:00:52.480Z",
+      "nodeCount": 769,
+      "edgeCount": 783,
       "nodeTypeCounts": {
-        "note": 362,
-        "tag": 114,
-        "unresolved": 223,
+        "note": 370,
+        "tag": 135,
+        "unresolved": 232,
         "daily": 9,
         "commitment": 5,
         "decision": 2,
-        "handoff": 5,
-        "lesson": 2,
+        "handoff": 6,
+        "lesson": 3,
         "person": 1,
         "project": 6
       },
       "edgeTypeCounts": {
-        "tag": 398,
-        "wiki_link": 337
+        "tag": 432,
+        "wiki_link": 351
       }
     }
   }
