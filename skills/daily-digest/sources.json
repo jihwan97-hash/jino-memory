@@ -1,0 +1,255 @@
+{
+  "_comment": "Daily Digest 소스 설정. 자동 발견으로 추가된 소스는 auto_discovered에 쌓임.",
+  "podcasts": [
+    {
+      "name": "Lex Fridman",
+      "url": "https://lexfridman.com/feed/podcast/",
+      "enabled": true
+    },
+    {
+      "name": "Dwarkesh Podcast",
+      "url": "https://www.dwarkeshpatel.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "Tim Ferriss Show",
+      "url": "https://tim.blog/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Acquired",
+      "url": "https://acquired.fm/rss",
+      "enabled": false
+    },
+    {
+      "name": "Invest Like Best",
+      "url": "https://feeds.megaphone.fm/investlikethebest",
+      "enabled": true
+    },
+    {
+      "name": "a16z Podcast",
+      "url": "https://feeds.megaphone.fm/a16z",
+      "enabled": false
+    },
+    {
+      "name": "My First Million",
+      "url": "https://feeds.megaphone.fm/my-first-million",
+      "enabled": false
+    },
+    {
+      "name": "Bankless",
+      "url": "https://feeds.buzzsprout.com/247424.rss",
+      "enabled": false
+    },
+    {
+      "name": "Founders Podcast",
+      "url": "https://feeds.simplecast.com/dv3pJ6rD",
+      "enabled": false
+    }
+  ],
+  "substacks": [
+    {
+      "name": "a16z Future",
+      "url": "https://a16z.substack.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "Stratechery",
+      "url": "https://stratechery.com/feed/",
+      "enabled": true
+    },
+    {
+      "name": "Lenny's Newsletter",
+      "url": "https://www.lennysnewsletter.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "The Generalist",
+      "url": "https://thegeneralist.substack.com/feed",
+      "enabled": true
+    },
+    {
+      "name": "Not Boring",
+      "url": "https://www.notboring.co/feed",
+      "enabled": true
+    },
+    {
+      "name": "Packy McCormick",
+      "url": "https://www.notboring.co/feed",
+      "enabled": false
+    },
+    {
+      "name": "TLDR Newsletter",
+      "url": "https://tldr.tech/api/rss/tech",
+      "enabled": true
+    },
+    {
+      "name": "Finimize",
+      "url": "https://finimize.com/rss",
+      "enabled": false
+    }
+  ],
+  "blogs": [
+    {
+      "name": "Benedict Evans",
+      "url": "https://www.ben-evans.com/benedictevans?format=RSS",
+      "enabled": true
+    },
+    {
+      "name": "Paul Graham Essays",
+      "url": "http://www.paulgraham.com/rss.txt",
+      "enabled": false
+    },
+    {
+      "name": "Sequoia",
+      "url": "https://www.sequoiacap.com/ideas/feed/",
+      "enabled": false
+    },
+    {
+      "name": "First Round Review",
+      "url": "https://review.firstround.com/feed.xml",
+      "enabled": false
+    },
+    {
+      "name": "a16z Blog",
+      "url": "https://a16z.com/feed/",
+      "enabled": false
+    }
+  ],
+  "twitter_accounts": [
+    {
+      "handle": "pmarca",
+      "name": "Marc Andreessen",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "a16z",
+      "name": "a16z",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "cdixon",
+      "name": "Chris Dixon",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "bhorowitz",
+      "name": "Ben Horowitz",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "sama",
+      "name": "Sam Altman",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "karpathy",
+      "name": "Andrej Karpathy",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "naval",
+      "name": "Naval Ravikant",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "paulg",
+      "name": "Paul Graham",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "balajis",
+      "name": "Balaji Srinivasan",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "benedictevans",
+      "name": "Benedict Evans",
+      "tier": 2,
+      "enabled": true
+    },
+    {
+      "handle": "elonmusk",
+      "name": "Elon Musk",
+      "tier": 2,
+      "enabled": true
+    },
+    {
+      "handle": "sriramk",
+      "name": "Sriram Krishnan",
+      "tier": 2,
+      "enabled": true
+    },
+    {
+      "handle": "emollick",
+      "name": "Ethan Mollick",
+      "tier": 2,
+      "enabled": true
+    },
+    {
+      "handle": "ylecun",
+      "name": "Yann LeCun",
+      "tier": 2,
+      "enabled": true
+    },
+    {
+      "handle": "GaryMarcus",
+      "name": "Gary Marcus",
+      "tier": 2,
+      "enabled": false
+    },
+    {
+      "handle": "bg2pod",
+      "name": "BG2Pod",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "bgurley",
+      "name": "Bill Gurley",
+      "tier": 1,
+      "enabled": true
+    },
+    {
+      "handle": "altcap",
+      "name": "Brad Gerstner",
+      "tier": 1,
+      "enabled": true
+    }
+  ],
+  "auto_discovered": [
+    {
+      "name": "nitter.net",
+      "url": "https://nitter.net/pmarca/status/2030949039345467570#m",
+      "domain": "nitter.net",
+      "mentions": 64,
+      "discovered_at": "2026-03-11",
+      "enabled": false
+    },
+    {
+      "name": "x.com",
+      "url": "http://x.com/i/article/2021344626796531712",
+      "domain": "x.com",
+      "mentions": 4,
+      "discovered_at": "2026-03-11",
+      "enabled": false
+    },
+    {
+      "name": "github.com",
+      "url": "https://github.com/karpathy/autoresearch",
+      "domain": "github.com",
+      "mentions": 6,
+      "discovered_at": "2026-03-11",
+      "enabled": false
+    }
+  ]
+}

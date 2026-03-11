@@ -33,8 +33,9 @@
       ],
       "source": "https://x.com/nathanyjlee/status/2028664469384237135",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "지식을 AI로 DB화하고 단기→중기→장기 기억으로 증류 저장"
+      "tier": "mid-term",
+      "summary": "지식을 AI로 DB화하고 단기→중기→장기 기억으로 증류 저장",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-002",
@@ -57,8 +58,9 @@
       ],
       "source": "https://x.com/geopolythink/status/2025574500390047893",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "OpenAI 폭발 성장 + 트럼프 관세 위헌 + 중간선거 현금살포 → 미국 유동성이 AI 인프라→한국 반도체로 유입 시나리오"
+      "tier": "mid-term",
+      "summary": "OpenAI 폭발 성장 + 트럼프 관세 위헌 + 중간선거 현금살포 → 미국 유동성이 AI 인프라→한국 반도체로 유입 시나리오",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-010",
@@ -75,8 +77,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/a1-xyz-concrete.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "DeFi 온체인 신용 인프라 — 청산 보호 + 자동 수익 최적화, TGE 앞두고 포인트 캠페인 진행 중"
+      "tier": "mid-term",
+      "summary": "DeFi 온체인 신용 인프라 — 청산 보호 + 자동 수익 최적화, TGE 앞두고 포인트 캠페인 진행 중",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-011",
@@ -92,8 +95,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/ad-shield.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "광고 차단 사용자로부터 퍼블리셔 광고 수익을 복구하는 세계 최고 수준의 Adblock Recovery 기술 회사"
+      "tier": "mid-term",
+      "summary": "광고 차단 사용자로부터 퍼블리셔 광고 수익을 복구하는 세계 최고 수준의 Adblock Recovery 기술 회사",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-012",
@@ -110,8 +114,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/aptos.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Move 기반 고성능 Layer 1 블록체인으로 2026년 2월 디플레이션 토크노믹스 개편 + CLOB 출시 예정으로 21% 급등"
+      "tier": "mid-term",
+      "summary": "Move 기반 고성능 Layer 1 블록체인으로 2026년 2월 디플레이션 토크노믹스 개편 + CLOB 출시 예정으로 21% 급등",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-013",
@@ -128,8 +133,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/atommerce-mindcafe.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 1위 멘탈헬스 플랫폼 마인드카페 운영사로, 우울증 디지털치료제 식약처 허가 진행 중"
+      "tier": "mid-term",
+      "summary": "한국 1위 멘탈헬스 플랫폼 마인드카페 운영사로, 우울증 디지털치료제 식약처 허가 진행 중",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-014",
@@ -147,8 +153,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/backpack.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Solana 네이티브 크립토 지갑+거래소로 유니콘 목표, 2026년 2월 토큰 배분 구조 공개"
+      "tier": "mid-term",
+      "summary": "Solana 네이티브 크립토 지갑+거래소로 유니콘 목표, 2026년 2월 토큰 배분 구조 공개",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-015",
@@ -164,8 +171,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/block-odyssey.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "블록체인 기반 물류 플랫폼 및 엔터프라이즈 블록체인 서비스 제공 회사로 2022년 Series A 완료"
+      "tier": "mid-term",
+      "summary": "블록체인 기반 물류 플랫폼 및 엔터프라이즈 블록체인 서비스 제공 회사로 2022년 Series A 완료",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-016",
@@ -181,8 +189,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/borderless-stockal.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "신흥시장 사용자가 미국 주식에 투자할 수 있는 크로스보더 투자 플랫폼, 런웨이 4개월 주의 요망"
+      "tier": "mid-term",
+      "summary": "신흥시장 사용자가 미국 주식에 투자할 수 있는 크로스보더 투자 플랫폼, 런웨이 4개월 주의 요망",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-017",
@@ -199,8 +208,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/codestates.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 최초 코딩 부트캠프에서 B2B 기업 디지털 전환 교육 전문 회사로 성공적 피벗"
+      "tier": "mid-term",
+      "summary": "한국 최초 코딩 부트캠프에서 B2B 기업 디지털 전환 교육 전문 회사로 성공적 피벗",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-018",
@@ -216,8 +226,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/comento.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "현직자 멘토링 + 라이브 실무 교육 중심의 커리어 커뮤니티 플랫폼, 정부 사업 수주 및 B2G 성장 중"
+      "tier": "mid-term",
+      "summary": "현직자 멘토링 + 라이브 실무 교육 중심의 커리어 커뮤니티 플랫폼, 정부 사업 수주 및 B2G 성장 중",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-019",
@@ -232,8 +243,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/community-gaming.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "자동화 이스포츠 토너먼트 플랫폼이나 런웨이 1개월로 긴급 조치 필요"
+      "tier": "mid-term",
+      "summary": "자동화 이스포츠 토너먼트 플랫폼이나 런웨이 1개월로 긴급 조치 필요",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-020",
@@ -246,8 +258,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/contextsio-aimo.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "AI 에이전트 플랫폼으로 알려진 HVF 포트폴리오 기업이나 공개 정보 부재로 현황 불명"
+      "tier": "mid-term",
+      "summary": "AI 에이전트 플랫폼으로 알려진 HVF 포트폴리오 기업이나 공개 정보 부재로 현황 불명",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-021",
@@ -262,8 +275,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/cryptoquant.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 대표 블록체인 온체인 분석 플랫폼으로, 비트코인 사이클 전망 등 시장 분석 신뢰도가 높음"
+      "tier": "mid-term",
+      "summary": "한국 대표 블록체인 온체인 분석 플랫폼으로, 비트코인 사이클 전망 등 시장 분석 신뢰도가 높음",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-022",
@@ -279,8 +293,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/delivus.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "AI 최적화 기반 당일 배송 서비스(딜리래빗) 운영사, 런웨이 2개월로 긴급 대응 필요"
+      "tier": "mid-term",
+      "summary": "AI 최적화 기반 당일 배송 서비스(딜리래빗) 운영사, 런웨이 2개월로 긴급 대응 필요",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-023",
@@ -296,8 +311,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/dfns.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "기관급 디지털 자산 커스터디 API 플랫폼, IBM과 파트너십으로 IBM Digital Asset Haven 구축 중"
+      "tier": "mid-term",
+      "summary": "기관급 디지털 자산 커스터디 API 플랫폼, IBM과 파트너십으로 IBM Digital Asset Haven 구축 중",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-024",
@@ -313,8 +329,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/dg-ventures.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "탈중앙화 기술 중심 벤처캐피탈 펀드로 AI/블록체인 교차점 투자, 런웨이 3개월 긴급 상황"
+      "tier": "mid-term",
+      "summary": "탈중앙화 기술 중심 벤처캐피탈 펀드로 AI/블록체인 교차점 투자, 런웨이 3개월 긴급 상황",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-025",
@@ -330,8 +347,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/doeat.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 최초 무료 배달 앱으로 관악구 중심 운영 중, Goodwater 주도 Series A 조달"
+      "tier": "mid-term",
+      "summary": "한국 최초 무료 배달 앱으로 관악구 중심 운영 중, Goodwater 주도 Series A 조달",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-026",
@@ -347,8 +365,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/dolores-park-labs-ferum.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Aptos 블록체인 위에 구축된 자산 불가지론적 온체인 CLOB(Central Limit Order Book) DeFi 인프라"
+      "tier": "mid-term",
+      "summary": "Aptos 블록체인 위에 구축된 자산 불가지론적 온체인 CLOB(Central Limit Order Book) DeFi 인프라",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-027",
@@ -364,8 +383,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/drnow.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 비대면 진료 1위 앱, 560만 사용자 보유, Series B 4000억원 목표"
+      "tier": "mid-term",
+      "summary": "한국 비대면 진료 1위 앱, 560만 사용자 보유, Series B 4000억원 목표",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-028",
@@ -381,8 +401,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/dune-analytics.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "100개 이상 블록체인 SQL 기반 온체인 데이터 분석 플랫폼, 2026년 2월 스테이블코인 데이터셋 출시"
+      "tier": "mid-term",
+      "summary": "100개 이상 블록체인 SQL 기반 온체인 데이터 분석 플랫폼, 2026년 2월 스테이블코인 데이터셋 출시",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-029",
@@ -399,8 +420,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/dydx-trading.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "탈중앙화 무기한선물 거래 프로토콜로 2026년 RWA 합성 주식 선물 및 기관 채널 확대 추진"
+      "tier": "mid-term",
+      "summary": "탈중앙화 무기한선물 거래 프로토콜로 2026년 RWA 합성 주식 선물 및 기관 채널 확대 추진",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-030",
@@ -416,8 +438,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/fitogether.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "KineticSense™ GPS 선수 추적 시스템으로 FIFA 공인 유일 GNSS 추적 솔루션 보유"
+      "tier": "mid-term",
+      "summary": "KineticSense™ GPS 선수 추적 시스템으로 FIFA 공인 유일 GNSS 추적 솔루션 보유",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-031",
@@ -433,8 +456,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/flexity.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "AI 자동 건축 기획설계 서비스로 토지 선택 시 3D 설계안과 사업성 분석을 즉시 제공"
+      "tier": "mid-term",
+      "summary": "AI 자동 건축 기획설계 서비스로 토지 선택 시 3D 설계안과 사업성 분석을 즉시 제공",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-032",
@@ -449,8 +473,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/fusion-point-studios.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "FPS 게임 Shoot City 개발사, 런웨이 1개월로 존폐 위기 — 정체성 확인 및 즉각 조치 필요"
+      "tier": "mid-term",
+      "summary": "FPS 게임 Shoot City 개발사, 런웨이 1개월로 존폐 위기 — 정체성 확인 및 즉각 조치 필요",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-033",
@@ -468,8 +493,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/gowid.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "실시간 데이터 기반 고성장 기업 대상 법인카드 + 기업금융 B2B 핀테크, 네이버페이 연동 및 IPO 목표"
+      "tier": "mid-term",
+      "summary": "실시간 데이터 기반 고성장 기업 대상 법인카드 + 기업금융 B2B 핀테크, 네이버페이 연동 및 IPO 목표",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-034",
@@ -485,8 +511,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/greenlabs.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "팜모닝 플랫폼을 통해 14억 농부의 데이터 기반 영농을 지원하는 한국 애그테크 선도 기업"
+      "tier": "mid-term",
+      "summary": "팜모닝 플랫폼을 통해 14억 농부의 데이터 기반 영농을 지원하는 한국 애그테크 선도 기업",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-035",
@@ -502,8 +529,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/halliday.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "AI 에이전트의 Web3 스마트 컨트랙트 호출을 신뢰성 있게 처리하는 Workflow Protocol 제공, a16z 주도 Series A 10M"
+      "tier": "mid-term",
+      "summary": "AI 에이전트의 Web3 스마트 컨트랙트 호출을 신뢰성 있게 처리하는 Workflow Protocol 제공, a16z 주도 Series A 10M",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-036",
@@ -520,8 +548,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/hyperithm.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "일본+한국 듀얼 헤드쿼터 기반 기관급 디지털 자산 운용사로 HFT, 브로커리지, 벤처 3개 사업 라인 운영"
+      "tier": "mid-term",
+      "summary": "일본+한국 듀얼 헤드쿼터 기반 기관급 디지털 자산 운용사로 HFT, 브로커리지, 벤처 3개 사업 라인 운영",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-037",
@@ -537,8 +566,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/init-capital-infinit.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "DeFi 유동성 분산 문제를 해결하는 Liquidity Hooks + INFINIT 에이전틱 DeFi 플랫폼, 2026.01 IN 토큰 거래 시작"
+      "tier": "mid-term",
+      "summary": "DeFi 유동성 분산 문제를 해결하는 Liquidity Hooks + INFINIT 에이전틱 DeFi 플랫폼, 2026.01 IN 토큰 거래 시작",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-038",
@@ -554,8 +584,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/jejememe.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 1위 육아 성장기록 플랫폼으로 일본 시장 진출 및 AI 육아 서비스 강화 추진"
+      "tier": "mid-term",
+      "summary": "한국 1위 육아 성장기록 플랫폼으로 일본 시장 진출 및 AI 육아 서비스 강화 추진",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-039",
@@ -571,8 +602,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/juno-nuo-capital.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "크립토 네이티브 네오뱅크로 미 국채 자동투자 + 20개 이상 블록체인 크립토 계정을 결합한 규정 준수 플랫폼"
+      "tier": "mid-term",
+      "summary": "크립토 네이티브 네오뱅크로 미 국채 자동투자 + 20개 이상 블록체인 크립토 계정을 결합한 규정 준수 플랫폼",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-040",
@@ -588,8 +620,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/kite-ai.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "AI 에이전트 신원 인증 및 결제 인프라 \"Kite AIR\" 제공, PayPal Ventures + General Catalyst 주도 Series A 18M"
+      "tier": "mid-term",
+      "summary": "AI 에이전트 신원 인증 및 결제 인프라 \"Kite AIR\" 제공, PayPal Ventures + General Catalyst 주도 Series A 18M",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-041",
@@ -605,8 +638,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/lovo.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "100개 언어 500개 이상 음성 AI 보이스 생성 및 텍스트-투-스피치 플랫폼"
+      "tier": "mid-term",
+      "summary": "100개 언어 500개 이상 음성 AI 보이스 생성 및 텍스트-투-스피치 플랫폼",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-042",
@@ -623,8 +657,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/merge-holdings.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "EU EMI 라이선스 + VASP 승인 취득으로 법정화폐+스테이블코인 이중 결제 인프라를 합법적으로 운영"
+      "tier": "mid-term",
+      "summary": "EU EMI 라이선스 + VASP 승인 취득으로 법정화폐+스테이블코인 이중 결제 인프라를 합법적으로 운영",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-043",
@@ -640,8 +675,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/mythical-inc.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "블록체인 게임 인프라 플랫폼 Mythical Platform과 Mythos Chain을 통해 게임 내 자산 진정한 소유권 제공"
+      "tier": "mid-term",
+      "summary": "블록체인 게임 인프라 플랫폼 Mythical Platform과 Mythos Chain을 통해 게임 내 자산 진정한 소유권 제공",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-044",
@@ -658,8 +694,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/nurihaus.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 인플루언서 기반 커뮤니티 커머스 플랫폼으로 K브랜드의 해외 시장 진출을 지원"
+      "tier": "mid-term",
+      "summary": "한국 인플루언서 기반 커뮤니티 커머스 플랫폼으로 K브랜드의 해외 시장 진출을 지원",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-045",
@@ -675,8 +712,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/overworld.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "크로스플랫폼 멀티플레이어 ARPG로 Hashed 등 주도 시드 10M 조달, 2024년 이후 개발 중"
+      "tier": "mid-term",
+      "summary": "크로스플랫폼 멀티플레이어 ARPG로 Hashed 등 주도 시드 10M 조달, 2024년 이후 개발 중",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-046",
@@ -693,8 +731,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/payhere.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "82,000개 이상 가맹점을 보유한 한국 1위 누적 판매 올인원 클라우드 POS 플랫폼"
+      "tier": "mid-term",
+      "summary": "82,000개 이상 가맹점을 보유한 한국 1위 누적 판매 올인원 클라우드 POS 플랫폼",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-047",
@@ -710,8 +749,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/phi-labs-archway.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Cosmos 기반 Layer 1으로 개발자가 자신이 만든 dApp 거래 수수료와 인플레이션 보상을 직접 받는 Developer Rewards Protocol"
+      "tier": "mid-term",
+      "summary": "Cosmos 기반 Layer 1으로 개발자가 자신이 만든 dApp 거래 수수료와 인플레이션 보상을 직접 받는 Developer Rewards Protocol",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-048",
@@ -727,8 +767,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/portone.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "아시아 전역 API 기반 통합 결제 인프라 플랫폼, 최근 다운라운드와 테라폼랩스 창업자 연관 이슈 주목"
+      "tier": "mid-term",
+      "summary": "아시아 전역 API 기반 통합 결제 인프라 플랫폼, 최근 다운라운드와 테라폼랩스 창업자 연관 이슈 주목",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-049",
@@ -745,8 +786,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/radiusxyz.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Ethereum 롤업을 위한 탈중앙화 공유 시퀀서 레이어 — PVDE 기술로 MEV, 검열, 프런트러닝 방지"
+      "tier": "mid-term",
+      "summary": "Ethereum 롤업을 위한 탈중앙화 공유 시퀀서 레이어 — PVDE 기술로 MEV, 검열, 프런트러닝 방지",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-050",
@@ -761,8 +803,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/ramper.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Web3 사용자 온보딩 마찰을 제거하는 B2B 지갑 SDK + NFT 체크아웃 인프라 제공사"
+      "tier": "mid-term",
+      "summary": "Web3 사용자 온보딩 마찰을 제거하는 B2B 지갑 SDK + NFT 체크아웃 인프라 제공사",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-051",
@@ -778,8 +821,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/republic.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "소액 투자자 대상 크라우드펀딩 + 기관 프라이빗 캐피탈 + 블록체인 토큰화 인프라를 운영하는 복합 투자 플랫폼"
+      "tier": "mid-term",
+      "summary": "소액 투자자 대상 크라우드펀딩 + 기관 프라이빗 캐피탈 + 블록체인 토큰화 인프라를 운영하는 복합 투자 플랫폼",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-052",
@@ -795,8 +839,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/sejinsa.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "구독형 출장 세차 서비스로 아파트/오피스 주차장에서 고객이 주차만 하면 세차 완료, 시니어 일자리와 결합"
+      "tier": "mid-term",
+      "summary": "구독형 출장 세차 서비스로 아파트/오피스 주차장에서 고객이 주차만 하면 세차 완료, 시니어 일자리와 결합",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-053",
@@ -813,8 +858,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/seoul-exchange.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "금융위원회 혁신금융 지정 한국 비상장 증권 거래 플랫폼 2개 중 하나, Story Protocol과 3년 독점 계약으로 RWA 토큰화 선도"
+      "tier": "mid-term",
+      "summary": "금융위원회 혁신금융 지정 한국 비상장 증권 거래 플랫폼 2개 중 하나, Story Protocol과 3년 독점 계약으로 RWA 토큰화 선도",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-054",
@@ -832,8 +878,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/story-protocol.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "프로그래머블 IP 자산을 위한 블록체인 Layer 1으로 2025년 TGE + 80M Series B 완료, IP Vault로 AI 학습 데이터 관리 추진"
+      "tier": "mid-term",
+      "summary": "프로그래머블 IP 자산을 위한 블록체인 Layer 1으로 2025년 TGE + 80M Series B 완료, IP Vault로 AI 학습 데이터 관리 추진",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-055",
@@ -849,8 +896,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/taiko-labs.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "이더리움과 동기적으로 합성 가능한 기반 롤업(based rollup)으로 역사상 처음으로 무허가 시퀀싱/증명을 달성"
+      "tier": "mid-term",
+      "summary": "이더리움과 동기적으로 합성 가능한 기반 롤업(based rollup)으로 역사상 처음으로 무허가 시퀀싱/증명을 달성",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-056",
@@ -867,8 +915,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/theswing.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "한국 유일 3년 연속 흑자 공유 모빌리티 기업으로 2027년 Q4 IPO 목표, 매출 584억원"
+      "tier": "mid-term",
+      "summary": "한국 유일 3년 연속 흑자 공유 모빌리티 기업으로 2027년 Q4 IPO 목표, 매출 584억원",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-057",
@@ -884,8 +933,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/trek-labs-backpack-exchange.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "Solana 기반 크립토 거래소로 10억 달러 이상 프리머니 밸류 추진 + 창업자/VC 토큰 미배분 혁신 토크노믹스"
+      "tier": "mid-term",
+      "summary": "Solana 기반 크립토 거래소로 10억 달러 이상 프리머니 밸류 추진 + 창업자/VC 토큰 미배분 혁신 토크노믹스",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-058",
@@ -902,8 +952,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/uprise-horizonwealth.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "헤이비트 운영사 업라이즈가 두물머리투자자문 인수 합병, HorizonWealth로 2025년 퇴직연금 수탁고 1조원 도전"
+      "tier": "mid-term",
+      "summary": "헤이비트 운영사 업라이즈가 두물머리투자자문 인수 합병, HorizonWealth로 2025년 퇴직연금 수탁고 1조원 도전",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-059",
@@ -920,8 +971,9 @@
       ],
       "source": "/Users/astin/.jinobot/clawd/warm-memory/portfolio/yuga-labs.md",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "BAYC, CryptoPunks 등 프리미엄 NFT IP 보유사로 2025.11 Otherside 메타버스 런칭, Amazon Gaming 첫 파트너십"
+      "tier": "mid-term",
+      "summary": "BAYC, CryptoPunks 등 프리미엄 NFT IP 보유사로 2025.11 Otherside 메타버스 런칭, Amazon Gaming 첫 파트너십",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-060",
@@ -945,8 +997,9 @@
       ],
       "source": "https://newmoneymoves.io/reports/report-iran-geopolitical-risk-deep-dive",
       "savedAt": "2026-03-03",
-      "tier": "short-term",
-      "summary": "호르무즈 봉쇄 3단계 시나리오 (유가 $85~250+), 삼성/하이닉스 원가 +5~8%, 탱커·TIPS·금 헤지 전략"
+      "tier": "mid-term",
+      "summary": "호르무즈 봉쇄 3단계 시나리오 (유가 $85~250+), 삼성/하이닉스 원가 +5~8%, 탱커·TIPS·금 헤지 전략",
+      "lastUpdated": "2026-03-10T18:03:01.000Z"
     },
     {
       "id": "kb-061",

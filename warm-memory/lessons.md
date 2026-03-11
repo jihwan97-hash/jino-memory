@@ -1,3 +1,5 @@
+- [2026-03-11] Hades 바이너리 경로: `/Users/astin/.jinobot/clawd/hades/target/release/hades`. pykrx 의존성 설치 완료 (multipledispatch 포함). `hades price 000660` 으로 한국 주식 현재가 조회 가능.
+- [2026-03-11] X(트위터) 링크 저장 요청 시 `api.fxtwitter.com/{user}/status/{id}` API로 바로 읽을 것. fxtwitter.com 웹페이지는 막히지만 API 엔드포인트는 작동함. x.com URL에서 도메인만 `api.fxtwitter.com`으로 교체하면 됨.
 - [2026-03-09] 주총/주주총회/주주간담회 일정은 항상 캘린더에 시간이 있음. 시간 확인 필요하면 직접 조회할 것. 확인 전에 "시간 없어" 추정 금지.
 - [2026-03-09] 정보 검색 시 memory_search만 쓰지 말고 **qmd도 함께 사용**. memory_search는 핵심 기억(MEMORY.md 등), qmd는 전체 지식베이스(238개 파일). `qmd search "검색어"` or `qmd vsearch "검색어"`. warm-memory 저장 내용 찾을 때 특히 유용.
 - [2026-03-09] 캘린더 메인은 **astin@hashed.com**. jihwan(primary) 캘린더 아님. 일정 조회/생성/확인 모두 astin@hashed.com 기준. env 파일도 이미 수정 완료.

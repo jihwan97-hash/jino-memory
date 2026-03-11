@@ -1,0 +1,148 @@
+{
+  "seen": {
+    "podcast:Invest Like Best": [
+      "9dee904c-1bbf-11f1-a1a6-0b200fdaa525"
+    ],
+    "substack:a16z Future": [
+      "https://www.a16z.news/p/investing-in-nexthop",
+      "https://www.a16z.news/p/your-data-agents-need-context",
+      "https://www.a16z.news/p/top-100-gen-ai-consumer-apps-march"
+    ],
+    "substack:Stratechery": [
+      "https://stratechery.com/?p=18489",
+      "https://stratechery.com/?p=18475"
+    ],
+    "substack:Lenny's Newsletter": [
+      "https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning",
+      "https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning-e49",
+      "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney",
+      "https://www.lennysnewsletter.com/p/mastering-midjourney-how-to-create"
+    ],
+    "substack:The Generalist": [
+      "https://www.generalist.com/p/americas-electric-power-grid-is-broken"
+    ],
+    "substack:TLDR Newsletter": [
+      "https://tldr.tech/tech/2026-03-10"
+    ],
+    "twitter:pmarca": [
+      "https://nitter.net/pmarca/status/2031116702646432056#m",
+      "https://nitter.net/pmarca/status/2031085261329936773#m",
+      "https://nitter.net/pmarca/status/2030951476999405941#m",
+      "https://nitter.net/pmarca/status/2030951025323249955#m",
+      "https://nitter.net/pmarca/status/2030949179720450173#m"
+    ],
+    "twitter:a16z": [
+      "https://nitter.net/a16z/status/2031535685103137170#m",
+      "https://nitter.net/a16z/status/2031528082520289442#m",
+      "https://nitter.net/a16z/status/2031521410896793764#m",
+      "https://nitter.net/a16z/status/2031479867632693646#m",
+      "https://nitter.net/a16z/status/2031472267415429216#m"
+    ],
+    "twitter:cdixon": [
+      "https://nitter.net/nlevine19/status/2025570219821818004#m",
+      "https://nitter.net/cdixon/status/2022088398924914848#m",
+      "https://nitter.net/cdixon/status/2021978913988313120#m",
+      "https://nitter.net/nlevine19/status/2021604210996056318#m",
+      "https://nitter.net/SuccinctJT/status/2021357267610935594#m"
+    ],
+    "twitter:bhorowitz": [
+      "https://nitter.net/MorganLBrennan/status/2029339609939710275#m",
+      "https://nitter.net/bhorowitz/status/2027484289198395745#m",
+      "https://nitter.net/bhorowitz/status/2027484148223631555#m",
+      "https://nitter.net/pmarca/status/2026219485624168713#m",
+      "https://nitter.net/eriktorenberg/status/2021257054737007087#m"
+    ],
+    "twitter:sama": [
+      "https://nitter.net/rohanvarma/status/2030002820515291215#m",
+      "https://nitter.net/sama/status/2030319489993298349#m",
+      "https://nitter.net/sama/status/2030318958512164966#m",
+      "https://nitter.net/sama/status/2030318632899953108#m",
+      "https://nitter.net/sama/status/2030318481653334067#m"
+    ],
+    "twitter:karpathy": [
+      "https://nitter.net/karpathy/status/2031137476438548874#m",
+      "https://nitter.net/karpathy/status/2031135152349524125#m",
+      "https://nitter.net/karpathy/status/2030705271627284816#m",
+      "https://nitter.net/karpathy/status/2030373745991536982#m",
+      "https://nitter.net/karpathy/status/2030371219518931079#m"
+    ],
+    "twitter:naval": [
+      "https://nitter.net/Chris_arnade/status/2030948600944144599#m",
+      "https://nitter.net/naval/status/2030850967059714473#m",
+      "https://nitter.net/naval/status/2030679094623707600#m",
+      "https://nitter.net/naval/status/1880853934883197275#m",
+      "https://nitter.net/kimmaicutler/status/2029931861825442107#m"
+    ],
+    "twitter:paulg": [
+      "https://nitter.net/thehill/status/2031473779164037615#m",
+      "https://nitter.net/paulg/status/2031511273523835361#m",
+      "https://nitter.net/paulg/status/2031495082587660541#m",
+      "https://nitter.net/collinmathilde/status/2031416605004148920#m",
+      "https://nitter.net/michaeljmcnair/status/2031244502929748139#m"
+    ],
+    "twitter:balajis": [
+      "https://nitter.net/cozymaximalist/status/2031037912406511979#m",
+      "https://nitter.net/zodl_app/status/2030995832808288659#m",
+      "https://nitter.net/balajis/status/2028524027116208193#m",
+      "https://nitter.net/balajis/status/2028525489292472637#m",
+      "https://nitter.net/balajis/status/2027701310741745773#m"
+    ],
+    "twitter:elonmusk": [
+      "https://nitter.net/elonmusk/status/2031499633600639253#m",
+      "https://nitter.net/seanmdav/status/2031481317993422854#m",
+      "https://nitter.net/elonmusk/status/2031467100242587659#m",
+      "https://nitter.net/elonmusk/status/2031467039169405408#m"
+    ],
+    "twitter:sriramk": [
+      "https://nitter.net/btaylor/status/2031403214046888321#m",
+      "https://nitter.net/karpathy/status/2031135152349524125#m",
+      "https://nitter.net/sriramk/status/2030301560484364502#m",
+      "https://nitter.net/sriramk/status/2030290489937666434#m"
+    ],
+    "twitter:emollick": [
+      "https://nitter.net/emollick/status/2031579053879091504#m",
+      "https://nitter.net/emollick/status/2031567327716655352#m",
+      "https://nitter.net/emollick/status/2031565633217863881#m",
+      "https://nitter.net/emollick/status/2031519480371683594#m"
+    ],
+    "twitter:ylecun": [
+      "https://nitter.net/koolkaryn/status/2031255381486293032#m",
+      "https://nitter.net/Reuters/status/2031379588668944835#m",
+      "https://nitter.net/NicolasDufourcq/status/2031344671507484896#m",
+      "https://nitter.net/TechCrunch/status/2031234186003288523#m"
+    ],
+    "podcast:Tim Ferriss Show": [
+      "https://tim.blog/?p=113930"
+    ],
+    "twitter:bg2pod": [
+      "https://nitter.net/BG2Pod/status/2030382376526942408#m",
+      "https://nitter.net/BG2Pod/status/2030050131412930669#m",
+      "https://nitter.net/BG2Pod/status/2027835330821558385#m"
+    ],
+    "twitter:bgurley": [
+      "https://nitter.net/mbrendan1/status/2030397512926773380#m",
+      "https://nitter.net/bgurley/status/2030148182668198060#m",
+      "https://nitter.net/lilianr/status/2029698326690681257#m"
+    ],
+    "twitter:altcap": [
+      "https://nitter.net/altcap/status/2030720520954736871#m",
+      "https://nitter.net/altcap/status/2030674018974699693#m",
+      "https://nitter.net/altcap/status/2030673193288212551#m"
+    ]
+  },
+  "link_counts": {
+    "nitter.net": 140,
+    "x.com": 8,
+    "cftc.gov": 1,
+    "ft.com": 2,
+    "cnb.cx": 1,
+    "piped.video": 2,
+    "youtu.be": 2,
+    "github.com": 6,
+    "walkingtheworld.substack.com": 1,
+    "thehill.com": 2,
+    "thefp.com": 1,
+    "astralcodexten.com": 2
+  },
+  "last_discovery": ""
+}

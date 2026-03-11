@@ -1,29 +1,77 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 11일 수요일 오전 01:37 KST
+**Last synced**: 2026년 3월 11일 수요일 오후 01:37 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 4 unread)
+## Recent Emails (30 total, 1 unread)
 
-### **[NEW]** Accept your SAFE from RLWRLD, Inc.
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Wed, 11 Mar 2026 10:06:52 +0530
+- **ID**: `19cdb2f99cfbc289`
+- **Preview**: Dear Sera, Thank you for your detailed explanation. We are discussing the structure internally, and will revert soon. However, we have some comments, which are provided within the text of your email
+
+### ClawCon Seoul 등록이 확인되었습니다
+- **From**: ClawCon <cal-e5mvjF86anukzOt@calendar.luma-mail.com>
+- **Date**: Wed, 11 Mar 2026 03:07:12 +0000
+- **ID**: `19cdadcdd4d154b1`
+- **Preview**: ClawCon 귀하는 등록했습니다 ClawCon Seoul 5월 2 5월 2일 토요일 오후 6:00 - 오후 9:00 GMT+9 Seoul ↗ Seoul 이벤트 페이지 내 티켓 이 이벤트는 OpenClaw Meetups의 일부입니다. 전체 이벤트 목록은 캘린더를 확인하세요 ↗. 친구와 공유 수신 거부 또는 알림 설정 관리
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Wed, 11 Mar 2026 10:32:59 +0900
+- **ID**: `19cda869a56c51fb`
+- **Preview**: 안녕하세요 예슬님, 기 보내주셨던 것처럼 저에게 보내달라는 뜻이었습니다! 제가 HR 팀에 전달 완료했으니 차주 중에는 연락이 갈 것 같습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The
+
+### [프레인글로벌] 2026년 3월 11일(수) 해시드 국내 뉴스 데일리 모니터링
+- **From**: "해시드 국내PR" <hashed_kr@prain.com>
+- **Date**: Wed, 11 Mar 2026 01:30:00 +0000
+- **ID**: `19cda843a75660cd`
+- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 11일 수요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.11(수) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/10(화) [인터뷰 下] 김상훈 &quot;거래소 지분 제한에 윗선
+
+### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
+- **From**: Sarah Lee <lys2719@gmail.com>
+- **Date**: Wed, 11 Mar 2026 10:14:51 +0900
+- **ID**: `19cda768c8f6f527`
+- **Preview**: 지환님 안녕하세요, 혹시나 해서 여쭙습니다. &#39;여기 이메일&#39;이라고 말씀해주신 것이 지환님 메일 체인이 아니라 JD 공고에 기재된 recruit@hashed.com을 의미하신 걸까요? 저는 전자로 이해했는데, 혹시 아닐 수도 있을 것 같아 확인 차 다시 여쭙습니다. 번거롭게 해드려 죄송합니다. 감사합니다. 이예슬 드림 On Tue, Mar 10,
+
+### Important – AWS Invoice e-mail address changes
+- **From**: Amazon Web Services <no-reply@amazonaws.com>
+- **Date**: Tue, 10 Mar 2026 23:58:37 +0000
+- **ID**: `19cda30345f4e760`
+- **Preview**: AWS Greetings from AWS, There are upcoming changes to the AWS email address you receive your invoices from. Starting on March 25, 2026, you will receive all AWS invoices from “invoicing@aws.com”. If
+
+### Accepted: Platform Team 회식(라벨로타) @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
+- **From**: SB An <sb@hashed.com>
+- **Date**: Tue, 10 Mar 2026 23:38:57 +0000
+- **ID**: `19cda1e33d81c6d9`
+- **Preview**: Platform Team 회식(라벨로타) SB An has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers https://
+
+### First-year standard .com pricing drops tomorrow
+- **From**: Vercel <ship@info.vercel.com>
+- **Date**: Tue, 10 Mar 2026 17:48:58 +0000 (UTC)
+- **ID**: `19cd8ddca82852d9`
+- **Preview**: Check out our domains page tomorrow ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏ ‍͏ ͏
+
+### Accept your SAFE from RLWRLD, Inc.
 - **From**: "'Carta' via Investment" <investment@hashed.com>
 - **Date**: Tue, 10 Mar 2026 15:15:28 +0000
 - **ID**: `19cd851429f4d750`
 - **Preview**: Your SAFE has arrived! RLWRLD, Inc. has partnered with Carta, a platform that helps stakeholders manage and stay up-to-date on their equity. Review the equity information below. You can find more
 
-### **[NEW]** Accept your SAFE from RLWRLD, Inc.
+### Accept your SAFE from RLWRLD, Inc.
 - **From**: "'Carta' via Investment" <investment@hashed.com>
 - **Date**: Tue, 10 Mar 2026 15:15:26 +0000
 - **ID**: `19cd8513c31653a9`
 - **Preview**: Your SAFE has arrived! RLWRLD, Inc. has partnered with Carta, a platform that helps stakeholders manage and stay up-to-date on their equity. Review the equity information below. You can find more
 
-### **[NEW]** Quick investor update: AI OS just broke $200M annualized during the batch
+### Quick investor update: AI OS just broke $200M annualized during the batch
 - **From**: "'Dave Fontenot' via Investment" <investment@hashed.com>
 - **Date**: Tue, 10 Mar 2026 13:37:00 +0000
 - **ID**: `19cd7f7b190158ef`
 - **Preview**: One of our teams just broke $200M annualized during the batch We&#39;re putting together a $10M SPV for them at a favorable valuation If you want allocation, let us know right away
 
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: "'Sera Kim' via Investment" <investment@hashed.com>
 - **Date**: Tue, 10 Mar 2026 21:45:31 +0900
 - **ID**: `19cd7c8302600d4a`
@@ -40,12 +88,6 @@
 - **Date**: Tue, 10 Mar 2026 18:42:48 +0900
 - **ID**: `19cd720ad5a418ec`
 - **Preview**: JD 수정 이전에 받았던 지원서 공유드립니다! Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 10 Mar 2026 18:42:37 +0900
-- **ID**: `19cd720851932f8f`
-- **Preview**: Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment is confidential, and may contain proprietary and/or
 
 ### Fwd: 해시드 인턴 지원
 - **From**: Astin Han <astin@hashed.com>
@@ -142,48 +184,6 @@
 - **Date**: Tue, 10 Mar 2026 08:51:54 +0000
 - **ID**: `19cd6f212736333a`
 - **Preview**: Sean / Astin Sean Hong has accepted this invitation. Join with Google Meet Meeting link meet.google.com/ito-fncy-crg Join by phone (US) +1 423-724-8366 PIN: 821808652 More phone numbers When Wednesday
-
-### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Tue, 10 Mar 2026 14:13:35 +0530
-- **ID**: `19cd6eb16f5c373c`
-- **Preview**: Dear Sera, Sujung, and Yoon, Thank you for sharing the revised SPA, the consolidated SAFE Cancellation + Issuance, and the BOK reporting requirements. However, after reviewing these documents and your
-
-### omo.bot Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂšÂ”ÃªÂ¸ÂˆÃ¬Â Âœ Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
-- **From**: jihwan260213@gmail.com
-- **Date**: Tue, 10 Mar 2026 02:56:44 -0500
-- **ID**: `19cd6bf9020c6cb4`
-- **Preview**: 이용약관 요금제 섹션 수정본입니다.\n\n변경: 구독제(Starter/Pro/Scale) → Free + 토큰 충전 방식으로 업데이트
-
-### omo.bot ÃªÂ°ÂœÃ¬Â Â¸Ã¬Â Â•Ã«Â³Â´Ã¬Â²Â˜Ã«Â¦Â¬Ã«Â°Â©Ã¬Â¹Â¨ & Ã¬Â Â´Ã¬ÂšÂ©Ã¬Â•Â½ÃªÂ´Â€ (Ã¬ÂˆÂ˜Ã¬Â Â•Ã«Â³Â¸)
-- **From**: jihwan260213@gmail.com
-- **Date**: Tue, 10 Mar 2026 03:53:12 -0400
-- **ID**: `19cd6bc5a16f95cf`
-- **Preview**: 안녕하세요,\n\nomo.bot 개인정보처리방침 및 이용약관 수정본을 첨부드립니다.\n\n주요 수정 사항:\n- 회사명: 주식회사 해시드벤처스 / 사업자번호: 508-81-42333\n- 텔레그램 중심으로 변경 (카카오 제거)\n- 개인정보 보호책임자 성명·직책 추가\n- 수탁업체 실명 기재 (AWS, 포트원)\n- 관할법원 명시 (서울중앙지방법원)\n-
-
-### Re: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
-- **From**: Sky Kim <sky@portone.io>
-- **Date**: Tue, 10 Mar 2026 16:32:38 +0900
-- **ID**: `19cd6a9b2cf1ac57`
-- **Preview**: 한지환 매니저님, 안녕하세요 포트원 김민규 입니다. 현재 오모봇은 PG사 입점 검토 요청이 완료된 상황이지만 실연동이나 테스트를 할 수 있는 스테이지는 아닌 것으로 확인됩니다. 받으신 해당 메일은 오모봇 관련자분께서 당사 콘솔 내에서 PG입점심사요청을 하셔서 자동으로 발송되는 메일인 것 같습니다. 당사에서 오모봇 서비스 관련해서 입점심사 요청한 PG사로부터
-
-### Fwd: 헥토이노베이션 요청 관련
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Tue, 10 Mar 2026 16:10:00 +0900
-- **ID**: `19cd69516fa788b2`
-- **Preview**: Fyi ---------- 전달된 메일 ---------- 보낸사람: 박강민 &lt;kmpark@unopnd.com&gt; 날짜: 2026년 3월 10일 (화) 오후 4:07 제목: 헥토이노베이션 요청 관련 받는사람: &lt;jun.kim@hashed.com&gt; 참조: Hojin Kim &lt;hojin.kim@unopnd.com&gt; 안녕하세요,
-
-### Fwd: [PortOne] PG 계약에 필요한 테스트모드 설정 안내
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Tue, 10 Mar 2026 16:06:07 +0900
-- **ID**: `19cd6913d30fccba`
-- **Preview**: 안녕하세요 김민규 매니저님, 아래와 같은 메일을 받아 지금부터 테스트 및 실연동도 가능한지 문의드립니다. (관리자 콘솔을 살펴보니 이미 등록되어있는 것 같아) PG사가 KG 이니시스로 되어있는데 여기가 매니저님께서 연결해주신 곳일까요?! 빠르게 대응해주시고 확인해주셔서 감사합니다. 한지환 드림 Astin Han, Platform Operations
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Sarah Lee <lys2719@gmail.com>
-- **Date**: Tue, 10 Mar 2026 15:34:38 +0900
-- **ID**: `19cd674941814ab7`
-- **Preview**: 넵 갑사합니다! 확인했으며, 여전히 지원 희망합니다. 귀한 시간 내주셔서 다시 한번 감사드립니다. 회사에서 뵐 수 있도록 잘 준비하겠습니다. 좋은 하루 보내시길 바랍니다! 이예슬 드림 On Tue, Mar 10, 2026 at 3:29 PM Astin Han &lt;astin@hashed.com&gt; wrote: 안녕하세요 이예슬님, 금일 시간 내서
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
