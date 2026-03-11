@@ -1,6 +1,8 @@
 # AI Is a Five‑Layer Cake — NVIDIA
 
-**출처:** https://x.com/nvidia/status/2031311890752704790  
+**출처 (영문):** https://x.com/nvidia/status/2031311890752704790  
+**출처 (블로그):** https://blogs.nvidia.com/blog/ai-5-layer-cake/  
+**한국어 큐레이션:** 전종현의 인사이트 (@chunjonghyun)  
 **날짜:** 2026-03-10 (NVIDIA 공식 X 아티클)  
 **태그:** #AI #인프라 #NVIDIA #투자thesis #에너지 #반도체
 
@@ -50,3 +52,32 @@ Energy → Chips → Infrastructure → Models → Applications
 > "AI factories are not designed to store information. They are designed to manufacture intelligence."
 
 > "We are a few hundred billion dollars into it. Trillions of dollars of infrastructure still need to be built."
+
+---
+
+## 젠슨 황 핵심 발언 (한국어)
+
+> "AI를 필수적인 인프라로 바라볼 때, 그것이 시사하는 바는 명확해집니다."
+
+> "AI는 트랜스포머 LLM에서 시작되지만, 그 의미는 훨씬 더 큽니다. 이는 에너지가 생산되고 소비되는 방식, 공장이 건설되는 방식, 업무가 조직되는 방식, 그리고 경제가 성장하는 방식을 재편하는 하나의 산업적 대전환입니다."
+
+> "이제 지능이 실시간으로 생성되고 있기 때문에 AI 공장들이 세워지고 있습니다. 효율성이 지능의 확장 속도를 결정하기 때문에 반도체 칩이 재설계되고 있습니다. 에너지는 애초에 지능을 얼마나 많이 생산할 수 있는지 그 상한선을 설정하기 때문에 가장 핵심적인 요소가 됩니다."
+
+> "이 모든 계층은 서로를 강화합니다."
+
+> "우리는 아직 초기 단계에 있습니다. 인프라의 많은 부분이 아직 존재하지 않으며, 많은 기회가 아직 실현되지 않은 상태입니다. 하지만 방향성만큼은 분명합니다."
+
+## 5계층 다이어그램 요약
+
+```
+APPLICATIONS  →  Chatbots / Digital Biology / Robotaxi / Enterprise AI Agents
+                 Science / Robotics / Manufacturing / AI Coder
+
+MODELS        →  LLM / VLM / VLA / MMLLM / GPT / DM / GNN / MOE / SSM / LBM
+
+INFRASTRUCTURE → AI FACTORIES (수만 개 GPU 클러스터)
+
+CHIPS
+
+ENERGY
+```
