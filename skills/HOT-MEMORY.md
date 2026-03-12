@@ -10,14 +10,6 @@
 - For schedule queries: READ the file /Users/astin/.jinobot/clawd/warm-memory/calendar.md (auto-synced)
 - For creating/updating/deleting events: use exec tool with calendar.js commands
 
-## 🔥 Urgent Items (2026-03-12)
-- **오늘 1:30 PM**: Dan (Alchemy) / Astin 미팅 — Google Meet: meet.google.com/mme-hrga-cyt
-- **이번 주**: 페이히어 주주총회 의결권 행사 (KiiPS 플랫폼에서 해시드 1호 + 2호)
-- **이번 주**: SAFE 취소 상환 — Markus Seine 미팅 일정 Medha와 조율 확인
-- **3/26 전**: KDBC-FP 테크넥스트 서면결의서 제출 (산은캐피탈 김도형)
-- **3/26 전**: 마인이스 정기주총 준비 / AcadArena 청산 서류 확인
-- **미정**: Ad-Shield 미국 법인 Flip 우선주 계약서 검토 / AI 이니셔티브 인턴 김동영 HR 전달
-
 ## Available Skills
 - **google-calendar**:
   - Check schedule: `read /Users/astin/.jinobot/clawd/warm-memory/calendar.md`
