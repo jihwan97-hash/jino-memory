@@ -1,9 +1,75 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 11일 수요일 오후 06:38 KST
+**Last synced**: 2026년 3월 12일 목요일 오전 09:09 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 2 unread)
+## Recent Emails (30 total, 10 unread)
+
+### **[NEW]** Fwd: Colosseum C4 - highlighting a few companies
+- **From**: Baek Kim <baek@hashed.com>
+- **Date**: Wed, 11 Mar 2026 23:58:52 +0000
+- **ID**: `19cdf56d9b135941`
+- **Preview**: Baek Kyoum Kim TG: baekkim E: baek@hashed.com The content of this message is confidential. If you have received it by mistake, please inform us by an email reply and then delete the message. It is
+
+### **[NEW]** Updated invitation: Weekly Team Sync @ Mon Mar 16, 2026 11am - 11:30am (GMT+9) (Astin Han)
+- **From**: Seokwon Hong <edward@hashed.com>
+- **Date**: Wed, 11 Mar 2026 23:23:06 +0000
+- **ID**: `19cdf360c3943fc8`
+- **Preview**: Weekly Team Sync Join with Google Meet – You have been invited by Seokwon Hong to attend an event named Weekly Team Sync on Monday Mar 16, 2026 ⋅ 11am – 11:30am (Korean Standard Time - Seoul). This
+
+### **[NEW]** Re: SAFE cancellation repayment schedule
+- **From**: Markus Seine <markus.seine@gmail.com>
+- **Date**: Thu, 12 Mar 2026 06:04:40 +0900
+- **ID**: `19cdeb790ff5e688`
+- **Preview**: Hi Medha, This week I could do Friday between 3 and 5pm KST, else on Sunday 10am. Next week I can speak Monday 2-3:30pm or Tuesday 10-11:30, both KST. Best, Markus On 10 Mar 2026, at 11:26, Medha
+
+### **[NEW]** Accepted: Dan (Alchemy) / Astin (Hashed) @ Thu Mar 12, 2026 1:30pm - 2:30pm (GMT+9) (astin@hashed.com)
+- **From**: Dan Sun <dan.sun@alchemy.com>
+- **Date**: Wed, 11 Mar 2026 18:29:18 +0000
+- **ID**: `19cde29130fab4d0`
+- **Preview**: Dan (Alchemy) / Astin (Hashed) Dan Sun has accepted this invitation. Join with Google Meet Meeting link meet.google.com/mme-hrga-cyt Join by phone (US) +1 915-308-6748 PIN: 772885750 More phone numbers
+
+### **[NEW]** Reminder: Alliance ALL16 Virtual Demo Day starts in 1 week
+- **From**: "'Jocelyn Robancho | Alliance' via Investment" <investment@hashed.com>
+- **Date**: Wed, 11 Mar 2026 16:16:25 +0000 (UTC)
+- **ID**: `19cddaf728a3deaf`
+- **Preview**: Hi investment@hashed.com investment@hashed.com, This is a reminder that your webinar will begin in 1 week: You can cancel your registration at any time. Thank you! Alliance ALL16 Virtual Demo Day Date
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Wed, 11 Mar 2026 19:46:47 +0900
+- **ID**: `19cdc81dfced2500`
+- **Preview**: Dear Medha, As the outstanding items have been spread across multiple email threads with different stakeholders involved, we thought it would be helpful to consolidate our responses by category based
+
+### **[NEW]** [해시드 벤처투자조합 2호] [재발송]주식회사 페이히어에서 (임시)주주총회 참석을 요청했습니다.
+- **From**: jeongeun.bae@payhere.in
+- **Date**: Wed, 11 Mar 2026 10:27:08 +0000 (UTC)
+- **ID**: `19cdc6fa61a3cd20`
+- **Preview**: 쿼타북에서 KiiPS로 발송한 주주총회 안내 메일입니다. KiiPS의 [사후관리] -&gt; [사후관리] -&gt; [동의/협의/주주총회]에서 주주총회 내용을 확인해 주세요. QuotaBook ∙ 홈페이지 ∙ 이용정책 서울특별시 강남구 테헤란로52길 21
+
+### **[NEW]** [해시드 벤처투자조합 1호] [재발송]주식회사 페이히어에서 (임시)주주총회 참석을 요청했습니다.
+- **From**: jeongeun.bae@payhere.in
+- **Date**: Wed, 11 Mar 2026 10:26:57 +0000 (UTC)
+- **ID**: `19cdc6f82058d77b`
+- **Preview**: 쿼타북에서 KiiPS로 발송한 주주총회 안내 메일입니다. KiiPS의 [사후관리] -&gt; [사후관리] -&gt; [동의/협의/주주총회]에서 주주총회 내용을 확인해 주세요. QuotaBook ∙ 홈페이지 ∙ 이용정책 서울특별시 강남구 테헤란로52길 21
+
+### Re: [마인이스] 정기주주총회 소집통지의 건 (3월 26일 목요일)
+- **From**: PIL <pil@mineis.io>
+- **Date**: Wed, 11 Mar 2026 19:13:24 +0900
+- **ID**: `19cdc63491151117`
+- **Preview**: 안녕하세요, 마인이스 윤성필입니다. 직전에 첨부된 연결 재무제표는 26년 1월의 연결재무제표입니다. 본 메일에서 첨부드리는 재무제표가 25년 온기에 해당하는 재무제표이오니 본 버전으로 참고 부탁드리겠습니다. (감사 이후 인식 시점 반영의 과정에서 매출액이 현 58.2억원에서 57.5억원 정도로 변동이 조금 있을 예정입니다.) 혼선을 드려 죄송합니다. 감사
+
+### **[NEW]** [해시드 벤처투자조합 2호] 주식회사 페이히어에서 (정기)주주총회 참석을 요청했습니다.
+- **From**: jeongeun.bae@payhere.in
+- **Date**: Wed, 11 Mar 2026 09:55:36 +0000 (UTC)
+- **ID**: `19cdc52cf27aafa0`
+- **Preview**: 쿼타북에서 KiiPS로 발송한 주주총회 안내 메일입니다. KiiPS의 [사후관리] -&gt; [사후관리] -&gt; [동의/협의/주주총회]에서 주주총회 내용을 확인해 주세요. QuotaBook ∙ 홈페이지 ∙ 이용정책 서울특별시 강남구 테헤란로52길 21
+
+### **[NEW]** [해시드 벤처투자조합 1호] 주식회사 페이히어에서 (정기)주주총회 참석을 요청했습니다.
+- **From**: jeongeun.bae@payhere.in
+- **Date**: Wed, 11 Mar 2026 09:55:20 +0000 (UTC)
+- **ID**: `19cdc5290918e0de`
+- **Preview**: 쿼타북에서 KiiPS로 발송한 주주총회 안내 메일입니다. KiiPS의 [사후관리] -&gt; [사후관리] -&gt; [동의/협의/주주총회]에서 주주총회 내용을 확인해 주세요. QuotaBook ∙ 홈페이지 ∙ 이용정책 서울특별시 강남구 테헤란로52길 21
 
 ### [재송부] [KDBC-FP 테크넥스트 투자조합 1호] 제8기 정기조합원총회 개최(3/26) 안내
 - **From**: "김도형" <dhkim1@kdbc.co.kr>
@@ -118,72 +184,6 @@
 - **Date**: Wed, 11 Mar 2026 05:50:25 +0000
 - **ID**: `19cdb724c56b1793`
 - **Preview**: 문서승인 완료 &#39;구매 신청 (Purchase request)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 11일 오후 2:50 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
-
-### ‘구매 신청 (Purchase request)’의 승인이 완료되었어요.
-- **From**: flex team <no-reply@flex.team>
-- **Date**: Wed, 11 Mar 2026 05:49:49 +0000
-- **ID**: `19cdb71be3088212`
-- **Preview**: 문서승인 완료 &#39;구매 신청 (Purchase request)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 11일 오후 2:49 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
-
-### ‘구매 신청 (Purchase request)’의 승인이 완료되었어요.
-- **From**: flex team <no-reply@flex.team>
-- **Date**: Wed, 11 Mar 2026 05:49:31 +0000
-- **ID**: `19cdb717a84342ed`
-- **Preview**: 문서승인 완료 &#39;구매 신청 (Purchase request)&#39;의 승인이 완료되었어요. 문서 상태 승인 최종 승인 날짜 2026년 3월 11일 오후 2:49 확인하기 Copyright 2026 flex. All rights reserved. ※ 본 메일은 발신전용이며, 메일 수신 설정은 여기에서 할 수 있습니다.
-
-### [해시드] RLWRLD 연결 및 해시드 소개자료 공유의 건
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Wed, 11 Mar 2026 14:27:29 +0900
-- **ID**: `19cdb5dbb37fe6da`
-- **Preview**: 안동찬 전무님, 최동오 상무님, 정해민 팀장님, 안녕하세요. 해시드벤처스 김정준입니다. 전일 해시드의 투자와 벤처빌딩 철학을 설명드릴 수 있는 시간을 만들어 주셔서 감사합니다. 앞으로 긴밀히 팔로업 드리겠습니다. 1. RLWRLD 연결의 건: - 해시드 백수진 수석심사역님을 본 이메일 통해 소개드립니다. 백 수석께서 해시드에서 RLWRLD Deal 담당하심에
-
-### [포트원] PG 입점심사 완료 및 세부 조건 안내에 관한 件
-- **From**: Sky Kim <sky@portone.io>
-- **Date**: Wed, 11 Mar 2026 14:24:11 +0900
-- **ID**: `19cdb5a6ebc539d0`
-- **Preview**: 한지환 매니저님, 안녕하세요 포트원 김민규 입니다. 오모봇 서비스에 맞는 최적의 PG로 &#39;갤럭시아머니트리&#39; 검토되었습니다. 상세 조건은 아래와 같습니다. [갤럭시아머니트리] 수수료 PG 결제수단 수수료(VAT별도) 갤럭시아머니트리 신용카드 영세사업자(연매출 3억미만) 1.60% 중소1(연매출 3억 ~ 5억미만) 2.20% 중소2(연매출 5억 ~
-
-### **[NEW]** Re: Update on OSN Structure and Related SAFE Arrangement - Hashed
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Wed, 11 Mar 2026 10:40:15 +0530
-- **ID**: `19cdb4e28b3e9c44`
-- **Preview**: Hi Matthew, I hope you are well. Our Korean counsel has cleared the Bank of Korea (BOK) aspect of the arrangement. However, we are still awaiting administrative details from our custodian and will
-
-### Fwd: [주식회사 윗유] 주주총회 소집통지서 관련
-- **From**: Zoe Park <zoe@hashed.com>
-- **Date**: Wed, 11 Mar 2026 13:41:47 +0900
-- **ID**: `19cdb33a57b559c9`
-- **Preview**: 아스틴 안녕하세요! 윗유 주주총회 소집통지서 관련 서류 전달드립니다. 박푸름 | Zoe Park Accounting Manager | Finance Team +82-10-3655-1538 www.hashed.com The content of this message and any attachment is confidential, and may contain
-
-### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Wed, 11 Mar 2026 10:06:52 +0530
-- **ID**: `19cdb2f99cfbc289`
-- **Preview**: Dear Sera, Thank you for your detailed explanation. We are discussing the structure internally, and will revert soon. However, we have some comments, which are provided within the text of your email
-
-### ClawCon Seoul 등록이 확인되었습니다
-- **From**: ClawCon <cal-e5mvjF86anukzOt@calendar.luma-mail.com>
-- **Date**: Wed, 11 Mar 2026 03:07:12 +0000
-- **ID**: `19cdadcdd4d154b1`
-- **Preview**: ClawCon 귀하는 등록했습니다 ClawCon Seoul 5월 2 5월 2일 토요일 오후 6:00 - 오후 9:00 GMT+9 Seoul ↗ Seoul 이벤트 페이지 내 티켓 이 이벤트는 OpenClaw Meetups의 일부입니다. 전체 이벤트 목록은 캘린더를 확인하세요 ↗. 친구와 공유 수신 거부 또는 알림 설정 관리
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Wed, 11 Mar 2026 10:32:59 +0900
-- **ID**: `19cda869a56c51fb`
-- **Preview**: 안녕하세요 예슬님, 기 보내주셨던 것처럼 저에게 보내달라는 뜻이었습니다! 제가 HR 팀에 전달 완료했으니 차주 중에는 연락이 갈 것 같습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The
-
-### [프레인글로벌] 2026년 3월 11일(수) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "해시드 국내PR" <hashed_kr@prain.com>
-- **Date**: Wed, 11 Mar 2026 01:30:00 +0000
-- **ID**: `19cda843a75660cd`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 11일 수요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.11(수) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 1 3/10(화) [인터뷰 下] 김상훈 &quot;거래소 지분 제한에 윗선
-
-### Re: [Hashed Internship Application] 연세대 이예슬 지원합니다.
-- **From**: Sarah Lee <lys2719@gmail.com>
-- **Date**: Wed, 11 Mar 2026 10:14:51 +0900
-- **ID**: `19cda768c8f6f527`
-- **Preview**: 지환님 안녕하세요, 혹시나 해서 여쭙습니다. &#39;여기 이메일&#39;이라고 말씀해주신 것이 지환님 메일 체인이 아니라 JD 공고에 기재된 recruit@hashed.com을 의미하신 걸까요? 저는 전자로 이해했는데, 혹시 아닐 수도 있을 것 같아 확인 차 다시 여쭙습니다. 번거롭게 해드려 죄송합니다. 감사합니다. 이예슬 드림 On Tue, Mar 10,
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
