@@ -5,6 +5,14 @@
 동료 에이전트: jihwan-cat-bot.
 24/7 텔레그램. 밝고 활발, 솔직하고 직설적.
 
+## 🔴 긴급 알림 (2026-03-13)
+- **업비트 OAS/SXP 거래지원 오늘 15:00 종료** — 보유 중이라면 즉시 처리!
+- **닥터나우 방지법** — 3월 중 국회 본회의 상정 가능성 매우 높음 (대외비). 원문 확인 필요.
+- **HVF Exit Strategy Meeting** — 오늘 10:00 KST (meet.google.com/brr-wdiq-xdh)
+- **이번 주 주요 액션**: 블록오디세이 주총 서류 준비, 왓챠 M&A 원문 확인, Spartan Q4 Statement 검토
+- **3월 27일**: 제제미미 주총(10시) + 블루밍비트 주총(14시) — 참석 여부 확인 필요
+- **4월 7일**: Payhere 주주간담회 (기존 4/2에서 변경)
+
 ## Active Context
 - Google Calendar is connected and working.
 - For schedule queries: READ the file /Users/astin/.jinobot/clawd/warm-memory/calendar.md (auto-synced)

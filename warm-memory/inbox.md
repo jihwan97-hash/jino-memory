@@ -1,9 +1,21 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 12일 목요일 오후 11:26 KST
+**Last synced**: 2026년 3월 13일 금요일 오전 06:26 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 1 unread)
+## Recent Emails (30 total, 3 unread)
+
+### **[NEW]** Updated Balance Support for Rebasing Tokens - Edition #50
+- **From**: "'Covalent Weekly' via Investment" <investment@hashed.com>
+- **Date**: Thu, 12 Mar 2026 18:36:11 +0000
+- **ID**: `19ce355beb6f3330`
+- **Preview**: Balances for rebasing tokens like stETH, aTokens, cTokens, and more now reflect accrued value correctly. ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​
+
+### **[NEW]** Spartan Venture Fund LP | Investor Statement | Q4 2025
+- **From**: estatements via Investment <investment@hashed.com>
+- **Date**: Thu, 12 Mar 2026 18:02:21 +0000
+- **ID**: `19ce336ca42dfc7c`
+- **Preview**: Dear Investor, Please find attached the Q4 2025 Investor Statement for your investment in the Spartan Venture Fund LP. If you have any questions, please do not hesitate to contact Spartan Capital at
 
 ### [닥터나우] 닥터나우 방지법 통과 가능성 (대외비)
 - **From**: <jin@doctornow.co.kr>
@@ -172,18 +184,6 @@
 - **Date**: Thu, 12 Mar 2026 05:01:08 +0000
 - **ID**: `19ce06b8ac066f25`
 - **Preview**: MARPPLE 고객님의 주문이 정상적으로 접수되었습니다. 안녕하세요, 고객님, 저희 마플을 이용해주셔서 감사합니다. 고객님께서 주문하신 제품이 주문접수 되었습니다. 주문내역 및 배송정보는 &#39;마이페이지&#39;내 &#39;구매내역&#39;에서 확인하실 수 있습니다. 정확하고 빠른 상품 제작과 배송을 위해 최선을 다하겠습니다. 주문번호 3332568
-
-### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Thu, 12 Mar 2026 10:23:59 +0530
-- **ID**: `19ce0659aab752a6`
-- **Preview**: Dear Sera, Thank you for itemizing all outstanding items in your email below. This certainly helps move the discussion forward cohesively. Please find some of our comments within the text of your email
-
-### Re: [코멘토] 정기주주총회 소집 안내
-- **From**: Zoe Park <zoe@hashed.com>
-- **Date**: Thu, 12 Mar 2026 13:45:33 +0900
-- **ID**: `19ce05d7555ef3f7`
-- **Preview**: 안녕하세요. 해시드벤처스 재무팀 박푸름입니다. 요청하신 주주총회 서면결의서 및 공증위임장 스캔본 송부드립니다. 원본 서류는 인감증명서 동봉하여 발송하였으며, 내일 도착 예정입니다. 추가로 필요하신 사항 있으면 말씀 부탁드립니다. 감사합니다. 박푸름 드림 박푸름 | Zoe Park Accounting Manager | Finance Team +82-10-
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

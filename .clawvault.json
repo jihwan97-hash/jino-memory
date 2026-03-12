@@ -2,7 +2,7 @@
   "name": "jino-brain",
   "version": "1.0.0",
   "created": "2026-03-10T08:05:11.767Z",
-  "lastUpdated": "2026-03-12T19:04:42.309Z",
+  "lastUpdated": "2026-03-12T23:00:47.832Z",
   "categories": [
     "rules",
     "preferences",
@@ -22,7 +22,7 @@
     "tasks",
     "backlog"
   ],
-  "documentCount": 444,
+  "documentCount": 458,
   "qmdCollection": "jino-memory",
   "qmdRoot": "/Users/astin/.jinobot/clawd/jino-memory"
 }
