@@ -1,24 +1,39 @@
 # HOT-MEMORY — 긴급 항목
 
-_Updated: 2026-03-11 07:00 KST_
+_Updated: 2026-03-12 19:00 KST_
 
 ---
 
-## 🔴 TODAY (2026-03-11)
+## 🔴 긴급 처리 필요
 
-### 1. RLWRLD SAFE 수락 필요 ⚡
-- Carta 플랫폼에서 SAFE 서명 요청 2통 (중복)
-- investment@hashed.com 으로 수신
+### 1. 페이히어 주주총회 의결권 행사 ⚡
+- 해시드 벤처투자조합 1호, 2호 각각 정기+임시 주주총회
+- KiiPS > [사후관리] > [동의/협의/주주총회]에서 확인 및 의결권 행사 필요
 - **즉시 처리 권장**
 
-### 2. AI OS SPV $10M 투자 결정 ⚡
-- Dave Fontenot 요청 — 연 $200M ARR AI OS 팀
-- $10M SPV, 빠른 결정 요청 ("right away")
-- investment@hashed.com 에서 연락
+### 2. Markus Seine SAFE cancellation 통화
+- 3/14 (금) 통화 예정 — Medha가 3-5pm KST 슬롯 내 정확한 시간 확정 예정
+- 확정 여부 확인 필요
 
-### 3. Sean 미팅 오후 2:00~2:30
-- Google Meet: meet.google.com/ito-fncy-crg
-- Sean Hong (sean@hashed.com)
+---
+
+## 📅 주주총회 데드라인 (2026-03)
+
+| 마감 | 회사/펀드 | 액션 |
+|------|-----------|------|
+| ~3/20 | 임팩트 컬렉티브 코리아 펀드 | Ad-Shield Flip 신규 안건 추가, 서면결의 |
+| 3/26 (목) | 마인이스 | 총회 참석/의결 |
+| 3/26 (목) | KDBC-FP 테크넥스트 1호 | 서면결의, 스캔본 선 전송 후 원본 우편 |
+| 3/27 (금) | 코멘토 | 10:00, 서울 중구 (서면결의서 Zoe가 발송) |
+| 3/27 (금) | 블루밍비트 | 14:00 (전자통지) |
+
+---
+
+## 📌 진행 중
+
+- **Ad-Shield Flip**: Medha ↔ Sera Kim 우선주 계약서 검토 진행 중
+- **왓챠 M&A**: Brian이 내부 포워딩 — 동향 모니터링 필요
+- **Alliance ALL16 Demo Day**: ~3/18 Virtual Demo Day (investment@hashed.com)
 
 ---
 
