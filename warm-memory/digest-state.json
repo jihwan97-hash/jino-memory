@@ -38,7 +38,9 @@
       "https://nitter.net/pmarca/status/2031599071820161227#m",
       "https://nitter.net/pmarca/status/2031881649399742974#m",
       "https://nitter.net/pmarca/status/2031833738318164393#m",
-      "https://nitter.net/pmarca/status/2031833577219051627#m"
+      "https://nitter.net/pmarca/status/2031833577219051627#m",
+      "https://nitter.net/pmarca/status/2031886184482554006#m",
+      "https://nitter.net/jasonrosenthal/status/2031780807870988412#m"
     ],
     "twitter:a16z": [
       "https://nitter.net/a16z/status/2031535685103137170#m",
@@ -48,7 +50,9 @@
       "https://nitter.net/a16z/status/2031472267415429216#m",
       "https://nitter.net/a16z/status/2031835925911912829#m",
       "https://nitter.net/a16z/status/2031828442585710894#m",
-      "https://nitter.net/a16z/status/2031821003412906418#m"
+      "https://nitter.net/a16z/status/2031821003412906418#m",
+      "https://nitter.net/andrewchen/status/2031532980032909640#m",
+      "https://nitter.net/gsivulka/status/2031797989908627849#m"
     ],
     "twitter:cdixon": [
       "https://nitter.net/nlevine19/status/2025570219821818004#m",
@@ -79,7 +83,8 @@
       "https://nitter.net/karpathy/status/2030371219518931079#m",
       "https://nitter.net/karpathy/status/2031792523187040643#m",
       "https://nitter.net/karpathy/status/2031774631498273005#m",
-      "https://nitter.net/karpathy/status/2031770607466291393#m"
+      "https://nitter.net/karpathy/status/2031770607466291393#m",
+      "https://nitter.net/karpathy/status/2031767720933634100#m"
     ],
     "twitter:naval": [
       "https://nitter.net/Chris_arnade/status/2030948600944144599#m",
@@ -97,7 +102,9 @@
       "https://nitter.net/michaeljmcnair/status/2031244502929748139#m",
       "https://nitter.net/paulg/status/2031808752274333718#m",
       "https://nitter.net/paulg/status/2031785196773683450#m",
-      "https://nitter.net/mehdirhasan/status/2031770243073249802#m"
+      "https://nitter.net/mehdirhasan/status/2031770243073249802#m",
+      "https://nitter.net/paulg/status/2031780316231135731#m",
+      "https://nitter.net/ddale8/status/2031708829478473925#m"
     ],
     "twitter:balajis": [
       "https://nitter.net/cozymaximalist/status/2031037912406511979#m",
@@ -118,7 +125,9 @@
       "https://nitter.net/elonmusk/status/2031615166199255155#m",
       "https://nitter.net/dbatura/status/2031418378553012686#m",
       "https://nitter.net/elonmusk/status/2031797055338004572#m",
-      "https://nitter.net/elonmusk/status/2031751255060885911#m"
+      "https://nitter.net/elonmusk/status/2031751255060885911#m",
+      "https://nitter.net/elonmusk/status/2031742857007272243#m",
+      "https://nitter.net/WilliamShatner/status/2031489269618114952#m"
     ],
     "twitter:sriramk": [
       "https://nitter.net/btaylor/status/2031403214046888321#m",
@@ -136,7 +145,9 @@
       "https://nitter.net/emollick/status/2031603241503400097#m",
       "https://nitter.net/emollick/status/2031602680125120839#m",
       "https://nitter.net/emollick/status/2031820850337370352#m",
-      "https://nitter.net/emollick/status/2031802894089875460#m"
+      "https://nitter.net/emollick/status/2031802894089875460#m",
+      "https://nitter.net/emollick/status/2031909831997579702#m",
+      "https://nitter.net/emollick/status/2031751952774627716#m"
     ],
     "twitter:ylecun": [
       "https://nitter.net/koolkaryn/status/2031255381486293032#m",
@@ -183,8 +194,8 @@
     ]
   },
   "link_counts": {
-    "nitter.net": 211,
-    "x.com": 8,
+    "nitter.net": 218,
+    "x.com": 9,
     "cftc.gov": 1,
     "ft.com": 2,
     "cnb.cx": 1,

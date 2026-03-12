@@ -1,46 +1,19 @@
-# Sejinsa (세진사)
-**Last Updated:** 2026-03-09
-**Category:** [최우선] Priority
-**Sector:** Subscription Car Wash, Mobility Services
-**Region:** Korea
-**HVF Stake:** 22.1%
+# Sejinsa - 2026-03-12 Research
 
-## Business Model
-- **Service:** Subscription-based mobile car wash (출장세차)
-- **Brand Promise:** "세차에 진심인 사람들" (People serious about car washing)
-- **Safety focus:** Positioning as safe alternative to fire-risk car wash facilities
-- **Value-add:** Vehicle maintenance included with wash service
+## 최신 동향
+- **송파시니어클럽 MOU 체결** (2026년 1월): 시니어 일자리 창출
+- **2026년 하반기 사업부 출시 예정**: 구체적인 운영 계획 수립 중
+- **Seoul 50+ 센터 협업**: 교육 프로그램 운영 중
 
-## Platform Presence
-- **Website:** carwashlove.com
-- **Mobile App:** Android app on Google Play Store
-- **Customer Support:** Kakao Talk Channel @세차에진심인사람들
-- Hours: Mon-Fri 10:00-18:00 (excl. Sat/holidays)
+## 제품
+- 구독형 출장 세차 서비스
+- 자는 동안 세차 완료 (주차장 방문)
+- 모바일 앱 기반 예약
 
-## Market Position
-- Subscription model differentiates from traditional car wash shops
-- Mobile-first approach targets busy urban professionals
-- Safety messaging addresses consumer pain point (car wash facility fires reported in Korean media)
+## 시사점
+- HVF 22.1% 지분 보유
+- 시니어 일자리 연계로 사회적 가치 창출
+- 구독 모델로 안정적 수익 구조
 
-## Investment Thesis
-- **High HVF stake (22.1%)** indicates strong conviction/control
-- Subscription revenue model provides predictable cash flow
-- Low capex vs traditional car wash facilities (no fixed locations)
-- Mobility services adjacent to car subscription/sharing trends in Korea
-
-## Information Gaps
-- No recent financial data (revenue, subscriber count, churn rate)
-- Expansion plans unclear (city coverage, team size)
-- Competitive landscape (other mobile car wash services)
-- Unit economics not disclosed
-
-## Monitoring Points
-- Subscriber growth rate and churn metrics
-- Geographic expansion beyond initial launch cities
-- Partnership opportunities with car rental/subscription services (e.g., The Trive)
-- Potential synergies with other HVF portfolio mobility companies
-
-## Next Steps
-- Request LP update for financial metrics (ARR, subscriber count)
-- Check for Series A/growth round plans
-- Assess B2B opportunity (fleet management for enterprises)
+## 출처
+- Venturesquare, Google Play (2026-03-12)

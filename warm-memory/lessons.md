@@ -1,3 +1,4 @@
+- [2026-03-12] **데일리 다이제스트 트윗 보고 방식**: 짧은 요약 먼저 → 형이 "조금 더 길게" 또는 번호 선택하면 원문 fetch해서 전체 내용 상세 전달. 처음부터 길게 쓰지 말고, 선택지 주고 확장하는 방식으로.
 - [2026-03-11] Hades 바이너리 경로: `/Users/astin/.jinobot/clawd/hades/target/release/hades`. pykrx 의존성 설치 완료 (multipledispatch 포함). `hades price 000660` 으로 한국 주식 현재가 조회 가능.
 - [2026-03-11] X(트위터) 링크 저장 요청 시 `api.fxtwitter.com/{user}/status/{id}` API로 바로 읽을 것. fxtwitter.com 웹페이지는 막히지만 API 엔드포인트는 작동함. x.com URL에서 도메인만 `api.fxtwitter.com`으로 교체하면 됨.
 - [2026-03-09] 주총/주주총회/주주간담회 일정은 항상 캘린더에 시간이 있음. 시간 확인 필요하면 직접 조회할 것. 확인 전에 "시간 없어" 추정 금지.
@@ -6,3 +7,4 @@
 - [2026-03-07] 지하철/교통 경로 질문 시 나무위키·블로그 등 비공식 출처 사용 금지. 카카오맵/네이버맵 브라우저로 직접 조회하거나, 서울교통공사 공식 데이터 사용. JS 앱이라 파싱 안 되면 솔직히 말하고 공식 앱 안내할 것.
 - [2026-03-05] 백그라운드 작업 완료 시 반드시 형에게 알림 전송할 것. "완료되면 알려줄게" 약속하고 잊어버리는 건 실패임. 완료 직후 message tool 또는 openclaw system event로 무조건 알림.
 - [2026-03-02] CDP_SECRET은 더 이상 필요 없음. 로컬 headless Chrome이 항상 실행 중. 브라우저 사용 시 그냥 exec tool로 node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/read-page.js URL 실행하면 됨. CDP_SECRET 관련 에러는 무시하고 바로 실행해라.
+- [2026-03-12] 포트폴리오 뉴스 검색 시 유사 이름 회사 혼동 주의. **RadiusXYZ(theradius.xyz)**는 Hashed 리드 투자 포폴사 (Pre-seed $1.7M). "Radius Technology(radiustech.xyz)"는 전혀 다른 회사. 검색 결과 보고 시 반드시 로고·공식 도메인·LinkedIn으로 동일 회사 여부 교차 확인할 것. 이름만 보고 단정 금지.

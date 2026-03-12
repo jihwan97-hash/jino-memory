@@ -1,19 +1,11 @@
-# Auto-Study Latest (2026-03-11)
+# Auto-Study - 2026. 3. 12.
 
-**Topic:** crypto-market
+## tech-trends
 
-**Date:** 2026. 3. 11.
+**technology software engineering trends 2026**
 
----
-
-## Search Results
-
-### Query: "cryptocurrency market news today bitcoin ethereum"
-
-**Top Result:**
-- **Title:** Latest Crypto & Bitcoin News - Yahoo Finance
-- **Snippet:** Bitcoin, ethereum, and other cryptocurrencies are rapidly evolving. Follow the latest developments from Yahoo Finance and others here.
+- **2026 Global Software Industry Outlook - Deloitte**  
+  In 2026, established software players are expected to focus on becoming full-stack, end-to-end agentic platforms—helping to build, run, ...
 
 ---
-
-*Last updated: 2026-03-11 02:01 KST*
+*Last updated: 2026-03-12 09:27 KST*

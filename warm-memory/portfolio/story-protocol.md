@@ -1,48 +1,19 @@
-# Story Protocol (Pen Technology Inc.)
-**Last Updated:** 2026-03-09
-**Category:** [최우선] Priority
-**Sector:** IP Protocol, Blockchain, AI
-**Funding:** Series B M (2024), TGE Feb 2025
-**Token:** $IP
+# Story Protocol - 2026-03-12 Research
 
-## Recent Developments (2026 Q1)
+## 최신 동향
+- **OpenLedger와 AI 학습 표준 출시** (2026년 1월 30일): AI 모델 학습 권리 추적
+- **Series B $80M** (2024년 8월): a16z 리드
+- **IP 토큰 출시**: TGE 2025년 2월 완료
+- **Token unlock 시작** (2026년 3월~): 대규모 물량 출시 예정
 
-### Token Unlock Schedule Update (Feb 2, 2026)
-- **PIP Labs (Pen Technology Inc.)** updated $IP unlock schedule
-- **New unlock date:** August 2026 (delayed from original schedule)
-- Rationale: Network evolving toward **AI-driven use cases**
-- Delayed unlock temporarily eases sell pressure
+## 비즈니스
+- IP(지적재산권) 블록체인 프로토콜
+- AI 학습 데이터 보상 체계 구축
+- 소유권, 리믹스, 수익화 프로그램화
 
-### Protocol Performance & Challenges
-- **Daily revenue:** $17-$45 (low range indicates adoption challenges)
-- Price prediction: Expected to trade around **$4.7 by end of 2026** (max $5)
-- Current support zone: $1.30-$1.50 demand level critical
-- Risk: Sustained break below $1.30 could trigger panic selling
+## 시사점
+- AI 시대 IP 보호 솔루션으로 포지셔닝
+- 프로토콜 수수료는 아직 낮음 (<$100/day) → 채택 확대 필요
 
-### Strategic Pivot: AI Integration
-- Network evolution focusing on AI-driven IP use cases
-- Positioning as infrastructure for AI content attribution and licensing
-- Timing aligns with broader AI content rights debates (2025-2026)
-
-## Investment Thesis
-- **Unique positioning:** Only dedicated blockchain for programmable IP
-- **AI opportunity:** AI-generated content explosion creates demand for attribution/licensing infrastructure
-- **Token unlock delay:** Provides runway to prove AI use case traction before major supply increase
-- **Competitive moat:** First-mover in IP protocol layer
-
-## Risks & Concerns
-- **Low protocol revenue ($17-$45/day)** suggests limited current adoption
-- **Token price pressure:** Despite unlock delay, price near support levels
-- **Unproven AI pivot:** Market yet to validate AI-driven IP use cases
-- **Competition:** Traditional IP management companies may build similar solutions
-
-## Monitoring Points
-- $IP price action around $1.30-$1.50 support zone (break = red flag)
-- Protocol revenue growth (needs 10x+ to justify valuation)
-- Concrete AI partnership announcements (OpenAI, Stability AI, etc.)
-- August 2026 unlock impact on liquidity and price
-
-## HVF Position
-- Series B investor at $80M valuation
-- Token unlock delay buys time but fundamentals need improvement
-- **Action:** Monitor monthly protocol revenue and AI partnership progress
+## 출처
+- CoinMarketCap, Crunchbase, Story.foundation (2026-03-12)

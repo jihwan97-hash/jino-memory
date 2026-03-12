@@ -91,3 +91,8 @@
 - **GreenLabs (그린랩스)**: 팜모닝 플랫폼 기반 한국 애그테크 선도 기업. 생산~유통 데이터 기반 영농 관리, 글로벌 1위 비전으로 잠재 대상 14억 농부. 데이터 네트워크 효과(농부 증가 → 데이터 품질 향상) + 풀스택 접근으로 농업 디지털화 선도
 - **Halliday International**: AI 에이전트 ↔ Web3 스마트 컨트랙트 신뢰성 연결 Workflow Protocol 제공. a16z crypto 주도 Series A 10M — "에이전트 인터넷의 핵심 인프라" 논거. Web3 게임 온보딩에서 AI 에이전트 인프라로 성공 피벗. Series B 및 채택 지표 모니터링
 - **Hyperithm**: 도쿄+서울 듀얼 HQ 기관급 디지털 자산 운용사. HFT/알고 마켓뉴트럴 + 기관 브로커리지(상장사·패밀리오피스·크립토 거래소) + 벤처투자(L1/L2·인프라·dApps·게임) 3개 수익원. 창업자 Forbes 30 Under 30·모건스탠리 출신. 일본·한국 시장 진입 게이트웨이 강점
+- **Init Capital / INFINIT**: DeFi 유동성 분산 문제 해결 Liquidity Hooks + 에이전틱 DeFi 추상화 플랫폼. Electric Capital·Hashed·Maelstrom(Arthur Hayes)·Lightspeed 등 10M 조달. 2026.01 IN 토큰 거래 시작, 35.73M 언락. 유동성 레이어 인프라 경쟁 심화 주시
+- **JEJEMEME (제제미미)**: 쑥쑥찰칵 앱 — 한국 1위 아이 성장기록 플랫폼. Hashed·Spring Camp·하나벤처스 Series A 20억원. 2024.12 일본 진출, 현지 인플루언서 130명 앰배서더 협업. "출산율 세계 꼴찌→글로벌 1위 육아 서비스" 비전. AI 육아 서비스 강화 방향
+- **Juno / Nuo Capital**: 크립토 네이티브 네오뱅크 (싱가포르). 미 국채 자동투자 현금관리 + 20개+ 블록체인 크립토 계정. ParaFi Capital 주도 Series A 18M (Hashed+Jump Crypto 참여). 업계 최초 토큰화 로열티 프로그램. 최근 업데이트 없음 — 현 트랙션 확인 필요
+- **Kite AI (구 Zettablock)**: Zettablock(블록체인 데이터)→Kite(AI 에이전트 인프라)로 리브랜딩. Kite AIR: AI 에이전트 독립 신원인증·결제 인프라. PayPal Ventures+General Catalyst 공동 주도 Series A 18M. Coinbase·PayPal On/Off-Ramp API 연동. "최초의 AI 결제 블록체인" 포지셔닝
+- **LOVO**: 100개 언어 500개+ 음성 AI 보이스 생성 + TTS + 동영상 에디터 통합 플랫폼. 콘텐츠 크리에이터·소규모 프로젝트 타겟. 경쟁사: ElevenLabs, Murf.ai, Speechify. 가격 티어 간격 과다 피드백. 최근 펀딩 뉴스 없음 — Series A/B 현황 파악 필요
