@@ -1,3 +1,4 @@
+- [2026-03-12] **크론 에러 즉시 알림**: 하트비트에서 크론 error 감지 시 "고쳐줄까?" 물어보는 것으로 끝내지 말고, **즉시 형에게 알림 전송**할 것. 연속 error는 시스템 장애이므로 물어보지 말고 바로 보고.
 - [2026-03-12] **데일리 다이제스트 트윗 보고 방식**: 짧은 요약 먼저 → 형이 "조금 더 길게" 또는 번호 선택하면 원문 fetch해서 전체 내용 상세 전달. 처음부터 길게 쓰지 말고, 선택지 주고 확장하는 방식으로.
 - [2026-03-11] Hades 바이너리 경로: `/Users/astin/.jinobot/clawd/hades/target/release/hades`. pykrx 의존성 설치 완료 (multipledispatch 포함). `hades price 000660` 으로 한국 주식 현재가 조회 가능.
 - [2026-03-11] X(트위터) 링크 저장 요청 시 `api.fxtwitter.com/{user}/status/{id}` API로 바로 읽을 것. fxtwitter.com 웹페이지는 막히지만 API 엔드포인트는 작동함. x.com URL에서 도메인만 `api.fxtwitter.com`으로 교체하면 됨.

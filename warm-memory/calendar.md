@@ -1,11 +1,10 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 3월 12일 목요일 오후 04:08 KST
+**Last synced**: 2026년 3월 12일 목요일 오후 11:25 KST
 
-## Upcoming Events (3)
+## Upcoming Events (2)
 
 - **09:00-18:00**: 🚀 VibeLabs S1: Align & Baseline
-- **18:00-21:00**: 여의도
 - **All day**: 📋 VibeLabs: Sprint 1 리뷰 & Sprint 2 예측
 
 ---

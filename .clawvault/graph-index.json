@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-12T11:00:48.409Z",
+  "generatedAt": "2026-03-12T17:00:52.691Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -2113,7 +2113,7 @@
     },
     "brain-memory/daily/2026-03-12.md": {
       "relativePath": "brain-memory/daily/2026-03-12.md",
-      "mtimeMs": 1773313209013.58,
+      "mtimeMs": 1773334811393.9373,
       "nodes": [
         {
           "id": "note:brain-memory/daily/2026-03-12",
@@ -2127,7 +2127,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T11:00:09.013Z"
+          "modifiedAt": "2026-03-12T17:00:11.393Z"
         },
         {
           "id": "tag:1",
@@ -3770,6 +3770,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-12T11:00:36.354Z"
+        }
+      ],
+      "edges": []
+    },
+    "daily/2026-03-13.md": {
+      "relativePath": "daily/2026-03-13.md",
+      "mtimeMs": 1773334843170.7593,
+      "nodes": [
+        {
+          "id": "note:daily/2026-03-13",
+          "title": "2026 03 13",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T17:00:43.170Z"
         }
       ],
       "edges": []
@@ -6937,6 +6955,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-12-1700.md": {
+      "relativePath": "handoffs/handoff-2026-03-12-1700.md",
+      "mtimeMs": 1773334852592.039,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-12-1700",
+          "title": "handoff-2026-03-12-1700",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-12-1700.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T17:00:52.592Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1772718612970.9497,
@@ -7356,7 +7392,7 @@
     },
     "ledger/observations/2026/03/12.md": {
       "relativePath": "ledger/observations/2026/03/12.md",
-      "mtimeMs": 1773313206559.2532,
+      "mtimeMs": 1773334808764.1775,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/12",
@@ -7369,7 +7405,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T11:00:06.559Z"
+          "modifiedAt": "2026-03-12T17:00:08.764Z"
         },
         {
           "id": "tag:1",
@@ -7501,7 +7537,7 @@
     },
     "MEMORY.md": {
       "relativePath": "MEMORY.md",
-      "mtimeMs": 1773281148569.3804,
+      "mtimeMs": 1773318285541.532,
       "nodes": [
         {
           "id": "note:MEMORY",
@@ -7512,7 +7548,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T02:05:48.569Z"
+          "modifiedAt": "2026-03-12T12:24:45.541Z"
         }
       ],
       "edges": []
@@ -15119,6 +15155,80 @@
         }
       ]
     },
+    "research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩.md": {
+      "relativePath": "research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩.md",
+      "mtimeMs": 1773318027855.7017,
+      "nodes": [
+        {
+          "id": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+          "title": "2026 03 12 Claude Native LawFirm AI판단인코딩",
+          "type": "note",
+          "category": "note",
+          "path": "research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩.md",
+          "tags": [
+            "ai",
+            "claude",
+            "skills"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T12:20:27.855Z"
+        },
+        {
+          "id": "tag:ai",
+          "title": "#ai",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:claude",
+          "title": "#claude",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:skills",
+          "title": "#skills",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:ai",
+          "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+          "target": "tag:ai",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:claude",
+          "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+          "target": "tag:claude",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:skills",
+          "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+          "target": "tag:skills",
+          "type": "tag"
+        }
+      ]
+    },
     "research/knowledge-base/mid-term/2026-crypto-aml-report.md": {
       "relativePath": "research/knowledge-base/mid-term/2026-crypto-aml-report.md",
       "mtimeMs": 1773129930879.7925,
@@ -16281,7 +16391,7 @@
     },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
-      "mtimeMs": 1773299293918.8733,
+      "mtimeMs": 1773325527545.4893,
       "nodes": [
         {
           "id": "note:skills/brain-memory/SKILL",
@@ -16292,7 +16402,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:13.918Z"
+          "modifiedAt": "2026-03-12T14:25:27.545Z"
         }
       ],
       "edges": []
@@ -16335,7 +16445,7 @@
     },
     "skills/CLAUDE.md": {
       "relativePath": "skills/CLAUDE.md",
-      "mtimeMs": 1773299294848.419,
+      "mtimeMs": 1773325528520.5908,
       "nodes": [
         {
           "id": "note:skills/CLAUDE",
@@ -16346,14 +16456,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.848Z"
+          "modifiedAt": "2026-03-12T14:25:28.520Z"
         }
       ],
       "edges": []
     },
     "skills/cloudflare-browser/SKILL.md": {
       "relativePath": "skills/cloudflare-browser/SKILL.md",
-      "mtimeMs": 1773299295008.5676,
+      "mtimeMs": 1773325528693.4524,
       "nodes": [
         {
           "id": "note:skills/cloudflare-browser/SKILL",
@@ -16364,7 +16474,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:15.008Z"
+          "modifiedAt": "2026-03-12T14:25:28.693Z"
         }
       ],
       "edges": []
@@ -16553,7 +16663,7 @@
     },
     "skills/google-calendar/SKILL.md": {
       "relativePath": "skills/google-calendar/SKILL.md",
-      "mtimeMs": 1773299294314.3435,
+      "mtimeMs": 1773325528091.0583,
       "nodes": [
         {
           "id": "note:skills/google-calendar/SKILL",
@@ -16564,7 +16674,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.314Z"
+          "modifiedAt": "2026-03-12T14:25:28.091Z"
         }
       ],
       "edges": []
@@ -16607,7 +16717,7 @@
     },
     "skills/HEARTBEAT.md": {
       "relativePath": "skills/HEARTBEAT.md",
-      "mtimeMs": 1773299294121.1167,
+      "mtimeMs": 1773325527811.5625,
       "nodes": [
         {
           "id": "note:skills/HEARTBEAT",
@@ -16618,14 +16728,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.121Z"
+          "modifiedAt": "2026-03-12T14:25:27.811Z"
         }
       ],
       "edges": []
     },
     "skills/HOT-MEMORY.md": {
       "relativePath": "skills/HOT-MEMORY.md",
-      "mtimeMs": 1773299294167.7622,
+      "mtimeMs": 1773325527859.7954,
       "nodes": [
         {
           "id": "note:skills/HOT-MEMORY",
@@ -16636,14 +16746,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.167Z"
+          "modifiedAt": "2026-03-12T14:25:27.859Z"
         }
       ],
       "edges": []
     },
     "skills/memory-retriever/SKILL.md": {
       "relativePath": "skills/memory-retriever/SKILL.md",
-      "mtimeMs": 1773299294079.3306,
+      "mtimeMs": 1773325527765.6602,
       "nodes": [
         {
           "id": "note:skills/memory-retriever/SKILL",
@@ -16654,7 +16764,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.079Z"
+          "modifiedAt": "2026-03-12T14:25:27.765Z"
         }
       ],
       "edges": []
@@ -16715,7 +16825,7 @@
     },
     "skills/self-modify/SKILL.md": {
       "relativePath": "skills/self-modify/SKILL.md",
-      "mtimeMs": 1773299294804.328,
+      "mtimeMs": 1773325528479.761,
       "nodes": [
         {
           "id": "note:skills/self-modify/SKILL",
@@ -16726,14 +16836,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.804Z"
+          "modifiedAt": "2026-03-12T14:25:28.479Z"
         }
       ],
       "edges": []
     },
     "skills/SOUL.md": {
       "relativePath": "skills/SOUL.md",
-      "mtimeMs": 1773299293736.5898,
+      "mtimeMs": 1773325527332.959,
       "nodes": [
         {
           "id": "note:skills/SOUL",
@@ -16744,14 +16854,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:13.736Z"
+          "modifiedAt": "2026-03-12T14:25:27.332Z"
         }
       ],
       "edges": []
     },
     "skills/templates/lessons.md": {
       "relativePath": "skills/templates/lessons.md",
-      "mtimeMs": 1773299293768.3218,
+      "mtimeMs": 1773325527375.0205,
       "nodes": [
         {
           "id": "note:skills/templates/lessons",
@@ -16762,14 +16872,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:13.768Z"
+          "modifiedAt": "2026-03-12T14:25:27.375Z"
         }
       ],
       "edges": []
     },
     "skills/templates/todo.md": {
       "relativePath": "skills/templates/todo.md",
-      "mtimeMs": 1773299293767.907,
+      "mtimeMs": 1773325527373.3555,
       "nodes": [
         {
           "id": "note:skills/templates/todo",
@@ -16780,7 +16890,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:13.767Z"
+          "modifiedAt": "2026-03-12T14:25:27.373Z"
         }
       ],
       "edges": []
@@ -16805,7 +16915,7 @@
     },
     "skills/USER.md": {
       "relativePath": "skills/USER.md",
-      "mtimeMs": 1773299293738.0627,
+      "mtimeMs": 1773325527336.125,
       "nodes": [
         {
           "id": "note:skills/USER",
@@ -16816,14 +16926,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:13.738Z"
+          "modifiedAt": "2026-03-12T14:25:27.336Z"
         }
       ],
       "edges": []
     },
     "skills/web-researcher/SKILL.md": {
       "relativePath": "skills/web-researcher/SKILL.md",
-      "mtimeMs": 1773299294434.8013,
+      "mtimeMs": 1773325528233.024,
       "nodes": [
         {
           "id": "note:skills/web-researcher/SKILL",
@@ -16834,7 +16944,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:14.434Z"
+          "modifiedAt": "2026-03-12T14:25:28.233Z"
         }
       ],
       "edges": []
@@ -17111,7 +17221,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773299325350.1846,
+      "mtimeMs": 1773325554639.3157,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -17122,7 +17232,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:45.350Z"
+          "modifiedAt": "2026-03-12T14:25:54.639Z"
         }
       ],
       "edges": []
@@ -17219,7 +17329,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773299337655.059,
+      "mtimeMs": 1773325568291.9968,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -17230,14 +17340,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:57.655Z"
+          "modifiedAt": "2026-03-12T14:26:08.291Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773299336959.8198,
+      "mtimeMs": 1773325567855.7927,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -17248,14 +17358,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:56.959Z"
+          "modifiedAt": "2026-03-12T14:26:07.855Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773299335579.3357,
+      "mtimeMs": 1773325566029.2698,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -17263,33 +17373,13 @@
           "type": "note",
           "category": "note",
           "path": "warm-memory/inbox.md",
-          "tags": [
-            "hashed"
-          ],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": "2026-03-12T07:08:55.579Z"
-        },
-        {
-          "id": "tag:hashed",
-          "title": "#hashed",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-03-12T14:26:06.029Z"
         }
       ],
-      "edges": [
-        {
-          "id": "tag:note:warm-memory/inbox->tag:hashed",
-          "source": "note:warm-memory/inbox",
-          "target": "tag:hashed",
-          "type": "tag"
-        }
-      ]
+      "edges": []
     },
     "warm-memory/insights.md": {
       "relativePath": "warm-memory/insights.md",
@@ -21317,7 +21407,7 @@
     },
     "warm-memory/lessons.md": {
       "relativePath": "warm-memory/lessons.md",
-      "mtimeMs": 1773282242244.2122,
+      "mtimeMs": 1773318333703.8477,
       "nodes": [
         {
           "id": "note:warm-memory/lessons",
@@ -21328,7 +21418,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T02:24:02.244Z"
+          "modifiedAt": "2026-03-12T12:25:33.703Z"
         }
       ],
       "edges": []
@@ -23505,7 +23595,7 @@
         ],
         "missing": false,
         "degree": 3,
-        "modifiedAt": "2026-03-12T11:00:09.013Z"
+        "modifiedAt": "2026-03-12T17:00:11.393Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -23897,6 +23987,17 @@
         "modifiedAt": "2026-03-12T11:00:36.354Z"
       },
       {
+        "id": "note:daily/2026-03-13",
+        "title": "2026 03 13",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T17:00:43.170Z"
+      },
+      {
         "id": "note:decisions/2026-03-10",
         "title": "2026 03 10",
         "type": "decision",
@@ -24095,6 +24196,17 @@
         "modifiedAt": "2026-03-12T11:00:48.313Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-12-1700",
+        "title": "handoff-2026-03-12-1700",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-12-1700.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T17:00:52.592Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -24178,7 +24290,7 @@
         ],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-12T11:00:06.559Z"
+        "modifiedAt": "2026-03-12T17:00:08.764Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -24222,7 +24334,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-12T02:05:48.569Z"
+        "modifiedAt": "2026-03-12T12:24:45.541Z"
       },
       {
         "id": "note:memory/2026-02-26",
@@ -25541,6 +25653,21 @@
         "modifiedAt": "2026-03-11T07:56:41.368Z"
       },
       {
+        "id": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+        "title": "2026 03 12 Claude Native LawFirm AI판단인코딩",
+        "type": "note",
+        "category": "note",
+        "path": "research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩.md",
+        "tags": [
+          "ai",
+          "claude",
+          "skills"
+        ],
+        "missing": false,
+        "degree": 3,
+        "modifiedAt": "2026-03-12T12:20:27.855Z"
+      },
+      {
         "id": "note:research/knowledge-base/mid-term/2026-crypto-aml-report",
         "title": "2026 Crypto Aml Report",
         "type": "note",
@@ -25845,7 +25972,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:13.918Z"
+        "modifiedAt": "2026-03-12T14:25:27.545Z"
       },
       {
         "id": "note:skills/cbt-counselor/references/reveal-framework",
@@ -25878,7 +26005,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-12T07:08:14.848Z"
+        "modifiedAt": "2026-03-12T14:25:28.520Z"
       },
       {
         "id": "note:skills/cloudflare-browser/SKILL",
@@ -25889,7 +26016,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:15.008Z"
+        "modifiedAt": "2026-03-12T14:25:28.693Z"
       },
       {
         "id": "note:skills/failure-memory/SKILL",
@@ -25921,7 +26048,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.314Z"
+        "modifiedAt": "2026-03-12T14:25:28.091Z"
       },
       {
         "id": "note:skills/hades/references/market-rules",
@@ -25954,7 +26081,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.121Z"
+        "modifiedAt": "2026-03-12T14:25:27.811Z"
       },
       {
         "id": "note:skills/HOT-MEMORY",
@@ -25965,7 +26092,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.167Z"
+        "modifiedAt": "2026-03-12T14:25:27.859Z"
       },
       {
         "id": "note:skills/memory-retriever/SKILL",
@@ -25976,7 +26103,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.079Z"
+        "modifiedAt": "2026-03-12T14:25:27.765Z"
       },
       {
         "id": "note:skills/philosopher-chat/references/philosophers",
@@ -26020,7 +26147,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.804Z"
+        "modifiedAt": "2026-03-12T14:25:28.479Z"
       },
       {
         "id": "note:skills/SOUL",
@@ -26031,7 +26158,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:13.736Z"
+        "modifiedAt": "2026-03-12T14:25:27.332Z"
       },
       {
         "id": "note:skills/templates/lessons",
@@ -26042,7 +26169,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:13.768Z"
+        "modifiedAt": "2026-03-12T14:25:27.375Z"
       },
       {
         "id": "note:skills/templates/todo",
@@ -26053,7 +26180,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:13.767Z"
+        "modifiedAt": "2026-03-12T14:25:27.373Z"
       },
       {
         "id": "note:skills/tmux-claudecode/SKILL",
@@ -26075,7 +26202,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:13.738Z"
+        "modifiedAt": "2026-03-12T14:25:27.336Z"
       },
       {
         "id": "note:skills/web-researcher/SKILL",
@@ -26086,7 +26213,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:14.434Z"
+        "modifiedAt": "2026-03-12T14:25:28.233Z"
       },
       {
         "id": "note:SOUL",
@@ -26262,7 +26389,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-12T07:08:45.350Z"
+        "modifiedAt": "2026-03-12T14:25:54.639Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -26325,12 +26452,10 @@
         "type": "note",
         "category": "note",
         "path": "warm-memory/inbox.md",
-        "tags": [
-          "hashed"
-        ],
+        "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-12T07:08:55.579Z"
+        "degree": 0,
+        "modifiedAt": "2026-03-12T14:26:06.029Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -26341,7 +26466,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:57.655Z"
+        "modifiedAt": "2026-03-12T14:26:08.291Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -26352,7 +26477,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T07:08:56.959Z"
+        "modifiedAt": "2026-03-12T14:26:07.855Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -27379,7 +27504,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T02:24:02.244Z"
+        "modifiedAt": "2026-03-12T12:25:33.703Z"
       },
       {
         "id": "note:warm-memory/omo_privacy_policy",
@@ -28562,7 +28687,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 42,
+        "degree": 43,
         "modifiedAt": null
       },
       {
@@ -28678,6 +28803,17 @@
       {
         "id": "tag:btc",
         "title": "#btc",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:claude",
+        "title": "#claude",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -29046,7 +29182,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 12,
+        "degree": 11,
         "modifiedAt": null
       },
       {
@@ -29707,6 +29843,17 @@
         "tags": [],
         "missing": false,
         "degree": 5,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:skills",
+        "title": "#skills",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -34216,6 +34363,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:ai",
+        "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+        "target": "tag:ai",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:claude",
+        "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+        "target": "tag:claude",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩->tag:skills",
+        "source": "note:research/knowledge-base/mid-term/2026-03-12_Claude-Native-LawFirm_AI판단인코딩",
+        "target": "tag:skills",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:research/knowledge-base/short-term/2026-03-03_ai-news->tag:ai",
         "source": "note:research/knowledge-base/short-term/2026-03-03_ai-news",
         "target": "tag:ai",
@@ -34513,12 +34678,6 @@
         "id": "tag:note:skills/failure-memory/SKILL->tag:self-improving",
         "source": "note:skills/failure-memory/SKILL",
         "target": "tag:self-improving",
-        "type": "tag"
-      },
-      {
-        "id": "tag:note:warm-memory/inbox->tag:hashed",
-        "source": "note:warm-memory/inbox",
-        "target": "tag:hashed",
         "type": "tag"
       },
       {
@@ -37865,23 +38024,23 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-12T11:00:48.409Z",
-      "nodeCount": 824,
-      "edgeCount": 860,
+      "generatedAt": "2026-03-12T17:00:52.691Z",
+      "nodeCount": 829,
+      "edgeCount": 862,
       "nodeTypeCounts": {
-        "note": 382,
-        "tag": 143,
+        "note": 383,
+        "tag": 145,
         "unresolved": 251,
-        "daily": 10,
+        "daily": 11,
         "commitment": 6,
         "decision": 2,
-        "handoff": 9,
+        "handoff": 10,
         "lesson": 3,
         "person": 1,
         "project": 17
       },
       "edgeTypeCounts": {
-        "tag": 450,
+        "tag": 452,
         "wiki_link": 410
       }
     }
