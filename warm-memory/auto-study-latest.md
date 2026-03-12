@@ -1,11 +1,13 @@
-# Auto-Study - 2026. 3. 12.
+# Auto-Study: 2026-03-13
 
-## tech-trends
+**Topic:** korea-tech
 
-**technology software engineering trends 2026**
+## 한국 IT 스타트업 기술 뉴스
 
-- **2026 Global Software Industry Outlook - Deloitte**  
-  In 2026, established software players are expected to focus on becoming full-stack, end-to-end agentic platforms—helping to build, run, ...
+**Source:** IT/과학 - 다음뉴스
+
+- 구글, AI로 '도시 돌발 홍수' 예측한다...150개국 260만건 데이터 구축 (매일경제)
+- "한국 기업 99%, 올해 AI 투자 평균 15% 늘린다" (IT조선)
 
 ---
-*Last updated: 2026-03-12 09:27 KST*
+*Generated: 2026-03-13 02:01 KST*

@@ -1,40 +1,46 @@
-# Doeat (두잇) - Zero-Fee Delivery App
-Last researched: 2026-03-08
+# Doeat (두잇) - Research (2026-03-13)
 
-## Overview
-1인가구 타겟 배달앱. "평생 배달비 0원" 전략으로 차별화.
+**Last Updated:** 2026-03-13
+**Status:** [유망] Series A W306B ($30.6M)
+**Sector:** Zero-fee delivery / Food-tech
 
-## Recent Developments (2025-2026)
-- **Series A**: W306B (Goodwater Capital 참여, Jan 2025)
-- **Value proposition**: 
-  - 최소주문 W9,000 이상 시 배달비 무료
-  - 1인분도 무료배달 (기존 배달앱은 최소주문 높음)
-  - 평균 10분 내 배달 ("바로도착")
-- **Product differentiation**:
-  - "두잇777": W7,900에 7가지 1인분 음식 큐레이션 (매일 변경)
-  - "두잇 어메이징": 고품질 가성비 상품 (자체 브랜드)
-  - 카카오 계정 간편 로그인
-- **Target market**: 1인가구 (배달비 부담 해소)
+## Funding
+- **Series A:** 30.6 billion KRW (~$30.6M)
+- **Investors:**
+  - Goodwater Capital
+  - Hashed
+  - SBVA
+- Purpose: Regional and business expansion
 
-## Product
-- 배달비 무료 (W9,000 이상 주문 시)
-- 1인분 주문 가능
-- 초스피드 배달 (평균 10분)
-- 큐레이션 메뉴 (두잇777)
-- 자체 브랜드 상품
+## Product & Market Position
+- **Core value prop:** Zero delivery fee for single-person orders
+- **Target:** 1-person households (1인가구)
+- **Minimum order:** 9,000 KRW (very low barrier)
+- **Pricing strategy:** Daily lowest prices in 7,000 KRW range
 
-## Market Position
-- 1인가구 특화 포지셔닝
-- 배민/쿠팡이츠와 차별화 (배달비 무료 + 소량 주문)
-- 빠른 배달로 convenience 강조
+## Scale Indicators
+- **Users:** 1.2M members (120만 회원)
+- Positioning as "essential app for single households"
+- Strong Korean market penetration
 
-## Business Model
-- 배달비 무료 대신 최소주문금액 설정
-- 자체 브랜드 상품으로 마진 확보 추정
-- 고빈도 주문 유도 (1인분 가능 → 심리적 장벽 낮춤)
+## Competitive Advantage
+- No delivery fee (vs. competitors charging 3,000-5,000 KRW)
+- Low minimum order vs. typical 12,000-15,000 KRW minimums
+- Focused on underserved 1-person household segment
 
-## Investment Notes
-- 1인가구 증가 트렌드에 부합
-- Goodwater Capital (글로벌 소비자 인터넷 투자사) 참여
-- 배달비 부담이라는 명확한 pain point 해결
-- 경쟁 치열한 배달 시장에서 차별화된 포지셔닝
+## Market Context
+- South Korea has rapidly growing single-person household demographic
+- Traditional delivery apps optimize for multi-person/larger orders
+- Doeat carved out niche addressing specific pain point
+
+## Business Model Questions
+- How does zero-fee delivery work economically?
+- Restaurant commission structure?
+- Path to profitability?
+
+## Next Steps
+- Monitor user growth trajectory (1.2M → ?)
+- Track expansion into new cities/regions
+- Assess unit economics disclosure
+- Watch for Series B signals
+- Competitive response from Baemin/Coupang Eats

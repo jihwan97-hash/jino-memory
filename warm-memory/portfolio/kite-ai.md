@@ -1,15 +1,50 @@
-### Kite AI (Datalego/Kite AI)
-- Status: 🟢 Healthy
-- Key finding: Hashed/Samsung Next/General Catalyst 투자 3M+, Google AP2 파트너십 (Feb 2026), Binance Alpha 런치
-- Action needed: None (토큰 상장 및 파트너십 진전 중)
-- Source: https://www.gate.com/news/detail/15489848
-- Last researched: 2026-03-04
+# Kite AI (KiteAI) - Research (2026-03-13)
 
-## 상세 내용
-- Web3 AI Agent 마켓 플레이스/인프라
-- 투자자: Hashed, Samsung Next, General Catalyst (3M+ 추정, 미공개)
-- 2026-02-25: Google AP2 community partnership 체결
-- 2025-11-04: Bitget USDT-Margined KITE 퍼페추얼 계약 상장
-- Binance Alpha 런치 완료
-- Agent-Aware Modules (AI agent 스티펜드/리워드 툴) 개발 중 (2026 출시 예정)
-- 경쟁: 다른 AI Agent 인프라 (Virtuals, Eliza 등)
+**Last Updated:** 2026-03-13
+**Status:** [유망] Series A $18M (PayPal Ventures + General Catalyst)
+**Sector:** AI Agent Infrastructure / Agentic Web
+
+## Funding (September 2025)
+- **Series A:** $18M co-led by PayPal Ventures and General Catalyst
+- **Total raised:** $33M cumulative
+- Announced: September 2, 2025
+
+## Company Evolution
+- **Formerly:** Zettablock (blockchain data infrastructure)
+- **Rebranded to:** Kite (focus on agentic AI)
+- **Pivot rationale:** Building infrastructure for autonomous agents, not just blockchains
+
+## Core Technology
+- Built on large-scale, real-time data infrastructure
+- Previous work served: Sui, Polygon, Chainlink, EigenLayer
+- Now serving: Autonomous AI agents
+
+## Key Product: Kite AIR
+- **Kite Agent Identity Resolution ("Kite AIR")**
+- Pioneering solution for autonomous agent authentication
+- Enables agents to:
+  - Authenticate independently
+  - Transact in real-world environments
+  - Operate autonomously
+
+## Strategic Focus
+- **Mission:** "Enforce Trust in the Agentic Web"
+- Bridge between stablecoin payments and autonomous agents
+- On-chain settlement for AI agent transactions at scale
+- Infrastructure for unified agent operations
+
+## Market Position
+- Positioning as foundational layer for "agentic internet"
+- PayPal backing signals payment infrastructure importance
+- General Catalyst involvement shows enterprise VC confidence
+
+## Technology Heritage
+- Strong blockchain/crypto roots (Zettablock)
+- Proven ability to serve decentralized networks at scale
+- Applying learned patterns to AI agent economy
+
+## Next Steps
+- Monitor Kite AIR adoption and use cases
+- Track agent transaction volume/metrics
+- Watch for major partnerships (especially payment processors)
+- Assess revenue model development

@@ -1,33 +1,41 @@
-# Dfns - Digital Asset Custody API
-Last researched: 2026-03-08
+# Dfns - Research (2026-03-13)
 
-## Overview
-기관급 디지털 자산 지갑 인프라. API 기반 custodial/non-custodial 월렛 솔루션.
+**Last Updated:** 2026-03-13
+**Status:** [유망] Series A $16M
+**Sector:** Digital asset custody API / Web3 infrastructure
 
-## Recent Developments (2025-2026)
-- **Series A**: M raised (기존 정보)
-- **New product launch** (March 2026): Dfns Payouts
-  - 기존: 단일 제공자가 pricing/custody/settlement 통합 → 가격 경쟁력 약화, 투명성 문제
-  - 신제품: Pricing, custody, settlement 분리로 경쟁력 & 투명성 강화
-- **Canton Network integration** (July 2025): Institutional-grade custody for Canton & Canton Coin
-- **IBM partnership**: IBM Digital Asset Haven 플랫폼에 통합
-  - Q4 2025 SaaS 출시, Q2 2026 on-premises 출시 예정
-- **Pricing model**: Transparent SaaS pricing (-/month), no % cut on assets/transactions
-  - 기존 Fireblocks, BitGo 등은 high minimums + % fee
+## Recent Developments (March 2026)
+- **March 2026 (3 days ago):** Launched Payouts API for stablecoin-to-fiat transfers
+- Major product expansion beyond core custody into payment infrastructure
 
-## Product
-- Digital asset wallet infrastructure API
-- Custodial & non-custodial wallet integration
-- Governance APIs (quorums, policies, approval workflows)
-- State-of-the-art cryptography (HSM 연동 가능)
-- Multi-location deployment (EU DORA, US FISMA compliance)
+## Payouts API Launch (Key Innovation)
+- **Problem solved:** Replaces single-provider dependence with competitive routing framework
+- **Features:**
+  - Programmable infrastructure for stablecoin-to-fiat settlement
+  - Dynamic route selection based on cost, speed, reliability
+  - Reduces structural inefficiencies of vertically integrated payment stacks
+- **Target market:** Fintech and crypto payments companies scaling beyond early stage
+
+## Core Product
+- Institutional-grade digital asset wallet infrastructure
+- Governance APIs: controls, quorums, policies, granular approval workflows
+- State-of-the-art cryptography for loss/attack resistance
+- HSM integration support
+- Compliance-ready: EU DORA, US FISMA
+
+## Strategic Partnerships
+- **July 2025:** Integrated with Canton Network (institutional blockchain network)
+- **IBM partnership:** Part of IBM Digital Asset Haven platform (Q4 2025 SaaS, Q2 2026 on-premises)
 
 ## Market Position
-- Fireblocks, Anchorage, BitGo와 경쟁
-- 차별화: Transparent pricing, API-first approach, compliance-ready
-- Enterprise & fintech 타겟
+- Serving major custodians, FMIs, PSPs, wholesale treasury departments
+- Infrastructure compatible with existing institutional systems
+- Strong security positioning for regulated entities
 
-## Investment Notes
-- 기관급 custody 시장에서 API-first, transparent pricing으로 차별화
-- IBM 등 대형 파트너십 확보
-- Payouts 등 신제품으로 TAM 확대 중
+## Funding
+- Series A: $16M (previous)
+
+## Next Steps
+- Monitor Payouts API adoption metrics
+- Track institutional customer growth
+- Watch for Series B fundraising signals

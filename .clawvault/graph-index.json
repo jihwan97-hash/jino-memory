@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-12T17:00:52.691Z",
+  "generatedAt": "2026-03-12T19:04:42.380Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -10589,6 +10589,24 @@
         }
       ]
     },
+    "projects/ad-shield-research-2026-03-13.md": {
+      "relativePath": "projects/ad-shield-research-2026-03-13.md",
+      "mtimeMs": 1773342131694.059,
+      "nodes": [
+        {
+          "id": "note:projects/ad-shield-research-2026-03-13",
+          "title": "ad-shield-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/ad-shield-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:02:11.694Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/backpack-research-2026-03-12.md": {
       "relativePath": "projects/backpack-research-2026-03-12.md",
       "mtimeMs": 1773275674463.5012,
@@ -10603,6 +10621,78 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-12T00:34:34.463Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/borderless-stockal-research-2026-03-13.md": {
+      "relativePath": "projects/borderless-stockal-research-2026-03-13.md",
+      "mtimeMs": 1773342282282.933,
+      "nodes": [
+        {
+          "id": "note:projects/borderless-stockal-research-2026-03-13",
+          "title": "borderless-stockal-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/borderless-stockal-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:04:42.282Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/community-gaming-research-2026-03-13.md": {
+      "relativePath": "projects/community-gaming-research-2026-03-13.md",
+      "mtimeMs": 1773342080963.817,
+      "nodes": [
+        {
+          "id": "note:projects/community-gaming-research-2026-03-13",
+          "title": "community-gaming-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/community-gaming-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:01:20.963Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/dfns-research-2026-03-13.md": {
+      "relativePath": "projects/dfns-research-2026-03-13.md",
+      "mtimeMs": 1773342160795.6003,
+      "nodes": [
+        {
+          "id": "note:projects/dfns-research-2026-03-13",
+          "title": "dfns-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/dfns-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:02:40.795Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/doeat-research-2026-03-13.md": {
+      "relativePath": "projects/doeat-research-2026-03-13.md",
+      "mtimeMs": 1773342258840.1287,
+      "nodes": [
+        {
+          "id": "note:projects/doeat-research-2026-03-13",
+          "title": "doeat-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/doeat-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:04:18.840Z"
         }
       ],
       "edges": []
@@ -10643,6 +10733,42 @@
       ],
       "edges": []
     },
+    "projects/halliday-research-2026-03-13.md": {
+      "relativePath": "projects/halliday-research-2026-03-13.md",
+      "mtimeMs": 1773342184379.248,
+      "nodes": [
+        {
+          "id": "note:projects/halliday-research-2026-03-13",
+          "title": "halliday-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/halliday-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:03:04.379Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/init-capital-research-2026-03-13.md": {
+      "relativePath": "projects/init-capital-research-2026-03-13.md",
+      "mtimeMs": 1773342234504.6985,
+      "nodes": [
+        {
+          "id": "note:projects/init-capital-research-2026-03-13",
+          "title": "init-capital-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/init-capital-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:03:54.504Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/jejememe-research-2026-03-12.md": {
       "relativePath": "projects/jejememe-research-2026-03-12.md",
       "mtimeMs": 1773275716207.8518,
@@ -10657,6 +10783,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-12T00:35:16.207Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/kite-ai-research-2026-03-13.md": {
+      "relativePath": "projects/kite-ai-research-2026-03-13.md",
+      "mtimeMs": 1773342207522.1494,
+      "nodes": [
+        {
+          "id": "note:projects/kite-ai-research-2026-03-13",
+          "title": "kite-ai-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/kite-ai-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:03:27.522Z"
         }
       ],
       "edges": []
@@ -10769,6 +10913,24 @@
       ],
       "edges": []
     },
+    "projects/uprise-horizonwealth-research-2026-03-13.md": {
+      "relativePath": "projects/uprise-horizonwealth-research-2026-03-13.md",
+      "mtimeMs": 1773342105235.0718,
+      "nodes": [
+        {
+          "id": "note:projects/uprise-horizonwealth-research-2026-03-13",
+          "title": "uprise-horizonwealth-research-2026-03-13",
+          "type": "project",
+          "category": "project",
+          "path": "projects/uprise-horizonwealth-research-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:01:45.235Z"
+        }
+      ],
+      "edges": []
+    },
     "README.md": {
       "relativePath": "README.md",
       "mtimeMs": 1772718612971.498,
@@ -10837,6 +10999,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-12T00:28:12.536Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/auto-study-2026-03-13.md": {
+      "relativePath": "research/auto-study-2026-03-13.md",
+      "mtimeMs": 1773334917401.871,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-03-13",
+          "title": "auto-study-2026-03-13",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T17:01:57.401Z"
         }
       ],
       "edges": []
@@ -17203,7 +17383,7 @@
     },
     "warm-memory/auto-study-latest.md": {
       "relativePath": "warm-memory/auto-study-latest.md",
-      "mtimeMs": 1773275297978.7166,
+      "mtimeMs": 1773334924097.1804,
       "nodes": [
         {
           "id": "note:warm-memory/auto-study-latest",
@@ -17214,7 +17394,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T00:28:17.978Z"
+          "modifiedAt": "2026-03-12T17:02:04.097Z"
         }
       ],
       "edges": []
@@ -21607,7 +21787,7 @@
     },
     "warm-memory/portfolio/ad-shield.md": {
       "relativePath": "warm-memory/portfolio/ad-shield.md",
-      "mtimeMs": 1772910096657.94,
+      "mtimeMs": 1773342138622.2542,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/ad-shield",
@@ -21618,7 +21798,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-07T19:01:36.657Z"
+          "modifiedAt": "2026-03-12T19:02:18.622Z"
         }
       ],
       "edges": []
@@ -21805,7 +21985,7 @@
     },
     "warm-memory/portfolio/community-gaming.md": {
       "relativePath": "warm-memory/portfolio/community-gaming.md",
-      "mtimeMs": 1772996524426.6882,
+      "mtimeMs": 1773342087767.3853,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/community-gaming",
@@ -21816,7 +21996,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:02:04.426Z"
+          "modifiedAt": "2026-03-12T19:01:27.767Z"
         }
       ],
       "edges": []
@@ -21915,7 +22095,7 @@
     },
     "warm-memory/portfolio/dfns.md": {
       "relativePath": "warm-memory/portfolio/dfns.md",
-      "mtimeMs": 1772910114298.1643,
+      "mtimeMs": 1773342161982.2976,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/dfns",
@@ -21926,7 +22106,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-07T19:01:54.298Z"
+          "modifiedAt": "2026-03-12T19:02:41.982Z"
         }
       ],
       "edges": []
@@ -21951,7 +22131,7 @@
     },
     "warm-memory/portfolio/doeat.md": {
       "relativePath": "warm-memory/portfolio/doeat.md",
-      "mtimeMs": 1772910209732.817,
+      "mtimeMs": 1773342259998.8247,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/doeat",
@@ -21962,7 +22142,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-07T19:03:29.732Z"
+          "modifiedAt": "2026-03-12T19:04:19.998Z"
         }
       ],
       "edges": []
@@ -22185,7 +22365,7 @@
     },
     "warm-memory/portfolio/halliday.md": {
       "relativePath": "warm-memory/portfolio/halliday.md",
-      "mtimeMs": 1772910142984.9724,
+      "mtimeMs": 1773342185540.5278,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/halliday",
@@ -22193,33 +22373,13 @@
           "type": "note",
           "category": "note",
           "path": "warm-memory/portfolio/halliday.md",
-          "tags": [
-            "hashed"
-          ],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": "2026-03-07T19:02:22.984Z"
-        },
-        {
-          "id": "tag:hashed",
-          "title": "#hashed",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-03-12T19:03:05.540Z"
         }
       ],
-      "edges": [
-        {
-          "id": "tag:note:warm-memory/portfolio/halliday->tag:hashed",
-          "source": "note:warm-memory/portfolio/halliday",
-          "target": "tag:hashed",
-          "type": "tag"
-        }
-      ]
+      "edges": []
     },
     "warm-memory/portfolio/headfone.md": {
       "relativePath": "warm-memory/portfolio/headfone.md",
@@ -22277,7 +22437,7 @@
     },
     "warm-memory/portfolio/init-capital.md": {
       "relativePath": "warm-memory/portfolio/init-capital.md",
-      "mtimeMs": 1772718613028.434,
+      "mtimeMs": 1773342235664.8606,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/init-capital",
@@ -22288,7 +22448,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-05T13:50:13.028Z"
+          "modifiedAt": "2026-03-12T19:03:55.664Z"
         }
       ],
       "edges": []
@@ -22349,7 +22509,7 @@
     },
     "warm-memory/portfolio/kite-ai.md": {
       "relativePath": "warm-memory/portfolio/kite-ai.md",
-      "mtimeMs": 1772718613029.433,
+      "mtimeMs": 1773342208691.6667,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/kite-ai",
@@ -22360,7 +22520,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-05T13:50:13.029Z"
+          "modifiedAt": "2026-03-12T19:03:28.691Z"
         }
       ],
       "edges": []
@@ -22937,6 +23097,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-05T13:50:13.034Z"
+        }
+      ],
+      "edges": []
+    },
+    "warm-memory/portfolio/uprise.md": {
+      "relativePath": "warm-memory/portfolio/uprise.md",
+      "mtimeMs": 1773342111998.6594,
+      "nodes": [
+        {
+          "id": "note:warm-memory/portfolio/uprise",
+          "title": "Uprise",
+          "type": "note",
+          "category": "note",
+          "path": "warm-memory/portfolio/uprise.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T19:01:51.998Z"
         }
       ],
       "edges": []
@@ -24526,6 +24704,17 @@
         "modifiedAt": "2026-03-10T08:14:54.788Z"
       },
       {
+        "id": "note:projects/ad-shield-research-2026-03-13",
+        "title": "ad-shield-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/ad-shield-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:02:11.694Z"
+      },
+      {
         "id": "note:projects/backpack-research-2026-03-12",
         "title": "backpack-research-2026-03-12",
         "type": "project",
@@ -24535,6 +24724,50 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-12T00:34:34.463Z"
+      },
+      {
+        "id": "note:projects/borderless-stockal-research-2026-03-13",
+        "title": "borderless-stockal-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/borderless-stockal-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:04:42.282Z"
+      },
+      {
+        "id": "note:projects/community-gaming-research-2026-03-13",
+        "title": "community-gaming-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/community-gaming-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:01:20.963Z"
+      },
+      {
+        "id": "note:projects/dfns-research-2026-03-13",
+        "title": "dfns-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/dfns-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:02:40.795Z"
+      },
+      {
+        "id": "note:projects/doeat-research-2026-03-13",
+        "title": "doeat-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/doeat-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:04:18.840Z"
       },
       {
         "id": "note:projects/dune-analytics-research-2026-03-12",
@@ -24559,6 +24792,28 @@
         "modifiedAt": "2026-03-12T00:34:20.736Z"
       },
       {
+        "id": "note:projects/halliday-research-2026-03-13",
+        "title": "halliday-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/halliday-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:03:04.379Z"
+      },
+      {
+        "id": "note:projects/init-capital-research-2026-03-13",
+        "title": "init-capital-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/init-capital-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:03:54.504Z"
+      },
+      {
         "id": "note:projects/jejememe-research-2026-03-12",
         "title": "jejememe-research-2026-03-12",
         "type": "project",
@@ -24568,6 +24823,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-12T00:35:16.207Z"
+      },
+      {
+        "id": "note:projects/kite-ai-research-2026-03-13",
+        "title": "kite-ai-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/kite-ai-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:03:27.522Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-12",
@@ -24636,6 +24902,17 @@
         "modifiedAt": "2026-03-12T00:33:40.349Z"
       },
       {
+        "id": "note:projects/uprise-horizonwealth-research-2026-03-13",
+        "title": "uprise-horizonwealth-research-2026-03-13",
+        "type": "project",
+        "category": "project",
+        "path": "projects/uprise-horizonwealth-research-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:01:45.235Z"
+      },
+      {
         "id": "note:README",
         "title": "README",
         "type": "note",
@@ -24678,6 +24955,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-12T00:28:12.536Z"
+      },
+      {
+        "id": "note:research/auto-study-2026-03-13",
+        "title": "auto-study-2026-03-13",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T17:01:57.401Z"
       },
       {
         "id": "note:research/companies/nearthlab-2026-03-10",
@@ -26378,7 +26666,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T00:28:17.978Z"
+        "modifiedAt": "2026-03-12T17:02:04.097Z"
       },
       {
         "id": "note:warm-memory/calendar",
@@ -27606,7 +27894,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-07T19:01:36.657Z"
+        "modifiedAt": "2026-03-12T19:02:18.622Z"
       },
       {
         "id": "note:warm-memory/portfolio/anotherball",
@@ -27727,7 +28015,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:02:04.426Z"
+        "modifiedAt": "2026-03-12T19:01:27.767Z"
       },
       {
         "id": "note:warm-memory/portfolio/contextsio-aimo",
@@ -27784,7 +28072,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-07T19:01:54.298Z"
+        "modifiedAt": "2026-03-12T19:02:41.982Z"
       },
       {
         "id": "note:warm-memory/portfolio/dg-ventures",
@@ -27806,7 +28094,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-07T19:03:29.732Z"
+        "modifiedAt": "2026-03-12T19:04:19.998Z"
       },
       {
         "id": "note:warm-memory/portfolio/dolores-park-labs-ferum",
@@ -27946,12 +28234,10 @@
         "type": "note",
         "category": "note",
         "path": "warm-memory/portfolio/halliday.md",
-        "tags": [
-          "hashed"
-        ],
+        "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-07T19:02:22.984Z"
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:03:05.540Z"
       },
       {
         "id": "note:warm-memory/portfolio/headfone",
@@ -27984,7 +28270,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-05T13:50:13.028Z"
+        "modifiedAt": "2026-03-12T19:03:55.664Z"
       },
       {
         "id": "note:warm-memory/portfolio/init-capital-infinit",
@@ -28039,7 +28325,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-05T13:50:13.029Z"
+        "modifiedAt": "2026-03-12T19:03:28.691Z"
       },
       {
         "id": "note:warm-memory/portfolio/loco-interactive",
@@ -28381,6 +28667,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-05T13:50:13.034Z"
+      },
+      {
+        "id": "note:warm-memory/portfolio/uprise",
+        "title": "Uprise",
+        "type": "note",
+        "category": "note",
+        "path": "warm-memory/portfolio/uprise.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T19:01:51.998Z"
       },
       {
         "id": "note:warm-memory/portfolio/uprise-horizonwealth",
@@ -29182,7 +29479,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 11,
+        "degree": 10,
         "modifiedAt": null
       },
       {
@@ -35557,12 +35854,6 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:warm-memory/portfolio/halliday->tag:hashed",
-        "source": "note:warm-memory/portfolio/halliday",
-        "target": "tag:hashed",
-        "type": "tag"
-      },
-      {
         "id": "wiki_link:note:backlog/assistant-ill-research-recent-updates-for-10-portfolio-companies-and-save-findings-to-their-respective-files->unresolved:observer",
         "source": "note:backlog/assistant-ill-research-recent-updates-for-10-portfolio-companies-and-save-findings-to-their-respective-files",
         "target": "unresolved:observer",
@@ -38024,11 +38315,11 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-12T17:00:52.691Z",
-      "nodeCount": 829,
-      "edgeCount": 862,
+      "generatedAt": "2026-03-12T19:04:42.380Z",
+      "nodeCount": 840,
+      "edgeCount": 861,
       "nodeTypeCounts": {
-        "note": 383,
+        "note": 385,
         "tag": 145,
         "unresolved": 251,
         "daily": 11,
@@ -38037,10 +38328,10 @@
         "handoff": 10,
         "lesson": 3,
         "person": 1,
-        "project": 17
+        "project": 26
       },
       "edgeTypeCounts": {
-        "tag": 452,
+        "tag": 451,
         "wiki_link": 410
       }
     }
