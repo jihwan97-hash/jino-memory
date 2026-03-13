@@ -1,9 +1,135 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오전 06:26 KST
+**Last synced**: 2026년 3월 13일 금요일 오후 01:42 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 3 unread)
+## Recent Emails (30 total, 6 unread)
+
+### Reminder: HGM_Compliance_AML Awareness Exam -2026 is awaiting your signature
+- **From**: Hashed Legal <noreply@mail.hellosign.com>
+- **Date**: Fri, 13 Mar 2026 04:35:43 +0000
+- **ID**: `19ce57a9fa959a8e`
+- **Preview**: Dropbox Sign ACTION REQUESTED Hashed Legal is awaiting your signature Get Started Document HGM_Compliance_AML Awareness Exam -2026 Reply Thanks, The Dropbox Sign team Warning: To prevent others from
+
+### Accepted: [해시드 오피스] 서울거래(양주동 대표님) / Hashed @ Mon Mar 16, 2026 10am - 11am (GMT+9) (astin@hashed.com)
+- **From**: JD Yang <admin@seoulexchange.kr>
+- **Date**: Fri, 13 Mar 2026 04:30:34 +0000
+- **ID**: `19ce575eae8260b8`
+- **Preview**: [해시드 오피스] 서울거래(양주동 대표님) / Hashed JD Yang has accepted this invitation. When Monday Mar 16, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul) Location KS-20-4-SEOUL (20) View map Guests astin@hashed.com
+
+### Re: Invitation: Hashed Interview: 주호연님 @ Fri Mar 13, 2026 4pm - 5pm (GMT+9) (ugin35@yonsei.ac.kr)
+- **From**: "주호연" <ugin35@yonsei.ac.kr>
+- **Date**: Fri, 13 Mar 2026 12:59:25 +0900
+- **ID**: `19ce5598cc435c17`
+- **Preview**: 안녕하십니까 채용 담당자님, 연세대학교 주호연입니다. 금일 4시 면접 참여 가능하며 장소 관련해서 질문이 있어 메일 드립니다. 안내에서 면접은 해시드 오피스에서 진행되며, 불가능할 경우 비대면으로 진행 되는 것으로 이해했습니다. 구글 미츠 인비가 와서 금일 면접 비대면인지 대면인지 여쭙고자 합니다! 감사합니다, 주호연 드림. 2026년 3월 13일 (금)
+
+### Accepted: Hashed Interview: 주호연님 @ Fri Mar 13, 2026 4pm - 5pm (GMT+9) (astin@hashed.com)
+- **From**: "주호연" <ugin35@yonsei.ac.kr>
+- **Date**: Fri, 13 Mar 2026 03:56:19 +0000
+- **ID**: `19ce5568a56888d3`
+- **Preview**: Hashed Interview: 주호연님 주호연 has accepted this invitation. Join with Google Meet Meeting link meet.google.com/ego-tedd-gtt Join by phone (US) +1 443-892-3057 PIN: 878256498 More phone numbers When Friday
+
+### Reminder: Compliance_AML Awareness Annual Training - Signing Sheet v2 is awaiting your signature
+- **From**: Hashed Legal <noreply@mail.hellosign.com>
+- **Date**: Fri, 13 Mar 2026 03:44:54 +0000
+- **ID**: `19ce54c153325482`
+- **Preview**: Dropbox Sign ACTION REQUESTED Hashed Legal is awaiting your signature Get Started Document Compliance_AML Awareness Annual Training - Signing Sheet v2 Reply Thanks, The Dropbox Sign team Warning: To
+
+### Invitation: HVL WEEK2 STANDUP @ Fri Mar 13, 2026 12pm - 2pm (GMT+9) (Astin Han)
+- **From**: SB An <sb@hashed.com>
+- **Date**: Fri, 13 Mar 2026 03:06:17 +0000
+- **ID**: `19ce528bbb079036`
+- **Preview**: HVL WEEK2 STANDUP Join with Google Meet – You have been invited by SB An to attend an event named HVL WEEK2 STANDUP on Friday Mar 13, 2026 ⋅ 12pm – 2pm (Korean Standard Time - Seoul). Join with Google
+
+### Re: [코멘토] 정기주주총회 소집 안내
+- **From**: "최재형" <jaehyeong.choi@comento.kr>
+- **Date**: Fri, 13 Mar 2026 12:04:02 +0900
+- **ID**: `19ce5273a2e903a8`
+- **Preview**: 안녕하세요. 코멘토 최재형입니다. 보내주신 서류 확인했습니다. 등기 변경 진행하는 법무사에게 서류 확인하였는데, 고유번호증도 추가로 필요하다고 합니다. 고유번호증에 원본대조필 날인하여 발송 부탁드립니다. 그리고 저희가 확인하지 못하고 전달드렸었는데, 공증 위임장에도 주주명 아래에 &#39;업무집행조합원 : 주식회사 해시드벤처스&#39;도 기입해야 할 것
+
+### Accepted: [해시드 오피스] 서울거래(양주동 대표님) / Hashed @ Mon Mar 16, 2026 10am - 11am (GMT+9) (Astin Han)
+- **From**: Sean Hong <sean@hashed.com>
+- **Date**: Fri, 13 Mar 2026 02:59:09 +0000
+- **ID**: `19ce52232b40f91e`
+- **Preview**: [해시드 오피스] 서울거래(양주동 대표님) / Hashed Sean Hong has accepted this invitation. When Monday Mar 16, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul) Guests Astin Han - organizer SJ Baek Sean Hong - optional
+
+### [갤럭시아머니트리] 포트원 신규 PG 계약 프로세스 안내 
+- **From**: "박치만" <jwpark@galaxia.co.kr>
+- **Date**: Fri, 13 Mar 2026 11:37:54 +0900
+- **ID**: `19ce50f29b6983e0`
+- **Preview**: 안녕하세요~ 갤럭시아머니트리 박치만입니다 포트원을 통해 당사 PG 신규 계약 진행을 해주셔서 다시 한번 감사드리며&amp;nbsp; 하기와 같이 계약 진행 프로세스 공유드립니다.&amp;nbsp; 1. 계약 안내&amp;nbsp; 개인사업자 법인사업자 빌게이트 표준계약서 빌게이트 표준 계약서&amp;nbsp; 사업자등록증 사본&amp;nbsp; 사업자등록증
+
+### Invitation: interview @ Fri Mar 13, 2026 4pm - 5pm (GMT+9) (Astin Han)
+- **From**: Lena Yoon <lena@hashed.com>
+- **Date**: Fri, 13 Mar 2026 02:32:00 +0000
+- **ID**: `19ce509586aeb0db`
+- **Preview**: interview Join with Google Meet – You have been invited to attend an event named interview on Friday Mar 13, 2026 ⋅ 4pm – 5pm (Korean Standard Time - Seoul). Join with Google Meet Meeting link meet.
+
+### Fwd: [닥터나우] 닥터나우 방지법 통과 가능성 (대외비)
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 13 Mar 2026 11:31:12 +0900
+- **ID**: `19ce508d76caca4c`
+- **Preview**: ---------- Forwarded message --------- 보낸사람: &lt;jin@doctornow.co.kr&gt; Date: 2026년 3월 12일 (목) PM 9:52 Subject: [닥터나우] 닥터나우 방지법 통과 가능성 (대외비) To: Cc: &lt;ho@doctornow.co.kr&gt;, &lt;Shuri@doctornow.co.
+
+### Accepted: [해시드 오피스] 서울거래(양재동 대표님) / Hashed @ Mon Mar 16, 2026 10am - 11am (GMT+9) (Astin Han)
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 13 Mar 2026 02:23:59 +0000
+- **ID**: `19ce50202b556a25`
+- **Preview**: [해시드 오피스] 서울거래(양재동 대표님) / Hashed SJ Baek has accepted this invitation. When Monday Mar 16, 2026 ⋅ 10am – 11am (Korean Standard Time - Seoul) Guests Astin Han - organizer SJ Baek Sean Hong - optional
+
+### Invitation: [세진사] 정기주주총회 @ Mon Mar 30, 2026 2pm - 3pm (GMT+9) (astin@hashed.com)
+- **From**: Noah Youn <youn.noah@carwashlove.com>
+- **Date**: Fri, 13 Mar 2026 02:17:37 +0000
+- **ID**: `19ce4fc2cf981754`
+- **Preview**: [세진사] 정기주주총회 Join with Google Meet – You have been invited by Noah Youn to attend an event named [세진사] 정기주주총회 on Monday Mar 30, 2026 ⋅ 2pm – 3pm (Korean Standard Time - Seoul). Join with Google Meet
+
+### **[NEW]** Re: SAFE cancellation repayment schedule
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 13 Mar 2026 07:38:50 +0530
+- **ID**: `19ce4f4c5cff9997`
+- **Preview**: Hi Markus, We can speak at 3 pm KST today. Just sent you a call invite. Best regards, Medha On Thu, Mar 12, 2026 at 7:23 AM Medha Srivastava &lt;medha@hashed.com&gt; wrote: Hi Markus, Let us speak on
+
+### 주간 다중 회의 AI 인사이트 보고서: 다음 스텝 및 미팅에서의 액션 아이템
+- **From**: "tl;dv 팀" <no-reply@tldv.io>
+- **Date**: Fri, 13 Mar 2026 01:38:34 +0000
+- **ID**: `19ce4d86d8280f97`
+- **Preview**: 🎁 무료 첫 다중 회의 AI 보고서를 드립니다 나만의 보고서 만들기 주간 AI 보고서: 대화에서 다음 단계 또는 작업 항목 프롬프트: (수정) Based on the selection of meeting transcripts summarize all aligned Action Items and To Dos in bullet points. Group them
+
+### "HVF Exit Strategy Meeting" meeting notes and AI answers are ready ✅
+- **From**: "tl;dv Team" <no-reply@tldv.io>
+- **Date**: Fri, 13 Mar 2026 01:38:29 +0000
+- **ID**: `19ce4d8594dab86f`
+- **Preview**: Action Items: …. . ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+### **[NEW]** [프레인글로벌] 2026년 3월 13일(금) 해시드 국내 뉴스 데일리 모니터링
+- **From**: "프레인 해시드팀" <hashed_kr@prain.com>
+- **Date**: Fri, 13 Mar 2026 01:30:00 +0000
+- **ID**: `19ce4d0e3035ffdf`
+- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 13일 금요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.13(금) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 특이사항 없음 ■ 포트폴리오사 No. 게재일 기사명 매체 기자 비고 1 3/
+
+### Re: [Hopfia] Demo 신청 감사합니다.
+- **From**: Chris Moon <chris@hopfia.ai>
+- **Date**: Fri, 13 Mar 2026 10:10:27 +0900
+- **ID**: `19ce4beda211e636`
+- **Preview**: 안녕하세요. 네, 확인하였습니다. 초대드린 캘린더에 보시면 구글미트 링크가 있습니다. 감사합니다. 문창훈 드림 2026년 3월 13일 (금) AM 10:06, Jun Kim &lt;jun.kim@hashed.com&gt;님이 작성: 안녕하세요, 저희 일정상 방문주시는것은 어려워, 30분 화상회의로 진행 부탁드립니다. 감사합니다, 김정준 드림 On Fri,
+
+### Re: [Hopfia] Demo 신청 감사합니다.
+- **From**: Jun Kim <jun.kim@hashed.com>
+- **Date**: Fri, 13 Mar 2026 10:06:33 +0900
+- **ID**: `19ce4bb4dda3cde4`
+- **Preview**: 안녕하세요, 저희 일정상 방문주시는것은 어려워, 30분 화상회의로 진행 부탁드립니다. 감사합니다, 김정준 드림 On Fri, Mar 13, 2026 at 10:04 AM Christopher Moon &lt;chris@hopfia.ai&gt; wrote: 안녕하세요, 김정준님. Hopfia의 문창훈입니다. Hopfia 데모 일정을 확정해 주셔서 감사드립니다.
+
+### **[NEW]** TLGY/StablecoinX - Notice of Anticipated Transaction Closing Date - FUNDING REQUESTED (Hashed)
+- **From**: "'Buckles, Dani (Perkins Coie)' via Investment" <investment@hashed.com>
+- **Date**: Fri, 13 Mar 2026 00:36:16 +0000
+- **ID**: `19ce49fddaf054f5`
+- **Preview**: Dear Investor, Pursuant to Section 2(b) of the Subscription Agreement to which you are a party with StablecoinX Inc., TLGY Acquisition Corporation and StablecoinX Assets Inc. (the “Agreement”), we are
+
+### RE: [블록오디세이] 주주총회 관련 공증 및 등기 서류 안내
+- **From**: "민복기(MIN BOK KI)" <genimin@sk.com>
+- **Date**: Thu, 12 Mar 2026 23:05:22 +0000
+- **ID**: `19ce44c59611aac5`
+- **Preview**: 안녕하세요! 서류 송부 드리겠습니다! 감사합니다 민복기 올림 Bok ki, Min Head of Business Innovation l SK Networks 010-3129-0943 l genimin@sk.com From: 황학선 &lt;walter@blockodyssey.io&gt; Sent: Thursday, March 12, 2026 6:45 PM To
 
 ### **[NEW]** Updated Balance Support for Rebasing Tokens - Edition #50
 - **From**: "'Covalent Weekly' via Investment" <investment@hashed.com>
@@ -58,132 +184,6 @@
 - **Date**: Thu, 12 Mar 2026 08:21:14 +0000
 - **ID**: `19ce122d24581c23`
 - **Preview**: Hi Gary, Sounds good. As mentioned, please feel free to reach out if you have any questions. I look forward to speaking soon. Best regards, Stan From: Gary Rhee &lt;gary@hashed.com&gt; Sent: Thursday,
-
-### Re: [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 12 Mar 2026 17:18:56 +0900
-- **ID**: `19ce1209c8f925ce`
-- **Preview**: 안녕하세요 박형규님, 안내 감사드리며, 4월 7일에 참석하도록 하겠습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any attachment
-
-### Re: [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건
-- **From**: "박형규" <hk.park@payhere.in>
-- **Date**: Thu, 12 Mar 2026 17:16:58 +0900
-- **ID**: `19ce11efa0787376`
-- **Preview**: 안녕라세요, 헤시드 운영 한지환님 페이히어 박형규입니다. 주주간담회 일정이 4월 7일(화) 오후 1시~ 오후 4시로 변경되어 진행예정입니다. 백수진 수석님에게는 별도로 안내드렸는데 한번 확인 부탁드립니다. 감사합니다. 박형규 ㅣ Park Hyoung-kyu ㅣ Head of Staff 010.8533.8141 hk.park@payhere.in 2026년 3월
-
-### Re: [Payhere] 2026년 이사회 및 정기·임시주주총회, 주주간담회 일정 안내의 건
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 12 Mar 2026 17:13:35 +0900
-- **ID**: `19ce11bb6b3c9967`
-- **Preview**: 안녕하세요 박형규님, 해시드 플랫폼팀 운영 매니저 한지환입니다. 4월 2일 주주간담회에 참여하길 희망하며, 백수진 수석 심사역님과 제가 참석할 예정입니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com
-
-### Accepted: 페이히어 주주 간담회 @ Thu Apr 2, 2026 1pm - 4pm (GMT+9) (Astin Han)
-- **From**: SJ Baek <sj@hashed.com>
-- **Date**: Thu, 12 Mar 2026 08:05:27 +0000
-- **ID**: `19ce11446c11a567`
-- **Preview**: 페이히어 주주 간담회 SJ Baek has accepted this invitation. ■ 주요 내용\n• 회사 주요 경영 현황 공유\n• 사업 전략 및 향후 계획 안내\n• 주주 간담회 및 질의응답 When Thursday Apr 2, 2026 ⋅ 1pm – 4pm (Korean Standard Time - Seoul) Location 서울특별시 강남구
-
-### Re: [PortOne] 전자결제 서비스 신청 안내의 건_해시드벤처스
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 12 Mar 2026 17:03:06 +0900
-- **ID**: `19ce1122426295fc`
-- **Preview**: 안녕하세요 권효원 매니저님, 유선으로 상세하게 잘 설명해주셔서 신청완료했습니다! 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177 Telegram: @jihwan97 www.hashed.com The content of this message and any
-
-### Re: liquibit strategies
-- **From**: Gary Rhee <gary@hashed.com>
-- **Date**: Thu, 12 Mar 2026 16:57:51 +0900
-- **ID**: `19ce10d93e739b81`
-- **Preview**: Hello Stan, Thank you for sharing the dataroom access. I have looped in more members from Hashed. Thank you, Gary 2026년 3월 12일 (목) 오후 1:11, Stanley Wong &lt;stanley.wong@liquibit.io&gt;님이 작성: Dear Gary
-
-### Re: [PortOne] 전자결제 서비스 신청 안내의 건_해시드벤처스
-- **From**: Sophie Kwon <sophie@portone.io>
-- **Date**: Thu, 12 Mar 2026 16:55:57 +0900
-- **ID**: `19ce10bc42127f66`
-- **Preview**: 안녕하세요 담당자님 ! 포트원 권효원입니다. 김민규 매니저님 통해 최종 휴대폰 정기결제 서비스까지 이용하신다고 전달받아 안내드린 가이드에서 해당 서비스도 추가로 신청 부탁드립니다 :) 감사합니다. 권효원 드림 권효원 Hyowon Kwon Partnership&amp;AM | Client Onboarding Manager E Sophie@portone.io |
-
-### [PortOne] 전자결제 신청이 정상적으로 접수되었습니다.
-- **From**: cs@portone.io
-- **Date**: Thu, 12 Mar 2026 07:51:19 +0000 (UTC)
-- **ID**: `19ce107556fa9c38`
-- **Preview**: 전자결제 신청 완료 안내 안녕하세요. 온라인 사업의 시작, 통합 결제 솔루션 포트원입니다. 주식회사 해시드님의 신청하신 갤럭시아 전자결제 신청이 완료 되었습니다. 신청하신 PG사로 접수될 예정이며, 3 영업일 내 PG사 계약 담당자가 직접 연락드립니다. 일부 PG사는 추가 접수가 필요하니, 포트원에서 별도 안내된 메일을 참고하시어 진행하시기 바랍니다. 또한
-
-### [PortOne] 전자결제 신청이 정상적으로 접수되었습니다.
-- **From**: cs@portone.io
-- **Date**: Thu, 12 Mar 2026 07:50:19 +0000 (UTC)
-- **ID**: `19ce1066fcdba3ac`
-- **Preview**: 전자결제 신청 완료 안내 안녕하세요. 온라인 사업의 시작, 통합 결제 솔루션 포트원입니다. 주식회사 해시드님의 신청하신 갤럭시아 전자결제 신청이 완료 되었습니다. 신청하신 PG사로 접수될 예정이며, 3 영업일 내 PG사 계약 담당자가 직접 연락드립니다. 일부 PG사는 추가 접수가 필요하니, 포트원에서 별도 안내된 메일을 참고하시어 진행하시기 바랍니다. 또한
-
-### Re: [PortOne] 전자결제 서비스 신청 안내의 건_해시드벤처스
-- **From**: Sophie Kwon <sophie@portone.io>
-- **Date**: Thu, 12 Mar 2026 16:42:10 +0900
-- **ID**: `19ce0ff294214bb4`
-- **Preview**: 안녕하세요 담당자님 ! 포트원 권효원입니다. 정확한 답변을 위해 문의주신 내용에 대하여 별도 유선 연락드리도록 하겠습니다 :) 감사합니다. 권효원 드림 권효원 Hyowon Kwon Partnership&amp;AM | Client Onboarding Manager E Sophie@portone.io | M 010 2674 2302 서울시 성동구 성수이로 20
-
-### 제제미미 제6기 정기주주총회 소집통지 안내
-- **From**: Jewoo Jeon <jeje@jejememe.com>
-- **Date**: Thu, 12 Mar 2026 16:23:39 +0900
-- **ID**: `19ce0ee970d732cb`
-- **Preview**: 안녕하세요. 주식회사 제제미미 전제우입니다. 상법 제365조 및 당사 정관에 따라 제6기 정기주주총회를 아래와 같이 개최할 예정이며, 이에 따라 주주총회 소집통지서를 송부드립니다. 각 안건에 대한 자세한 내용은 본 메일을 통해 안내드리오니, 관련하여 궁금하신 점이 있으시면 언제든지 문의해 주시기 바랍니다. ■ 일시 : 2026년 3월 27일(금) 오전 10시
-
-### Re: [PortOne] 전자결제 서비스 신청 안내의 건_해시드벤처스
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 12 Mar 2026 16:22:09 +0900
-- **ID**: `19ce0ec9fb9ec980`
-- **Preview**: 안녕하세요 권효원 매니저님, 해시드 플랫폼팀의 한지환입니다. 상세하게 안내해주셔서 감사합니다. 절차를 진행하던 중에 일반결제 항목에서 4개를 선택하라고 해주셨는데, 신용카드 일반결제/ 신용카드 정기결제 / 휴대폰 소액결제 일반결제 / 휴대폰 소액결제 정기결제까지 선택하면 될까요? 추가적으로 신용카드 수기결제는 신용카드 일반결제와 어떻게 다른지, 도입할 수
-
-### [PortOne] 전자결제 서비스 신청 안내의 건_해시드벤처스
-- **From**: Sophie Kwon <sophie@portone.io>
-- **Date**: Thu, 12 Mar 2026 16:16:32 +0900
-- **ID**: `19ce0e7b05d901b0`
-- **Preview**: 안녕하세요, 한지환 매니저님 ! 처음 인사드립니다. 포트원 권효원입니다.😊 포트원 이용을 결정해주셔서 감사드리며, 결제 서비스를 이용하실 수 있도록 상세 절차 안내드립니다. 아래 순서에 따라 진행해 주시고, 진행 중 궁금한 점이 있으시면 언제든 문의 부탁드립니다. 신청 전, 포트원 이용 프로세스를 반드시 확인해 주시기 바랍니다. 👉 [포트원 온보딩 가이드
-
-### Accepted: [Placeholder] HVF Exit Strategy Meeting @ Fri Mar 13, 2026 10am - 11am (GMT+9) (Astin Han)
-- **From**: Gary Rhee <gary@hashed.com>
-- **Date**: Thu, 12 Mar 2026 07:13:25 +0000
-- **ID**: `19ce0e4a0f898098`
-- **Preview**: [Placeholder] HVF Exit Strategy Meeting Gary Rhee has accepted this invitation. Join with Google Meet Meeting link meet.google.com/brr-wdiq-xdh Join by phone (US) +1 929-299-4070 PIN: 730980471 More
-
-### [블루밍비트] 제5기 정기주주총회 소집통지서 전자통지의 건
-- **From**: <yeonji@bloomingbit.io>
-- **Date**: Thu, 12 Mar 2026 15:47:14 +0900
-- **ID**: `19ce0ccdbdcb3759`
-- **Preview**: 안녕하십니까. 블루밍비트 경영기획팀입니다. 당사에 보내주시는 성원에 깊은 감사의 말씀을 드리며, 주주님들의 무궁한 발전을 기원합니다. 상법 제365조와 당사 정관에 의거 아래와 같이 제5기 정기주주총회를 개최하오니 참석하여 주시기 바랍니다. 아 래 – l 일시: 2026년 3월 27일(금) 오후 2시 00분 l 장소: 서울특별시 강남구 테헤란로 217 (
-
-### [하이픈코퍼레이션]정부24 주민등록증 진위확인 서비스 일시중단 안내
-- **From**: noreply3@hyphen.im
-- **Date**: Thu, 12 Mar 2026 15:30:42 +0900 (KST)
-- **ID**: `19ce0bd91b0fc71d`
-- **Preview**: [하이픈코퍼레이션]정부24 주민등록증 진위확인 서비스 일시중단 안내 안녕하세요, 하이픈 데이터마켓입니다. 정부24 서비스가 시스템 정기점검으로 인한 일시중지 예정 공지가 있어 공유드립니다. 변경사항 발생 시 바로 재안내 드리도록 하겠습니다. 점 검 시 간 2026.03.13(금) 20:00 ~ 2026.03.14(토) 19:00 (총 23시간) 대 상 정부
-
-### Fwd: [왓챠] 회생 및 M&A 추진 현황 안내
-- **From**: Brian Choi <brian@hashed.com>
-- **Date**: Thu, 12 Mar 2026 15:03:52 +0900
-- **ID**: `19ce0a531d93c5bb`
-- **Preview**: ---------- Forwarded message --------- From: myeonghoon Chris Pak &lt;chris.pak@watcha.com&gt; Date: Thu, Mar 12, 2026 at 2:58 PM Subject: [왓챠] 회생 및 M&amp;A 추진 현황 안내 To: Taehoon Park &lt;tpark@watcha.
-
-### tl;dv로 중요한 CS 트렌드와 인사이트를 손쉽게 포착하세요 📸
-- **From**: "tl;dv 팀" <hello@tldv.io>
-- **Date**: Thu, 12 Mar 2026 05:02:36 +0000
-- **ID**: `19ce06cdbbef7690`
-- **Preview**: 안녕하세요 Astin님! tl;dv로 3개의 미팅을 진행하셔서, 이제 다중 미팅 AI 리포트를 사용하실 수 있게 되었습니다! 이제 미팅에 대한 구체적인 인사이트 및 트렌드를 한눈에 발견하실 수 있습니다. 아래 프롬프트 예시를 통해 미팅 인사이트를 이용해 보시는 건 어떨까요? &quot;이번 분기 잠재 고객들이 제기한 모든 반대 의견을 나열해줘.&quot;
-
-### "Dan (Alchemy) / Astin (Hashed)" meeting notes and AI answers are ready ✅
-- **From**: "tl;dv Team" <no-reply@tldv.io>
-- **Date**: Thu, 12 Mar 2026 05:02:36 +0000
-- **ID**: `19ce06cdaa520043`
-- **Preview**: Action Items: …. . ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
-
-### [KG이니시스  결제확인] 한지환님, 주식회사 마플코퍼레이션에서 결제하신 내역 확인바랍니다.
-- **From**: "KG이니시스" <inimail@inicis.com>
-- **Date**: Thu, 12 Mar 2026 14:02:15 +0900
-- **ID**: `19ce06c8aef9e853`
-- **Preview**: 한지환고객님이 주식회사 마플코퍼레이션에서 KG이니시스 결제시스템을 통해 결제하신 내역입니다. KG이니시스는 온라인 결제를 대행하는 업체로 구매하신 상품의 취소 및 배송 문의는 실제 구입하신 상점에 문의해 주십시오. 결제금액 1795350 원 결제 수단 신용카드 4265-86XX-XXXX-6027 구매자명 한지환 결제 일시 2026년 03월 12일 14시01분
-
-### [마플] 주문번호 #(3332568) 주문이 정상적으로 접수되었습니다.
-- **From**: "[MARPPLE]" <no-reply@marpple.com>
-- **Date**: Thu, 12 Mar 2026 05:01:08 +0000
-- **ID**: `19ce06b8ac066f25`
-- **Preview**: MARPPLE 고객님의 주문이 정상적으로 접수되었습니다. 안녕하세요, 고객님, 저희 마플을 이용해주셔서 감사합니다. 고객님께서 주문하신 제품이 주문접수 되었습니다. 주문내역 및 배송정보는 &#39;마이페이지&#39;내 &#39;구매내역&#39;에서 확인하실 수 있습니다. 정확하고 빠른 상품 제작과 배송을 위해 최선을 다하겠습니다. 주문번호 3332568
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-12T23:00:47.866Z",
+  "generatedAt": "2026-03-13T05:00:48.041Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -1859,6 +1859,97 @@
         }
       ]
     },
+    "backlog/toolresult-lessons-ok-todo-ok-uncommitted-6.md": {
+      "relativePath": "backlog/toolresult-lessons-ok-todo-ok-uncommitted-6.md",
+      "mtimeMs": 1773378006691.0176,
+      "nodes": [
+        {
+          "id": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+          "title": "Toolresult Lessons Ok Todo Ok Uncommitted 6",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/toolresult-lessons-ok-todo-ok-uncommitted-6.md",
+          "tags": [
+            "observer",
+            "open",
+            "todo"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:06.691Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:todo",
+          "title": "#todo",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:observer",
+          "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:open",
+          "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:todo",
+          "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+          "target": "tag:todo",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->unresolved:observer",
+          "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/toolresult-lessonsok-todook-git_uncommitted7.md": {
       "relativePath": "backlog/toolresult-lessonsok-todook-git_uncommitted7.md",
       "mtimeMs": 1773130494746.9294,
@@ -2820,6 +2911,24 @@
           "type": "wiki_link"
         }
       ]
+    },
+    "brain-memory/daily/2026-03-13.md": {
+      "relativePath": "brain-memory/daily/2026-03-13.md",
+      "mtimeMs": 1773378009446.251,
+      "nodes": [
+        {
+          "id": "note:brain-memory/daily/2026-03-13",
+          "title": "2026 03 13",
+          "type": "note",
+          "category": "note",
+          "path": "brain-memory/daily/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:09.446Z"
+        }
+      ],
+      "edges": []
     },
     "brain-memory/daily/email-2026-02-25.md": {
       "relativePath": "brain-memory/daily/email-2026-02-25.md",
@@ -4540,7 +4649,7 @@
     },
     "daily/2026-03-13.md": {
       "relativePath": "daily/2026-03-13.md",
-      "mtimeMs": 1773356439788.6233,
+      "mtimeMs": 1773378038497.9375,
       "nodes": [
         {
           "id": "note:daily/2026-03-13",
@@ -4551,7 +4660,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T23:00:39.788Z"
+          "modifiedAt": "2026-03-13T05:00:38.497Z"
         }
       ],
       "edges": []
@@ -5048,6 +5157,127 @@
         }
       ]
     },
+    "decisions/2026-03-13.md": {
+      "relativePath": "decisions/2026-03-13.md",
+      "mtimeMs": 1773378006697.4888,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-03-13",
+          "title": "2026 03 13",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:06.697Z"
+        },
+        {
+          "id": "unresolved:successfully",
+          "title": "Successfully",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:use",
+          "title": "Use",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:disable",
+          "title": "Disable",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:command",
+          "title": "Command",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:scanning",
+          "title": "Scanning",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:successfully",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:successfully",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:users",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:use",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:use",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:disable",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:disable",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:command",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:command",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-13->unresolved:scanning",
+          "source": "note:decisions/2026-03-13",
+          "target": "unresolved:scanning",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "decisions/long-term-memory.md": {
       "relativePath": "decisions/long-term-memory.md",
       "mtimeMs": 1773129930783.4277,
@@ -5062,6 +5292,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-10T08:05:30.783Z"
+        }
+      ],
+      "edges": []
+    },
+    "decisions/seoul-exchange-bank-tapping-2026-03-13.md": {
+      "relativePath": "decisions/seoul-exchange-bank-tapping-2026-03-13.md",
+      "mtimeMs": 1773369084983.53,
+      "nodes": [
+        {
+          "id": "note:decisions/seoul-exchange-bank-tapping-2026-03-13",
+          "title": "Seoul Exchange Bank Tapping 2026 03 13",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/seoul-exchange-bank-tapping-2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T02:31:24.983Z"
         }
       ],
       "edges": []
@@ -7175,7 +7423,7 @@
     },
     "facts/2026-03-12.md": {
       "relativePath": "facts/2026-03-12.md",
-      "mtimeMs": 1773356410064.4282,
+      "mtimeMs": 1773378006685.5505,
       "nodes": [
         {
           "id": "note:facts/2026-03-12",
@@ -7186,7 +7434,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T23:00:10.064Z"
+          "modifiedAt": "2026-03-13T05:00:06.685Z"
         },
         {
           "id": "unresolved:thu",
@@ -7627,6 +7875,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:failed",
+          "title": "Failed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:website",
+          "title": "Website",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:click",
+          "title": "Click",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:code",
+          "title": "Code",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -7887,12 +8179,36 @@
           "source": "note:facts/2026-03-12",
           "target": "unresolved:init-capital",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-12->unresolved:failed",
+          "source": "note:facts/2026-03-12",
+          "target": "unresolved:failed",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-12->unresolved:website",
+          "source": "note:facts/2026-03-12",
+          "target": "unresolved:website",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-12->unresolved:click",
+          "source": "note:facts/2026-03-12",
+          "target": "unresolved:click",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-12->unresolved:code",
+          "source": "note:facts/2026-03-12",
+          "target": "unresolved:code",
+          "type": "wiki_link"
         }
       ]
     },
     "facts/2026-03-13.md": {
       "relativePath": "facts/2026-03-13.md",
-      "mtimeMs": 1773356410070.9485,
+      "mtimeMs": 1773378006695.688,
       "nodes": [
         {
           "id": "note:facts/2026-03-13",
@@ -7903,7 +8219,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T23:00:10.070Z"
+          "modifiedAt": "2026-03-13T05:00:06.695Z"
         },
         {
           "id": "unresolved:shield",
@@ -8179,6 +8495,72 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fri",
+          "title": "Fri",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:internal",
+          "title": "Internal",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:lenny",
+          "title": "Lenny",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:podcast",
+          "title": "Podcast",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:product",
+          "title": "Product",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:career",
+          "title": "Career",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8330,6 +8712,42 @@
           "id": "wiki_link:note:facts/2026-03-13->unresolved:arthur-hayes",
           "source": "note:facts/2026-03-13",
           "target": "unresolved:arthur-hayes",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:fri",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:fri",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:internal",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:internal",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:lenny",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:lenny",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:podcast",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:podcast",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:product",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:product",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:career",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:career",
           "type": "wiki_link"
         }
       ]
@@ -8528,6 +8946,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-12T23:00:47.820Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-13-0500.md": {
+      "relativePath": "handoffs/handoff-2026-03-13-0500.md",
+      "mtimeMs": 1773378047941.9314,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-13-0500",
+          "title": "handoff-2026-03-13-0500",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-13-0500.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:47.941Z"
         }
       ],
       "edges": []
@@ -9017,6 +9453,42 @@
         {
           "id": "wiki_link:note:ledger/observations/2026/03/12->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/03/12",
+          "target": "unresolved:reply_to_current",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "ledger/observations/2026/03/13.md": {
+      "relativePath": "ledger/observations/2026/03/13.md",
+      "mtimeMs": 1773378006640.5576,
+      "nodes": [
+        {
+          "id": "note:ledger/observations/2026/03/13",
+          "title": "13",
+          "type": "note",
+          "category": "note",
+          "path": "ledger/observations/2026/03/13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:06.640Z"
+        },
+        {
+          "id": "unresolved:reply_to_current",
+          "title": "Reply To Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:ledger/observations/2026/03/13->unresolved:reply_to_current",
+          "source": "note:ledger/observations/2026/03/13",
           "target": "unresolved:reply_to_current",
           "type": "wiki_link"
         }
@@ -10128,6 +10600,42 @@
         {
           "id": "wiki_link:note:preferences/2026-03-12->unresolved:users",
           "source": "note:preferences/2026-03-12",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "preferences/2026-03-13.md": {
+      "relativePath": "preferences/2026-03-13.md",
+      "mtimeMs": 1773378006697.887,
+      "nodes": [
+        {
+          "id": "note:preferences/2026-03-13",
+          "title": "2026 03 13",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T05:00:06.697Z"
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:preferences/2026-03-13->unresolved:users",
+          "source": "note:preferences/2026-03-13",
           "target": "unresolved:users",
           "type": "wiki_link"
         }
@@ -18367,6 +18875,24 @@
       ],
       "edges": []
     },
+    "research/podcasts/2026-03-13-digest.md": {
+      "relativePath": "research/podcasts/2026-03-13-digest.md",
+      "mtimeMs": 1773356542484.0679,
+      "nodes": [
+        {
+          "id": "note:research/podcasts/2026-03-13-digest",
+          "title": "2026 03 13 Digest",
+          "type": "note",
+          "category": "note",
+          "path": "research/podcasts/2026-03-13-digest.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-12T23:02:22.484Z"
+        }
+      ],
+      "edges": []
+    },
     "research/test-store-2026-03-10.md": {
       "relativePath": "research/test-store-2026-03-10.md",
       "mtimeMs": 1773130714730.7385,
@@ -18387,7 +18913,7 @@
     },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
-      "mtimeMs": 1773350729953.705,
+      "mtimeMs": 1773376922860.2517,
       "nodes": [
         {
           "id": "note:skills/brain-memory/SKILL",
@@ -18398,7 +18924,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:29.953Z"
+          "modifiedAt": "2026-03-13T04:42:02.860Z"
         }
       ],
       "edges": []
@@ -18441,7 +18967,7 @@
     },
     "skills/CLAUDE.md": {
       "relativePath": "skills/CLAUDE.md",
-      "mtimeMs": 1773350730849.9219,
+      "mtimeMs": 1773376924202.4155,
       "nodes": [
         {
           "id": "note:skills/CLAUDE",
@@ -18452,14 +18978,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.849Z"
+          "modifiedAt": "2026-03-13T04:42:04.202Z"
         }
       ],
       "edges": []
     },
     "skills/cloudflare-browser/SKILL.md": {
       "relativePath": "skills/cloudflare-browser/SKILL.md",
-      "mtimeMs": 1773350731005.9983,
+      "mtimeMs": 1773376924406.651,
       "nodes": [
         {
           "id": "note:skills/cloudflare-browser/SKILL",
@@ -18470,7 +18996,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:31.005Z"
+          "modifiedAt": "2026-03-13T04:42:04.406Z"
         }
       ],
       "edges": []
@@ -18659,7 +19185,7 @@
     },
     "skills/google-calendar/SKILL.md": {
       "relativePath": "skills/google-calendar/SKILL.md",
-      "mtimeMs": 1773350730316.831,
+      "mtimeMs": 1773376923407.2007,
       "nodes": [
         {
           "id": "note:skills/google-calendar/SKILL",
@@ -18670,7 +19196,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.316Z"
+          "modifiedAt": "2026-03-13T04:42:03.407Z"
         }
       ],
       "edges": []
@@ -18713,7 +19239,7 @@
     },
     "skills/HEARTBEAT.md": {
       "relativePath": "skills/HEARTBEAT.md",
-      "mtimeMs": 1773350730129.841,
+      "mtimeMs": 1773376923170.431,
       "nodes": [
         {
           "id": "note:skills/HEARTBEAT",
@@ -18724,14 +19250,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.129Z"
+          "modifiedAt": "2026-03-13T04:42:03.170Z"
         }
       ],
       "edges": []
     },
     "skills/HOT-MEMORY.md": {
       "relativePath": "skills/HOT-MEMORY.md",
-      "mtimeMs": 1773352864606.4595,
+      "mtimeMs": 1773376923224.623,
       "nodes": [
         {
           "id": "note:skills/HOT-MEMORY",
@@ -18742,14 +19268,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T22:01:04.606Z"
+          "modifiedAt": "2026-03-13T04:42:03.224Z"
         }
       ],
       "edges": []
     },
     "skills/memory-retriever/SKILL.md": {
       "relativePath": "skills/memory-retriever/SKILL.md",
-      "mtimeMs": 1773350730089.4592,
+      "mtimeMs": 1773376923107.905,
       "nodes": [
         {
           "id": "note:skills/memory-retriever/SKILL",
@@ -18760,7 +19286,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.089Z"
+          "modifiedAt": "2026-03-13T04:42:03.107Z"
         }
       ],
       "edges": []
@@ -18821,7 +19347,7 @@
     },
     "skills/self-modify/SKILL.md": {
       "relativePath": "skills/self-modify/SKILL.md",
-      "mtimeMs": 1773350730807.763,
+      "mtimeMs": 1773376924137.2551,
       "nodes": [
         {
           "id": "note:skills/self-modify/SKILL",
@@ -18832,14 +19358,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.807Z"
+          "modifiedAt": "2026-03-13T04:42:04.137Z"
         }
       ],
       "edges": []
     },
     "skills/SOUL.md": {
       "relativePath": "skills/SOUL.md",
-      "mtimeMs": 1773350729768.5398,
+      "mtimeMs": 1773376922546.9792,
       "nodes": [
         {
           "id": "note:skills/SOUL",
@@ -18850,14 +19376,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:29.768Z"
+          "modifiedAt": "2026-03-13T04:42:02.546Z"
         }
       ],
       "edges": []
     },
     "skills/templates/lessons.md": {
       "relativePath": "skills/templates/lessons.md",
-      "mtimeMs": 1773350729804.3706,
+      "mtimeMs": 1773376922594.3276,
       "nodes": [
         {
           "id": "note:skills/templates/lessons",
@@ -18868,14 +19394,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:29.804Z"
+          "modifiedAt": "2026-03-13T04:42:02.594Z"
         }
       ],
       "edges": []
     },
     "skills/templates/todo.md": {
       "relativePath": "skills/templates/todo.md",
-      "mtimeMs": 1773350729803.4268,
+      "mtimeMs": 1773376922593.2551,
       "nodes": [
         {
           "id": "note:skills/templates/todo",
@@ -18886,7 +19412,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:29.803Z"
+          "modifiedAt": "2026-03-13T04:42:02.593Z"
         }
       ],
       "edges": []
@@ -18911,7 +19437,7 @@
     },
     "skills/USER.md": {
       "relativePath": "skills/USER.md",
-      "mtimeMs": 1773350729769.7058,
+      "mtimeMs": 1773376922548.8643,
       "nodes": [
         {
           "id": "note:skills/USER",
@@ -18922,14 +19448,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:29.769Z"
+          "modifiedAt": "2026-03-13T04:42:02.548Z"
         }
       ],
       "edges": []
     },
     "skills/web-researcher/SKILL.md": {
       "relativePath": "skills/web-researcher/SKILL.md",
-      "mtimeMs": 1773350730421.0352,
+      "mtimeMs": 1773376923561.5667,
       "nodes": [
         {
           "id": "note:skills/web-researcher/SKILL",
@@ -18940,7 +19466,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:30.421Z"
+          "modifiedAt": "2026-03-13T04:42:03.561Z"
         }
       ],
       "edges": []
@@ -19217,7 +19743,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773350757816.2998,
+      "mtimeMs": 1773376951679.4294,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -19228,7 +19754,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:25:57.816Z"
+          "modifiedAt": "2026-03-13T04:42:31.679Z"
         }
       ],
       "edges": []
@@ -19325,7 +19851,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773350770881.4028,
+      "mtimeMs": 1773376963517.111,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -19336,14 +19862,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:26:10.881Z"
+          "modifiedAt": "2026-03-13T04:42:43.517Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773350770370.9412,
+      "mtimeMs": 1773376962971.7332,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -19354,14 +19880,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:26:10.370Z"
+          "modifiedAt": "2026-03-13T04:42:42.971Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773350769018.6165,
+      "mtimeMs": 1773376962029.2195,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -19370,15 +19896,27 @@
           "category": "note",
           "path": "warm-memory/inbox.md",
           "tags": [
-            "50"
+            "50",
+            "hashed"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T21:26:09.018Z"
+          "modifiedAt": "2026-03-13T04:42:42.029Z"
         },
         {
           "id": "tag:50",
           "title": "#50",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:hashed",
+          "title": "#hashed",
           "type": "tag",
           "category": "tag",
           "path": null,
@@ -19393,6 +19931,12 @@
           "id": "tag:note:warm-memory/inbox->tag:50",
           "source": "note:warm-memory/inbox",
           "target": "tag:50",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:warm-memory/inbox->tag:hashed",
+          "source": "note:warm-memory/inbox",
+          "target": "tag:hashed",
           "type": "tag"
         }
       ]
@@ -25462,6 +26006,21 @@
         "modifiedAt": "2026-03-10T11:00:12.708Z"
       },
       {
+        "id": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+        "title": "Toolresult Lessons Ok Todo Ok Uncommitted 6",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/toolresult-lessons-ok-todo-ok-uncommitted-6.md",
+        "tags": [
+          "observer",
+          "open",
+          "todo"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-13T05:00:06.691Z"
+      },
+      {
         "id": "note:backlog/toolresult-lessonsok-todook-git_uncommitted7",
         "title": "Toolresult Lessonsok Todook Git Uncommitted7",
         "type": "note",
@@ -25733,6 +26292,17 @@
         "missing": false,
         "degree": 3,
         "modifiedAt": "2026-03-12T23:00:13.029Z"
+      },
+      {
+        "id": "note:brain-memory/daily/2026-03-13",
+        "title": "2026 03 13",
+        "type": "note",
+        "category": "note",
+        "path": "brain-memory/daily/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-13T05:00:09.446Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -26157,7 +26727,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T23:00:39.788Z"
+        "modifiedAt": "2026-03-13T05:00:38.497Z"
       },
       {
         "id": "note:decisions/2026-03-10",
@@ -26182,6 +26752,17 @@
         "modifiedAt": "2026-03-12T23:00:10.052Z"
       },
       {
+        "id": "note:decisions/2026-03-13",
+        "title": "2026 03 13",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 6,
+        "modifiedAt": "2026-03-13T05:00:06.697Z"
+      },
+      {
         "id": "note:decisions/long-term-memory",
         "title": "Long Term Memory",
         "type": "decision",
@@ -26191,6 +26772,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-10T08:05:30.783Z"
+      },
+      {
+        "id": "note:decisions/seoul-exchange-bank-tapping-2026-03-13",
+        "title": "Seoul Exchange Bank Tapping 2026 03 13",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/seoul-exchange-bank-tapping-2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-13T02:31:24.983Z"
       },
       {
         "id": "note:facts/2025-09-02",
@@ -26277,8 +26869,8 @@
         "path": "facts/2026-03-12.md",
         "tags": [],
         "missing": false,
-        "degree": 43,
-        "modifiedAt": "2026-03-12T23:00:10.064Z"
+        "degree": 47,
+        "modifiedAt": "2026-03-13T05:00:06.685Z"
       },
       {
         "id": "note:facts/2026-03-13",
@@ -26288,8 +26880,8 @@
         "path": "facts/2026-03-13.md",
         "tags": [],
         "missing": false,
-        "degree": 25,
-        "modifiedAt": "2026-03-12T23:00:10.070Z"
+        "degree": 31,
+        "modifiedAt": "2026-03-13T05:00:06.695Z"
       },
       {
         "id": "note:handoffs/handoff-2026-03-10-0815",
@@ -26413,6 +27005,17 @@
         "modifiedAt": "2026-03-12T23:00:47.820Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-13-0500",
+        "title": "handoff-2026-03-13-0500",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-13-0500.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-13T05:00:47.941Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -26498,6 +27101,17 @@
         "missing": false,
         "degree": 3,
         "modifiedAt": "2026-03-12T23:00:10.020Z"
+      },
+      {
+        "id": "note:ledger/observations/2026/03/13",
+        "title": "13",
+        "type": "note",
+        "category": "note",
+        "path": "ledger/observations/2026/03/13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-13T05:00:06.640Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -26654,6 +27268,17 @@
         "missing": false,
         "degree": 5,
         "modifiedAt": "2026-03-12T05:00:07.031Z"
+      },
+      {
+        "id": "note:preferences/2026-03-13",
+        "title": "2026 03 13",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-13T05:00:06.697Z"
       },
       {
         "id": "note:projects/2025-09-03",
@@ -28270,6 +28895,17 @@
         "modifiedAt": "2026-03-12T02:04:08.100Z"
       },
       {
+        "id": "note:research/podcasts/2026-03-13-digest",
+        "title": "2026 03 13 Digest",
+        "type": "note",
+        "category": "note",
+        "path": "research/podcasts/2026-03-13-digest.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-12T23:02:22.484Z"
+      },
+      {
         "id": "note:research/test-store-2026-03-10",
         "title": "test-store-2026-03-10",
         "type": "note",
@@ -28289,7 +28925,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:29.953Z"
+        "modifiedAt": "2026-03-13T04:42:02.860Z"
       },
       {
         "id": "note:skills/cbt-counselor/references/reveal-framework",
@@ -28322,7 +28958,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-12T21:25:30.849Z"
+        "modifiedAt": "2026-03-13T04:42:04.202Z"
       },
       {
         "id": "note:skills/cloudflare-browser/SKILL",
@@ -28333,7 +28969,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:31.005Z"
+        "modifiedAt": "2026-03-13T04:42:04.406Z"
       },
       {
         "id": "note:skills/failure-memory/SKILL",
@@ -28365,7 +29001,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:30.316Z"
+        "modifiedAt": "2026-03-13T04:42:03.407Z"
       },
       {
         "id": "note:skills/hades/references/market-rules",
@@ -28398,7 +29034,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:30.129Z"
+        "modifiedAt": "2026-03-13T04:42:03.170Z"
       },
       {
         "id": "note:skills/HOT-MEMORY",
@@ -28409,7 +29045,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T22:01:04.606Z"
+        "modifiedAt": "2026-03-13T04:42:03.224Z"
       },
       {
         "id": "note:skills/memory-retriever/SKILL",
@@ -28420,7 +29056,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:30.089Z"
+        "modifiedAt": "2026-03-13T04:42:03.107Z"
       },
       {
         "id": "note:skills/philosopher-chat/references/philosophers",
@@ -28464,7 +29100,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:30.807Z"
+        "modifiedAt": "2026-03-13T04:42:04.137Z"
       },
       {
         "id": "note:skills/SOUL",
@@ -28475,7 +29111,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:29.768Z"
+        "modifiedAt": "2026-03-13T04:42:02.546Z"
       },
       {
         "id": "note:skills/templates/lessons",
@@ -28486,7 +29122,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:29.804Z"
+        "modifiedAt": "2026-03-13T04:42:02.594Z"
       },
       {
         "id": "note:skills/templates/todo",
@@ -28497,7 +29133,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:29.803Z"
+        "modifiedAt": "2026-03-13T04:42:02.593Z"
       },
       {
         "id": "note:skills/tmux-claudecode/SKILL",
@@ -28519,7 +29155,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:29.769Z"
+        "modifiedAt": "2026-03-13T04:42:02.548Z"
       },
       {
         "id": "note:skills/web-researcher/SKILL",
@@ -28530,7 +29166,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:25:30.421Z"
+        "modifiedAt": "2026-03-13T04:42:03.561Z"
       },
       {
         "id": "note:SOUL",
@@ -28706,7 +29342,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-12T21:25:57.816Z"
+        "modifiedAt": "2026-03-13T04:42:31.679Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -28770,11 +29406,12 @@
         "category": "note",
         "path": "warm-memory/inbox.md",
         "tags": [
-          "50"
+          "50",
+          "hashed"
         ],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-12T21:26:09.018Z"
+        "degree": 2,
+        "modifiedAt": "2026-03-13T04:42:42.029Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -28785,7 +29422,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:26:10.881Z"
+        "modifiedAt": "2026-03-13T04:42:43.517Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -28796,7 +29433,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-12T21:26:10.370Z"
+        "modifiedAt": "2026-03-13T04:42:42.971Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -31543,7 +32180,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 10,
+        "degree": 11,
         "modifiedAt": null
       },
       {
@@ -31961,7 +32598,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 27,
+        "degree": 28,
         "modifiedAt": null
       },
       {
@@ -31972,7 +32609,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 27,
+        "degree": 28,
         "modifiedAt": null
       },
       {
@@ -32346,7 +32983,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -32922,6 +33559,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:career",
+        "title": "Career",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:celebrating-heretics",
         "title": "Celebrating Heretics",
         "type": "unresolved",
@@ -32999,6 +33647,28 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:click",
+        "title": "Click",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:code",
+        "title": "Code",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:com",
         "title": "Com",
         "type": "unresolved",
@@ -33017,7 +33687,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -33292,7 +33962,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -33483,6 +34153,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:failed",
+        "title": "Failed",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:file",
         "title": "File",
         "type": "unresolved",
@@ -33579,6 +34260,17 @@
         "tags": [],
         "missing": true,
         "degree": 3,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:fri",
+        "title": "Fri",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -33897,7 +34589,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34073,7 +34765,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -34381,7 +35073,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 27,
+        "degree": 28,
         "modifiedAt": null
       },
       {
@@ -34480,7 +35172,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -34547,6 +35239,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:product",
+        "title": "Product",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -34689,7 +35392,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34843,7 +35546,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -35107,7 +35810,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -35338,7 +36041,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -35349,7 +36052,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 12,
+        "degree": 14,
         "modifiedAt": null
       },
       {
@@ -35438,6 +36141,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:website",
+        "title": "Website",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -35865,6 +36579,24 @@
       {
         "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl->tag:todo",
         "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-toolresult-service-launchagent-not-loaded-file-logs-tmpopenclawopencl",
+        "target": "tag:todo",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:observer",
+        "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:open",
+        "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->tag:todo",
+        "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
         "target": "tag:todo",
         "type": "tag"
       },
@@ -37489,6 +38221,12 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:warm-memory/inbox->tag:hashed",
+        "source": "note:warm-memory/inbox",
+        "target": "tag:hashed",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:warm-memory/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan->tag:ai",
         "source": "note:warm-memory/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan",
         "target": "tag:ai",
@@ -38485,6 +39223,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6->unresolved:observer",
+        "source": "note:backlog/toolresult-lessons-ok-todo-ok-uncommitted-6",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/toolresult-lessonsok-todook-git_uncommitted7->unresolved:observer",
         "source": "note:backlog/toolresult-lessonsok-todook-git_uncommitted7",
         "target": "unresolved:observer",
@@ -39004,6 +39748,42 @@
         "id": "wiki_link:note:decisions/2026-03-12->unresolved:selected",
         "source": "note:decisions/2026-03-12",
         "target": "unresolved:selected",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:command",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:command",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:disable",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:disable",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:scanning",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:scanning",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:successfully",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:successfully",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:use",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:use",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-13->unresolved:users",
+        "source": "note:decisions/2026-03-13",
+        "target": "unresolved:users",
         "type": "wiki_link"
       },
       {
@@ -39787,6 +40567,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-12->unresolved:click",
+        "source": "note:facts/2026-03-12",
+        "target": "unresolved:click",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-12->unresolved:code",
+        "source": "note:facts/2026-03-12",
+        "target": "unresolved:code",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-12->unresolved:context",
         "source": "note:facts/2026-03-12",
         "target": "unresolved:context",
@@ -39814,6 +40606,12 @@
         "id": "wiki_link:note:facts/2026-03-12->unresolved:execute",
         "source": "note:facts/2026-03-12",
         "target": "unresolved:execute",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-12->unresolved:failed",
+        "source": "note:facts/2026-03-12",
+        "target": "unresolved:failed",
         "type": "wiki_link"
       },
       {
@@ -39985,6 +40783,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-12->unresolved:website",
+        "source": "note:facts/2026-03-12",
+        "target": "unresolved:website",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:abstraction-layer",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:abstraction-layer",
@@ -40021,9 +40825,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:career",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:career",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:electric-capital",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:electric-capital",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:fri",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:fri",
         "type": "wiki_link"
       },
       {
@@ -40057,6 +40873,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:internal",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:internal",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:key",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:key",
@@ -40072,6 +40894,24 @@
         "id": "wiki_link:note:facts/2026-03-13->unresolved:last-updated",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:last-updated",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:lenny",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:lenny",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:podcast",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:podcast",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:product",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:product",
         "type": "wiki_link"
       },
       {
@@ -40155,6 +40995,12 @@
       {
         "id": "wiki_link:note:ledger/observations/2026/03/12->unresolved:reply_to_current",
         "source": "note:ledger/observations/2026/03/12",
+        "target": "unresolved:reply_to_current",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/03/13->unresolved:reply_to_current",
+        "source": "note:ledger/observations/2026/03/13",
         "target": "unresolved:reply_to_current",
         "type": "wiki_link"
       },
@@ -40449,6 +41295,12 @@
       {
         "id": "wiki_link:note:preferences/2026-03-12->unresolved:users",
         "source": "note:preferences/2026-03-12",
+        "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:preferences/2026-03-13->unresolved:users",
+        "source": "note:preferences/2026-03-13",
         "target": "unresolved:users",
         "type": "wiki_link"
       },
@@ -41240,24 +42092,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-12T23:00:47.866Z",
-      "nodeCount": 883,
-      "edgeCount": 955,
+      "generatedAt": "2026-03-13T05:00:48.041Z",
+      "nodeCount": 898,
+      "edgeCount": 978,
       "nodeTypeCounts": {
-        "note": 396,
+        "note": 401,
         "tag": 147,
-        "unresolved": 278,
+        "unresolved": 285,
         "daily": 11,
         "commitment": 7,
-        "decision": 3,
-        "handoff": 11,
+        "decision": 5,
+        "handoff": 12,
         "lesson": 3,
         "person": 1,
         "project": 26
       },
       "edgeTypeCounts": {
-        "tag": 476,
-        "wiki_link": 479
+        "tag": 480,
+        "wiki_link": 498
       }
     }
   }

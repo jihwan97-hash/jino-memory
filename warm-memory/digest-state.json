@@ -8,26 +8,30 @@
       "https://www.a16z.news/p/your-data-agents-need-context",
       "https://www.a16z.news/p/top-100-gen-ai-consumer-apps-march",
       "https://www.a16z.news/p/investing-in-mind-robotics",
-      "https://www.a16z.news/p/the-world-needs-an-ai-lab-for-data"
+      "https://www.a16z.news/p/the-world-needs-an-ai-lab-for-data",
+      "https://www.a16z.news/p/institutional-ai-vs-individual-ai"
     ],
     "substack:Stratechery": [
       "https://stratechery.com/?p=18489",
       "https://stratechery.com/?p=18475",
-      "https://stratechery.com/?p=18501"
+      "https://stratechery.com/?p=18501",
+      "https://stratechery.com/?p=18509"
     ],
     "substack:Lenny's Newsletter": [
       "https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning",
       "https://www.lennysnewsletter.com/p/a-guide-to-advanced-b2b-positioning-e49",
       "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-mastering-midjourney",
       "https://www.lennysnewsletter.com/p/mastering-midjourney-how-to-create",
-      "https://www.lennysnewsletter.com/p/from-figma-to-claude-code-and-back"
+      "https://www.lennysnewsletter.com/p/from-figma-to-claude-code-and-back",
+      "https://www.lennysnewsletter.com/p/how-i-built-a-1m-subscriber-newsletter"
     ],
     "substack:The Generalist": [
       "https://www.generalist.com/p/americas-electric-power-grid-is-broken"
     ],
     "substack:TLDR Newsletter": [
       "https://tldr.tech/tech/2026-03-10",
-      "https://tldr.tech/tech/2026-03-11"
+      "https://tldr.tech/tech/2026-03-11",
+      "https://tldr.tech/tech/2026-03-12"
     ],
     "twitter:pmarca": [
       "https://nitter.net/pmarca/status/2031116702646432056#m",
@@ -52,7 +56,10 @@
       "https://nitter.net/a16z/status/2031828442585710894#m",
       "https://nitter.net/a16z/status/2031821003412906418#m",
       "https://nitter.net/andrewchen/status/2031532980032909640#m",
-      "https://nitter.net/gsivulka/status/2031797989908627849#m"
+      "https://nitter.net/gsivulka/status/2031797989908627849#m",
+      "https://nitter.net/a16z/status/2032220250650132612#m",
+      "https://nitter.net/a16z/status/2032200172135203094#m",
+      "https://nitter.net/a16z/status/2032189312285204834#m"
     ],
     "twitter:cdixon": [
       "https://nitter.net/nlevine19/status/2025570219821818004#m",
@@ -92,7 +99,9 @@
       "https://nitter.net/naval/status/2030679094623707600#m",
       "https://nitter.net/naval/status/1880853934883197275#m",
       "https://nitter.net/kimmaicutler/status/2029931861825442107#m",
-      "https://nitter.net/naval/status/2031702075307176248#m"
+      "https://nitter.net/naval/status/2031702075307176248#m",
+      "https://nitter.net/mattwridley/status/2031956026308678102#m",
+      "https://nitter.net/cremieuxrecueil/status/2031883482557780365#m"
     ],
     "twitter:paulg": [
       "https://nitter.net/thehill/status/2031473779164037615#m",
@@ -104,7 +113,10 @@
       "https://nitter.net/paulg/status/2031785196773683450#m",
       "https://nitter.net/mehdirhasan/status/2031770243073249802#m",
       "https://nitter.net/paulg/status/2031780316231135731#m",
-      "https://nitter.net/ddale8/status/2031708829478473925#m"
+      "https://nitter.net/ddale8/status/2031708829478473925#m",
+      "https://nitter.net/CompSciFact/status/2032106763802095721#m",
+      "https://nitter.net/SaulStaniforth/status/2032076536052928596#m",
+      "https://nitter.net/garrytan/status/2032014570118922347#m"
     ],
     "twitter:balajis": [
       "https://nitter.net/cozymaximalist/status/2031037912406511979#m",
@@ -127,7 +139,9 @@
       "https://nitter.net/elonmusk/status/2031797055338004572#m",
       "https://nitter.net/elonmusk/status/2031751255060885911#m",
       "https://nitter.net/elonmusk/status/2031742857007272243#m",
-      "https://nitter.net/WilliamShatner/status/2031489269618114952#m"
+      "https://nitter.net/WilliamShatner/status/2031489269618114952#m",
+      "https://nitter.net/elonmusk/status/2032203019669160379#m",
+      "https://nitter.net/elonmusk/status/2032202264673448100#m"
     ],
     "twitter:sriramk": [
       "https://nitter.net/btaylor/status/2031403214046888321#m",
@@ -147,7 +161,9 @@
       "https://nitter.net/emollick/status/2031820850337370352#m",
       "https://nitter.net/emollick/status/2031802894089875460#m",
       "https://nitter.net/emollick/status/2031909831997579702#m",
-      "https://nitter.net/emollick/status/2031751952774627716#m"
+      "https://nitter.net/emollick/status/2031751952774627716#m",
+      "https://nitter.net/emollick/status/2032097753011028164#m",
+      "https://nitter.net/emollick/status/2032154556805652939#m"
     ],
     "twitter:ylecun": [
       "https://nitter.net/koolkaryn/status/2031255381486293032#m",
@@ -174,7 +190,10 @@
       "https://nitter.net/bgurley/status/2030148182668198060#m",
       "https://nitter.net/lilianr/status/2029698326690681257#m",
       "https://nitter.net/CrownPublishing/status/2029557746664984955#m",
-      "https://nitter.net/bgurley/status/2028848680787165649#m"
+      "https://nitter.net/bgurley/status/2028848680787165649#m",
+      "https://nitter.net/sumirmeghani/status/2026830614331367583#m",
+      "https://nitter.net/bgurley/status/2032189749973155952#m",
+      "https://nitter.net/bgurley/status/2032189751982166446#m"
     ],
     "twitter:altcap": [
       "https://nitter.net/altcap/status/2030720520954736871#m",
@@ -194,7 +213,7 @@
     ]
   },
   "link_counts": {
-    "nitter.net": 218,
+    "nitter.net": 243,
     "x.com": 9,
     "cftc.gov": 1,
     "ft.com": 2,
@@ -208,7 +227,9 @@
     "astralcodexten.com": 2,
     "a.co": 1,
     "nytimes.com": 2,
-    "zeteo.com": 1
+    "zeteo.com": 1,
+    "latimes.com": 1,
+    "rdad.org": 2
   },
   "last_discovery": ""
 }
