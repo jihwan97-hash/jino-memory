@@ -1,9 +1,57 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오후 01:42 KST
+**Last synced**: 2026년 3월 13일 금요일 오후 03:46 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 6 unread)
+## Recent Emails (30 total, 4 unread)
+
+### Fwd: (주)핏투게더_정기주주총회 소집통지 및 관련 서류 안내의 건
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 13 Mar 2026 15:42:10 +0900
+- **ID**: `19ce5eeaf96341d7`
+- **Preview**: ---------- Forwarded message --------- 보낸사람: Minjin Kim &lt;mj.kim@fitogether.com&gt; Date: 2026년 3월 13일 (금) PM 2:37 Subject: (주)핏투게더_정기주주총회 소집통지 및 관련 서류 안내의 건 To: 윤진성대표님 &lt;jinsung.yoon@fitogether.
+
+### Fwd: [H2O] 정기주주총회 소집통지
+- **From**: SJ Baek <sj@hashed.com>
+- **Date**: Fri, 13 Mar 2026 15:41:55 +0900
+- **ID**: `19ce5ee6854d8394`
+- **Preview**: ---------- Forwarded message --------- 보낸사람: IR H2O &lt;ir@h2ohospitality.io&gt; Date: 2026년 3월 13일 (금) PM 3:38 Subject: [H2O] 정기주주총회 소집통지 To: IR H2O &lt;ir@h2ohospitality.io&gt; 존경하는 주주님, 안녕하십니까? 주주
+
+### You just signed HGM_Compliance_AML Awareness Exam -2026
+- **From**: Dropbox Sign <noreply@mail.hellosign.com>
+- **Date**: Fri, 13 Mar 2026 05:54:24 +0000
+- **ID**: `19ce5c2a84427428`
+- **Preview**: Dropbox Sign You have successfully signed your document Document HGM_Compliance_AML Awareness Exam -2026 You can view the document as an attachment below (if it&#39;s under 25 MB) or by clicking this
+
+### [주식회사 해시드] 주식회사 디에스알브이랩스에서 주주총회 참석을 요청했습니다.
+- **From**: "notification+1 via Investment" <investment@hashed.com>
+- **Date**: Fri, 13 Mar 2026 05:40:38 +0000 (UTC)
+- **ID**: `19ce5b6148a73912`
+- **Preview**: 안녕하세요, 주식회사 디에스알브이랩스 컴플라이언스팀입니다. 주식회사 디에스알브이랩스의 주주총회가 개최될 예정이오니 참석을 부탁드립니다. 1. 개최 일시 : 2026년 3월 31일 10:00 2. 개최 장소 : 서울 강남구 테헤란로19길 73 회의실 3. 목적 사항 [부의안건] - 제 1호 의안 : 재무제표 승인의 건 하기 방법으로 의결권을 행사할 수 있습니다
+
+### "HVL WEEK2 STANDUP" meeting notes and AI answers are ready ✅
+- **From**: "tl;dv Team" <no-reply@tldv.io>
+- **Date**: Fri, 13 Mar 2026 05:40:40 +0000
+- **ID**: `19ce5b61319e5644`
+- **Preview**: Action Items: …. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+### (주)핏투게더_정기주주총회 소집통지 및 관련 서류 안내의 건
+- **From**: Minjin Kim <mj.kim@fitogether.com>
+- **Date**: Fri, 13 Mar 2026 14:36:59 +0900
+- **ID**: `19ce5b301b85e184`
+- **Preview**: 안녕하십니까. 주식회사 핏투게더 경영지원팀 김민진입니다. 당사는 상법 제365조 및 당사 정관에 의거하여 아래와 같이 정기주주총회를 개최하고자 하오니 참석하여 주시기 바랍니다. 자세한 사항은 첨부된 정기주주총회 소집통지서를 참고하여 주시면 감사하겠습니다. ■ 정기주주총회 개최 안내 일시 : 2026년 3월 25일(수) 오전 11시 장소 : 서울특별시 용산구
+
+### Re: Invitation: Hashed Interview: 주호연님 @ Fri Mar 13, 2026 4pm - 5pm (GMT+9) (ugin35@yonsei.ac.kr)
+- **From**: "주호연" <ugin35@yonsei.ac.kr>
+- **Date**: Fri, 13 Mar 2026 14:15:58 +0900
+- **ID**: `19ce59fa405c7af8`
+- **Preview**: 안녕하세요 지환님, 주호연입니다. 친절한 안내 감사합니다. 시간 맞춰서 해시드 오피스에서 뵙겠습니다. 귀한 자리 제공해주셔서 감사합니다, 주호연 드림. 2026년 3월 13일 (금) 오후 1:59, Astin Han &lt;astin@hashed.com&gt;님이 작성: 안녕하세요 주호연님, 해시드 플랫폼팀 매니저 한지환입니다. 구글 미트 링크는 초대장 발송
+
+### Re: Invitation: Hashed Interview: 주호연님 @ Fri Mar 13, 2026 4pm - 5pm (GMT+9) (ugin35@yonsei.ac.kr)
+- **From**: Astin Han <astin@hashed.com>
+- **Date**: Fri, 13 Mar 2026 13:59:18 +0900
+- **ID**: `19ce590348cdadc6`
+- **Preview**: 안녕하세요 주호연님, 해시드 플랫폼팀 매니저 한지환입니다. 구글 미트 링크는 초대장 발송 시 자동으로 포함되어 초대가 간 것으로, 금일 면접은 기 안내드린대로 대면으로 진행될 예정입니다. 이따 뵙도록 하겠습니다. 감사합니다. 한지환 드림 Astin Han, Platform Operations Manager Phone: +82-10-7912-0177
 
 ### Reminder: HGM_Compliance_AML Awareness Exam -2026 is awaiting your signature
 - **From**: Hashed Legal <noreply@mail.hellosign.com>
@@ -136,54 +184,6 @@
 - **Date**: Thu, 12 Mar 2026 18:36:11 +0000
 - **ID**: `19ce355beb6f3330`
 - **Preview**: Balances for rebasing tokens like stETH, aTokens, cTokens, and more now reflect accrued value correctly. ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​
-
-### **[NEW]** Spartan Venture Fund LP | Investor Statement | Q4 2025
-- **From**: estatements via Investment <investment@hashed.com>
-- **Date**: Thu, 12 Mar 2026 18:02:21 +0000
-- **ID**: `19ce336ca42dfc7c`
-- **Preview**: Dear Investor, Please find attached the Q4 2025 Investor Statement for your investment in the Spartan Venture Fund LP. If you have any questions, please do not hesitate to contact Spartan Capital at
-
-### [닥터나우] 닥터나우 방지법 통과 가능성 (대외비)
-- **From**: <jin@doctornow.co.kr>
-- **Date**: Thu, 12 Mar 2026 21:52:00 +0900
-- **ID**: `19ce21b108959123`
-- **Preview**: 닥터나우 주주 귀중, 규제 환경과 관련하여 공유드릴 사항이 있어 메일을 드립니다. 저희가 파악하고 있는 바에 따르면, 닥터나우가 직접 의약품 도매 사업을 영위하는 것을 제한하는 이른바 &#39;닥터나우 방지법&#39;이 3월 중 국회 본회의에 상정될 가능성이 매우 높은 상황입니다. 일부 우호적인 의원들께서 질의나 토론을 진행할 가능성은 있으나, 현재 정치권
-
-### [업라이즈] 2026년 2월 재무 현황 보고
-- **From**: "'이충엽 from Heybit' via Investment" <investment@hashed.com>
-- **Date**: Thu, 12 Mar 2026 10:52:03 +0000
-- **ID**: `19ce1ad4a29c0f49`
-- **Preview**: 안녕하세요. 업라이즈 이충엽입니다. 본 메일은 VC 주주들께 보내드리는 메일입니다. 보내드리는 재무 데이터는 신속한 공유를 목적으로 작성된 것으로, 자산 인식 시점(실제 현금 흐름 기준)과 손익 인식 시점(매출 발생 시점)의 차이로 인해 자산 현황과 손익이 불일치하는 현상이 있으며, 향후 가결산 및 결산 과정에서 수치가 변동 될 수 있다는 점 양지하여 주시기
-
-### **[NEW]** Re: Partner Marketing & Communications Information Form
-- **From**: "Mariam Abdulla Jasem Mohamed Alfardan (Hub71)" <MAlfardan@hub71.com>
-- **Date**: Thu, 12 Mar 2026 10:02:36 +0000
-- **ID**: `19ce17fa0988ff2d`
-- **Preview**: Dear Henry, Thank you so much for filling out the form. Please note that our marketing team has received your submission and will be in touch for future collaborations. Best regards, Mariam Al Fardan
-
-### [블록오디세이] 주주총회 관련 공증 및 등기 서류 안내
-- **From**: "황학선" <walter@blockodyssey.io>
-- **Date**: Thu, 12 Mar 2026 18:44:55 +0900
-- **ID**: `19ce16fa3a516ff5`
-- **Preview**: 안녕하세요. 블록오디세이 황학선입니다. 주주총회 이후 진행될 공증 및 등기 절차와 관련하여 주주 측 준비서류를 안내드립니다. 또한 기존 이재상 이사님에서 민복기 이사님으로 임원 변동이 발생함에 따라 신규 이사 선임 안건이 상정될 예정이오니 아래 후보자 정보를 참고 부탁드립니다. [이사 후보자] 성명 / 생년월일 : 민복기 / 1978.12.17 주요 약력 현
-
-### [블록오디세이]주주총회 관련 등기 및 공증 서류 안내
-- **From**: "황학선" <walter@blockodyssey.io>
-- **Date**: Thu, 12 Mar 2026 18:30:06 +0900
-- **ID**: `19ce16209364613b`
-- **Preview**: 안녕하세요. 블록오디세이 황학선입니다. 주주총회 이후 진행될 신규 이사 등기 및 공증 관련 서류 준비에 대해 안내드립니다. 주주 측 준비서류를 아래와 같이 공유드리오니 준비 후 아래 주소로 송부 부탁드립니다. [김서준 대표님] 이사회 개최에 대한 소집절차 생략 동의서 1부 (개인 인감 또는 막도장 가능) 이사회 의사록 1부 (간인 포함 / 개인 인감 또는
-
-### Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
-- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
-- **Date**: Thu, 12 Mar 2026 17:25:13 +0900
-- **ID**: `19ce1269f871af92`
-- **Preview**: Dear Shasank, Please be informed that all requested documents for the KYB process of Ad-Shield, Inc. (US) have been submitted through the provided link. Kindly review the submitted documents at your
-
-### Re: liquibit strategies
-- **From**: Stanley Wong <stanley.wong@liquibit.io>
-- **Date**: Thu, 12 Mar 2026 08:21:14 +0000
-- **ID**: `19ce122d24581c23`
-- **Preview**: Hi Gary, Sounds good. As mentioned, please feel free to reach out if you have any questions. I look forward to speaking soon. Best regards, Stan From: Gary Rhee &lt;gary@hashed.com&gt; Sent: Thursday,
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
