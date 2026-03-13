@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-13T05:00:48.041Z",
+  "generatedAt": "2026-03-13T11:00:51.650Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -2914,7 +2914,7 @@
     },
     "brain-memory/daily/2026-03-13.md": {
       "relativePath": "brain-memory/daily/2026-03-13.md",
-      "mtimeMs": 1773378009446.251,
+      "mtimeMs": 1773399610728.815,
       "nodes": [
         {
           "id": "note:brain-memory/daily/2026-03-13",
@@ -2925,7 +2925,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T05:00:09.446Z"
+          "modifiedAt": "2026-03-13T11:00:10.728Z"
         }
       ],
       "edges": []
@@ -4434,7 +4434,7 @@
     },
     "commitments/2026-03-13.md": {
       "relativePath": "commitments/2026-03-13.md",
-      "mtimeMs": 1773356410071.37,
+      "mtimeMs": 1773399608034.4795,
       "nodes": [
         {
           "id": "note:commitments/2026-03-13",
@@ -4445,7 +4445,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T23:00:10.071Z"
+          "modifiedAt": "2026-03-13T11:00:08.034Z"
         },
         {
           "id": "unresolved:your",
@@ -4468,6 +4468,105 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:proliferation-financing",
+          "title": "Proliferation Financing",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:according",
+          "title": "According",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:article",
+          "title": "Article",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:federal-decree",
+          "title": "Federal Decree",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:law",
+          "title": "Law",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:provide",
+          "title": "Provide",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:controlled-functions",
+          "title": "Controlled Functions",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:firm",
+          "title": "Firm",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:the-firm",
+          "title": "The Firm",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -4481,6 +4580,60 @@
           "id": "wiki_link:note:commitments/2026-03-13->unresolved:changes",
           "source": "note:commitments/2026-03-13",
           "target": "unresolved:changes",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:proliferation-financing",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:proliferation-financing",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:according",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:according",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:article",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:article",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:federal-decree",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:federal-decree",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:law",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:law",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:provide",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:provide",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:controlled-functions",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:controlled-functions",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:firm",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:firm",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-13->unresolved:the-firm",
+          "source": "note:commitments/2026-03-13",
+          "target": "unresolved:the-firm",
           "type": "wiki_link"
         }
       ]
@@ -4649,7 +4802,7 @@
     },
     "daily/2026-03-13.md": {
       "relativePath": "daily/2026-03-13.md",
-      "mtimeMs": 1773378038497.9375,
+      "mtimeMs": 1773399638594.0618,
       "nodes": [
         {
           "id": "note:daily/2026-03-13",
@@ -4660,7 +4813,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T05:00:38.497Z"
+          "modifiedAt": "2026-03-13T11:00:38.594Z"
         }
       ],
       "edges": []
@@ -8208,7 +8361,7 @@
     },
     "facts/2026-03-13.md": {
       "relativePath": "facts/2026-03-13.md",
-      "mtimeMs": 1773378006695.688,
+      "mtimeMs": 1773399608047.8262,
       "nodes": [
         {
           "id": "note:facts/2026-03-13",
@@ -8219,7 +8372,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T05:00:06.695Z"
+          "modifiedAt": "2026-03-13T11:00:08.047Z"
         },
         {
           "id": "unresolved:shield",
@@ -8561,6 +8714,171 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:local",
+          "title": "Local",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:all",
+          "title": "All",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:anthropic",
+          "title": "Anthropic",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:bad-gateway",
+          "title": "Bad Gateway",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:command",
+          "title": "Command",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:subcommands",
+          "title": "Subcommands",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:date",
+          "title": "Date",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:model-context",
+          "title": "Model Context",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:protocol",
+          "title": "Protocol",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:web",
+          "title": "Web",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:python",
+          "title": "Python",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:homebrew",
+          "title": "Homebrew",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:exec",
+          "title": "Exec",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:read",
+          "title": "Read",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:follow",
+          "title": "Follow",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8748,6 +9066,96 @@
           "id": "wiki_link:note:facts/2026-03-13->unresolved:career",
           "source": "note:facts/2026-03-13",
           "target": "unresolved:career",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:local",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:local",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:all",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:all",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:anthropic",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:anthropic",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:bad-gateway",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:bad-gateway",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:command",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:command",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:subcommands",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:subcommands",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:date",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:date",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:model-context",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:model-context",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:protocol",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:protocol",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:web",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:web",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:python",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:python",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:homebrew",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:homebrew",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:exec",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:exec",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:read",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:read",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-13->unresolved:follow",
+          "source": "note:facts/2026-03-13",
+          "target": "unresolved:follow",
           "type": "wiki_link"
         }
       ]
@@ -8964,6 +9372,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-13T05:00:47.941Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-13-1100.md": {
+      "relativePath": "handoffs/handoff-2026-03-13-1100.md",
+      "mtimeMs": 1773399651545.1362,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-13-1100",
+          "title": "handoff-2026-03-13-1100",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-13-1100.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T11:00:51.545Z"
         }
       ],
       "edges": []
@@ -9460,7 +9886,7 @@
     },
     "ledger/observations/2026/03/13.md": {
       "relativePath": "ledger/observations/2026/03/13.md",
-      "mtimeMs": 1773378006640.5576,
+      "mtimeMs": 1773399607978.7917,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/13",
@@ -9468,10 +9894,47 @@
           "type": "note",
           "category": "note",
           "path": "ledger/observations/2026/03/13.md",
+          "tags": [
+            "1",
+            "118",
+            "118_"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T11:00:07.978Z"
+        },
+        {
+          "id": "tag:1",
+          "title": "#1",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T05:00:06.640Z"
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:118",
+          "title": "#118",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:118_",
+          "title": "#118_",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
         },
         {
           "id": "unresolved:reply_to_current",
@@ -9486,6 +9949,24 @@
         }
       ],
       "edges": [
+        {
+          "id": "tag:note:ledger/observations/2026/03/13->tag:1",
+          "source": "note:ledger/observations/2026/03/13",
+          "target": "tag:1",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:ledger/observations/2026/03/13->tag:118",
+          "source": "note:ledger/observations/2026/03/13",
+          "target": "tag:118",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:ledger/observations/2026/03/13->tag:118_",
+          "source": "note:ledger/observations/2026/03/13",
+          "target": "tag:118_",
+          "type": "tag"
+        },
         {
           "id": "wiki_link:note:ledger/observations/2026/03/13->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/03/13",
@@ -9562,6 +10043,59 @@
           "id": "wiki_link:note:lessons/2026-03-11->unresolved:hashed",
           "source": "note:lessons/2026-03-11",
           "target": "unresolved:hashed",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "lessons/2026-03-13.md": {
+      "relativePath": "lessons/2026-03-13.md",
+      "mtimeMs": 1773399608044.437,
+      "nodes": [
+        {
+          "id": "note:lessons/2026-03-13",
+          "title": "2026 03 13",
+          "type": "lesson",
+          "category": "lesson",
+          "path": "lessons/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T11:00:08.044Z"
+        },
+        {
+          "id": "unresolved:successfully",
+          "title": "Successfully",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:lessons/2026-03-13->unresolved:successfully",
+          "source": "note:lessons/2026-03-13",
+          "target": "unresolved:successfully",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:lessons/2026-03-13->unresolved:users",
+          "source": "note:lessons/2026-03-13",
+          "target": "unresolved:users",
           "type": "wiki_link"
         }
       ]
@@ -9730,6 +10264,44 @@
       ],
       "edges": []
     },
+    "memory/2026-03-13.md": {
+      "relativePath": "memory/2026-03-13.md",
+      "mtimeMs": 1773390653373.6604,
+      "nodes": [
+        {
+          "id": "note:memory/2026-03-13",
+          "title": "2026 03 13",
+          "type": "note",
+          "category": "note",
+          "path": "memory/2026-03-13.md",
+          "tags": [
+            "118"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T08:30:53.373Z"
+        },
+        {
+          "id": "tag:118",
+          "title": "#118",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:memory/2026-03-13->tag:118",
+          "source": "note:memory/2026-03-13",
+          "target": "tag:118",
+          "type": "tag"
+        }
+      ]
+    },
     "people/2026-03-10.md": {
       "relativePath": "people/2026-03-10.md",
       "mtimeMs": 1773130504522.5027,
@@ -9796,6 +10368,110 @@
           "id": "wiki_link:note:people/2026-03-10->unresolved:users",
           "source": "note:people/2026-03-10",
           "target": "unresolved:users",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "people/money-or/2026-03-13.md": {
+      "relativePath": "people/money-or/2026-03-13.md",
+      "mtimeMs": 1773399608032.891,
+      "nodes": [
+        {
+          "id": "note:people/money-or/2026-03-13",
+          "title": "2026 03 13",
+          "type": "person",
+          "category": "person",
+          "path": "people/money-or/2026-03-13.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T11:00:08.032Z"
+        },
+        {
+          "id": "unresolved:definition",
+          "title": "Definition",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:regulated-business",
+          "title": "Regulated Business",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:firm",
+          "title": "Firm",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:you",
+          "title": "You",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:client",
+          "title": "Client",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:definition",
+          "source": "note:people/money-or/2026-03-13",
+          "target": "unresolved:definition",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:regulated-business",
+          "source": "note:people/money-or/2026-03-13",
+          "target": "unresolved:regulated-business",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:firm",
+          "source": "note:people/money-or/2026-03-13",
+          "target": "unresolved:firm",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:you",
+          "source": "note:people/money-or/2026-03-13",
+          "target": "unresolved:you",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:client",
+          "source": "note:people/money-or/2026-03-13",
+          "target": "unresolved:client",
           "type": "wiki_link"
         }
       ]
@@ -10607,7 +11283,7 @@
     },
     "preferences/2026-03-13.md": {
       "relativePath": "preferences/2026-03-13.md",
-      "mtimeMs": 1773378006697.887,
+      "mtimeMs": 1773399608041.0464,
       "nodes": [
         {
           "id": "note:preferences/2026-03-13",
@@ -10618,7 +11294,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T05:00:06.697Z"
+          "modifiedAt": "2026-03-13T11:00:08.041Z"
         },
         {
           "id": "unresolved:users",
@@ -12646,7 +13322,7 @@
     },
     "projects/2026-03-13.md": {
       "relativePath": "projects/2026-03-13.md",
-      "mtimeMs": 1773356410069.3435,
+      "mtimeMs": 1773399608046.2456,
       "nodes": [
         {
           "id": "note:projects/2026-03-13",
@@ -12657,7 +13333,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-12T23:00:10.069Z"
+          "modifiedAt": "2026-03-13T11:00:08.046Z"
         },
         {
           "id": "unresolved:sprint",
@@ -12812,6 +13488,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brave-search",
+          "title": "Brave Search",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:request",
+          "title": "Request",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fre",
+          "title": "Fre",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:claude-code",
+          "title": "Claude Code",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -12909,6 +13629,30 @@
           "id": "wiki_link:note:projects/2026-03-13->unresolved:launched-payouts",
           "source": "note:projects/2026-03-13",
           "target": "unresolved:launched-payouts",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-13->unresolved:brave-search",
+          "source": "note:projects/2026-03-13",
+          "target": "unresolved:brave-search",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-13->unresolved:request",
+          "source": "note:projects/2026-03-13",
+          "target": "unresolved:request",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-13->unresolved:fre",
+          "source": "note:projects/2026-03-13",
+          "target": "unresolved:fre",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-13->unresolved:claude-code",
+          "source": "note:projects/2026-03-13",
+          "target": "unresolved:claude-code",
           "type": "wiki_link"
         }
       ]
@@ -19743,7 +20487,7 @@
     },
     "warm-memory/calendar.md": {
       "relativePath": "warm-memory/calendar.md",
-      "mtimeMs": 1773376951679.4294,
+      "mtimeMs": 1773398552771.0483,
       "nodes": [
         {
           "id": "note:warm-memory/calendar",
@@ -19754,7 +20498,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T04:42:31.679Z"
+          "modifiedAt": "2026-03-13T10:42:32.771Z"
         }
       ],
       "edges": []
@@ -19851,7 +20595,7 @@
     },
     "warm-memory/inbox-jihwan.md": {
       "relativePath": "warm-memory/inbox-jihwan.md",
-      "mtimeMs": 1773376963517.111,
+      "mtimeMs": 1773398577003.4988,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-jihwan",
@@ -19862,14 +20606,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T04:42:43.517Z"
+          "modifiedAt": "2026-03-13T10:42:57.003Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox-personal.md": {
       "relativePath": "warm-memory/inbox-personal.md",
-      "mtimeMs": 1773376962971.7332,
+      "mtimeMs": 1773398576527.7986,
       "nodes": [
         {
           "id": "note:warm-memory/inbox-personal",
@@ -19880,14 +20624,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T04:42:42.971Z"
+          "modifiedAt": "2026-03-13T10:42:56.527Z"
         }
       ],
       "edges": []
     },
     "warm-memory/inbox.md": {
       "relativePath": "warm-memory/inbox.md",
-      "mtimeMs": 1773376962029.2195,
+      "mtimeMs": 1773398575427.7178,
       "nodes": [
         {
           "id": "note:warm-memory/inbox",
@@ -19896,23 +20640,11 @@
           "category": "note",
           "path": "warm-memory/inbox.md",
           "tags": [
-            "50",
             "hashed"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T04:42:42.029Z"
-        },
-        {
-          "id": "tag:50",
-          "title": "#50",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
-          "tags": [],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-03-13T10:42:55.427Z"
         },
         {
           "id": "tag:hashed",
@@ -19927,12 +20659,6 @@
         }
       ],
       "edges": [
-        {
-          "id": "tag:note:warm-memory/inbox->tag:50",
-          "source": "note:warm-memory/inbox",
-          "target": "tag:50",
-          "type": "tag"
-        },
         {
           "id": "tag:note:warm-memory/inbox->tag:hashed",
           "source": "note:warm-memory/inbox",
@@ -19958,6 +20684,44 @@
         }
       ],
       "edges": []
+    },
+    "warm-memory/knowledge-base/hyuni-insight-118-2026-03.md": {
+      "relativePath": "warm-memory/knowledge-base/hyuni-insight-118-2026-03.md",
+      "mtimeMs": 1773389781117.745,
+      "nodes": [
+        {
+          "id": "note:warm-memory/knowledge-base/hyuni-insight-118-2026-03",
+          "title": "Hyuni Insight 118 2026 03",
+          "type": "note",
+          "category": "note",
+          "path": "warm-memory/knowledge-base/hyuni-insight-118-2026-03.md",
+          "tags": [
+            "118"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-13T08:16:21.117Z"
+        },
+        {
+          "id": "tag:118",
+          "title": "#118",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:warm-memory/knowledge-base/hyuni-insight-118-2026-03->tag:118",
+          "source": "note:warm-memory/knowledge-base/hyuni-insight-118-2026-03",
+          "target": "tag:118",
+          "type": "tag"
+        }
+      ]
     },
     "warm-memory/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan.md": {
       "relativePath": "warm-memory/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan.md",
@@ -26302,7 +27066,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-13T05:00:09.446Z"
+        "modifiedAt": "2026-03-13T11:00:10.728Z"
       },
       {
         "id": "note:brain-memory/daily/email-2026-02-25",
@@ -26616,8 +27380,8 @@
         "path": "commitments/2026-03-13.md",
         "tags": [],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-03-12T23:00:10.071Z"
+        "degree": 11,
+        "modifiedAt": "2026-03-13T11:00:08.034Z"
       },
       {
         "id": "note:daily/2026-02-25",
@@ -26727,7 +27491,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-13T05:00:38.497Z"
+        "modifiedAt": "2026-03-13T11:00:38.594Z"
       },
       {
         "id": "note:decisions/2026-03-10",
@@ -26880,8 +27644,8 @@
         "path": "facts/2026-03-13.md",
         "tags": [],
         "missing": false,
-        "degree": 31,
-        "modifiedAt": "2026-03-13T05:00:06.695Z"
+        "degree": 46,
+        "modifiedAt": "2026-03-13T11:00:08.047Z"
       },
       {
         "id": "note:handoffs/handoff-2026-03-10-0815",
@@ -27016,6 +27780,17 @@
         "modifiedAt": "2026-03-13T05:00:47.941Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-13-1100",
+        "title": "handoff-2026-03-13-1100",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-13-1100.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-13T11:00:51.545Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -27108,10 +27883,14 @@
         "type": "note",
         "category": "note",
         "path": "ledger/observations/2026/03/13.md",
-        "tags": [],
+        "tags": [
+          "1",
+          "118",
+          "118_"
+        ],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-13T05:00:06.640Z"
+        "degree": 4,
+        "modifiedAt": "2026-03-13T11:00:07.978Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -27134,6 +27913,17 @@
         "missing": false,
         "degree": 1,
         "modifiedAt": "2026-03-11T11:00:10.627Z"
+      },
+      {
+        "id": "note:lessons/2026-03-13",
+        "title": "2026 03 13",
+        "type": "lesson",
+        "category": "lesson",
+        "path": "lessons/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-03-13T11:00:08.044Z"
       },
       {
         "id": "note:lessons/lessons-migrated",
@@ -27226,6 +28016,19 @@
         "modifiedAt": "2026-03-12T06:42:40.352Z"
       },
       {
+        "id": "note:memory/2026-03-13",
+        "title": "2026 03 13",
+        "type": "note",
+        "category": "note",
+        "path": "memory/2026-03-13.md",
+        "tags": [
+          "118"
+        ],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-13T08:30:53.373Z"
+      },
+      {
         "id": "note:people/2026-03-10",
         "title": "2026 03 10",
         "type": "person",
@@ -27235,6 +28038,17 @@
         "missing": false,
         "degree": 3,
         "modifiedAt": "2026-03-10T08:15:04.522Z"
+      },
+      {
+        "id": "note:people/money-or/2026-03-13",
+        "title": "2026 03 13",
+        "type": "person",
+        "category": "person",
+        "path": "people/money-or/2026-03-13.md",
+        "tags": [],
+        "missing": false,
+        "degree": 5,
+        "modifiedAt": "2026-03-13T11:00:08.032Z"
       },
       {
         "id": "note:preferences/2026-03-10",
@@ -27278,7 +28092,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-13T05:00:06.697Z"
+        "modifiedAt": "2026-03-13T11:00:08.041Z"
       },
       {
         "id": "note:projects/2025-09-03",
@@ -27354,8 +28168,8 @@
         "path": "projects/2026-03-13.md",
         "tags": [],
         "missing": false,
-        "degree": 16,
-        "modifiedAt": "2026-03-12T23:00:10.069Z"
+        "degree": 20,
+        "modifiedAt": "2026-03-13T11:00:08.046Z"
       },
       {
         "id": "note:projects/ad-shield-research-2026-03-13",
@@ -29342,7 +30156,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-13T04:42:31.679Z"
+        "modifiedAt": "2026-03-13T10:42:32.771Z"
       },
       {
         "id": "note:warm-memory/commonware-research",
@@ -29406,12 +30220,11 @@
         "category": "note",
         "path": "warm-memory/inbox.md",
         "tags": [
-          "50",
           "hashed"
         ],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-03-13T04:42:42.029Z"
+        "degree": 1,
+        "modifiedAt": "2026-03-13T10:42:55.427Z"
       },
       {
         "id": "note:warm-memory/inbox-jihwan",
@@ -29422,7 +30235,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-13T04:42:43.517Z"
+        "modifiedAt": "2026-03-13T10:42:57.003Z"
       },
       {
         "id": "note:warm-memory/inbox-personal",
@@ -29433,7 +30246,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-13T04:42:42.971Z"
+        "modifiedAt": "2026-03-13T10:42:56.527Z"
       },
       {
         "id": "note:warm-memory/insights",
@@ -29445,6 +30258,19 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-07T20:01:36.056Z"
+      },
+      {
+        "id": "note:warm-memory/knowledge-base/hyuni-insight-118-2026-03",
+        "title": "Hyuni Insight 118 2026 03",
+        "type": "note",
+        "category": "note",
+        "path": "warm-memory/knowledge-base/hyuni-insight-118-2026-03.md",
+        "tags": [
+          "118"
+        ],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-13T08:16:21.117Z"
       },
       {
         "id": "note:warm-memory/knowledge-base/mid-term/2026-03-03_AI기억시스템_Nathan",
@@ -31476,12 +32302,34 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
         "id": "tag:10",
         "title": "#10",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:118",
+        "title": "#118",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 3,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:118_",
+        "title": "#118_",
         "type": "tag",
         "category": "tag",
         "path": null,
@@ -31608,7 +32456,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 3,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -33097,6 +33945,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:according",
+        "title": "According",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:acquired",
         "title": "Acquired",
         "type": "unresolved",
@@ -33203,7 +34062,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -33225,7 +34084,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -33295,6 +34154,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:article",
+        "title": "Article",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:asi",
         "title": "Asi",
         "type": "unresolved",
@@ -33352,6 +34222,17 @@
       {
         "id": "unresolved:author",
         "title": "Author",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:bad-gateway",
+        "title": "Bad Gateway",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -33489,7 +34370,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -33614,6 +34495,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:claude-code",
+        "title": "Claude Code",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:claude-sonnet",
         "title": "Claude Sonnet",
         "type": "unresolved",
@@ -33658,6 +34550,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:client",
+        "title": "Client",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:code",
         "title": "Code",
         "type": "unresolved",
@@ -33687,7 +34590,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -33812,6 +34715,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:controlled-functions",
+        "title": "Controlled Functions",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:core-memory",
         "title": "Core Memory",
         "type": "unresolved",
@@ -33891,6 +34805,17 @@
       {
         "id": "unresolved:date",
         "title": "Date",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:definition",
+        "title": "Definition",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -34138,7 +35063,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -34155,6 +35080,17 @@
       {
         "id": "unresolved:failed",
         "title": "Failed",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:federal-decree",
+        "title": "Federal Decree",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -34197,6 +35133,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:firm",
+        "title": "Firm",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:first-million",
         "title": "First Million",
         "type": "unresolved",
@@ -34226,7 +35173,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34259,7 +35206,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34490,7 +35437,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -34736,6 +35683,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:law",
+        "title": "Law",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:layer-cake",
         "title": "Layer Cake",
         "type": "unresolved",
@@ -34820,7 +35778,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34908,7 +35866,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -35253,6 +36211,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:proliferation-financing",
+        "title": "Proliferation Financing",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:prot",
         "title": "Prot",
         "type": "unresolved",
@@ -35266,6 +36235,17 @@
       {
         "id": "unresolved:protocol",
         "title": "Protocol",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:provide",
+        "title": "Provide",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -35315,7 +36295,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -35348,7 +36328,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -35376,6 +36356,17 @@
       {
         "id": "unresolved:recent-sessions",
         "title": "Recent Sessions",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:regulated-business",
+        "title": "Regulated Business",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -35414,7 +36405,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -35803,6 +36794,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:subcommands",
+        "title": "Subcommands",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:successfully",
         "title": "Successfully",
         "type": "unresolved",
@@ -35810,7 +36812,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -35855,6 +36857,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:the-firm",
+        "title": "The Firm",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -36052,7 +37065,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 14,
+        "degree": 15,
         "modifiedAt": null
       },
       {
@@ -36140,7 +37153,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -36206,7 +37219,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -36901,9 +37914,33 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:ledger/observations/2026/03/13->tag:1",
+        "source": "note:ledger/observations/2026/03/13",
+        "target": "tag:1",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/03/13->tag:118",
+        "source": "note:ledger/observations/2026/03/13",
+        "target": "tag:118",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/03/13->tag:118_",
+        "source": "note:ledger/observations/2026/03/13",
+        "target": "tag:118_",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:memory/2026-03-05->tag:2",
         "source": "note:memory/2026-03-05",
         "target": "tag:2",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:memory/2026-03-13->tag:118",
+        "source": "note:memory/2026-03-13",
+        "target": "tag:118",
         "type": "tag"
       },
       {
@@ -38215,15 +39252,15 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:warm-memory/inbox->tag:50",
-        "source": "note:warm-memory/inbox",
-        "target": "tag:50",
-        "type": "tag"
-      },
-      {
         "id": "tag:note:warm-memory/inbox->tag:hashed",
         "source": "note:warm-memory/inbox",
         "target": "tag:hashed",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:warm-memory/knowledge-base/hyuni-insight-118-2026-03->tag:118",
+        "source": "note:warm-memory/knowledge-base/hyuni-insight-118-2026-03",
+        "target": "tag:118",
         "type": "tag"
       },
       {
@@ -39571,9 +40608,63 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:according",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:according",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:article",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:article",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-03-13->unresolved:changes",
         "source": "note:commitments/2026-03-13",
         "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:controlled-functions",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:controlled-functions",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:federal-decree",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:federal-decree",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:firm",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:firm",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:law",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:law",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:proliferation-financing",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:proliferation-financing",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:provide",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:provide",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-13->unresolved:the-firm",
+        "source": "note:commitments/2026-03-13",
+        "target": "unresolved:the-firm",
         "type": "wiki_link"
       },
       {
@@ -40813,9 +41904,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:all",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:all",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:amount",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:amount",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:anthropic",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:anthropic",
         "type": "wiki_link"
       },
       {
@@ -40825,15 +41928,45 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:bad-gateway",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:bad-gateway",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:career",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:career",
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:command",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:command",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:date",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:date",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:electric-capital",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:electric-capital",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:exec",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:exec",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:follow",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:follow",
         "type": "wiki_link"
       },
       {
@@ -40858,6 +41991,12 @@
         "id": "wiki_link:note:facts/2026-03-13->unresolved:halliday-international",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:halliday-international",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:homebrew",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:homebrew",
         "type": "wiki_link"
       },
       {
@@ -40903,6 +42042,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:local",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:local",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:model-context",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:model-context",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:podcast",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:podcast",
@@ -40915,9 +42066,27 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:protocol",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:protocol",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:publishing",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:publishing",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:python",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:python",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:read",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:read",
         "type": "wiki_link"
       },
       {
@@ -40957,6 +42126,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:subcommands",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:subcommands",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-13->unresolved:ventu",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:ventu",
@@ -40966,6 +42141,12 @@
         "id": "wiki_link:note:facts/2026-03-13->unresolved:ventures",
         "source": "note:facts/2026-03-13",
         "target": "unresolved:ventures",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-13->unresolved:web",
+        "source": "note:facts/2026-03-13",
+        "target": "unresolved:web",
         "type": "wiki_link"
       },
       {
@@ -41017,6 +42198,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:lessons/2026-03-13->unresolved:successfully",
+        "source": "note:lessons/2026-03-13",
+        "target": "unresolved:successfully",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:lessons/2026-03-13->unresolved:users",
+        "source": "note:lessons/2026-03-13",
+        "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:people/2026-03-10->unresolved:cannot",
         "source": "note:people/2026-03-10",
         "target": "unresolved:cannot",
@@ -41032,6 +42225,36 @@
         "id": "wiki_link:note:people/2026-03-10->unresolved:users",
         "source": "note:people/2026-03-10",
         "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:client",
+        "source": "note:people/money-or/2026-03-13",
+        "target": "unresolved:client",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:definition",
+        "source": "note:people/money-or/2026-03-13",
+        "target": "unresolved:definition",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:firm",
+        "source": "note:people/money-or/2026-03-13",
+        "target": "unresolved:firm",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:regulated-business",
+        "source": "note:people/money-or/2026-03-13",
+        "target": "unresolved:regulated-business",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:people/money-or/2026-03-13->unresolved:you",
+        "source": "note:people/money-or/2026-03-13",
+        "target": "unresolved:you",
         "type": "wiki_link"
       },
       {
@@ -42013,6 +43236,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-13->unresolved:brave-search",
+        "source": "note:projects/2026-03-13",
+        "target": "unresolved:brave-search",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-13->unresolved:claude-code",
+        "source": "note:projects/2026-03-13",
+        "target": "unresolved:claude-code",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-13->unresolved:digital",
         "source": "note:projects/2026-03-13",
         "target": "unresolved:digital",
@@ -42037,6 +43272,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-13->unresolved:fre",
+        "source": "note:projects/2026-03-13",
+        "target": "unresolved:fre",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-13->unresolved:last-updated",
         "source": "note:projects/2026-03-13",
         "target": "unresolved:last-updated",
@@ -42058,6 +43299,12 @@
         "id": "wiki_link:note:projects/2026-03-13->unresolved:recent-developments",
         "source": "note:projects/2026-03-13",
         "target": "unresolved:recent-developments",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-13->unresolved:request",
+        "source": "note:projects/2026-03-13",
+        "target": "unresolved:request",
         "type": "wiki_link"
       },
       {
@@ -42092,24 +43339,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-13T05:00:48.041Z",
-      "nodeCount": 898,
-      "edgeCount": 978,
+      "generatedAt": "2026-03-13T11:00:51.650Z",
+      "nodeCount": 920,
+      "edgeCount": 1017,
       "nodeTypeCounts": {
-        "note": 401,
-        "tag": 147,
-        "unresolved": 285,
+        "note": 403,
+        "tag": 149,
+        "unresolved": 300,
         "daily": 11,
         "commitment": 7,
         "decision": 5,
-        "handoff": 12,
-        "lesson": 3,
-        "person": 1,
+        "handoff": 13,
+        "lesson": 4,
+        "person": 2,
         "project": 26
       },
       "edgeTypeCounts": {
-        "tag": 480,
-        "wiki_link": 498
+        "tag": 484,
+        "wiki_link": 533
       }
     }
   }

@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오후 03:46 KST
+**Last synced**: 2026년 3월 13일 금요일 오후 07:42 KST
 **Account**: astin@hashed.com
 
 ## Recent Emails (30 total, 4 unread)
+
+### **[NEW]** [퀀텀딥테크엔젤1호펀드] 제5기 정기조합원총회 및 투자보고회 개최의 건(2026.03.27(금), 서면결의)
+- **From**: "황선영" <syhwang@quantumepk.com>
+- **Date**: Fri, 13 Mar 2026 09:13:05 +0000
+- **ID**: `19ce678c6c47ea86`
+- **Preview**: 안녕하십니까, 퀀텀벤처스코리아 황선영 입니다. 당사가 운용 중인 “퀀텀딥테크엔젤1호펀드” 관련, 첨부와 같이 제5기 정기조합원총회 및 투자보고회를 서면결의로써 의결코자 합니다. 의안설명서를 참조하시어 총회일까지 &#39;의안결의서&#39;를 당사로 회신하여 주시기 바랍니다. 개최일자 : 2026년 3월 27일 (금) 결의사항 : Ÿ 제1호의안 : 제5기 재무
 
 ### Fwd: (주)핏투게더_정기주주총회 소집통지 및 관련 서류 안내의 건
 - **From**: SJ Baek <sj@hashed.com>
@@ -178,12 +184,6 @@
 - **Date**: Thu, 12 Mar 2026 23:05:22 +0000
 - **ID**: `19ce44c59611aac5`
 - **Preview**: 안녕하세요! 서류 송부 드리겠습니다! 감사합니다 민복기 올림 Bok ki, Min Head of Business Innovation l SK Networks 010-3129-0943 l genimin@sk.com From: 황학선 &lt;walter@blockodyssey.io&gt; Sent: Thursday, March 12, 2026 6:45 PM To
-
-### **[NEW]** Updated Balance Support for Rebasing Tokens - Edition #50
-- **From**: "'Covalent Weekly' via Investment" <investment@hashed.com>
-- **Date**: Thu, 12 Mar 2026 18:36:11 +0000
-- **ID**: `19ce355beb6f3330`
-- **Preview**: Balances for rebasing tokens like stETH, aTokens, cTokens, and more now reflect accrued value correctly. ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​ ͏​
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_

@@ -1,10 +1,8 @@
 # Calendar (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오후 01:42 KST
+**Last synced**: 2026년 3월 13일 금요일 오후 07:42 KST
 
-## Upcoming Events (1)
-
-- **09:00-18:00**: 🚀 VibeLabs S1: Align & Baseline
+No events scheduled for the next 1 day(s).
 
 ---
 _To get fresh data, run: node /Users/astin/.jinobot/clawd/skills/google-calendar/scripts/sync-today.js_
