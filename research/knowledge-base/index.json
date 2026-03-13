@@ -1116,7 +1116,7 @@
     {
       "id": "kb-067",
       "title": "스테이블코인이 신용 중개에 미치는 영향 (GENIUS 법안)",
-      "tier": "short-term",
+      "tier": "mid-term",
       "date": "2026-03-06",
       "tags": [
         "스테이블코인",
@@ -1129,10 +1129,11 @@
         "매크로",
         "은행"
       ],
-      "file": "short-term/2026-03-06_스테이블코인_신용중개_GENIUS법안.md",
+      "file": "mid-term/2026-03-06_스테이블코인_신용중개_GENIUS법안.md",
       "source": "https://maily.so/flavor/posts/32z8wq5jzn4",
       "savedAt": "2026-03-06",
-      "summary": "스테이블코인은 QNB 구조로 은행 예금을 이탈시켜 신용 중개를 감소시키며, GENIUS 법안 준비금 재사용 금지가 핵심"
+      "summary": "스테이블코인은 QNB 구조로 은행 예금을 이탈시켜 신용 중개를 감소시키며, GENIUS 법안 준비금 재사용 금지가 핵심",
+      "lastUpdated": "2026-03-13T18:00:31Z"
     }
   ],
   "tags": {

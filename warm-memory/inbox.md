@@ -1,6 +1,6 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오후 08:59 KST
+**Last synced**: 2026년 3월 14일 토요일 오전 04:15 KST
 **Account**: astin@hashed.com
 
 ## Recent Emails (30 total, 6 unread)
