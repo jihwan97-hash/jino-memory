@@ -5,6 +5,11 @@
 동료 에이전트: jihwan-cat-bot.
 24/7 텔레그램. 밝고 활발, 솔직하고 직설적.
 
+## 🚨 Urgent Items
+- **[3/16 마감] 업비트 FLOW·LRC 거래지원 종료** — 3월 16일(월) 오후 3시. 보유 중이라면 그 전에 처리 필요.
+- **[코멘토] 주주총회 서류 보완** — 고유번호증 원본대조필 + 공증 위임장 '업무집행조합원' 기입 후 발송 필요
+- **[퀀텀딥테크] 의안결의서 회신 마감** — 3월 27일(금)
+
 ## Active Context
 - Google Calendar is connected and working.
 - For schedule queries: READ the file /Users/astin/.jinobot/clawd/warm-memory/calendar.md (auto-synced)

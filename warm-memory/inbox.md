@@ -1,9 +1,27 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 13일 금요일 오후 07:42 KST
+**Last synced**: 2026년 3월 13일 금요일 오후 08:59 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 4 unread)
+## Recent Emails (30 total, 6 unread)
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 13 Mar 2026 16:36:51 +0530
+- **ID**: `19ce6e1848dc15b1`
+- **Preview**: Dear Sera, Please find enclosed our edits to the SAFE. Best Regards, Medha On Thu, Mar 12, 2026 at 1:55 PM Sera Kim &lt;sera@ad-shield.io&gt; wrote: Dear Shasank, Please be informed that all requested
+
+### **[NEW]** [디오디] 정기주주총회 소집 통지의 건
+- **From**: "전영재" <jay.jeon@dayonedream.com>
+- **Date**: Fri, 13 Mar 2026 20:05:10 +0900
+- **ID**: `19ce6df42ec596d3`
+- **Preview**: 안녕하세요, 디오디 전영재입니다. 당사 2026년 정기 주주총회 소집통지 관련 문서 및 자료 송부드립니다. 1. 주주총회 일정 일시: 2026년 3월 30일 (월), 오후 1시 장소: 디오디 본점 회의실 (서울시 강남구 봉은사로 51길 17) 2. 주요 안건 및 결의사항 [제1호] 2025년 영업보고 및 제4기(2025년) 재무제표 승인의 건 [제2호] 계열
+
+### **[NEW]** Re: SAFE cancellation repayment schedule
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Fri, 13 Mar 2026 16:21:18 +0530
+- **ID**: `19ce6d30d076161e`
+- **Preview**: Dear Markus, I write on behalf of Hashed Venture Fund III (the “Holder”), by Hashed Ventures Inc. in its capacity as General Partner, in connection with the SAFE Cancellation Agreement dated 11
 
 ### **[NEW]** [퀀텀딥테크엔젤1호펀드] 제5기 정기조합원총회 및 투자보고회 개최의 건(2026.03.27(금), 서면결의)
 - **From**: "황선영" <syhwang@quantumepk.com>
@@ -166,24 +184,6 @@
 - **Date**: Fri, 13 Mar 2026 10:10:27 +0900
 - **ID**: `19ce4beda211e636`
 - **Preview**: 안녕하세요. 네, 확인하였습니다. 초대드린 캘린더에 보시면 구글미트 링크가 있습니다. 감사합니다. 문창훈 드림 2026년 3월 13일 (금) AM 10:06, Jun Kim &lt;jun.kim@hashed.com&gt;님이 작성: 안녕하세요, 저희 일정상 방문주시는것은 어려워, 30분 화상회의로 진행 부탁드립니다. 감사합니다, 김정준 드림 On Fri,
-
-### Re: [Hopfia] Demo 신청 감사합니다.
-- **From**: Jun Kim <jun.kim@hashed.com>
-- **Date**: Fri, 13 Mar 2026 10:06:33 +0900
-- **ID**: `19ce4bb4dda3cde4`
-- **Preview**: 안녕하세요, 저희 일정상 방문주시는것은 어려워, 30분 화상회의로 진행 부탁드립니다. 감사합니다, 김정준 드림 On Fri, Mar 13, 2026 at 10:04 AM Christopher Moon &lt;chris@hopfia.ai&gt; wrote: 안녕하세요, 김정준님. Hopfia의 문창훈입니다. Hopfia 데모 일정을 확정해 주셔서 감사드립니다.
-
-### **[NEW]** TLGY/StablecoinX - Notice of Anticipated Transaction Closing Date - FUNDING REQUESTED (Hashed)
-- **From**: "'Buckles, Dani (Perkins Coie)' via Investment" <investment@hashed.com>
-- **Date**: Fri, 13 Mar 2026 00:36:16 +0000
-- **ID**: `19ce49fddaf054f5`
-- **Preview**: Dear Investor, Pursuant to Section 2(b) of the Subscription Agreement to which you are a party with StablecoinX Inc., TLGY Acquisition Corporation and StablecoinX Assets Inc. (the “Agreement”), we are
-
-### RE: [블록오디세이] 주주총회 관련 공증 및 등기 서류 안내
-- **From**: "민복기(MIN BOK KI)" <genimin@sk.com>
-- **Date**: Thu, 12 Mar 2026 23:05:22 +0000
-- **ID**: `19ce44c59611aac5`
-- **Preview**: 안녕하세요! 서류 송부 드리겠습니다! 감사합니다 민복기 올림 Bok ki, Min Head of Business Innovation l SK Networks 010-3129-0943 l genimin@sk.com From: 황학선 &lt;walter@blockodyssey.io&gt; Sent: Thursday, March 12, 2026 6:45 PM To
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
