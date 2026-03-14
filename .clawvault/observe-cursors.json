@@ -112,5 +112,11 @@
     "lastObservedAt": "2026-03-13T23:00:10.522Z",
     "sessionKey": "agent:main:cron:24da8e1b-15af-4067-a909-02e42947f1e7",
     "lastFileSize": 92717
+  },
+  "23fd6812-e7e0-4c50-b0ba-299ac63f2e6c": {
+    "lastObservedOffset": 71423,
+    "lastObservedAt": "2026-03-14T23:00:05.810Z",
+    "sessionKey": "agent:main:cron:2bf89bec-0f9d-49af-889d-e141911b8ee6",
+    "lastFileSize": 71423
   }
 }
