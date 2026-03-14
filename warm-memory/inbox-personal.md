@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 14일 토요일 오후 06:38 KST
+**Last synced**: 2026년 3월 15일 일요일 오전 01:54 KST
 **Account**: gkswlghks118@gmail.com
 
-## Recent Emails (1 total, 1 unread)
+## Recent Emails (2 total, 2 unread)
+
+### **[NEW]** Your product won’t sell itself
+- **From**: a16z crypto <a16zcrypto@substack.com>
+- **Date**: Sat, 14 Mar 2026 16:13:50 +0000
+- **ID**: `19ced20ba491a610`
+- **Preview**: A playbook for hiring the roles, building the process, and scaling enterprise sales ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
 
 ### **[NEW]** Your Perplexity Pro trial has ended
 - **From**: Perplexity <team@mail.perplexity.ai>
