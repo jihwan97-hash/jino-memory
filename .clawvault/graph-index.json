@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-14T17:00:35.721Z",
+  "generatedAt": "2026-03-14T20:00:20.427Z",
   "files": {
     "2026-03-07.md": {
       "relativePath": "2026-03-07.md",
@@ -9923,6 +9923,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-14-2000.md": {
+      "relativePath": "handoffs/handoff-2026-03-14-2000.md",
+      "mtimeMs": 1773518420321.1765,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-14-2000",
+          "title": "handoff-2026-03-14-2000",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-14-2000.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T20:00:20.321Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1772718612970.9497,
@@ -10539,6 +10557,24 @@
           "type": "wiki_link"
         }
       ]
+    },
+    "ledger/reflections/2026-W11.md": {
+      "relativePath": "ledger/reflections/2026-W11.md",
+      "mtimeMs": 1773518405556.5552,
+      "nodes": [
+        {
+          "id": "note:ledger/reflections/2026-W11",
+          "title": "2026 W11",
+          "type": "note",
+          "category": "note",
+          "path": "ledger/reflections/2026-W11.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T20:00:05.556Z"
+        }
+      ],
+      "edges": []
     },
     "lessons/2026-03-10.md": {
       "relativePath": "lessons/2026-03-10.md",
@@ -14558,6 +14594,24 @@
       ],
       "edges": []
     },
+    "projects/nurihaus-research-2026-03-15.md": {
+      "relativePath": "projects/nurihaus-research-2026-03-15.md",
+      "mtimeMs": 1773514948876.856,
+      "nodes": [
+        {
+          "id": "note:projects/nurihaus-research-2026-03-15",
+          "title": "nurihaus-research-2026-03-15",
+          "type": "project",
+          "category": "project",
+          "path": "projects/nurihaus-research-2026-03-15.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T19:02:28.876Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/payhere-research-2026-03-12.md": {
       "relativePath": "projects/payhere-research-2026-03-12.md",
       "mtimeMs": 1773275606101.361,
@@ -14788,6 +14842,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-13T17:01:43.281Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/auto-study-2026-03-15.md": {
+      "relativePath": "research/auto-study-2026-03-15.md",
+      "mtimeMs": 1773507687444.848,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-03-15",
+          "title": "auto-study-2026-03-15",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-03-15.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T17:01:27.444Z"
         }
       ],
       "edges": []
@@ -21210,7 +21282,7 @@
     },
     "warm-memory/auto-study-latest.md": {
       "relativePath": "warm-memory/auto-study-latest.md",
-      "mtimeMs": 1773421310246.3867,
+      "mtimeMs": 1773507693498.9546,
       "nodes": [
         {
           "id": "note:warm-memory/auto-study-latest",
@@ -21221,7 +21293,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-13T17:01:50.246Z"
+          "modifiedAt": "2026-03-14T17:01:33.498Z"
         }
       ],
       "edges": []
@@ -25850,7 +25922,7 @@
     },
     "warm-memory/portfolio/comento.md": {
       "relativePath": "warm-memory/portfolio/comento.md",
-      "mtimeMs": 1772996643025.8127,
+      "mtimeMs": 1773515094259.828,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/comento",
@@ -25861,7 +25933,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:04:03.025Z"
+          "modifiedAt": "2026-03-14T19:04:54.259Z"
         }
       ],
       "edges": []
@@ -25960,7 +26032,7 @@
     },
     "warm-memory/portfolio/delivus.md": {
       "relativePath": "warm-memory/portfolio/delivus.md",
-      "mtimeMs": 1772996623401.362,
+      "mtimeMs": 1773515094257.2896,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/delivus",
@@ -25971,7 +26043,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:03:43.401Z"
+          "modifiedAt": "2026-03-14T19:04:54.257Z"
         }
       ],
       "edges": []
@@ -25996,7 +26068,7 @@
     },
     "warm-memory/portfolio/dg-ventures.md": {
       "relativePath": "warm-memory/portfolio/dg-ventures.md",
-      "mtimeMs": 1772996555875.842,
+      "mtimeMs": 1773515002416.3704,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/dg-ventures",
@@ -26007,7 +26079,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:02:35.875Z"
+          "modifiedAt": "2026-03-14T19:03:22.416Z"
         }
       ],
       "edges": []
@@ -26050,7 +26122,7 @@
     },
     "warm-memory/portfolio/drnow.md": {
       "relativePath": "warm-memory/portfolio/drnow.md",
-      "mtimeMs": 1772996670580.8337,
+      "mtimeMs": 1773515094262.3455,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/drnow",
@@ -26061,7 +26133,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:04:30.580Z"
+          "modifiedAt": "2026-03-14T19:04:54.262Z"
         }
       ],
       "edges": []
@@ -26104,7 +26176,7 @@
     },
     "warm-memory/portfolio/dydx.md": {
       "relativePath": "warm-memory/portfolio/dydx.md",
-      "mtimeMs": 1773082957738.897,
+      "mtimeMs": 1773515002414.1006,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/dydx",
@@ -26115,7 +26187,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-09T19:02:37.738Z"
+          "modifiedAt": "2026-03-14T19:03:22.414Z"
         }
       ],
       "edges": []
@@ -26210,6 +26282,24 @@
       ],
       "edges": []
     },
+    "warm-memory/portfolio/fusion-point.md": {
+      "relativePath": "warm-memory/portfolio/fusion-point.md",
+      "mtimeMs": 1773515106301.064,
+      "nodes": [
+        {
+          "id": "note:warm-memory/portfolio/fusion-point",
+          "title": "Fusion Point",
+          "type": "note",
+          "category": "note",
+          "path": "warm-memory/portfolio/fusion-point.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T19:05:06.301Z"
+        }
+      ],
+      "edges": []
+    },
     "warm-memory/portfolio/gowid.md": {
       "relativePath": "warm-memory/portfolio/gowid.md",
       "mtimeMs": 1773275726220.0369,
@@ -26284,7 +26374,7 @@
     },
     "warm-memory/portfolio/hyperithm.md": {
       "relativePath": "warm-memory/portfolio/hyperithm.md",
-      "mtimeMs": 1773083072290.245,
+      "mtimeMs": 1773515094258.684,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/hyperithm",
@@ -26295,7 +26385,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-09T19:04:32.290Z"
+          "modifiedAt": "2026-03-14T19:04:54.258Z"
         }
       ],
       "edges": []
@@ -26480,6 +26570,24 @@
       ],
       "edges": []
     },
+    "warm-memory/portfolio/mindcafe.md": {
+      "relativePath": "warm-memory/portfolio/mindcafe.md",
+      "mtimeMs": 1773515094260.9834,
+      "nodes": [
+        {
+          "id": "note:warm-memory/portfolio/mindcafe",
+          "title": "Mindcafe",
+          "type": "note",
+          "category": "note",
+          "path": "warm-memory/portfolio/mindcafe.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-14T19:04:54.260Z"
+        }
+      ],
+      "edges": []
+    },
     "warm-memory/portfolio/mine-is.md": {
       "relativePath": "warm-memory/portfolio/mine-is.md",
       "mtimeMs": 1772718613030.1543,
@@ -26572,7 +26680,7 @@
     },
     "warm-memory/portfolio/nurihaus.md": {
       "relativePath": "warm-memory/portfolio/nurihaus.md",
-      "mtimeMs": 1772996462694.6687,
+      "mtimeMs": 1773515002412.5662,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/nurihaus",
@@ -26583,7 +26691,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-08T19:01:02.694Z"
+          "modifiedAt": "2026-03-14T19:03:22.412Z"
         }
       ],
       "edges": []
@@ -26950,7 +27058,7 @@
     },
     "warm-memory/portfolio/trek-labs.md": {
       "relativePath": "warm-memory/portfolio/trek-labs.md",
-      "mtimeMs": 1772718613034.644,
+      "mtimeMs": 1773515002415.3042,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/trek-labs",
@@ -26961,7 +27069,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-05T13:50:13.034Z"
+          "modifiedAt": "2026-03-14T19:03:22.415Z"
         }
       ],
       "edges": []
@@ -28659,6 +28767,17 @@
         "modifiedAt": "2026-03-14T17:00:35.617Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-14-2000",
+        "title": "handoff-2026-03-14-2000",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-14-2000.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T20:00:20.321Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -28770,6 +28889,17 @@
         "missing": false,
         "degree": 1,
         "modifiedAt": "2026-03-14T05:00:05.459Z"
+      },
+      {
+        "id": "note:ledger/reflections/2026-W11",
+        "title": "2026 W11",
+        "type": "note",
+        "category": "note",
+        "path": "ledger/reflections/2026-W11.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T20:00:05.556Z"
       },
       {
         "id": "note:lessons/2026-03-10",
@@ -29194,6 +29324,17 @@
         "modifiedAt": "2026-03-13T19:22:21.299Z"
       },
       {
+        "id": "note:projects/nurihaus-research-2026-03-15",
+        "title": "nurihaus-research-2026-03-15",
+        "type": "project",
+        "category": "project",
+        "path": "projects/nurihaus-research-2026-03-15.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T19:02:28.876Z"
+      },
+      {
         "id": "note:projects/payhere-research-2026-03-12",
         "title": "payhere-research-2026-03-12",
         "type": "project",
@@ -29335,6 +29476,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-13T17:01:43.281Z"
+      },
+      {
+        "id": "note:research/auto-study-2026-03-15",
+        "title": "auto-study-2026-03-15",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-03-15.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T17:01:27.444Z"
       },
       {
         "id": "note:research/companies/nearthlab-2026-03-10",
@@ -31059,7 +31211,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-13T17:01:50.246Z"
+        "modifiedAt": "2026-03-14T17:01:33.498Z"
       },
       {
         "id": "note:warm-memory/calendar",
@@ -32421,7 +32573,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:04:03.025Z"
+        "modifiedAt": "2026-03-14T19:04:54.259Z"
       },
       {
         "id": "note:warm-memory/portfolio/community-gaming",
@@ -32478,7 +32630,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:03:43.401Z"
+        "modifiedAt": "2026-03-14T19:04:54.257Z"
       },
       {
         "id": "note:warm-memory/portfolio/dfns",
@@ -32500,7 +32652,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:02:35.875Z"
+        "modifiedAt": "2026-03-14T19:03:22.416Z"
       },
       {
         "id": "note:warm-memory/portfolio/doeat",
@@ -32533,7 +32685,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:04:30.580Z"
+        "modifiedAt": "2026-03-14T19:04:54.262Z"
       },
       {
         "id": "note:warm-memory/portfolio/dune-analytics",
@@ -32555,7 +32707,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-09T19:02:37.738Z"
+        "modifiedAt": "2026-03-14T19:03:22.414Z"
       },
       {
         "id": "note:warm-memory/portfolio/dydx-trading",
@@ -32611,6 +32763,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-05T13:50:13.026Z"
+      },
+      {
+        "id": "note:warm-memory/portfolio/fusion-point",
+        "title": "Fusion Point",
+        "type": "note",
+        "category": "note",
+        "path": "warm-memory/portfolio/fusion-point.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T19:05:06.301Z"
       },
       {
         "id": "note:warm-memory/portfolio/fusion-point-studios",
@@ -32676,7 +32839,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-09T19:04:32.290Z"
+        "modifiedAt": "2026-03-14T19:04:54.258Z"
       },
       {
         "id": "note:warm-memory/portfolio/init-capital",
@@ -32789,6 +32952,17 @@
         "modifiedAt": "2026-03-05T13:50:13.030Z"
       },
       {
+        "id": "note:warm-memory/portfolio/mindcafe",
+        "title": "Mindcafe",
+        "type": "note",
+        "category": "note",
+        "path": "warm-memory/portfolio/mindcafe.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-14T19:04:54.260Z"
+      },
+      {
         "id": "note:warm-memory/portfolio/mine-is",
         "title": "Mine Is",
         "type": "note",
@@ -32852,7 +33026,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-08T19:01:02.694Z"
+        "modifiedAt": "2026-03-14T19:03:22.412Z"
       },
       {
         "id": "note:warm-memory/portfolio/overworld",
@@ -33072,7 +33246,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-05T13:50:13.034Z"
+        "modifiedAt": "2026-03-14T19:03:22.415Z"
       },
       {
         "id": "note:warm-memory/portfolio/trek-labs-backpack-exchange",
@@ -44494,20 +44668,20 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-14T17:00:35.721Z",
-      "nodeCount": 946,
+      "generatedAt": "2026-03-14T20:00:20.427Z",
+      "nodeCount": 952,
       "edgeCount": 1041,
       "nodeTypeCounts": {
-        "note": 410,
+        "note": 414,
         "tag": 150,
         "unresolved": 308,
         "daily": 14,
         "commitment": 8,
         "decision": 5,
-        "handoff": 18,
+        "handoff": 19,
         "lesson": 4,
         "person": 2,
-        "project": 27
+        "project": 28
       },
       "edgeTypeCounts": {
         "tag": 487,
