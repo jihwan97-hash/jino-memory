@@ -1,47 +1,82 @@
-# DrNow (닥터나우)
-**Last Updated:** 2026-03-09
-**Category:** [유망] Promising
-**Sector:** Telemedicine, HealthTech
-**Region:** Korea
-**Users:** 5.6M | **Funding:** Series B W400B (~M)
+# DrNow (닥터나우) - Last Updated: 2026-03-15
+
+## Company Overview
+대한민국 1위 비대면 진료 앱. 원격의료 플랫폼.
+
+## Awards & Recognition
+- **2026년**: 한경비즈니스 한국소비자만족지수 비대면진료 앱 **2년 연속 1위**
+- **2025년**: 한경비즈니스 한국소비자만족지수 비대면진료 앱 1위
+- **2024년**: 주간동아 한국고객만족도 비대면진료 앱 1위
+
+## Key Metrics
+- **누적 이용자 수**: 5.6M+ (대한민국 1위)
+- **서비스 범위**: 전국
+
+## Core Services
+
+### 1. 비대면 진료
+- 전화 진료
+- 병원에서 직접 전화 연결
+- 감기몸살, 소아과, 산부인과, 탈모, 여드름 등
+- 일요일 진료 가능한 소아과, 산부인과 포함
+
+### 2. 약 처방 및 배송
+- 진료 후 약 처방
+- 약 배송 서비스
+
+### 3. 전문 처방 서비스
+- 탈모약 처방
+- 여드름약 처방
+- 다이어트 주사 (위고비, 마운자로 등)
+
+### 4. 약국 찾기
+- 주변 약국 검색 및 정보 제공
+
+## Platform Information
+- **웹사이트**: https://doctornow.co.kr / https://drnow.co.kr
+- **iOS 앱**: App Store에서 다운로드 가능
+- **Android 앱**: Google Play에서 다운로드 가능
+
+## Recent Developments (2025-2026)
+
+### 1. 2년 연속 1위 달성 (2025-2026)
+- 한경비즈니스 한국소비자만족지수 2년 연속 1위
+- 시장 지배력 공고화
+
+### 2. 서비스 확장
+- 다이어트 주사 (위고비, 마운자로 등) 처방 추가
+- 전문 처방 영역 확대
+
+### 3. 사용자 수 급증
+- 5.6M 누적 이용자 달성
+- 대한민국 원격의료 플랫폼 1위
 
 ## Business Model
-- **#1 non-face-to-face medical treatment app** in Korea
-- Remote consultation + prescription drug delivery
-- Specialties: pediatrics, dermatology, hair loss, acne, diet injections (Wegovy/Mounjaro)
+- 진료비 수수료
+- 약 배송 마진
+- 전문 처방 서비스 (탈모, 여드름, 다이어트)
 
-## Regulatory Update (Dec 2025)
-- ✅ Telemedicine legalized (보건복지부 시범사업)
-- ❌ Medicine delivery blocked by "DoctorNow Prevention Bill"
-- Impact: Platform legal but UX degraded without prescription fulfillment
+## Key Strengths
+- **시장 지배력**: 대한민국 1위 비대면 진료 앱
+- **브랜드 인지도**: 2년 연속 소비자만족지수 1위
+- **대규모 사용자**: 5.6M 누적 이용자
+- **전국 네트워크**: 전국 병원/약국 파트너십
+- **다양한 서비스**: 일반 진료부터 전문 처방까지
 
-## Scale & Position
-- 5.6M users (strong market penetration)
-- First-mover advantage in Korean telehealth
-- Series B W400B provides multi-year runway
+## Market Position
+- 한국 원격의료 시장 선두 주자
+- 경쟁사 대비 압도적 사용자 수
+- 브랜드 신뢰도 최고 수준
 
-## Investment Thesis
-- Post-pandemic telehealth adoption sticky
-- Aging population increases demand
-- Regulatory clarity improving despite setbacks
-- Critical mass achieved for network effects
+## Investment Outlook
+- **매우 긍정적**
+- Series B W400B 펀딩 (포트폴리오 리스트 기준)
+- 원격의료 시장 성장세
+- 정부 규제 완화 시 추가 성장 여력
+- IPO 가능성 높음
 
-## Key Risks
-- **Medicine delivery ban** - degrades core value prop
-- Regulatory uncertainty (policy opposition remains)
-- Doctor supply constraints
-- Insurance reimbursement unclear
-
-## Monitoring
-- Medicine delivery ban resolution efforts
-- Prescription volume, revenue per user
-- Doctor network expansion
-- Path to profitability
-
-## Recommendation
-- Solid fundamentals but regulatory headwinds
-- Series B confidence signal
-- Monitor legislative developments
-
----
-**ACTION:** Request update on delivery workaround strategies and advocacy progress
+## Watch Points
+- 원격의료 규제 변화 모니터링
+- 경쟁사 (닥터콜, 굿닥 등) 동향
+- 추가 서비스 확장 계획
+- 수익성 개선 및 IPO 타이밍

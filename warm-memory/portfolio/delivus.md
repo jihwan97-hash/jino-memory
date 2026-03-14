@@ -1,54 +1,47 @@
-# Delivus (딜리버스)
-**Last Updated:** 2026-03-09
-**Category:** [긴급] Urgent - Runway 2 months
-**Sector:** DaaS (Delivery as a Service), AI Logistics
-**Product:** 딜리래빗 (DeliRabbit)
-**Status:** ⚠️ Urgent monitoring required
+# Delivus (딜리버스 / 딜리래빗) - Last Updated: 2026-03-15
+
+## Company Overview
+AI 기반 프리미엄 당일 배송/반품 물류 서비스. Delivery as a Service (DaaS) 제공.
 
 ## Business Model
-- **AI-based premium same-day delivery/return logistics service**
-- Value proposition: Fastest delivery time at traditional courier prices
-- Target: E-commerce businesses needing fast fulfillment
+- 소화물 택배 배송을 가장 빠른 시간 안에
+- 기존 택배와 동일한 가격으로
+- 전국 주요 도시에
+- 실시간 배송 추적 가능
+- IT 기반 물류 프로세스 설계 및 데이터 최적화
 
-## Technology
-- AI-powered logistics optimization
-- K-means clustering for automatic delivery zone classification
-- Vector data from model inference to reduce sorting time
-- Widest delivery coverage in Korea
+## Service: 딜리래빗 (DeliRabbit)
+- 이커머스 기업, 온라인 플랫폼, 자사몰 기업 대상
+- 당일배송 및 당일반품 수거 서비스
+- 별도 물류 인프라 투자 없이 서비스 도입 가능
+- AI 기반 물류 솔루션
 
-## Partnerships
-- Starbucks Korea: In-store POS ordering integration for delivery
-- E-commerce platforms leveraging same-day delivery infrastructure
+## Company Information
+- **설립**: 2021년 3월 18일
+- **위치**: 서울특별시 성동구 아차산로 38, 403호 (성수동1가)
+- **웹사이트**: www.delivus.team
+- **인원**: 약 28명 (원티드 기준)
+- **평균 연봉**: 3,959만원
+- **업력**: 4년
 
-## Team & Recruiting
-- Active hiring (recruit-delivus.oopy.io)
-- Tech blog on Medium sharing AI/ML logistics insights
+## Service Coverage
+- 가장 넓은 배송권역
+- 전국 주요 도시
 
-## Market Position
-- Positioned as fast DaaS (Delivery as a Service) startup
-- Competing in crowded Korean last-mile delivery market
-- Differentiation: AI efficiency + same-day speed at courier pricing
+## Key Features
+- AI 기반 물류 솔루션
+- 당일배송/당일반품
+- 합리적인 가격
+- IT 기반 프로세스 설계
+- 데이터 통한 지속적 최적화
 
-## Critical Status
-- **Runway: 2 months** - requires urgent funding or revenue acceleration
-- Active partnerships suggest operational traction
-- Hiring activity indicates growth ambitions vs wind-down
+## 🚨 Risk Assessment
+- **런웨이: 2개월** (포트폴리오 리스트 기준)
+- 긴급 자금 조달 필요
+- 물류 업계 경쟁 심화 (쿠팡, 마켓컬리 등 대기업 경쟁)
 
-## Risks
-- Korean delivery market extremely competitive (Coupang Rocket, Baedal Minjok, etc.)
-- Unit economics challenging (low margins in logistics)
-- 2-month runway insufficient for most fundraising cycles
-
-## Urgent Actions
-1. **Confirm current metrics** - Daily volume, revenue, unit economics
-2. **Partnership monetization** - Are Starbucks/others paying meaningful fees?
-3. **Bridge funding** - Can existing investors provide 3-6 month extension?
-4. **Strategic exit** - Acquihire by larger logistics player (Coupang, Kurly)?
-
-## Recommendation
-- Schedule immediate call with founders
-- Assess if AI tech is defensible enough for strategic acquisition
-- Prepare for either emergency bridge or orderly wind-down
-
----
-**ACTION:** Request urgent update on burn rate, monthly revenue, partnership pipeline
+## Recommended Actions
+1. 긴급 자금 조달 상황 확인
+2. 매출 및 주요 고객사 현황 파악
+3. 피봇 또는 M&A 가능성 검토
+4. 즉시 연락 권장

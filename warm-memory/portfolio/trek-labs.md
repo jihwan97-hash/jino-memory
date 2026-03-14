@@ -1,45 +1,46 @@
-# Trek Labs / Backpack Exchange
-
-**Last researched:** 2026-03-04
-
-## Quick Status
-- Status: 🟢 Healthy
-- Key finding: $1B 유니콘 밸류에이션으로 $50M 펀딩 논의 중 (Feb 2026), 혁신적 equity-token 하이브리드 모델 출시
-- Action needed: None (펀딩 클로징 및 TGE 진행 상황 모니터링)
-- Source: https://www.theblock.co/post/389141/backpack-exchange-1-billion-unicorn-valuation-tokenization-push-axios
-- Last researched: 2026-03-04
+# Trek Labs / Backpack Exchange - Last Updated: 2026-03-15
 
 ## Company Overview
-- Sector: Crypto Exchange + Blockchain Wallet
-- CEO: Armani Ferrante (@armaniferrante)
-- Products: Backpack wallet + exchange (Solana/Ethereum/BTC)
-- Revenue: ₩653B (profitable)
-- HVF 투자: trek-labs-backpack-exchange 공동 운영
+Backpack Exchange: 크립토 거래소 및 지갑 통합 플랫폼. Solana, Ethereum, BTC 지원.
 
-## Recent Developments (Feb 2026)
+## Recent Developments (2025-2026)
 
-### Funding & Unicorn Valuation
-- $1B pre-money 밸류에이션으로 $50M 펀딩 논의 중
-- Axios exclusive report (Feb 2026)
-- 유니콘 지위 달성 임박
+### 1. 강력한 보안 인프라
+- Cold storage (콜드 스토리지)
+- Two-factor authentication (2FA)
+- Hardware wallet integrations (하드웨어 지갑 통합)
+- 2026년 현재 안전한 거래소로 평가됨
 
-### Token Launch (TGE 2026)
-- 총 공급량: 10억 토큰
-- TGE 배분: 25% (2.5억 토큰) 런칭 시
-  - 2.4억: 포인트 홀더
-  - 0.1억: Mad Lads NFT 오너
-- VC/창업자 토큰 직접 배분 없음 (혁신적 anti-dumping 구조)
+### 2. 거래 플랫폼 특징
+- 데스크톱 및 모바일 지원
+- 깔끔하고 직관적인 인터페이스
+- Market 및 Limit 주문만 지원 (고급 주문 유형 부족)
+- 크립토 선물, 대출/차입 기능 제공
+- 봇 거래 및 카피 트레이딩 미제공
+- 강력한 API 액세스 (알고리즘 전략용)
 
-### Equity-Token 하이브리드 (Feb 23, 2026)
-- 토큰 스테이커에게 회사 지분 20% 집합 배분
-- 창업자/임원/VC 토큰 언락: IPO 달성 시까지 잠금
-- IPO 목표: 미국 증시 상장 계획
+### 3. Solana 생태계 통합
+- Solana 중심 생태계와의 깊은 통합
+- 혁신적인 기능 제공
 
-## Market Position
-- 미국 11개 주 스팟 거래 서비스 확장 (2025)
-- Solana 생태계 핵심 지갑/거래소
-- 마이너스 펀딩으로 수익성 달성
+### 4. 운영 현황
+- 비교적 신규 거래소 (운영 이력 제한적)
+- 하지만 2025-2026년 꾸준한 성장세
+- 사용자 친화적 플랫폼으로 호평
 
-## HVF Portfolio Notes
-- HVF Exit Priority: 2위 (Trek Labs), 3위 (Backpack)
-- Exit 방법: Token 또는 IPO
+## Key Strengths
+- 강력한 보안 기능 (cold storage, 2FA, hardware wallet)
+- Solana 생태계와의 강력한 통합
+- 사용자 친화적 플랫폼
+- 현물, 선물, 무기한 계약 등 다양한 상품
+- 안전한 지갑 관리 기능
+
+## Limitations
+- 고급 트레이더를 위한 기능 부족 (봇 거래, 카피 트레이딩)
+- Market/Limit 주문만 지원
+- 비교적 짧은 운영 이력
+
+## Investment Outlook
+- 안정적인 성장세
+- Solana 생태계 성장과 함께 성장 가능성
+- 보안 및 사용자 경험에 집중한 전략

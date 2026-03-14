@@ -1,59 +1,66 @@
-# Comento (코멘토)
-**Last Updated:** 2026-03-09
-**Category:** [유망] Promising
-**Sector:** Career Education, EdTech, Mentorship Platform
-**Region:** Korea
+# Comento (코멘토) - Last Updated: 2026-03-15
+
+## Company Overview
+현직자 멘토링 및 직무 교육 플랫폼. 취업 준비생 및 주니어 직장인 대상 커리어 커뮤니티.
+
+## Service Overview
+- **핵심 가치**: 대기업, 공기업, 은행, 금융권 현직자의 경험과 지식 공유
+- **타겟**: 취업 준비생, 이직 준비자, 주니어 직장인
+- **플랫폼**: 웹 및 모바일 앱 (iOS, Android)
+
+## Key Services
+
+### 1. 현직자 멘토링
+- 대기업, 공기업, 은행, 금융권 등 다양한 분야 현직자 멘토
+- 취업 및 진로 고민 상담
+- 자기소개서 및 면접 첨삭
+- Q&A 서비스
+
+### 2. 직무 부트캠프 & 클래스
+- 현직자가 직접 가르치는 실무 강의
+- 직무별 실전 교육
+- 커리어 시작과 성장 지원
+
+### 3. 멘토 참여 프로그램
+- **150만 명** 회원 기반 (누적 가입자)
+- 현직자가 멘토로 참여하여 크레딧 획득
+- 경험과 지식 공유 플랫폼
+
+## Platform Information
+- **웹사이트**: https://comento.kr
+- **네이버 블로그**: https://blog.naver.com/upgrade_me_30min
+- **인스타그램**: https://www.instagram.com/comento.kr
+- **고객 문의**: help@comento.kr
+- **개발자 문의**: tech@comento.kr
+
+## Recent Developments (2025-2026)
+
+### 1. 대학 파트너십 확대
+- 경희대학교 등 주요 대학과 제휴
+- 대학 재학생 및 졸업생 대상 서비스 제공
+- 2025년 2월까지 경희대 서비스 (추후 연장 가능)
+
+### 2. 플랫폼 확장
+- iOS 및 Android 앱 지속 업데이트
+- 사용자 경험 개선
+
+## User Base
+- **150만 명** 회원 (누적)
+- 취업 준비생, 이직 준비자, 주니어 직장인
+- 멘토로 참여하는 현직자 커뮤니티
 
 ## Business Model
-- **Career community platform** for people starting their careers
-- Core products:
-  1. **직무부트캠프 (Job Bootcamp):** 4-6 week live training with industry professionals
-  2. **실무PT (Practical Training):** Small-group elite practical training sessions
-  3. **Current employee mentoring:** Verified professionals mentor job seekers
+- 멘토링 서비스 수수료
+- 직무 부트캠프 및 클래스 수강료
+- B2B 대학 파트너십
 
-## Platform Features
-- Live learning (not VOD) - interactive Q&A with working professionals
-- Mentors earn credits exchangeable for cash
-- Company certification required to become mentor (quality control)
-- Mobile app (Android) + web platform (comento.kr)
-
-## Value Proposition
-- **For learners:** Gain practical work experience without formal internship application
-- **For mentors:** Monetize expertise, build personal brand
-- **For companies:** Talent pipeline and employer branding
+## Key Strengths
+- 대규모 회원 기반 (150만 명)
+- 현직자 멘토 네트워크
+- 직무별 실전 교육 콘텐츠
+- 대학 파트너십을 통한 안정적 고객 확보
 
 ## Market Position
-- Addresses Korea's hyper-competitive job market pain point
-- Alternative to traditional internships (easier access)
-- Live format differentiates from VOD platforms (Inflearn, Coloso, etc.)
-
-## Recent Activity (2026)
-- Active recruiting (job postings on Incruit, JobKorea)
-- Platform operational and updated (Feb 2025 app updates)
-- Growing bootcamp offerings across multiple job functions
-
-## Investment Thesis
-- Korea's youth unemployment and job-skill mismatch create persistent demand
-- Dual-sided marketplace (learners + mentors) has strong network effects
-- B2B enterprise training potential (upskilling employees)
-- Cash-incentivized mentors ensure supply-side engagement
-
-## Risks
-- Competition from established players (Fastcampus, Elice, etc.)
-- Mentor quality control at scale
-- Economic downturn reduces hiring → lower demand for career training
-- Monetization balance (learners price-sensitive, mentors want higher payouts)
-
-## Monitoring Points
-- Revenue/GMV growth (bootcamp enrollment numbers)
-- Mentor retention and activation rates
-- B2B enterprise sales progress
-- Funding plans (Series A/B timeline)
-
-## Recommendation
-- Healthy category; no immediate urgency
-- Request quarterly metrics: enrollments, mentor count, revenue
-- Explore synergies with other HVF portfolio education companies
-
----
-**ACTION:** Request Q1 2026 update on key metrics and funding plans
+- 커리어 교육 플랫폼 선두 주자
+- 현직자 멘토링 특화
+- 취업/이직 시장 꾸준한 수요

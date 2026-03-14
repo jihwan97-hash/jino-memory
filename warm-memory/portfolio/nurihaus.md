@@ -1,38 +1,30 @@
-# Nurihaus
-**Last Updated:** 2026-03-09
-**Category:** [최우선] Priority
-**Sector:** K-Beauty, E-commerce, Creator Economy
-**Region:** Korea → Global expansion
+# Nurihaus (누리하우스) - Last Updated: 2026-03-15
+
+## Company Overview
+K-beauty 브랜드의 글로벌 시장 진출을 위한 원스톱 솔루션 제공 기업. 크로스보더 커머스 전문.
 
 ## Recent Developments (2025-2026)
 
-### Business Model Evolution
-- **Core:** K-beauty brands' global market entry one-stop solution
-- Platform: Community commerce based on Korean influencer products
-- Focus: Helping Korean beauty brands successfully enter overseas markets
+### 1. K-Beauty Boost in NYC (2025년 초)
+- 뉴욕 맨해튼 한국문화원(KCCNY)에서 'K-Beauty Boost in New York 2025' 행사 개최
+- 5,000명 이상의 열띤 반응 속에 성공적으로 종료
+- 프롬더스킨 등 다양한 K-뷰티 브랜드 참여
 
-### North American Creator Exchange (Nov 2025)
-- Hosted North American creators in Seoul for K-Beauty exchange program
-- Invited American creator Luna with full coverage (flights, 3N/4D accommodation, event fees)
-- Networking sessions with Korean creators sharing beauty trends and content creation insights
-- Goal: Foster creator networking transcending nationality and language barriers beyond simple experience
+### 2. 누리글로우 (NuriGlow) 신규 론칭
+- 크리에이터 참여형 커머스 플랫폼 론칭
+- 북미 시장 공략을 위한 새로운 비즈니스 모델
+- K-뷰티 브랜드의 글로벌 진출 채널 다각화
 
-### Partnerships
-- CEO Baek Aram announced expanded service area through new collaborations
-- Focus on helping Korean brands advance overseas through creator partnerships
+### 3. 투자 현황
+- 누적 투자금 약 5억원 (혁신의숲 데이터)
+- 스타트업 단계, 추가 펀딩 필요할 것으로 예상
 
-## Strategic Position
-- Bridging Korean beauty brands with global creators and markets
-- Community-driven commerce model leveraging influencer authenticity
-- Cultural exchange approach differentiates from pure e-commerce platforms
+## Key Strengths
+- K-뷰티 브랜드 해외 진출 원스톱 솔루션
+- 뉴욕 등 주요 시장에서의 오프라인 이벤트 실행력
+- 크리에이터 커머스 등 새로운 채널 확보
 
-## Investment Thesis
-- K-beauty global demand remains strong (skincare, makeup innovation)
-- Creator economy integration provides authentic marketing channels
-- One-stop solution addresses common pain points for Korean SME brands entering foreign markets
-- Cross-border cultural exchange builds sustainable creator network effects
-
-## Monitoring Points
-- Revenue/GMV metrics not publicly disclosed
-- Competition from larger K-beauty aggregators (Olive Young Global, etc.)
-- Creator retention and activation rates critical to platform value
+## Watch Points
+- 누리글로우 플랫폼 성과 모니터링 필요
+- 북미 시장에서의 실제 매출 성장세
+- 추가 펀딩 라운드 가능성

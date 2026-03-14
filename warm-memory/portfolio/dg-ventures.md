@@ -1,48 +1,50 @@
-# DG Ventures
-**Last Updated:** 2026-03-09
-**Category:** [긴급] Urgent - Runway 3 months
-**Sector:** Blockchain Ecosystem (DGP)
-**Parent:** Digital Garage (Tokyo-listed)
-**Status:** ⚠️ High priority monitoring
+# DG Ventures - Last Updated: 2026-03-15
 
-## Corporate Structure
-- **Parent Company:** Digital Garage (Tokyo-listed Internet conglomerate)
-- **Founded:** 2009
-- **HQ:** San Francisco, California
-- **Investment Focus:** FinTech, AI, Blockchain, SaaS, E-commerce, PropTech, Mobility, Healthcare
+## Company Overview
+Digital Garage의 CVC(Corporate Venture Capital) 부문. 2009년 설립, 샌프란시스코 기반.
 
-## Related Entity: DG Daiwa Ventures
-- Joint venture with Daiwa Securities
-- **Third Fund (Aug 2025):** Raised ~M
-- Focus: AI, blockchain, security startups
-- **2026 Activity:** No investments made in 2026 so far (as of Jan 2026)
+## Investment Focus
+- FinTech
+- Artificial Intelligence (AI)
+- Blockchain
+- SaaS
+- EC (E-Commerce)
+- PropTech
+- Mobility
+- Healthcare
+- Insurance
+- Marketplace
 
-## Critical Status
-- **Runway: 3 months** - requires urgent assessment
-- Portfolio appears inactive (DG Daiwa made no new investments in early 2026)
-- Unclear if "DG Ventures" HVF investment is DGP token/ecosystem or corporate equity
+## Geographic Coverage
+- United States
+- Canada
+- Asia
+- India
+- Japan
+- Europe
+- Fund of Funds 투자 포함
 
-## Information Gaps
-- **What is DGP?** - No clear search results for "DGP blockchain" product
-- Relationship to parent Digital Garage unclear (CVC arm vs standalone entity)
-- HVF investment structure unknown (equity, token, SAFE?)
+## Recent Activity (2025-2026)
 
-## Urgent Actions Required
-1. **Clarify investment vehicle** - Is this Digital Garage equity, DGP token, or separate entity?
-2. **Confirm runway and burn** - 3-month timeline requires immediate LP communication
-3. **Parent company support** - Can Digital Garage extend runway or acqui-hire team?
-4. **Asset inventory** - What tech, IP, or partnerships exist?
+### ⚠️ CRITICAL: 투자 활동 중단
+- **2025년 한 해 동안 신규 투자 없음** (Tracxn 데이터)
+- **2026년 현재까지도 신규 투자 없는 것으로 보임**
+- 이는 HVF 포트폴리오 리스트에 "런웨이 3개월"로 표시된 긴급 상황과 일치
 
-## Investment Hypothesis (Needs Validation)
-- If corporate VC arm: Parent company (publicly listed) should provide stability
-- If blockchain ecosystem (DGP): Token/ecosystem may be impacted by crypto winter
-- Third fund raise in Aug 2025 suggests some LP confidence, but zero 2026 deals is red flag
+### DG Daiwa Ventures 제3펀드
+- DG Daiwa Ventures는 2025년 8월 약 $70M 규모의 제3펀드 클로즈
+- 이전 펀드보다 작은 규모
+- AI, blockchain, security 스타트업에 집중 계획
+- **주의: DG Daiwa Ventures는 DG Ventures와 별개 조직일 가능성**
 
-## Recommendation
-- **High priority** - Schedule immediate call with GP/founders
-- Clarify legal structure and relationship to Digital Garage
-- Assess whether 3-month runway can be extended via parent company bridge
-- Evaluate potential to fold into parent operations vs standalone wind-down
+## 🚨 Risk Assessment
+- **런웨이: 3개월** (포트폴리오 리스트 기준)
+- 2025년 전체 기간 동안 신규 투자 없음
+- 투자 활동 재개 여부 불확실
+- 긴급 모니터링 필요
 
----
-**ACTION ITEM:** Urgent - Request detailed cap table, burn rate, and Digital Garage commitment letter
+## Recommended Actions
+1. 회사 운영 상태 확인 필요
+2. 기존 포트폴리오 회사에 대한 지원 지속 여부 체크
+3. 청산 또는 구조조정 가능성 검토
+4. 긴급 연락 권장
