@@ -1,9 +1,15 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 14일 토요일 오전 04:15 KST
+**Last synced**: 2026년 3월 14일 토요일 오전 11:15 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 6 unread)
+## Recent Emails (26 total, 5 unread)
+
+### **[NEW]** Accepted: Platform Team 회식(라벨로타) @ Sat Mar 14 8pm - Sun Mar 15, 2026 12am (GMT+9) (Astin Han)
+- **From**: Wooster Han <wooster@hashed.com>
+- **Date**: Fri, 13 Mar 2026 22:27:15 +0000
+- **ID**: `19ce94fa51253ad3`
+- **Preview**: Platform Team 회식(라벨로타) Wooster Han has accepted this invitation. Join with Google Meet Meeting link meet.google.com/kbi-wsnb-ase Join by phone (US) +1 401-702-0488 PIN: 229332357 More phone numbers
 
 ### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
 - **From**: Medha Srivastava <medha@hashed.com>
@@ -154,36 +160,6 @@
 - **Date**: Fri, 13 Mar 2026 02:17:37 +0000
 - **ID**: `19ce4fc2cf981754`
 - **Preview**: [세진사] 정기주주총회 Join with Google Meet – You have been invited by Noah Youn to attend an event named [세진사] 정기주주총회 on Monday Mar 30, 2026 ⋅ 2pm – 3pm (Korean Standard Time - Seoul). Join with Google Meet
-
-### **[NEW]** Re: SAFE cancellation repayment schedule
-- **From**: Medha Srivastava <medha@hashed.com>
-- **Date**: Fri, 13 Mar 2026 07:38:50 +0530
-- **ID**: `19ce4f4c5cff9997`
-- **Preview**: Hi Markus, We can speak at 3 pm KST today. Just sent you a call invite. Best regards, Medha On Thu, Mar 12, 2026 at 7:23 AM Medha Srivastava &lt;medha@hashed.com&gt; wrote: Hi Markus, Let us speak on
-
-### 주간 다중 회의 AI 인사이트 보고서: 다음 스텝 및 미팅에서의 액션 아이템
-- **From**: "tl;dv 팀" <no-reply@tldv.io>
-- **Date**: Fri, 13 Mar 2026 01:38:34 +0000
-- **ID**: `19ce4d86d8280f97`
-- **Preview**: 🎁 무료 첫 다중 회의 AI 보고서를 드립니다 나만의 보고서 만들기 주간 AI 보고서: 대화에서 다음 단계 또는 작업 항목 프롬프트: (수정) Based on the selection of meeting transcripts summarize all aligned Action Items and To Dos in bullet points. Group them
-
-### "HVF Exit Strategy Meeting" meeting notes and AI answers are ready ✅
-- **From**: "tl;dv Team" <no-reply@tldv.io>
-- **Date**: Fri, 13 Mar 2026 01:38:29 +0000
-- **ID**: `19ce4d8594dab86f`
-- **Preview**: Action Items: …. . ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
-
-### **[NEW]** [프레인글로벌] 2026년 3월 13일(금) 해시드 국내 뉴스 데일리 모니터링
-- **From**: "프레인 해시드팀" <hashed_kr@prain.com>
-- **Date**: Fri, 13 Mar 2026 01:30:00 +0000
-- **ID**: `19ce4d0e3035ffdf`
-- **Preview**: 안녕하세요, 프레인글로벌입니다. 2026년 3월 13일 금요일 오전 9시 기준 국내 뉴스 모니터링 스크랩 보내드립니다. #Hashed Daily Monitoring Scrap by Prain Global 2026.3.13(금) ■ 자사 및 관계사 No. 게재일 기사명 매체 기자 비고 특이사항 없음 ■ 포트폴리오사 No. 게재일 기사명 매체 기자 비고 1 3/
-
-### Re: [Hopfia] Demo 신청 감사합니다.
-- **From**: Chris Moon <chris@hopfia.ai>
-- **Date**: Fri, 13 Mar 2026 10:10:27 +0900
-- **ID**: `19ce4beda211e636`
-- **Preview**: 안녕하세요. 네, 확인하였습니다. 초대드린 캘린더에 보시면 구글미트 링크가 있습니다. 감사합니다. 문창훈 드림 2026년 3월 13일 (금) AM 10:06, Jun Kim &lt;jun.kim@hashed.com&gt;님이 작성: 안녕하세요, 저희 일정상 방문주시는것은 어려워, 30분 화상회의로 진행 부탁드립니다. 감사합니다, 김정준 드림 On Fri,
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
