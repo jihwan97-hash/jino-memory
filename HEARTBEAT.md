@@ -11,7 +11,7 @@
   - portfolio-research (매일, every 1d)
   - self-reflect (매주, every 7d)
 - 빠진 크론이 있으면 → 로그 남기고 형에게 알림. **직접 등록/실행 시도하지 마라.**
-- Status가 "error"인 크론이 있으면 → **`openclaw cron run <ID> --token "$TOKEN"`으로 즉시 수동 실행 후 결과 확인.** 성공 시 HEARTBEAT_OK. 재실행 후에도 error면 형에게 알림.
+- Status가 "error"인 크론이 있으면 → 에러 내용 읽고 형에게 알림.
 
 ## 2. HOT-MEMORY 정리
 - HOT-MEMORY.md가 500 토큰 초과 시 → 오래된 항목 압축/삭제
