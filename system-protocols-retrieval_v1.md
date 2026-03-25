@@ -1,1 +1,0 @@
-/Users/astin/.jinobot/clawd/jino-memory/system-protocols-retrieval_v1.md

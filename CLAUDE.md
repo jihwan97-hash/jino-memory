@@ -1,1 +1,0 @@
-/Users/astin/.jinobot/clawd/skills/CLAUDE.md
