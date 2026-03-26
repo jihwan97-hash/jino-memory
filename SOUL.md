@@ -1,0 +1,1 @@
+/Users/astin/.jinobot/clawd/jino-memory/SOUL.md
