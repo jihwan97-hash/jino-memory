@@ -100,5 +100,11 @@
     "lastObservedAt": "2026-03-26T11:00:11.229Z",
     "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:09fba90f-00d9-4ff2-9033-7bb06617ddbb",
     "lastFileSize": 298344
+  },
+  "a4d86d1c-fdda-431f-8992-4a9e54430b66": {
+    "lastObservedOffset": 365963,
+    "lastObservedAt": "2026-03-26T17:00:11.320Z",
+    "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:a4d86d1c-fdda-431f-8992-4a9e54430b66",
+    "lastFileSize": 365963
   }
 }

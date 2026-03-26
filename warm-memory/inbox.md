@@ -1,9 +1,57 @@
 # Inbox (auto-synced)
 
-**Last synced**: 2026년 3월 26일 목요일 오후 06:35 KST
+**Last synced**: 2026년 3월 27일 금요일 오전 12:36 KST
 **Account**: astin@hashed.com
 
-## Recent Emails (30 total, 1 unread)
+## Recent Emails (30 total, 7 unread)
+
+### **[NEW]** You were this close to saving an hour a day
+- **From**: Fyxer Team <noreply@fyxer.com>
+- **Date**: Thu, 26 Mar 2026 15:30:05 +0000
+- **ID**: `19d2ac46499b5007`
+- **Preview**: Authentication hiccups happen. Let&#39;s fix it for you. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
+
+### **[NEW]** Re: $A8 token vault guideline for seed investors
+- **From**: Partnership Ancient8 <partnership@ancient8.gg>
+- **Date**: Thu, 26 Mar 2026 19:43:38 +0700
+- **ID**: `19d2a2c3b7e4d508`
+- **Preview**: Dear investors, Our website is currently under maintenance. Starting this month, you can claim your tokens at: https://vault.ancient8.gg/ No action required; the claim process remains the same, and
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Thu, 26 Mar 2026 17:50:29 +0530
+- **ID**: `19d2a176bcf0dc11`
+- **Preview**: Dear Sera, Yes, I am referring to the name in the image in Schedule III. It should Hashed Venture Fund II for both the SPA and SAFE. Best Regards, Medha On Thu, Mar 26, 2026 at 4:59 PM Sera Kim &lt;
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: "'Sera Kim' via Investment" <investment@hashed.com>
+- **Date**: Thu, 26 Mar 2026 20:29:12 +0900
+- **ID**: `19d29e8213a031c7`
+- **Preview**: Dear Medha, Just to confirm by Schedule III, are you referring to the cap table image? Could you please also confirm the final name to be reflected for the SAFE, in addition to the preferred shares?
+
+### **[NEW]** Re: [Merkle] Winding down Merkle
+- **From**: Ye Park <ye@tauruslabs.xyz>
+- **Date**: Thu, 26 Mar 2026 19:55:42 +0900
+- **ID**: `19d29c969683beac`
+- **Preview**: Dear Jake, Just following up on the distribution process. Could you please share the wallet address and blockchain network you&#39;d like us to use for the transfer? Best regards, Ye On Tue, Mar 24,
+
+### **[NEW]** Re: [Ad-Shield] 미국 법인 Flip 진행 현황 및 우선주 계약서 초안 검토 요청
+- **From**: Medha Srivastava <medha@hashed.com>
+- **Date**: Thu, 26 Mar 2026 16:14:07 +0530
+- **ID**: `19d29bf3d7f98e0c`
+- **Preview**: Dear Sera, The SPA we received for signature still reflects &quot;Hashed, Inc.&quot; in Schedule III. As previously requested, please update the Hashed entity name to &quot;HASHED VENTURE FUND II&quot;
+
+### [더트라이브] 서류 발송 요청의 건
+- **From**: "전윤정" <jyj@thetrive.com>
+- **Date**: Thu, 26 Mar 2026 19:07:07 +0900
+- **ID**: `19d299d4b7d2c59e`
+- **Preview**: 안녕하세요. 더트라이브 전윤정입니다. 금일 유선상으로 문의 드린 내용과 관련하여 아래와 같이 전달 드립니다. 1. 이사회 의사록 - 김서준 대표님 개인인감 날인 - 김서준 대표님 개인인감증명서 1부 2. 정기주주총회 서면의결서 - 해시드벤처스 법인인감 날인 - 해시드벤처스 법인인감증명서 1부 상기 서류는 관련 절차 진행을 위해 필요한 자료이오니 바쁘시더라도
+
+### Re: [디오디] 정기주주총회 소집 통지의 건
+- **From**: "전영재" <jay.jeon@dayonedream.com>
+- **Date**: Thu, 26 Mar 2026 18:48:21 +0900
+- **ID**: `19d298bf0aaa7622`
+- **Preview**: 안녕하세요, 디오디 전영재입니다. 먼저 당사 연결 재무제표 확정과정에서 시간이 소요 되어 빠르게 답변 드리지 못하였던 부분 양해 부탁 드립니다. 지난 정기주주총회 소집통지 시 안내드린 바와 같이, 확정 재무제표를 첨부파일로 송부드립니다. 1. 송부 자료 • 제4기(2025년) 디오디 감사확정 연결재무제표 • 제4기(2025년) 디오디 감사확정 개별재무제표 •
 
 ### **[NEW]** [오모봇] 고객이 10분 넘게 응대를 기다리고 있습니다.
 - **From**: "채널톡" <feedback@channel.io>
@@ -136,54 +184,6 @@
 - **Date**: Thu, 26 Mar 2026 12:00:10 +0900
 - **ID**: `19d28161d8a6b1ca`
 - **Preview**: 안녕하세요, 이우민 CFO님. 해시드 벤처스 재무팀의 박푸름입니다. 요청주신 서면의결서 및 인감증명서 취합본 송부드립니다. 추가로 필요하신 사항 있으면 편히 연락 부탁드립니다. 감사합니다. 박푸름 드림 박푸름 | Zoe Park Accounting Manager | Finance Team +82-10-3655-1538 www.hashed.com The
-
-### 해시드 라운지 사용관련 안내 드립니다.
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 26 Mar 2026 11:47:18 +0900
-- **ID**: `19d280a07af07803`
-- **Preview**: 안녕하세요 이재홍 대표님, 해시드 플랫폼팀 한지환입니다. 요청하신 4월 17일(오후 6-10시) 마케터 대상 AEO, GEO 행사 관련 안내를 드리고자 이메일 드립니다. 라운지 대관 비용은 할인가로 적용해드리려고 하며, 다만 6시 이후에는 써클커넥션과의 협업이 필수적이라 비용이 추가적으로 발생할 수 있는 점 양해 부탁드리겠습니다. 라운지 사용 관련 자세한
-
-### Re: [마인이스] 정기주주총회 소집통지의 건 (3월 26일 목요일)
-- **From**: Zoe Park <zoe@hashed.com>
-- **Date**: Thu, 26 Mar 2026 11:42:26 +0900
-- **ID**: `19d2805c47087986`
-- **Preview**: 안녕하세요. 해시드벤처스 재무팀의 박푸름입니다. 요청하신 의사표시 통지서 송부드립니다. 추가로 필요하신 사항있으면 편히 연락 부탁드립니다. 감사합니다. 박푸름 드림 박푸름 | Zoe Park Accounting Manager | Finance Team +82-10-3655-1538 www.hashed.com The content of this message
-
-### Re: Hashed Lounge 공간 사용 가능 여부 문의드립니다
-- **From**: Astin Han <astin@hashed.com>
-- **Date**: Thu, 26 Mar 2026 11:40:25 +0900
-- **ID**: `19d2803b78618b53`
-- **Preview**: 안녕하세요 이재만님, 해시드 플랫폼팀 한지환입니다. 한양대학교 블록체인 학회 HYBLOCK에서 진행하는 만큼 라운지 대관은 무상으로 진행해드리려고 합니다. (다만, 저녁 6시 이후 행사는 써클커넥션과의 협업사항이 필수로 해당 부분에서 비용이 발생할 예정입니다.) 라운지 사용 관련한 사항은 해시드의 Jenny께서 전달드릴 예정입니다. 감사합니다. 한지환 드림
-
-### Re: 애드쉴드 - 2026년 정기 주주총회 안내
-- **From**: Henry Key <henry@hashed.com>
-- **Date**: Thu, 26 Mar 2026 06:28:59 +0400
-- **ID**: `19d27f9733a6668d`
-- **Preview**: 대표님, 안녕하세요. 해시드 기세환입니다. 금일 주주총회 고생 많으셨습니다. 자세한 사업 현황 설명 감사드리며, 흑자 전환 다시 한번 축하드립니다. 현재 시급하게 채용하고 계신 파트너십 담당 Job description 공유해주시면 해시드 측에서도 적합한 인재분 찾아보고 말씀드릴 수 있도록 하겠습니다. 감사합니다. 기세환 드림 On Sun, Mar 15,
-
-### Fwd: [주식회사 애드쉴드] 2026년 정기주주총회 진행 안내
-- **From**: Henry Key <henry@hashed.com>
-- **Date**: Thu, 26 Mar 2026 06:26:29 +0400
-- **ID**: `19d27f729e454edf`
-- **Preview**: ---------- Forwarded message --------- From: Chloe Kim &lt;chloe@ad-shield.io&gt; Date: Fri, Mar 20, 2026 at 11:36 AM Subject: [주식회사 애드쉴드] 2026년 정기주주총회 진행 안내 To: Finance &lt;finance@ad-shield.io&gt; 안녕
-
-### "AdShield – Online Meeting (Annual General Meeting of Shareholders)" meeting notes and AI answers are ready ✅
-- **From**: "tl;dv Team" <no-reply@tldv.io>
-- **Date**: Thu, 26 Mar 2026 02:26:41 +0000
-- **ID**: `19d27f7269878c20`
-- **Preview**: Action Items: …. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏
-
-### [프레인글로벌] 3월 25일(수) 배포 보도자료 <[해시드 보도자료] 해시드, 중동 최초 컬렉터블 인증 기업 'HiT'에 리드 투자> 게재 현황 전달
-- **From**: "강서연" <sxyx00@prain.com>
-- **Date**: Thu, 26 Mar 2026 02:13:06 +0000
-- **ID**: `19d27ead4df4c4d7`
-- **Preview**: 안녕하세요, 기세환 매니저님. 프레인글로벌 강서연 사원입니다. 3월 25일(수) 배포한 보도자료 &lt;[해시드 보도자료] 해시드, 중동 최초 컬렉터블 인증 기업 &#39;HiT&#39;에 리드 투자&gt; 게재 현황 전달드립니다. 3월 26일(목) 오전 11시 기준 총 12개 매체에서 기사 총 12건(지면 0건, 온라인 12건) 보도했습니다. 자세한 내용은
-
-### [서울거래 주식회사] 이사회 소집 통지서 발송
-- **From**: "강유리" <yr.kang@seoulexchange.kr>
-- **Date**: Thu, 26 Mar 2026 11:03:53 +0900
-- **ID**: `19d27e2e3605b69a`
-- **Preview**: 안녕하세요 서울거래 주식회사 이사님 이사회소집통지서 발송하오니, 자세한 내용은 통지서 내용 확인 부탁드립니다. 감사합니다. -- 강유리 | 매니저 010-8338-8684
 
 ---
 _To read full email: node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js read --id MSG_ID --account work_
