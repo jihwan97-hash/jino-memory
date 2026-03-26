@@ -1,9 +1,9 @@
 {
   "ef6d9528-c7e0-4efb-9868-57cfbab269d8": {
-    "lastObservedOffset": 1322411,
-    "lastObservedAt": "2026-03-26T05:00:43.291Z",
+    "lastObservedOffset": 2538198,
+    "lastObservedAt": "2026-03-26T11:00:07.080Z",
     "sessionKey": "agent:main:main",
-    "lastFileSize": 1322411
+    "lastFileSize": 2538198
   },
   "a886096f-b244-4256-9bf9-355eb697766f": {
     "lastObservedOffset": 74343,
@@ -88,5 +88,17 @@
     "lastObservedAt": "2026-03-26T05:01:00.950Z",
     "sessionKey": "agent:main:unknown:c8cc05f6-186d-433b-b86d-c0777f3c67e6",
     "lastFileSize": 1063720
+  },
+  "bbeb1fb9-4c62-4e13-89f1-a9c33a32740c": {
+    "lastObservedOffset": 132621,
+    "lastObservedAt": "2026-03-26T11:00:09.089Z",
+    "sessionKey": "agent:main:cron:a05851dd-1193-4618-884c-bf060a44b98f",
+    "lastFileSize": 132621
+  },
+  "09fba90f-00d9-4ff2-9033-7bb06617ddbb": {
+    "lastObservedOffset": 298344,
+    "lastObservedAt": "2026-03-26T11:00:11.229Z",
+    "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:09fba90f-00d9-4ff2-9033-7bb06617ddbb",
+    "lastFileSize": 298344
   }
 }
