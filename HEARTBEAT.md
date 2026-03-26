@@ -1,1 +1,15 @@
-/Users/astin/.jinobot/clawd/jino-memory/HEARTBEAT.md
+# HEARTBEAT.md — 지노 상시 체크리스트
+
+_이 파일은 heartbeat 크론마다 읽힌다. 지금 당장 챙겨야 할 것만 적어둔다._
+
+## 주의사항
+- 비긴급 알림은 이른 아침(06:00 이전)에 억제
+- 긴급 사항만 즉시 알림
+
+## 현재 진행 중인 이슈
+<!-- 형이 직접 업데이트 -->
+
+## 시스템 상태 체크
+- [ ] 크론 잡 정상 여부
+- [ ] warm-memory 파일 접근 가능 여부
+- [ ] jino-memory git 동기화 상태
