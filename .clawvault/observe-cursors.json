@@ -52,5 +52,23 @@
     "lastObservedAt": "2026-03-27T17:00:07.980Z",
     "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:cf457208-33dc-4ca6-a320-8b298d98523d",
     "lastFileSize": 70684
+  },
+  "a4041920-76b3-4d14-afdb-db91cbb4011d": {
+    "lastObservedOffset": 192960,
+    "lastObservedAt": "2026-03-27T23:00:06.898Z",
+    "sessionKey": "agent:main:main",
+    "lastFileSize": 192960
+  },
+  "b8beab03-89a4-4546-8802-4b8c703062e0": {
+    "lastObservedOffset": 88990,
+    "lastObservedAt": "2026-03-27T23:00:07.219Z",
+    "sessionKey": "agent:main:cron:545eab8f-a216-41b6-bfa4-1c8aa635199a",
+    "lastFileSize": 88990
+  },
+  "4c6e9f4c-783a-4813-95f9-3c156b169224": {
+    "lastObservedOffset": 156889,
+    "lastObservedAt": "2026-03-27T23:00:07.649Z",
+    "sessionKey": "agent:main:cron:ad0d952d-affb-477f-ad82-d07e60897b11",
+    "lastFileSize": 156889
   }
 }
