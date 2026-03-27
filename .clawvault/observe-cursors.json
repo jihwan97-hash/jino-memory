@@ -1,0 +1,44 @@
+{
+  "430720e7-b1a7-4232-8775-8d33735aef44": {
+    "lastObservedOffset": 89816,
+    "lastObservedAt": "2026-03-27T05:00:16.370Z",
+    "sessionKey": "agent:main:subagent:151461fe-b7df-42a3-9f5a-7bfd309b0628",
+    "lastFileSize": 89816
+  },
+  "be577cdb-078c-43b7-a461-3d5b6d4bda37": {
+    "lastObservedOffset": 385662,
+    "lastObservedAt": "2026-03-27T05:00:16.836Z",
+    "sessionKey": "agent:main:main",
+    "lastFileSize": 385662
+  },
+  "5d1d8215-7e20-4937-8ccc-ca55ca5e9ef8": {
+    "lastObservedOffset": 452975,
+    "lastObservedAt": "2026-03-27T05:00:17.255Z",
+    "sessionKey": "agent:main:cron:545eab8f-a216-41b6-bfa4-1c8aa635199a",
+    "lastFileSize": 452975
+  },
+  "4be649d0-c25d-434d-93f2-e1ffdd9d06bf": {
+    "lastObservedOffset": 161073,
+    "lastObservedAt": "2026-03-27T05:00:17.676Z",
+    "sessionKey": "agent:main:cron:ad0d952d-affb-477f-ad82-d07e60897b11",
+    "lastFileSize": 161073
+  },
+  "eb076294-8a1b-47ad-808d-9621b6468c34": {
+    "lastObservedOffset": 417282,
+    "lastObservedAt": "2026-03-27T05:00:18.229Z",
+    "sessionKey": "agent:main:cron:24da8e1b-15af-4067-a909-02e42947f1e7",
+    "lastFileSize": 417282
+  },
+  "bbeb1fb9-4c62-4e13-89f1-a9c33a32740c": {
+    "lastObservedOffset": 132621,
+    "lastObservedAt": "2026-03-27T05:00:18.766Z",
+    "sessionKey": "agent:main:cron:a05851dd-1193-4618-884c-bf060a44b98f",
+    "lastFileSize": 132621
+  },
+  "d12b486a-a1dd-43ce-adcd-c4437d89026e": {
+    "lastObservedOffset": 64379,
+    "lastObservedAt": "2026-03-27T05:00:19.310Z",
+    "sessionKey": "agent:main:cron:2bf89bec-0f9d-49af-889d-e141911b8ee6",
+    "lastFileSize": 64379
+  }
+}
