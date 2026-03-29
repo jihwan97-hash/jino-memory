@@ -1,5 +1,5 @@
 {
   "reviewedIds": [],
-  "lastReviewAt": null,
-  "_note": "brain-memory skill not installed. kb-review.js script missing as of 2026-03-28T03:00:00+09:00"
+  "lastReviewAt": "2026-03-29T18:00:00.000Z",
+  "_note": "kb-review.js script does not exist. brain-memory skill only has brain-memory-system.js. No KB tier system is set up as of 2026-03-30T03:00:00+09:00"
 }

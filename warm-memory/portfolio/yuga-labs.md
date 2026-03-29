@@ -1,37 +1,42 @@
-# Yuga Labs Research Update - 2026-03-28
+# Yuga Labs - Portfolio Research
+
+**Last Updated:** 2026-03-30
 
 ## Company Overview
-- Owner of **BAYC (Bored Ape Yacht Club)** and **CryptoPunks** IP
-- Developing **Otherside** metaverse
-- **November 2025 Otherside launch** scheduled
-- **Amazon Gaming partnership** announced for Otherside
+Creator of Bored Ape Yacht Club (BAYC), leading Web3 entertainment company
 
-## Investment Thesis (from MEMORY.md)
-✅ **Blue-chip IP**: BAYC + CryptoPunks = most valuable NFT brands  
-✅ **Amazon partnership**: Legitimizes Web3 gaming, brings AWS/Twitch integration  
-✅ **Metaverse timing**: Launching post-Apple Vision Pro launch (spatial computing ready)  
-⚠️ **NFT market**: Floor prices down significantly from 2021 highs  
-✅ **Diversification**: Moving beyond NFT trading to metaverse experiences  
-⚠️ **Execution risk**: Otherside launch critical - high expectations
+## Recent Developments
 
-## Research Needed
-- **No recent 2026 news found** - need to investigate:
-  - **Otherside launch status**: Did Nov 2025 launch happen? Current state?
-  - User metrics (MAU, DAU) if launched
-  - Amazon Gaming integration details (AWS, Twitch features)
-  - BAYC/CryptoPunks floor price trends (2025-2026)
-  - Revenue model for Otherside (land sales, in-game purchases, subscriptions)
-  - Competition (Decentraland, Sandbox, Roblox)
-  - Token launch ($APE or new token?)
+### Otherside Metaverse Launch ✅ (Nov 12, 2025)
+- **Koda Nexus hub** launched successfully
+- Browser-based experience (no download required)
+- Email sign-up flow (NFT ownership not required)
+- Amazon partnership for infrastructure
+- Accessibility-first approach
 
-## Next Monitoring Points
-- Otherside launch success metrics (if launched)
-- Amazon Gaming partnership deliverables
-- BAYC/CryptoPunks licensing deals
-- User retention in Otherside
-- Revenue generation from metaverse
-- Apple Vision Pro integration (if any)
-- Competitor metaverse progress
+### 2026 Roadmap
+- **Resources System** introduction planned
+- Land utility expansion: crafting items, hosting events
+- Enhanced creator tools and social hubs
 
-## Status
-⚠️ **Critical**: Nov 2025 launch was scheduled - need to verify if it happened and assess performance
+## Status Assessment
+**🟢 LAUNCHED - Post-Launch Phase**
+
+After years of development and delays, Otherside finally went live. The browser-based, low-barrier approach is smart positioning for mainstream adoption. Early user adoption metrics not yet public.
+
+## Key Metrics to Watch
+- Monthly active users (MAU)
+- Land utilization rates
+- Resources system rollout (2026)
+- Revenue model clarity (land sales vs. ongoing monetization)
+
+## Investment Implications
+- Major risk removed: product is live
+- Execution risk remains: user retention and engagement
+- Market timing: Metaverse hype has cooled since 2021-2022 peak
+- Differentiation: BAYC brand + Amazon infrastructure could drive adoption
+
+**Next check:** Q2 2026 for user growth and Resources system announcement
+
+---
+*Research sources: Hypebeast, PlayToEarn, BlockchainGamer (Oct-Nov 2025)*

@@ -1,35 +1,64 @@
-# TheSwing (더스윙) Research Update - 2026-03-28
+# TheSwing - Portfolio Research
+
+**Last Updated:** 2026-03-30
 
 ## Company Overview
-- **Korea's only 3-year consecutive profitable** shared e-scooter company
-- **2027 Q4 IPO target** confirmed
-- **Revenue: 584억원** (approx $44M USD)
-- Market position: Leading profitable player in Korea micromobility
+Personal mobility sharing platform (electric scooters/bikes) in South Korea
+- **Founded:** December 2018
+- **CEO:** Kim Hyung-san
 
-## Investment Thesis (from MEMORY.md)
-✅ **Profitability**: Only Korean e-scooter company with 3-year profit track record  
-✅ **IPO timeline**: Clear 2027 Q4 exit path  
-✅ **Unit economics**: 584억원 revenue suggests sustainable business model  
-✅ **Market position**: Survived shakeout, weaker competitors exited  
-⚠️ **Regulatory risk**: Korean micromobility regulations can change  
-✅ **Exit clarity**: IPO provides liquidity event for investors
+## Financial Performance
 
-## Research Needed
-- **No recent 2026 news found** - need to investigate:
-  - Current revenue run-rate (2025-2026 performance)
-  - Fleet size and geographic coverage
-  - Competition landscape (Kakao Mobility, others)
-  - IPO preparation status (underwriters, timeline)
-  - Regulatory environment changes
-  - Expansion plans (new cities, international)
+### Last Verified Metrics (2022)
+- **Revenue:** 456억원 (~$35M USD)
+- **Operating Income:** 16억원 (~$1.2M USD)
+- **Profitability:** 3 consecutive years (rare in mobility sharing)
 
-## Next Monitoring Points
-- Q4 2025 / Q1 2026 financial performance
-- IPO preparation announcements
-- Fleet expansion or contraction
-- Regulatory changes in Korea
-- Competitor moves (acquisitions, exits)
-- Pre-IPO valuation and investor interest
+### Investment
+- **Cumulative Funding:** 376억원 (~$29M USD)
+- **Valuation Target:** 1조원 (~$770M USD) - unicorn status
 
-## Status
-⚠️ **Action required**: Deep dive research needed - no 2026 public updates found in initial search
+## Market Position
+- **#1 personal mobility service** in South Korea
+- Largest fleet size nationally
+- Highest revenue and profit margins in sector
+- Operating nationwide (Seoul, Jeju, Busan, etc.)
+
+## IPO Plans
+- **Target:** Q4 2027 IPO
+- Pre-IPO revenue projection: 584억원
+
+## ⚠️ Major Research Gap
+**No 2023-2026 financial updates found.**
+
+Last verified metrics are from 2022 audit reports. This is concerning given:
+- Korean mobility market faced regulatory pressure 2023-2024
+- Industry consolidation (competitors shutting down)
+- Economic headwinds in Korean startup ecosystem
+
+### Possible Scenarios:
+1. **Stealth mode:** Preparing for IPO, keeping metrics private
+2. **Growth slowdown:** Market saturation or regulatory challenges
+3. **Steady state:** Maintaining profitability but not hyper-growth
+
+## Status Assessment
+**🟡 DATA GAP - NEEDS VERIFICATION**
+
+Fundamentals were strong (only profitable player in sector), but 3-year data gap is unusual for a company targeting 2027 IPO.
+
+## Key Questions
+- Did 2023-2025 revenue growth continue?
+- Any Series C/D funding rounds?
+- Regulatory changes impacting operations?
+- Competition from Kakao Mobility or new entrants?
+
+## Investment Implications
+- **Past performance:** Strong (only profitable mobility sharing in Korea)
+- **Market risk:** Personal mobility regulation uncertainty
+- **Execution risk:** IPO timeline may slip if growth stalled
+- **Opacity:** Lack of recent data makes valuation difficult
+
+**Next check:** Prioritize direct inquiry or look for 2023-2025 audit filings
+
+---
+*Research sources: THE VC, Thebell.co.kr, InnoForest, Saramin (2018-2023 data)*

@@ -1,50 +1,124 @@
-# Merge Holdings Research Update - 2026-03-28
+# Merge Holdings - Portfolio Research
 
-## Major Developments
+**Last Updated:** 2026-03-30
 
-### Dual Regulatory Approval (May 2025)
-- **EMI (Electronic Money Institution) license activated** in France
-- **VASP (Virtual Asset Service Provider) registration approved** by AMF (France)
-- First company to operate dual fiat + stablecoin payment rails legally in EU
-- London-based fintech, operating in France initially
+## Company Overview
+Stablecoin payment infrastructure for cross-border enterprise payments  
+**Website:** merge.money
 
-### Product Offering
-- **Stablecoin payment infrastructure at scale**
-- Cross-border payments using both fiat and stablecoins
-- B2B payment API for businesses to integrate stablecoin settlements
-- Regulatory foundation enables enterprise adoption with compliance certainty
+## 🎯 Major Milestone: Dual EU Licensing (May 2025)
 
-### Competitive Positioning
-- **Pre-empts Ripple in EU market** - dual license allows both traditional and crypto payment rails
-- MiCA (Markets in Crypto-Assets) compliant from day one
-- Targets: International businesses, remittance corridors, B2B payments
-- Positioning as "regulated stablecoin payment infrastructure provider"
+### Regulatory Achievement ✅
+- **EMI License** (Electronic Money Institution)
+- **VASP License** (Virtual Asset Service Provider)
+- **First EU-regulated stablecoin payment infrastructure**
 
-### Market Context
-- EU stablecoin regulations (MiCA) now in effect
-- Traditional payment companies exploring blockchain rails
-- SWIFT/correspondent banking cost reduction opportunity
-- Enterprise demand for stablecoin settlements growing (treasuries, payroll, supply chain)
+**Significance:** This dual licensing allows Merge to legally:
+- Issue and redeem stablecoins
+- Provide custody services
+- Facilitate fiat ↔ stablecoin conversions across EU
 
-## Investment Thesis Update
-✅ **Regulatory moat**: Only dual EMI+VASP in France = huge barrier to entry  
-✅ **Market timing**: MiCA regulation creates clarity, enterprise adoption accelerating  
-✅ **Revenue model**: B2B SaaS + transaction fees = scalable, recurring  
-✅ **Competitive position**: First-mover vs. Ripple in EU regulated stablecoin payments  
-⚠️ **Execution risk**: Must scale partnerships quickly before competitors catch up  
-✅ **Expansion potential**: France first, can replicate in other EU countries
+## Product Offering
 
-## Next Monitoring Points
-- Customer acquisition: Number of businesses using Merge
-- Transaction volume and GMV growth
-- Expansion to other EU countries (Germany, Netherlands)
-- Additional stablecoin support (USDC, EURC, others)
-- Partnership announcements with banks, fintechs, enterprise clients
-- Competitor response (Circle, Ripple, Paxos)
-- Funding rounds post-regulatory approval
+### Core Service
+Instant settlement via stablecoins with local fiat on-ramps/off-ramps
 
-## Sources
-- ThePaypers: EMI + VASP approval announcement
-- Finextra: License activation details
-- FFNews: Stablecoin payment offering expansion
-- The Fintech Times: Cross-border payment strategy
+### Geographic Coverage
+- **UK:** Faster Payments
+- **Europe:** SEPA Instant
+- **Brazil:** PIX
+- **India:** UPI
+- Additional regions expanding
+
+### Target Customers
+- **B2B focus:** Not consumer-facing
+- Enterprise treasury operations
+- Cross-border e-commerce
+- Remittance providers
+- Fintech infrastructure layer
+
+## Market Timing: Perfect Storm (2026)
+
+### Regulatory Alignment
+- **EU MiCA** (Markets in Crypto-Assets) in effect
+- Stablecoins legitimized as payment instruments
+- Institutional comfort with regulated stablecoin rails
+
+### Industry Trends (2026)
+**Stablecoins moving from "crypto plumbing" → core payment infrastructure**
+
+- ✅ Cross-border payments: 30-80% cost savings vs. SWIFT
+- ✅ Treasury operations: 24/7 liquidity, instant settlement
+- ⚠️ Retail adoption: Still lagging behind enterprise
+
+### Market Shift
+Stablecoins now hold ~$200B+ in short-term government debt, becoming a material force in global liquidity flows.
+
+## Competitive Landscape
+
+### Direct Competitors
+- **Circle (USDC):** Issuer + payment rails
+- **Bridge (Stripe acquisition):** Stablecoin API infra
+- **Paxos:** Regulated stablecoin issuer + infra
+- **Tether (USDT):** Dominant but less regulated
+
+### Differentiation
+- **EU-first:** MiCA compliance out of the gate
+- **B2B infra:** Not trying to be consumer brand
+- **Multi-rail:** Local payment integration (not just stablecoin)
+
+## ⚠️ Research Gap: Traction Metrics
+
+**No public customer data found.** As a B2B infrastructure provider, Merge likely operates quietly. Key unknowns:
+
+### Questions to Answer:
+1. How many enterprise clients since May 2025 launch?
+2. Monthly transaction volume?
+3. Revenue model: Basis points on volume? Subscription?
+4. Major partnerships (banks, fintechs, exchanges)?
+5. Funding status post-licensing?
+
+### Why This Matters:
+Licensing is hard, but customer acquisition is harder. The dual license is a **necessary but not sufficient** condition for success.
+
+## Status Assessment
+**🟢 OPERATIONAL + LICENSED - TRACTION TBD**
+
+The regulatory achievement (dual license) is a massive moat. Few competitors can match this. The hard part now is enterprise sales and building network effects.
+
+## Key Metrics to Watch
+- Customer acquisition announcements (case studies)
+- Transaction volume growth
+- Geographic expansion (Asia? Middle East?)
+- Follow-on funding (Series B/C to fuel sales?)
+
+## Investment Implications
+
+### Bull Case
+- ✅ First-mover advantage in EU regulated stablecoin payments
+- ✅ Perfect timing (2026 = stablecoin breakout year)
+- ✅ Regulatory moat (dual license is expensive and time-consuming)
+- ✅ Infrastructure play = high margins once scaled
+
+### Bear Case
+- ⚠️ Customer acquisition in B2B is slow (18-month sales cycles)
+- ⚠️ Competition from Circle/Stripe Bridge (well-funded)
+- ⚠️ No public traction metrics (opacity)
+- ⚠️ Stablecoin regulation could shift (MiCA v2 changes?)
+
+### Neutral Observations
+- B2B infra takes 3-5 years to scale (patient capital needed)
+- Network effects are real (more customers = more valuable)
+- Cross-border payments is a $200T+ market (TAM is huge)
+
+## Catalysts for 2026
+- **Q2:** First major partnership announcement (bank? fintech?)
+- **Q3:** Case study or transaction volume milestone
+- **Q4:** Follow-on funding round (sign of traction)
+
+**Next check:** June 2026 for any partnership announcements or press releases
+
+---
+*Research sources: Merge.money, Payments Association, PYMNTS, FinTech Weekly (2025-2026)*
+
+**RECOMMENDATION:** Schedule call with Merge team to get customer traction update.

@@ -1,36 +1,79 @@
-# Uprise / HorizonWealth (업라이즈) Research Update - 2026-03-28
+# Uprise/HorizonWealth - Portfolio Research
+
+**Last Updated:** 2026-03-30
 
 ## Company Overview
-- Operates **Heybit** (crypto asset management platform)
-- Merged with **두물머리투자자문** → rebranded as **HorizonWealth**
-- **2025 target: 1조원 retirement pension assets under management**
-- Focus: Bridging crypto and traditional wealth management
+Robo-advisor platform operating in South Korea
+- **Original entity:** Uprise Investment Advisory (업라이즈투자자문)
+- **Product:** HeyBit (헤이비트) - digital asset investment service
 
-## Investment Thesis (from MEMORY.md)
-✅ **Market opportunity**: Korea retirement pension market = multi-trillion won  
-✅ **Crypto + traditional**: Unique positioning combining both asset classes  
-✅ **Heybit traction**: Established crypto brand in Korea  
-✅ **1조원 AUM target**: Specific, measurable 2025 goal  
-⚠️ **Regulatory risk**: Korea crypto regulations + pension regulations  
-✅ **Revenue model**: Management fees on AUM = scalable, recurring
+## Major Restructuring (Nov 2024 Announcement)
 
-## Research Needed
-- **No recent 2026 news found** - need to investigate:
-  - Did they hit 1조원 AUM target in 2025?
-  - Current AUM and client count
-  - Heybit user growth and crypto AUM
-  - Regulatory approvals for pension management
-  - Product offerings (robo-advisor, discretionary, hybrid)
-  - Competition (Mirae Asset, KB Securities, others)
-  - Funding status and investors
+### Merger Details
+- **Uprise Investment Advisory** + **Doomulmori Investment Advisory**
+- Combined under new entity: **HorizonWealth (호라이즌웰스)**
+- Expected launch: **February 2026**
 
-## Next Monitoring Points
-- AUM growth trajectory toward 1조원 goal
-- Retirement pension product launches
-- Crypto market impact on Heybit users
-- Regulatory developments in Korea (crypto, pensions)
-- M&A activity in Korean wealthtech space
-- Partnership announcements with traditional financial institutions
+### Brands
+- **든든 (dndn)** - Uprise's robo-advisor → continues under HorizonWealth
+- **불리오 (Boolio)** - Doomulmori's robo-advisor → continues under HorizonWealth
+- CEO: Lee Choong-yeop (former Uprise CEO)
 
-## Status
-⚠️ **Action required**: Deep dive research needed - no 2026 public updates found in initial search
+## Strategic Rationale
+- Korean robo-advisor market consolidation
+- Combining platforms to achieve scale
+- Shared infrastructure reduces operating costs
+- Compete against traditional wealth managers
+
+## Financial Targets
+- **1조원 (~$770M USD) AUM target** mentioned for 2025
+  - ⚠️ **Status unknown:** No verification if target was met
+- **Retirement pension custody:** 1조원 goal for merged entity
+
+## Market Context
+**Korean Robo-Advisor Landscape:**
+- Highly competitive (10+ players)
+- Low AUM per player (fragmentation)
+- Regulatory pressure for profitability
+- Consolidation wave (this merger is part of trend)
+
+## ⚠️ Major Research Gap
+**No 2025-2026 operational data found.**
+
+Merger timeline suggests HorizonWealth should be live by now (March 2026), but no public announcements of:
+- Launch confirmation
+- Current AUM figures
+- Customer count (dndn + Boolio combined)
+- Whether 1조원 target achieved
+
+### Possible Scenarios:
+1. **Delayed launch:** Integration taking longer than planned
+2. **Quiet launch:** Operating but no PR push yet
+3. **Target missed:** 1조원 goal not achieved, delaying announcement
+
+## Status Assessment
+**🟡 MERGER IN PROGRESS - DATA PENDING**
+
+The merger makes strategic sense, but lack of follow-up announcements is concerning. For a fintech targeting 1조원 AUM, silence after 4 months from expected launch date is unusual.
+
+## Key Questions
+- Is HorizonWealth operationally live?
+- Current combined AUM (dndn + Boolio)?
+- Customer migration status?
+- Regulatory approval timeline?
+
+## Investment Implications
+- **Strategic logic:** Consolidation needed in fragmented market
+- **Execution risk:** Integration complexity (2 platforms, 2 tech stacks)
+- **Market risk:** Korean robo-advisor space still unprofitable for most
+- **Opacity:** Lack of recent updates raises concerns
+
+## Catalysts to Watch
+- Official HorizonWealth launch announcement
+- First quarterly report post-merger
+- Any follow-on funding (post-merger capital raise?)
+
+**Next check:** Direct inquiry to management or regulatory filings search (금융위원회)
+
+---
+*Research sources: beSUCCESS, ZDNet Korea, THE VC, Ezy Economy, Sisaon (Nov 2024)*

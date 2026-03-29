@@ -1,50 +1,96 @@
-# Mythical Games Research Update - 2026-03-28
+# Mythical Games - Portfolio Research
 
-## Major Developments
+**Last Updated:** 2026-03-30
 
-### NFL Rivals Success
-- **Nearly 3 million players** as of Oct 2023 (The Block)
-- Revenue climbing during NFL season with strong retention
-- User growth, revenue, retention all trending up during 2023 season
-- Blockchain-powered mobile game on **Apple + Android**
+## Company Overview
+Web3 gaming platform with blockchain-based NFT economies
+- **Flagship:** NFL Rivals (American football arcade manager)
+- **Pipeline:** FIFA Rivals (soccer), Pudgy Party (casual social)
 
-### Telegram Expansion (Jan 2025)
-- **Football Rivals launched on Telegram** (Jan 2025)
-- Free-to-play stats-focused game using NFL Rivals cards
-- **Play-to-earn $MYTH rewards** via weekly leaderboard
-- Expanding Web3 gaming to chat platforms
+## NFL Rivals Performance
 
-### Multi-Game Strategy
-- **Nitro Nation World Tour** launched (Oct 2023) - racing game
-- Mythical Platform powering multiple titles
-- NFL Rivals flagship game driving platform adoption
+### User Base
+- **3M+ registered players** (as of Oct 2023)
+- Seasonal spikes tied to NFL calendar
+- Higher retention during football season (Sep-Feb)
 
-### Platform Infrastructure
-- **Mythical Platform**: Manages digital asset trades, payments, user transactions
-- **Mythos Chain**: Blockchain backend for in-game assets
-- **Mythical Marketplace**: NFT trading for in-game items
-- Focus: Transparency, security, trust, value for digital asset economy
+### Platform Expansion
+- **Telegram integration** (Jan 2025): Mini-games, social features
+- Multi-platform: iOS, Android, web browser
 
-## Investment Thesis Update
-✅ **Traction**: 3M+ players is real adoption, not just crypto-native users  
-✅ **IP partnerships**: NFL license = mainstream appeal, reduces crypto stigma  
-✅ **Multi-platform**: Mobile (iOS/Android) + Telegram = broad reach  
-✅ **Retention**: Revenue growing with user engagement (not just launch hype)  
-✅ **Platform play**: Mythical Platform can onboard other studios (B2B revenue)  
-⚠️ **Crypto gaming stigma**: Market still skeptical of blockchain games  
-✅ **Token utility**: $MYTH integrated into play-to-earn mechanics
+### Season 3 Overhaul (Aug 2025)
+**Major NFT mechanics update:**
+- Emphasis on NFT trading as primary revenue driver
+- Low-tier NFTs used to power up high-tier cards
+- Incentivizing players to "NFT-ify" their in-game cards
+- Increased marketplace transaction focus
 
-## Next Monitoring Points
-- NFL Rivals 2026 season performance
-- Telegram game user acquisition and retention
-- New game announcements on Mythical Platform
-- $MYTH token economics and price action
-- Third-party studios adopting Mythical Platform
-- Apple/Google policy changes affecting blockchain games
-- Comparison to other Web3 gaming platforms (Immutable, Gala, Polygon)
+## Business Model Evolution
 
-## Sources
-- The Block: NFL Rivals user numbers and revenue (Oct 2023)
-- PlayToEarn: Football Rivals Telegram launch (Jan 2025)
-- Mythical Games official: Platform updates
-- Mythical Marketplace: Product infrastructure
+### Revenue Mix
+**Primary:** NFT marketplace fees (majority of income)  
+**Secondary:** In-app purchases (packs, cosmetics)
+
+**Key insight:** Mythical makes most money when players trade NFTs, not when they buy them initially. This aligns incentives around secondary market liquidity.
+
+## Platform Milestone (May 2025)
+- **$650M+ total transactions** across Mythical ecosystem
+- Demonstrates strong blockchain infrastructure for gaming
+- Multi-game platform strategy validated
+
+## Upcoming Product Pipeline
+
+### FIFA Rivals (In Development)
+- **Potential impact:** Global market vs. US-only NFL
+- Soccer = 3.5B fans worldwide vs. American football = 400M
+- Could be 5-10x user base expansion if executed well
+
+### Pudgy Party (In Development)
+- Casual gaming audience
+- Pudgy Penguins NFT IP integration
+- Different demographic (broader, younger)
+
+## Competitive Landscape
+- **Web3 gaming:** Axie Infinity (declining), Gods Unchained, Illuvium
+- **Traditional mobile games:** Madden NFL Mobile, EA Sports FC Mobile
+- **Differentiation:** True NFT ownership, marketplace liquidity
+
+## Status Assessment
+**🟢 GROWTH + EXPANSION**
+
+NFL Rivals is a proven product (3M+ users, $650M+ transactions). The key bet now is FIFA Rivals—if it captures even 10% of soccer mobile gaming market, it's a home run.
+
+## Key Metrics to Watch
+- NFL Rivals MAU (monthly active users) trends
+- NFT trading volume (health of marketplace)
+- FIFA Rivals beta launch timing
+- Pudgy Party launch and initial traction
+
+## Investment Implications
+
+### Strengths
+- ✅ Proven model (NFL Rivals works)
+- ✅ Strong IP partnerships (NFL, FIFA, Pudgy Penguins)
+- ✅ Blockchain infrastructure battle-tested
+- ✅ Platform approach (not one-game company)
+
+### Risks
+- ⚠️ Web3 gaming still niche (mainstream skepticism)
+- ⚠️ Season 3 changes could alienate existing players
+- ⚠️ FIFA Rivals execution risk (different market, higher expectations)
+- ⚠️ NFT market volatility affects trading volume (revenue)
+
+### Catalysts for 2026
+- **Q2:** FIFA Rivals beta launch announcement
+- **Q3:** Pudgy Party launch
+- **Q4:** Full FIFA Rivals launch + holiday season performance
+
+## Strategic Questions
+1. Can FIFA Rivals replicate NFL Rivals success globally?
+2. Will casual gamers adopt Pudgy Party (non-crypto branding)?
+3. Is $650M transaction volume sustainable or one-time peak?
+
+**Next check:** Q2 2026 for FIFA Rivals alpha/beta news, Q4 2026 for full portfolio performance
+
+---
+*Research sources: TheBlock, BlockchainGamer.biz, PlayToEarn, Mythical Games blog (2023-2025)*
