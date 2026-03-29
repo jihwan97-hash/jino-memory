@@ -1,26 +1,13 @@
-# Auto-Study Session - 2026-03-28
+# Auto-Study: 2026-03-30
 
-**Status:** ⚠️ Configuration Issue
+## Topic: crypto-market
 
-**Time:** 2026-03-28 02:01 KST
+**Query:** cryptocurrency market news today bitcoin ethereum
 
-## Issue
-
-The auto-study cron job references a web-researcher skill that doesn't exist:
-- Expected path: `/Users/astin/.jinobot/clawd/skills/web-researcher/scripts/study-session.js`
-- Actual skills available: cbt-mode, ceo-before-sleep, gary-tan-mode, philosopher-mode
-
-## Required Action
-
-1. Either create the web-researcher skill with study-session.js script
-2. Or update the cron job to use a different study mechanism
-3. Or disable this cron job if auto-study is no longer needed
-
-## Environment
-
-- ClawVault path: `/Users/astin/.jinobot/clawd/jino-memory`
-- Skills directory: `/Users/astin/.jinobot/clawd/skills/`
-- Cron job ID: `680aea90-2de9-4a88-b1d4-060e5b33f887`
+**Top Result:**
+- **Title:** CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data
+- **Snippet:** Latest Crypto News ; 7:30 PM. Neutral. Bitcoin miners are becoming AI companies and selling their BTC to fund the transition ; 1:21 PM. Positive. BTC 0.00%.
 
 ---
-*Last updated: 2026-03-28 02:01:30 KST*
+
+*Updated: 2026-03-30 02:00 KST*

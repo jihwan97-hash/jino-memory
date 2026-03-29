@@ -1,5 +1,5 @@
 {
-  "lastProcessedAt": "2026-03-29T17:00:09.146Z",
+  "lastProcessedAt": "2026-03-29T05:17:43.525Z",
   "processedFiles": [
     "main/sessions/d12b486a-a1dd-43ce-adcd-c4437d89026e.jsonl",
     "main/sessions/44dc5183-2e6c-4a4f-99c9-be5f0c557005.jsonl",
@@ -16,9 +16,6 @@
     "main/sessions/8578cf37-e8a5-49d1-ae08-2ecd89a18462.jsonl",
     "main/sessions/9cb2a3d9-10cf-45b5-af83-e903e0c27aa9.jsonl",
     "main/sessions/354561a5-1b61-4fab-8cd5-f51a615b5f19.jsonl",
-    "main/sessions/a59c2bd8-0c6b-488a-8d4b-fa6e68273e85.jsonl",
-    "main/sessions/4e8e1826-f8c5-47ac-ad8d-545bd2f843a9.jsonl",
-    "main/sessions/a20d02c0-b2bb-43bd-8bc7-003acaa4fc7f.jsonl",
-    "main/sessions/aac66573-8089-4bfb-a013-c15920acf796.jsonl"
+    "main/sessions/a59c2bd8-0c6b-488a-8d4b-fa6e68273e85.jsonl"
   ]
 }
