@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-30T07:01:04.555Z",
+  "generatedAt": "2026-03-30T12:01:09.930Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -2751,6 +2751,97 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push.md": {
+      "relativePath": "backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push.md",
+      "mtimeMs": 1774868417406.5134,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+          "title": "Assistant Now Let Me Save The Email Summary And Handle The Git Push",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-30T11:00:17.406Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:open",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:task",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-write-all-4-skillmd-files.md": {
       "relativePath": "backlog/assistant-now-let-me-write-all-4-skillmd-files.md",
       "mtimeMs": 1774587616369.027,
@@ -4929,7 +5020,7 @@
     },
     "commitments/2026-03-30.md": {
       "relativePath": "commitments/2026-03-30.md",
-      "mtimeMs": 1774854011335.2646,
+      "mtimeMs": 1774868417409.1074,
       "nodes": [
         {
           "id": "note:commitments/2026-03-30",
@@ -4940,7 +5031,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:11.335Z"
+          "modifiedAt": "2026-03-30T11:00:17.409Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -5103,7 +5194,7 @@
     },
     "daily/2026-03-30.md": {
       "relativePath": "daily/2026-03-30.md",
-      "mtimeMs": 1774854055179.0122,
+      "mtimeMs": 1774872045512.9695,
       "nodes": [
         {
           "id": "note:daily/2026-03-30",
@@ -5114,7 +5205,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:55.179Z"
+          "modifiedAt": "2026-03-30T12:00:45.512Z"
         }
       ],
       "edges": []
@@ -6133,7 +6224,7 @@
     },
     "decisions/2026-03-30.md": {
       "relativePath": "decisions/2026-03-30.md",
-      "mtimeMs": 1774854011331.1968,
+      "mtimeMs": 1774868417407.3384,
       "nodes": [
         {
           "id": "note:decisions/2026-03-30",
@@ -6144,7 +6235,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:11.331Z"
+          "modifiedAt": "2026-03-30T11:00:17.407Z"
         },
         {
           "id": "unresolved:new-items",
@@ -7873,7 +7964,7 @@
     },
     "facts/2026-03-30.md": {
       "relativePath": "facts/2026-03-30.md",
-      "mtimeMs": 1774854011334.6726,
+      "mtimeMs": 1774868417408.4885,
       "nodes": [
         {
           "id": "note:facts/2026-03-30",
@@ -7884,7 +7975,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:11.334Z"
+          "modifiedAt": "2026-03-30T11:00:17.408Z"
         },
         {
           "id": "unresolved:web",
@@ -8105,6 +8196,39 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:python",
+          "title": "Python",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:skills",
+          "title": "Skills",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:astin-claw",
+          "title": "Astin Claw",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8226,6 +8350,24 @@
           "id": "wiki_link:note:facts/2026-03-30->unresolved:vercel",
           "source": "note:facts/2026-03-30",
           "target": "unresolved:vercel",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-30->unresolved:python",
+          "source": "note:facts/2026-03-30",
+          "target": "unresolved:python",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-30->unresolved:skills",
+          "source": "note:facts/2026-03-30",
+          "target": "unresolved:skills",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-30->unresolved:astin-claw",
+          "source": "note:facts/2026-03-30",
+          "target": "unresolved:astin-claw",
           "type": "wiki_link"
         }
       ]
@@ -8722,6 +8864,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-30-1201.md": {
+      "relativePath": "handoffs/handoff-2026-03-30-1201.md",
+      "mtimeMs": 1774872069857.06,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-30-1201",
+          "title": "handoff-2026-03-30-1201",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-30-1201.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-30T12:01:09.857Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -8961,7 +9121,7 @@
     },
     "ledger/observations/2026/03/30.md": {
       "relativePath": "ledger/observations/2026/03/30.md",
-      "mtimeMs": 1774854011288.845,
+      "mtimeMs": 1774868417382.383,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/30",
@@ -8974,7 +9134,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:11.288Z"
+          "modifiedAt": "2026-03-30T11:00:17.382Z"
         },
         {
           "id": "tag:494",
@@ -9330,7 +9490,7 @@
     },
     "lessons/2026-03-27.md": {
       "relativePath": "lessons/2026-03-27.md",
-      "mtimeMs": 1774587618228.7893,
+      "mtimeMs": 1774868416739.6704,
       "nodes": [
         {
           "id": "note:lessons/2026-03-27",
@@ -9341,10 +9501,17 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-27T05:00:18.228Z"
+          "modifiedAt": "2026-03-30T11:00:16.739Z"
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "wiki_link:note:lessons/2026-03-27->note:templates/lesson",
+          "source": "note:lessons/2026-03-27",
+          "target": "note:templates/lesson",
+          "type": "wiki_link"
+        }
+      ]
     },
     "lessons/2026-03-29.md": {
       "relativePath": "lessons/2026-03-29.md",
@@ -9401,7 +9568,7 @@
     },
     "lessons/2026-03-30.md": {
       "relativePath": "lessons/2026-03-30.md",
-      "mtimeMs": 1774853958646.0112,
+      "mtimeMs": 1774868416758.9702,
       "nodes": [
         {
           "id": "note:lessons/2026-03-30",
@@ -9412,10 +9579,28 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T06:59:18.646Z"
+          "modifiedAt": "2026-03-30T11:00:16.758Z"
+        },
+        {
+          "id": "unresolved:current",
+          "title": "Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "wiki_link:note:lessons/2026-03-30->unresolved:current",
+          "source": "note:lessons/2026-03-30",
+          "target": "unresolved:current",
+          "type": "wiki_link"
+        }
+      ]
     },
     "lessons/astinclaw-skills-page.md": {
       "relativePath": "lessons/astinclaw-skills-page.md",
@@ -11434,7 +11619,7 @@
     },
     "projects/2026-03-30.md": {
       "relativePath": "projects/2026-03-30.md",
-      "mtimeMs": 1774854011333.9104,
+      "mtimeMs": 1774868416760.2327,
       "nodes": [
         {
           "id": "note:projects/2026-03-30",
@@ -11445,7 +11630,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T07:00:11.333Z"
+          "modifiedAt": "2026-03-30T11:00:16.760Z"
         },
         {
           "id": "unresolved:brave-search",
@@ -11589,6 +11774,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:skills",
+          "title": "Skills",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:python",
+          "title": "Python",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -11668,6 +11875,18 @@
           "id": "wiki_link:note:projects/2026-03-30->unresolved:uploading",
           "source": "note:projects/2026-03-30",
           "target": "unresolved:uploading",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-30->unresolved:skills",
+          "source": "note:projects/2026-03-30",
+          "target": "unresolved:skills",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-30->unresolved:python",
+          "source": "note:projects/2026-03-30",
+          "target": "unresolved:python",
           "type": "wiki_link"
         }
       ]
@@ -13104,6 +13323,21 @@
         "modifiedAt": "2026-03-27T23:00:07.645Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+        "title": "Assistant Now Let Me Save The Email Summary And Handle The Git Push",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-30T11:00:17.406Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "title": "Assistant Now Let Me Write All 4 Skillmd Files",
         "type": "note",
@@ -13525,7 +13759,7 @@
         "tags": [],
         "missing": false,
         "degree": 7,
-        "modifiedAt": "2026-03-30T07:00:11.335Z"
+        "modifiedAt": "2026-03-30T11:00:17.409Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -13558,7 +13792,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T07:00:55.179Z"
+        "modifiedAt": "2026-03-30T12:00:45.512Z"
       },
       {
         "id": "note:decisions/2026-03-26",
@@ -13613,7 +13847,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-30T07:00:11.331Z"
+        "modifiedAt": "2026-03-30T11:00:17.407Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -13692,8 +13926,8 @@
         "path": "facts/2026-03-30.md",
         "tags": [],
         "missing": false,
-        "degree": 20,
-        "modifiedAt": "2026-03-30T07:00:11.334Z"
+        "degree": 23,
+        "modifiedAt": "2026-03-30T11:00:17.408Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -13946,6 +14180,17 @@
         "modifiedAt": "2026-03-30T07:01:04.486Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-30-1201",
+        "title": "handoff-2026-03-30-1201",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-30-1201.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-30T12:01:09.857Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -14040,7 +14285,7 @@
         ],
         "missing": false,
         "degree": 6,
-        "modifiedAt": "2026-03-30T07:00:11.288Z"
+        "modifiedAt": "2026-03-30T11:00:17.382Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -14085,8 +14330,8 @@
         "path": "lessons/2026-03-27.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
-        "modifiedAt": "2026-03-27T05:00:18.228Z"
+        "degree": 1,
+        "modifiedAt": "2026-03-30T11:00:16.739Z"
       },
       {
         "id": "note:lessons/2026-03-29",
@@ -14107,8 +14352,8 @@
         "path": "lessons/2026-03-30.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
-        "modifiedAt": "2026-03-30T06:59:18.646Z"
+        "degree": 1,
+        "modifiedAt": "2026-03-30T11:00:16.758Z"
       },
       {
         "id": "note:lessons/astinclaw-skills-page",
@@ -14264,8 +14509,8 @@
         "path": "projects/2026-03-30.md",
         "tags": [],
         "missing": false,
-        "degree": 13,
-        "modifiedAt": "2026-03-30T07:00:11.333Z"
+        "degree": 15,
+        "modifiedAt": "2026-03-30T11:00:16.760Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -14545,7 +14790,7 @@
         "path": "templates/lesson.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
+        "degree": 1,
         "modifiedAt": "2026-03-30T02:00:35.317Z"
       },
       {
@@ -14915,7 +15160,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 49,
+        "degree": 50,
         "modifiedAt": null
       },
       {
@@ -14926,7 +15171,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 49,
+        "degree": 50,
         "modifiedAt": null
       },
       {
@@ -14937,7 +15182,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 49,
+        "degree": 50,
         "modifiedAt": null
       },
       {
@@ -15075,6 +15320,17 @@
       {
         "id": "unresolved:asia",
         "title": "Asia",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:astin-claw",
+        "title": "Astin Claw",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -15471,6 +15727,17 @@
       {
         "id": "unresolved:create",
         "title": "Create",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:current",
+        "title": "Current",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -16378,7 +16645,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 49,
+        "degree": 50,
         "modifiedAt": null
       },
       {
@@ -16587,7 +16854,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -17017,6 +17284,17 @@
         "tags": [],
         "missing": true,
         "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:skills",
+        "title": "Skills",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -17980,6 +18258,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:open",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->tag:task",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-write-all-4-skillmd-files->tag:observer",
         "source": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "target": "tag:observer",
@@ -18660,6 +18956,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -19786,6 +20088,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-30->unresolved:astin-claw",
+        "source": "note:facts/2026-03-30",
+        "target": "unresolved:astin-claw",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-30->unresolved:auto",
         "source": "note:facts/2026-03-30",
         "target": "unresolved:auto",
@@ -19840,6 +20148,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-30->unresolved:python",
+        "source": "note:facts/2026-03-30",
+        "target": "unresolved:python",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-30->unresolved:rebasing",
         "source": "note:facts/2026-03-30",
         "target": "unresolved:rebasing",
@@ -19855,6 +20169,12 @@
         "id": "wiki_link:note:facts/2026-03-30->unresolved:seoul",
         "source": "note:facts/2026-03-30",
         "target": "unresolved:seoul",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-30->unresolved:skills",
+        "source": "note:facts/2026-03-30",
+        "target": "unresolved:skills",
         "type": "wiki_link"
       },
       {
@@ -19996,6 +20316,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:lessons/2026-03-27->note:templates/lesson",
+        "source": "note:lessons/2026-03-27",
+        "target": "note:templates/lesson",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:lessons/2026-03-29->unresolved:note",
         "source": "note:lessons/2026-03-29",
         "target": "unresolved:note",
@@ -20005,6 +20331,12 @@
         "id": "wiki_link:note:lessons/2026-03-29->unresolved:see",
         "source": "note:lessons/2026-03-29",
         "target": "unresolved:see",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:lessons/2026-03-30->unresolved:current",
+        "source": "note:lessons/2026-03-30",
+        "target": "unresolved:current",
         "type": "wiki_link"
       },
       {
@@ -20662,6 +20994,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-30->unresolved:python",
+        "source": "note:projects/2026-03-30",
+        "target": "unresolved:python",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-30->unresolved:request",
         "source": "note:projects/2026-03-30",
         "target": "unresolved:request",
@@ -20671,6 +21009,12 @@
         "id": "wiki_link:note:projects/2026-03-30->unresolved:retrieving",
         "source": "note:projects/2026-03-30",
         "target": "unresolved:retrieving",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-30->unresolved:skills",
+        "source": "note:projects/2026-03-30",
+        "target": "unresolved:skills",
         "type": "wiki_link"
       },
       {
@@ -20699,24 +21043,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-30T07:01:04.555Z",
-      "nodeCount": 414,
-      "edgeCount": 543,
+      "generatedAt": "2026-03-30T12:01:09.930Z",
+      "nodeCount": 419,
+      "edgeCount": 554,
       "nodeTypeCounts": {
-        "note": 134,
+        "note": 135,
         "tag": 17,
-        "unresolved": 224,
+        "unresolved": 227,
         "commitment": 3,
         "daily": 3,
         "decision": 5,
-        "handoff": 2,
+        "handoff": 3,
         "lesson": 7,
         "person": 2,
         "project": 17
       },
       "edgeTypeCounts": {
-        "tag": 174,
-        "wiki_link": 369
+        "tag": 177,
+        "wiki_link": 377
       }
     }
   }
