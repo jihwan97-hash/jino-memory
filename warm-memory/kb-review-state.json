@@ -1,5 +1,29 @@
 {
-  "reviewedIds": [],
-  "lastReviewAt": "2026-03-29T18:00:00.000Z",
-  "_note": "kb-review.js script does not exist. brain-memory skill only has brain-memory-system.js. No KB tier system is set up as of 2026-03-30T03:00:00+09:00"
+  "reviewedIds": [
+    "facts-2026-03-30-01:00-RnJvbSBodHRw",
+    "facts-2026-03-30-06:00-VG8gaHR0cHM6",
+    "facts-2026-03-30-11:00-W21haW4gMjVj",
+    "facts-2026-03-30-17:00-ZXJyb3I6IGV4",
+    "facts-2026-03-29-05:00-W1tSZWFkXV0g",
+    "facts-2026-03-29-11:00-VG8gaHR0cHM6",
+    "facts-2026-03-28-05:00-L1tbVXNlcnNd",
+    "decisions-2026-03-30-01:00-7J207KCcIGti",
+    "decisions-2026-03-30-03:00-7JmE66OMLiDs",
+    "decisions-2026-03-30-07:00-Nzk5ZTUxOSBw",
+    "decisions-2026-03-29-14:00-U3lzdGVtOiBb",
+    "decisions-2026-03-29-00:00-IyBLQiBbW1Jl",
+    "decisions-2026-03-28-08:00-MjAyNi0wMy0y",
+    "decisions-2026-03-28-02:00-IyBbW0RhaWx5",
+    "decisions-2026-03-28-08:00-LS0tICMjIPCf",
+    "facts-2026-03-30-01:00-IyEvdXNyL2Jp",
+    "facts-2026-03-30-01:00-W21haW4gNzk5",
+    "facts-2026-03-30-01:00-8JmniBPcGVuQ",
+    "facts-2026-03-30-07:00-W1tWZXJjZWxd",
+    "facts-2026-03-30-07:00-7KCA7J6l7ZaI",
+    "facts-2026-03-30-11:00-7JuQ7J24IO2M",
+    "facts-2026-03-30-11:00-PCFET0NUWVBF",
+    "facts-2026-03-28-05:00-Q0hBTkdFTE9H",
+    "facts-2026-03-28-19:18-W1tSZWFkXV0g"
+  ],
+  "lastReviewAt": "2026-03-30T18:00:05.015Z"
 }

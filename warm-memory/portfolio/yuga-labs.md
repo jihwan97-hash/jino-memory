@@ -1,6 +1,6 @@
 # Yuga Labs - Portfolio Research
 
-**Last Updated:** 2026-03-30
+**Last Updated:** 2026-03-31 04:00 AM KST
 
 ## Company Overview
 Creator of Bored Ape Yacht Club (BAYC), leading Web3 entertainment company
@@ -13,6 +13,13 @@ Creator of Bored Ape Yacht Club (BAYC), leading Web3 entertainment company
 - Email sign-up flow (NFT ownership not required)
 - Amazon partnership for infrastructure
 - Accessibility-first approach
+
+### 🆕 VibeMaker Launch (March 2026)
+- **Tagline:** "Built by the community, for the community"
+- Permissionless metaverse building tools
+- Open to all voyagers (builders and enjoyers)
+- Lowers barrier to creator participation
+- Signals platform maturation
 
 ### 2026 Roadmap
 - **Resources System** introduction planned
