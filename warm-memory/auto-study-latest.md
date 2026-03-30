@@ -1,13 +1,15 @@
-# Auto-Study: 2026-03-30
+# Auto-Study: 2026-03-31
 
-## Topic: crypto-market
+**Topic:** crypto-market
 
-**Query:** cryptocurrency market news today bitcoin ethereum
+## Findings
 
-**Top Result:**
-- **Title:** CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data
-- **Snippet:** Latest Crypto News ; 7:30 PM. Neutral. Bitcoin miners are becoming AI companies and selling their BTC to fund the transition ; 1:21 PM. Positive. BTC 0.00%.
+### Cryptocurrency Market News Today Bitcoin Ethereum
+
+**Source:** CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data
+
+**Summary:** Nearly half of all bitcoin is now trading at a loss, with the Bitcoin Impact Index surging to 57.4, indicating high stress levels. 6:53 AM.
 
 ---
 
-*Updated: 2026-03-30 02:00 KST*
+*Last updated: 2026-03-31 02:01 KST*

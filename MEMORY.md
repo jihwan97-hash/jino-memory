@@ -4,6 +4,15 @@ _지노의 장기 기억. 중요한 컨텍스트, 결정, 인사이트를 담는
 
 ---
 
+## astinclaw.pw 블로그 배포
+
+- **경로**: `/Users/astin/Projects/astinclaw-web`
+- **배포**: Vercel — `vercel deploy --prod` 로 배포 (`.vercel/project.json` 연결됨)
+- **도메인**: `https://astinclaw.pw`
+- **구조**: 폴더 기반 정적 HTML (`blog/slug/index.html`)
+- **블로그 목록**: `blog/index.html` 의 `posts` 배열에 추가
+- **Git remote 없음** — 커밋 후 vercel CLI로 직접 배포
+
 ## 지식베이스 인사이트
 
 ### 포트폴리오 기업 (Hashed)

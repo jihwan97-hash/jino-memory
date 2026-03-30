@@ -1,5 +1,5 @@
 {
-  "lastProcessedAt": "2026-03-30T02:00:03.942Z",
+  "lastProcessedAt": "2026-03-30T17:01:02.408Z",
   "processedFiles": [
     "main/sessions/d12b486a-a1dd-43ce-adcd-c4437d89026e.jsonl",
     "main/sessions/44dc5183-2e6c-4a4f-99c9-be5f0c557005.jsonl",
@@ -27,6 +27,13 @@
     "main/sessions/3f918fe3-2f5f-4aa4-9c7e-f73167d9ed81.jsonl",
     "main/sessions/11803b5e-6077-4115-8f18-902722d41531.jsonl",
     "main/sessions/2ca64d3e-34aa-48e8-9c39-d41d4a3d52cc.jsonl",
-    "main/sessions/1d40101a-6986-4bc2-bde7-d0a50d440811.jsonl"
+    "main/sessions/1d40101a-6986-4bc2-bde7-d0a50d440811.jsonl",
+    "main/sessions/30dd4b01-3365-43e2-9d5e-d12ca458d572.jsonl",
+    "main/sessions/a6cf7b7d-462c-4158-be7c-69b9090e2255.jsonl",
+    "main/sessions/dde64b8e-3c52-4858-927d-08eec2b3702a.jsonl",
+    "main/sessions/417f03d8-3e13-4445-a36b-985618bec01a.jsonl",
+    "main/sessions/022c5fad-c369-47d3-9fb3-f89640827be3.jsonl",
+    "main/sessions/ab036806-e8e0-46e0-856b-21c8046a44c7.jsonl",
+    "main/sessions/64a80cbb-5475-4882-b1be-57dfedddcdff.jsonl"
   ]
 }
