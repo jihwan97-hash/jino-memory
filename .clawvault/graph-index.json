@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T08:01:20.252Z",
+  "generatedAt": "2026-03-31T13:02:42.533Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -6027,6 +6027,97 @@
         }
       ]
     },
+    "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md": {
+      "relativePath": "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md",
+      "mtimeMs": 1774958454082.2195,
+      "nodes": [
+        {
+          "id": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+          "title": "User System Perfect Let Me Create A Final Summary Message System System System System Portfolio Research",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T12:00:54.082Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:observer",
+          "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:open",
+          "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:task",
+          "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->unresolved:observer",
+          "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo.md": {
       "relativePath": "backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo.md",
       "mtimeMs": 1774836035302.3926,
@@ -6899,6 +6990,44 @@
         }
       ],
       "edges": []
+    },
+    "daily/2026-03-31.md": {
+      "relativePath": "daily/2026-03-31.md",
+      "mtimeMs": 1774962152091.6455,
+      "nodes": [
+        {
+          "id": "note:daily/2026-03-31",
+          "title": "2026 03 31",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-03-31.md",
+          "tags": [
+            "248"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T13:02:32.091Z"
+        },
+        {
+          "id": "tag:248",
+          "title": "#248",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:daily/2026-03-31->tag:248",
+          "source": "note:daily/2026-03-31",
+          "target": "tag:248",
+          "type": "tag"
+        }
+      ]
     },
     "decisions/2022-06-28.md": {
       "relativePath": "decisions/2022-06-28.md",
@@ -10577,7 +10706,7 @@
     },
     "facts/2026-03-31.md": {
       "relativePath": "facts/2026-03-31.md",
-      "mtimeMs": 1774918903438.9045,
+      "mtimeMs": 1774958454092.3877,
       "nodes": [
         {
           "id": "note:facts/2026-03-31",
@@ -10588,10 +10717,249 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.438Z"
+          "modifiedAt": "2026-03-31T12:00:54.092Z"
+        },
+        {
+          "id": "unresolved:claude-code",
+          "title": "Claude Code",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:agentic-loop",
+          "title": "Agentic Loop",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:claude",
+          "title": "Claude",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:context",
+          "title": "Context",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:you",
+          "title": "You",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:compaction",
+          "title": "Compaction",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:context-window",
+          "title": "Context Window",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:compa",
+          "title": "Compa",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:gateway",
+          "title": "Gateway",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:google-calendar",
+          "title": "Google Calendar",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:gmail",
+          "title": "Gmail",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:browser",
+          "title": "Browser",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:notion",
+          "title": "Notion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:gemini",
+          "title": "Gemini",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:claude-code",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:claude-code",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:agentic-loop",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:agentic-loop",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:claude",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:claude",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:context",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:context",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:you",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:you",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:compaction",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:compaction",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:context-window",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:context-window",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:compa",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:compa",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:gateway",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:gateway",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:google-calendar",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:google-calendar",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:gmail",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:gmail",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:browser",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:browser",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:notion",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:notion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:gemini",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:gemini",
+          "type": "wiki_link"
+        }
+      ]
     },
     "hades-src/docs/advanced-backtesting.md": {
       "relativePath": "hades-src/docs/advanced-backtesting.md",
@@ -11157,6 +11525,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-31-1302.md": {
+      "relativePath": "handoffs/handoff-2026-03-31-1302.md",
+      "mtimeMs": 1774962162458.9536,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-31-1302",
+          "title": "handoff-2026-03-31-1302",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-31-1302.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T13:02:42.458Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -11532,6 +11918,42 @@
         {
           "id": "wiki_link:note:ledger/observations/2026/03/30->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/03/30",
+          "target": "unresolved:reply_to_current",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "ledger/observations/2026/03/31.md": {
+      "relativePath": "ledger/observations/2026/03/31.md",
+      "mtimeMs": 1774962058000.8523,
+      "nodes": [
+        {
+          "id": "note:ledger/observations/2026/03/31",
+          "title": "31",
+          "type": "note",
+          "category": "note",
+          "path": "ledger/observations/2026/03/31.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T13:00:58.000Z"
+        },
+        {
+          "id": "unresolved:reply_to_current",
+          "title": "Reply To Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:ledger/observations/2026/03/31->unresolved:reply_to_current",
+          "source": "note:ledger/observations/2026/03/31",
           "target": "unresolved:reply_to_current",
           "type": "wiki_link"
         }
@@ -12175,6 +12597,42 @@
         {
           "id": "wiki_link:note:preferences/2026-03-30->unresolved:users",
           "source": "note:preferences/2026-03-30",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "preferences/2026-03-31.md": {
+      "relativePath": "preferences/2026-03-31.md",
+      "mtimeMs": 1774962058037.086,
+      "nodes": [
+        {
+          "id": "note:preferences/2026-03-31",
+          "title": "2026 03 31",
+          "type": "note",
+          "category": "note",
+          "path": "preferences/2026-03-31.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T13:00:58.037Z"
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:preferences/2026-03-31->unresolved:users",
+          "source": "note:preferences/2026-03-31",
           "target": "unresolved:users",
           "type": "wiki_link"
         }
@@ -14919,6 +15377,42 @@
         }
       ]
     },
+    "projects/2026-03-31.md": {
+      "relativePath": "projects/2026-03-31.md",
+      "mtimeMs": 1774958454090.437,
+      "nodes": [
+        {
+          "id": "note:projects/2026-03-31",
+          "title": "2026 03 31",
+          "type": "project",
+          "category": "project",
+          "path": "projects/2026-03-31.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T12:00:54.090Z"
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:projects/2026-03-31->unresolved:users",
+          "source": "note:projects/2026-03-31",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "projects/backpack-exchange-research-2026-03-30.md": {
       "relativePath": "projects/backpack-exchange-research-2026-03-30.md",
       "mtimeMs": 1774836035309.54,
@@ -17037,6 +17531,21 @@
         "modifiedAt": "2026-03-27T23:00:07.614Z"
       },
       {
+        "id": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+        "title": "User System Perfect Let Me Create A Final Summary Message System System System System Portfolio Research",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T12:00:54.082Z"
+      },
+      {
         "id": "note:backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo",
         "title": "User System Perfect Now Let Me Create A Summary For The Cron Job Output System System System System Portfo",
         "type": "note",
@@ -17249,6 +17758,19 @@
         "modifiedAt": "2026-03-30T17:01:33.395Z"
       },
       {
+        "id": "note:daily/2026-03-31",
+        "title": "2026 03 31",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-03-31.md",
+        "tags": [
+          "248"
+        ],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-31T13:02:32.091Z"
+      },
+      {
         "id": "note:decisions/2022-06-28",
         "title": "2022 06 28",
         "type": "decision",
@@ -17413,8 +17935,8 @@
         "path": "facts/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
-        "modifiedAt": "2026-03-31T01:01:43.438Z"
+        "degree": 14,
+        "modifiedAt": "2026-03-31T12:00:54.092Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -17711,6 +18233,17 @@
         "modifiedAt": "2026-03-31T08:01:20.173Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-31-1302",
+        "title": "handoff-2026-03-31-1302",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-31-1302.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T13:02:42.458Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -17808,6 +18341,17 @@
         "missing": false,
         "degree": 6,
         "modifiedAt": "2026-03-30T23:00:07.595Z"
+      },
+      {
+        "id": "note:ledger/observations/2026/03/31",
+        "title": "31",
+        "type": "note",
+        "category": "note",
+        "path": "ledger/observations/2026/03/31.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-31T13:00:58.000Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -17955,6 +18499,17 @@
         "modifiedAt": "2026-03-30T07:00:11.330Z"
       },
       {
+        "id": "note:preferences/2026-03-31",
+        "title": "2026 03 31",
+        "type": "note",
+        "category": "note",
+        "path": "preferences/2026-03-31.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-31T13:00:58.037Z"
+      },
+      {
         "id": "note:projects/2026-03-04",
         "title": "2026 03 04",
         "type": "project",
@@ -18044,6 +18599,17 @@
         "missing": false,
         "degree": 52,
         "modifiedAt": "2026-03-31T01:01:43.440Z"
+      },
+      {
+        "id": "note:projects/2026-03-31",
+        "title": "2026 03 31",
+        "type": "project",
+        "category": "project",
+        "path": "projects/2026-03-31.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-03-31T12:00:54.090Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -18695,7 +19261,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -18783,7 +19349,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 67,
+        "degree": 68,
         "modifiedAt": null
       },
       {
@@ -18794,7 +19360,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 67,
+        "degree": 68,
         "modifiedAt": null
       },
       {
@@ -18805,7 +19371,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 67,
+        "degree": 68,
         "modifiedAt": null
       },
       {
@@ -18899,6 +19465,17 @@
       {
         "id": "unresolved:agent-reach",
         "title": "Agent Reach",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:agentic-loop",
+        "title": "Agentic Loop",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -19150,6 +19727,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:browser",
+        "title": "Browser",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:candidates",
         "title": "Candidates",
         "type": "unresolved",
@@ -19223,6 +19811,17 @@
         "path": null,
         "tags": [],
         "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:claude-code",
+        "title": "Claude Code",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
         "degree": 1,
         "modifiedAt": null
       },
@@ -19282,6 +19881,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:compa",
+        "title": "Compa",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:compact",
         "title": "Compact",
         "type": "unresolved",
@@ -19290,6 +19900,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:compaction",
+        "title": "Compaction",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -19394,6 +20015,17 @@
       {
         "id": "unresolved:context",
         "title": "Context",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:context-window",
+        "title": "Context Window",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -19773,12 +20405,23 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
         "id": "unresolved:gateway-trusted",
         "title": "Gateway Trusted",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:gemini",
+        "title": "Gemini",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -19839,7 +20482,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -19861,7 +20504,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -20470,6 +21113,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:notion",
+        "title": "Notion",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:nov",
         "title": "Nov",
         "type": "unresolved",
@@ -20521,7 +21175,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 67,
+        "degree": 68,
         "modifiedAt": null
       },
       {
@@ -20950,7 +21604,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -21786,7 +22440,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 11,
+        "degree": 13,
         "modifiedAt": null
       },
       {
@@ -21885,7 +22539,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -23101,6 +23755,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:observer",
+        "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:open",
+        "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->tag:task",
+        "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo->tag:observer",
         "source": "note:backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo",
         "target": "tag:observer",
@@ -23151,6 +23823,12 @@
       {
         "id": "tag:note:brain-memory/daily/email-2026-03-31->tag:248",
         "source": "note:brain-memory/daily/email-2026-03-31",
+        "target": "tag:248",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:daily/2026-03-31->tag:248",
+        "source": "note:daily/2026-03-31",
         "target": "tag:248",
         "type": "tag"
       },
@@ -23697,6 +24375,12 @@
       {
         "id": "wiki_link:note:backlog/toolresult-usersastinjinobotclawdjino-memoryhades-srccrateskrx-backtest-coresrcportfoliors-usersastinji->unresolved:observer",
         "source": "note:backlog/toolresult-usersastinjinobotclawdjino-memoryhades-srccrateskrx-backtest-coresrcportfoliors-usersastinji",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research->unresolved:observer",
+        "source": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25039,6 +25723,90 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:agentic-loop",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:agentic-loop",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:browser",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:browser",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:claude",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:claude",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:claude-code",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:claude-code",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:compa",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:compa",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:compaction",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:compaction",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:context",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:context",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:context-window",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:context-window",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:gateway",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:gateway",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:gemini",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:gemini",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:gmail",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:gmail",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:google-calendar",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:google-calendar",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:notion",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:notion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:you",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:you",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:inbox/welcome->unresolved:double-brackets",
         "source": "note:inbox/welcome",
         "target": "unresolved:double-brackets",
@@ -25072,6 +25840,12 @@
         "id": "wiki_link:note:ledger/observations/2026/03/30->unresolved:web",
         "source": "note:ledger/observations/2026/03/30",
         "target": "unresolved:web",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/03/31->unresolved:reply_to_current",
+        "source": "note:ledger/observations/2026/03/31",
+        "target": "unresolved:reply_to_current",
         "type": "wiki_link"
       },
       {
@@ -25209,6 +25983,12 @@
       {
         "id": "wiki_link:note:preferences/2026-03-30->unresolved:users",
         "source": "note:preferences/2026-03-30",
+        "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:preferences/2026-03-31->unresolved:users",
+        "source": "note:preferences/2026-03-31",
         "target": "unresolved:users",
         "type": "wiki_link"
       },
@@ -26111,27 +26891,33 @@
         "source": "note:projects/2026-03-30",
         "target": "unresolved:yuga-labs",
         "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-31->unresolved:users",
+        "source": "note:projects/2026-03-31",
+        "target": "unresolved:users",
+        "type": "wiki_link"
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T08:01:20.252Z",
-      "nodeCount": 505,
-      "edgeCount": 700,
+      "generatedAt": "2026-03-31T13:02:42.533Z",
+      "nodeCount": 519,
+      "edgeCount": 722,
       "nodeTypeCounts": {
-        "note": 157,
+        "note": 160,
         "tag": 18,
-        "unresolved": 279,
+        "unresolved": 287,
         "commitment": 4,
-        "daily": 3,
+        "daily": 4,
         "decision": 7,
-        "handoff": 6,
+        "handoff": 7,
         "lesson": 7,
         "person": 2,
-        "project": 22
+        "project": 23
       },
       "edgeTypeCounts": {
-        "tag": 232,
-        "wiki_link": 468
+        "tag": 236,
+        "wiki_link": 486
       }
     }
   }
