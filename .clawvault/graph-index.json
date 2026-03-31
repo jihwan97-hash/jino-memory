@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T13:02:42.533Z",
+  "generatedAt": "2026-03-31T17:01:40.975Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -562,6 +562,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create->unresolved:observer",
           "source": "note:backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content.md": {
+      "relativePath": "backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content.md",
+      "mtimeMs": 1774976408626.9207,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+          "title": "Assistant Good Found The March 31 Portfolio Research Let Me Check Recent Clawvault Content",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T17:00:08.626Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:observer",
+          "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:open",
+          "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:task",
+          "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->unresolved:observer",
+          "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -3019,6 +3110,188 @@
         {
           "id": "wiki_link:note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority->unresolved:observer",
           "source": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure.md": {
+      "relativePath": "backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure.md",
+      "mtimeMs": 1774976408621.4858,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+          "title": "Assistant No Daily File Exists Yet For Today Let Me Check Whats In The Jino Memory Structure",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T17:00:08.621Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:observer",
+          "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:open",
+          "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:task",
+          "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->unresolved:observer",
+          "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context.md": {
+      "relativePath": "backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context.md",
+      "mtimeMs": 1774976408623.1873,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+          "title": "Assistant No File For Today 2026 03 31 Yet Let Me Create It And Check Yesterdays File For Context",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T17:00:08.623Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:observer",
+          "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:open",
+          "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:task",
+          "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->unresolved:observer",
+          "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -6029,7 +6302,7 @@
     },
     "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md": {
       "relativePath": "backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research.md",
-      "mtimeMs": 1774958454082.2195,
+      "mtimeMs": 1774962170560.9436,
       "nodes": [
         {
           "id": "note:backlog/user-system-perfect-let-me-create-a-final-summary-message-system-system-system-system-portfolio-research",
@@ -6044,7 +6317,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T12:00:54.082Z"
+          "modifiedAt": "2026-03-31T13:02:50.560Z"
         },
         {
           "id": "tag:observer",
@@ -6451,7 +6724,7 @@
     },
     "brain-memory/daily/email-2026-03-31.md": {
       "relativePath": "brain-memory/daily/email-2026-03-31.md",
-      "mtimeMs": 1774918903388.669,
+      "mtimeMs": 1774962170513.5203,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-03-31",
@@ -6465,7 +6738,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.388Z"
+          "modifiedAt": "2026-03-31T13:02:50.513Z"
         },
         {
           "id": "tag:2",
@@ -6886,7 +7159,7 @@
     },
     "commitments/2026-03-31.md": {
       "relativePath": "commitments/2026-03-31.md",
-      "mtimeMs": 1774918903435.726,
+      "mtimeMs": 1774976408628.752,
       "nodes": [
         {
           "id": "note:commitments/2026-03-31",
@@ -6897,7 +7170,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.435Z"
+          "modifiedAt": "2026-03-31T17:00:08.628Z"
         },
         {
           "id": "unresolved:your",
@@ -6920,6 +7193,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:step",
+          "title": "Step",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:git",
+          "title": "Git",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -6933,6 +7228,18 @@
           "id": "wiki_link:note:commitments/2026-03-31->unresolved:changes",
           "source": "note:commitments/2026-03-31",
           "target": "unresolved:changes",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-31->unresolved:step",
+          "source": "note:commitments/2026-03-31",
+          "target": "unresolved:step",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-03-31->unresolved:git",
+          "source": "note:commitments/2026-03-31",
+          "target": "unresolved:git",
           "type": "wiki_link"
         }
       ]
@@ -6993,7 +7300,7 @@
     },
     "daily/2026-03-31.md": {
       "relativePath": "daily/2026-03-31.md",
-      "mtimeMs": 1774962152091.6455,
+      "mtimeMs": 1774962170561.5032,
       "nodes": [
         {
           "id": "note:daily/2026-03-31",
@@ -7006,7 +7313,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T13:02:32.091Z"
+          "modifiedAt": "2026-03-31T13:02:50.561Z"
         },
         {
           "id": "tag:248",
@@ -8061,7 +8368,7 @@
     },
     "decisions/2026-03-30.md": {
       "relativePath": "decisions/2026-03-30.md",
-      "mtimeMs": 1774918903437.2666,
+      "mtimeMs": 1774976408606.249,
       "nodes": [
         {
           "id": "note:decisions/2026-03-30",
@@ -8072,7 +8379,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.437Z"
+          "modifiedAt": "2026-03-31T17:00:08.606Z"
         },
         {
           "id": "unresolved:new-items",
@@ -8216,6 +8523,83 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:daily-memory",
+          "title": "Daily Memory",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain",
+          "title": "Brain",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:memory-consolidation",
+          "title": "Memory Consolidation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observation",
+          "title": "Observation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observed",
+          "title": "Observed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:all",
+          "title": "All",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:portfolio-research",
+          "title": "Portfolio Research",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8296,12 +8680,54 @@
           "source": "note:decisions/2026-03-30",
           "target": "unresolved:tier",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:daily-memory",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:daily-memory",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:brain",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:brain",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:memory-consolidation",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:memory-consolidation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:observation",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:observation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:observed",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:observed",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:all",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:all",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-30->unresolved:portfolio-research",
+          "source": "note:decisions/2026-03-30",
+          "target": "unresolved:portfolio-research",
+          "type": "wiki_link"
         }
       ]
     },
     "decisions/2026-03-31.md": {
       "relativePath": "decisions/2026-03-31.md",
-      "mtimeMs": 1774918903437.5637,
+      "mtimeMs": 1774976408629.384,
       "nodes": [
         {
           "id": "note:decisions/2026-03-31",
@@ -8312,7 +8738,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.437Z"
+          "modifiedAt": "2026-03-31T17:00:08.629Z"
         },
         {
           "id": "unresolved:review",
@@ -8357,6 +8783,105 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:perfect",
+          "title": "Perfect",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:let",
+          "title": "Let",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:portfolio-research",
+          "title": "Portfolio Research",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain",
+          "title": "Brain",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:memory-consolidation",
+          "title": "Memory Consolidation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:complete",
+          "title": "Complete",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:summary",
+          "title": "Summary",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:compaction",
+          "title": "Compaction",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:daily",
+          "title": "Daily",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -8382,6 +8907,60 @@
           "id": "wiki_link:note:decisions/2026-03-31->unresolved:candidates",
           "source": "note:decisions/2026-03-31",
           "target": "unresolved:candidates",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:perfect",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:perfect",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:let",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:let",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:portfolio-research",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:portfolio-research",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:brain",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:brain",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:memory-consolidation",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:memory-consolidation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:complete",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:complete",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:summary",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:summary",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:compaction",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:compaction",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-03-31->unresolved:daily",
+          "source": "note:decisions/2026-03-31",
+          "target": "unresolved:daily",
           "type": "wiki_link"
         }
       ]
@@ -10706,7 +11285,7 @@
     },
     "facts/2026-03-31.md": {
       "relativePath": "facts/2026-03-31.md",
-      "mtimeMs": 1774958454092.3877,
+      "mtimeMs": 1774976408627.999,
       "nodes": [
         {
           "id": "note:facts/2026-03-31",
@@ -10717,7 +11296,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T12:00:54.092Z"
+          "modifiedAt": "2026-03-31T17:00:08.627Z"
         },
         {
           "id": "unresolved:claude-code",
@@ -10872,6 +11451,72 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:model",
+          "title": "Model",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:integrated",
+          "title": "Integrated",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:timeline",
+          "title": "Timeline",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:path",
+          "title": "Path",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:blocked",
+          "title": "Blocked",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -10957,6 +11602,48 @@
           "id": "wiki_link:note:facts/2026-03-31->unresolved:gemini",
           "source": "note:facts/2026-03-31",
           "target": "unresolved:gemini",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:users",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:model",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:model",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:integrated",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:integrated",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:timeline",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:timeline",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->note:templates/handoff",
+          "source": "note:facts/2026-03-31",
+          "target": "note:templates/handoff",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:path",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:path",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:blocked",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:blocked",
           "type": "wiki_link"
         }
       ]
@@ -11527,7 +12214,7 @@
     },
     "handoffs/handoff-2026-03-31-1302.md": {
       "relativePath": "handoffs/handoff-2026-03-31-1302.md",
-      "mtimeMs": 1774962162458.9536,
+      "mtimeMs": 1774962170562.6572,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-03-31-1302",
@@ -11538,7 +12225,25 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T13:02:42.458Z"
+          "modifiedAt": "2026-03-31T13:02:50.562Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-31-1701.md": {
+      "relativePath": "handoffs/handoff-2026-03-31-1701.md",
+      "mtimeMs": 1774976500892.8213,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-31-1701",
+          "title": "handoff-2026-03-31-1701",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-31-1701.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T17:01:40.892Z"
         }
       ],
       "edges": []
@@ -11925,7 +12630,7 @@
     },
     "ledger/observations/2026/03/31.md": {
       "relativePath": "ledger/observations/2026/03/31.md",
-      "mtimeMs": 1774962058000.8523,
+      "mtimeMs": 1774976408555.0037,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/31",
@@ -11936,7 +12641,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T13:00:58.000Z"
+          "modifiedAt": "2026-03-31T17:00:08.555Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -12604,7 +13309,7 @@
     },
     "preferences/2026-03-31.md": {
       "relativePath": "preferences/2026-03-31.md",
-      "mtimeMs": 1774962058037.086,
+      "mtimeMs": 1774962170563.1921,
       "nodes": [
         {
           "id": "note:preferences/2026-03-31",
@@ -12615,7 +13320,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T13:00:58.037Z"
+          "modifiedAt": "2026-03-31T13:02:50.563Z"
         },
         {
           "id": "unresolved:users",
@@ -15379,7 +16084,7 @@
     },
     "projects/2026-03-31.md": {
       "relativePath": "projects/2026-03-31.md",
-      "mtimeMs": 1774958454090.437,
+      "mtimeMs": 1774962170563.7107,
       "nodes": [
         {
           "id": "note:projects/2026-03-31",
@@ -15390,7 +16095,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T12:00:54.090Z"
+          "modifiedAt": "2026-03-31T13:02:50.563Z"
         },
         {
           "id": "unresolved:users",
@@ -16631,6 +17336,21 @@
         "modifiedAt": "2026-03-31T01:01:43.430Z"
       },
       {
+        "id": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+        "title": "Assistant Good Found The March 31 Portfolio Research Let Me Check Recent Clawvault Content",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T17:00:08.626Z"
+      },
+      {
         "id": "note:backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the",
         "title": "Assistant Good I Can See Existing Portfolio Companies Let Me Check The Readme To Understand The Structure Better The",
         "type": "note",
@@ -17034,6 +17754,36 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.638Z"
+      },
+      {
+        "id": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+        "title": "Assistant No Daily File Exists Yet For Today Let Me Check Whats In The Jino Memory Structure",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T17:00:08.621Z"
+      },
+      {
+        "id": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+        "title": "Assistant No File For Today 2026 03 31 Yet Let Me Create It And Check Yesterdays File For Context",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T17:00:08.623Z"
       },
       {
         "id": "note:backlog/assistant-no-specific-payhere-news-let-me-continue-with-more-companies-and-then-compile-findings-ill-search-for-a-fe",
@@ -17543,7 +18293,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-31T12:00:54.082Z"
+        "modifiedAt": "2026-03-31T13:02:50.560Z"
       },
       {
         "id": "note:backlog/user-system-perfect-now-let-me-create-a-summary-for-the-cron-job-output-system-system-system-system-portfo",
@@ -17678,7 +18428,7 @@
         ],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-31T01:01:43.388Z"
+        "modifiedAt": "2026-03-31T13:02:50.513Z"
       },
       {
         "id": "note:commitments/2026-03-26",
@@ -17721,8 +18471,8 @@
         "path": "commitments/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-03-31T01:01:43.435Z"
+        "degree": 4,
+        "modifiedAt": "2026-03-31T17:00:08.628Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -17768,7 +18518,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T13:02:32.091Z"
+        "modifiedAt": "2026-03-31T13:02:50.561Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -17833,8 +18583,8 @@
         "path": "decisions/2026-03-30.md",
         "tags": [],
         "missing": false,
-        "degree": 13,
-        "modifiedAt": "2026-03-31T01:01:43.437Z"
+        "degree": 20,
+        "modifiedAt": "2026-03-31T17:00:08.606Z"
       },
       {
         "id": "note:decisions/2026-03-31",
@@ -17844,8 +18594,8 @@
         "path": "decisions/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 4,
-        "modifiedAt": "2026-03-31T01:01:43.437Z"
+        "degree": 13,
+        "modifiedAt": "2026-03-31T17:00:08.629Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -17935,8 +18685,8 @@
         "path": "facts/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 14,
-        "modifiedAt": "2026-03-31T12:00:54.092Z"
+        "degree": 21,
+        "modifiedAt": "2026-03-31T17:00:08.627Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -18241,7 +18991,18 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T13:02:42.458Z"
+        "modifiedAt": "2026-03-31T13:02:50.562Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-03-31-1701",
+        "title": "handoff-2026-03-31-1701",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-31-1701.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T17:01:40.892Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -18351,7 +19112,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T13:00:58.000Z"
+        "modifiedAt": "2026-03-31T17:00:08.555Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -18507,7 +19268,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T13:00:58.037Z"
+        "modifiedAt": "2026-03-31T13:02:50.563Z"
       },
       {
         "id": "note:projects/2026-03-04",
@@ -18609,7 +19370,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T12:00:54.090Z"
+        "modifiedAt": "2026-03-31T13:02:50.563Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -18957,7 +19718,7 @@
         "path": "templates/handoff.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
+        "degree": 1,
         "modifiedAt": "2026-03-30T02:00:35.316Z"
       },
       {
@@ -19349,7 +20110,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 68,
+        "degree": 71,
         "modifiedAt": null
       },
       {
@@ -19360,7 +20121,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 68,
+        "degree": 71,
         "modifiedAt": null
       },
       {
@@ -19371,7 +20132,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 68,
+        "degree": 71,
         "modifiedAt": null
       },
       {
@@ -19476,6 +20237,17 @@
       {
         "id": "unresolved:agentic-loop",
         "title": "Agentic Loop",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:all",
+        "title": "All",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -19661,6 +20433,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:blocked",
+        "title": "Blocked",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:blue-coral",
         "title": "Blue Coral",
         "type": "unresolved",
@@ -19701,7 +20484,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -19910,7 +20693,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -19943,7 +20726,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -20101,8 +20884,30 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:daily",
+        "title": "Daily",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:daily-brain",
         "title": "Daily Brain",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:daily-memory",
+        "title": "Daily Memory",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -20449,7 +21254,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -20651,6 +21456,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:integrated",
+        "title": "Integrated",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:internal",
         "title": "Internal",
         "type": "unresolved",
@@ -20823,7 +21639,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -20944,7 +21760,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -20977,7 +21793,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -21146,6 +21962,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:observation",
+        "title": "Observation",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:observation-results",
         "title": "Observation Results",
         "type": "unresolved",
@@ -21168,6 +21995,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:observed",
+        "title": "Observed",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:observer",
         "title": "Observer",
         "type": "unresolved",
@@ -21175,7 +22013,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 68,
+        "degree": 71,
         "modifiedAt": null
       },
       {
@@ -21236,6 +22074,28 @@
       {
         "id": "unresolved:panniantong",
         "title": "Panniantong",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:path",
+        "title": "Path",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:perfect",
+        "title": "Perfect",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -21318,7 +22178,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -22077,7 +22937,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -22209,7 +23069,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -22334,6 +23194,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:timeline",
+        "title": "Timeline",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:title",
         "title": "Title",
         "type": "unresolved",
@@ -22440,7 +23311,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 13,
+        "degree": 14,
         "modifiedAt": null
       },
       {
@@ -22671,6 +23542,24 @@
       {
         "id": "tag:note:backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create->tag:task",
         "source": "note:backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:observer",
+        "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:open",
+        "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->tag:task",
+        "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
         "target": "tag:task",
         "type": "tag"
       },
@@ -23157,6 +24046,42 @@
       {
         "id": "tag:note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority->tag:task",
         "source": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:observer",
+        "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:open",
+        "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->tag:task",
+        "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:observer",
+        "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:open",
+        "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->tag:task",
+        "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
         "target": "tag:task",
         "type": "tag"
       },
@@ -24019,6 +24944,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content->unresolved:observer",
+        "source": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the->unresolved:observer",
         "source": "note:backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the",
         "target": "unresolved:observer",
@@ -24177,6 +25108,18 @@
       {
         "id": "wiki_link:note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority->unresolved:observer",
         "source": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure->unresolved:observer",
+        "source": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context->unresolved:observer",
+        "source": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -24508,6 +25451,18 @@
         "id": "wiki_link:note:commitments/2026-03-31->unresolved:changes",
         "source": "note:commitments/2026-03-31",
         "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-31->unresolved:git",
+        "source": "note:commitments/2026-03-31",
+        "target": "unresolved:git",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-03-31->unresolved:step",
+        "source": "note:commitments/2026-03-31",
+        "target": "unresolved:step",
         "type": "wiki_link"
       },
       {
@@ -24859,9 +25814,27 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:all",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:all",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:brain",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:brain",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-03-30->unresolved:candidates",
         "source": "note:decisions/2026-03-30",
         "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:daily-memory",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:daily-memory",
         "type": "wiki_link"
       },
       {
@@ -24877,9 +25850,33 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:memory-consolidation",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:memory-consolidation",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-03-30->unresolved:new-items",
         "source": "note:decisions/2026-03-30",
         "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:observation",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:observation",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:observed",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:observed",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-30->unresolved:portfolio-research",
+        "source": "note:decisions/2026-03-30",
+        "target": "unresolved:portfolio-research",
         "type": "wiki_link"
       },
       {
@@ -24937,9 +25934,45 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:brain",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:brain",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-03-31->unresolved:candidates",
         "source": "note:decisions/2026-03-31",
         "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:compaction",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:compaction",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:complete",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:complete",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:daily",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:daily",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:let",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:let",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:memory-consolidation",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:memory-consolidation",
         "type": "wiki_link"
       },
       {
@@ -24949,9 +25982,27 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:perfect",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:perfect",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:portfolio-research",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:portfolio-research",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-03-31->unresolved:review",
         "source": "note:decisions/2026-03-31",
         "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-03-31->unresolved:summary",
+        "source": "note:decisions/2026-03-31",
+        "target": "unresolved:summary",
         "type": "wiki_link"
       },
       {
@@ -25723,9 +26774,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-31->note:templates/handoff",
+        "source": "note:facts/2026-03-31",
+        "target": "note:templates/handoff",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-31->unresolved:agentic-loop",
         "source": "note:facts/2026-03-31",
         "target": "unresolved:agentic-loop",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:blocked",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:blocked",
         "type": "wiki_link"
       },
       {
@@ -25795,9 +26858,39 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:integrated",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:integrated",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:model",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:model",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-31->unresolved:notion",
         "source": "note:facts/2026-03-31",
         "target": "unresolved:notion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:path",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:timeline",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:timeline",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:users",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:users",
         "type": "wiki_link"
       },
       {
@@ -26900,24 +27993,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T13:02:42.533Z",
-      "nodeCount": 519,
-      "edgeCount": 722,
+      "generatedAt": "2026-03-31T17:01:40.975Z",
+      "nodeCount": 533,
+      "edgeCount": 759,
       "nodeTypeCounts": {
-        "note": 160,
+        "note": 163,
         "tag": 18,
-        "unresolved": 287,
+        "unresolved": 297,
         "commitment": 4,
         "daily": 4,
         "decision": 7,
-        "handoff": 7,
+        "handoff": 8,
         "lesson": 7,
         "person": 2,
         "project": 23
       },
       "edgeTypeCounts": {
-        "tag": 236,
-        "wiki_link": 486
+        "tag": 245,
+        "wiki_link": 514
       }
     }
   }
