@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T17:01:40.975Z",
+  "generatedAt": "2026-03-31T17:02:07.995Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -16484,6 +16484,24 @@
       ],
       "edges": []
     },
+    "research/auto-study-2026-04-01.md": {
+      "relativePath": "research/auto-study-2026-04-01.md",
+      "mtimeMs": 1774976527918.7449,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-04-01",
+          "title": "auto-study-2026-04-01",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T17:02:07.918Z"
+        }
+      ],
+      "edges": []
+    },
     "research/bts-gwanghwamun-igaworks-20260321.md": {
       "relativePath": "research/bts-gwanghwamun-igaworks-20260321.md",
       "mtimeMs": 1774936016814.375,
@@ -19564,6 +19582,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T19:06:29.332Z"
+      },
+      {
+        "id": "note:research/auto-study-2026-04-01",
+        "title": "auto-study-2026-04-01",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T17:02:07.918Z"
       },
       {
         "id": "note:research/bts-gwanghwamun-igaworks-20260321",
@@ -27993,11 +28022,11 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T17:01:40.975Z",
-      "nodeCount": 533,
+      "generatedAt": "2026-03-31T17:02:07.995Z",
+      "nodeCount": 534,
       "edgeCount": 759,
       "nodeTypeCounts": {
-        "note": 163,
+        "note": 164,
         "tag": 18,
         "unresolved": 297,
         "commitment": 4,
