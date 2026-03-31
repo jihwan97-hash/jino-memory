@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T22:07:30.924Z",
+  "generatedAt": "2026-03-31T23:03:18.404Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -112,6 +112,97 @@
         }
       ]
     },
+    "backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies.md": {
+      "relativePath": "backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies.md",
+      "mtimeMs": 1774998007917.4253,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+          "title": "Assistant Excellent Backpack Has Major News Let Me Continue With More Companies",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.917Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:observer",
+          "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:open",
+          "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:task",
+          "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->unresolved:observer",
+          "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches.md": {
       "relativePath": "backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches.md",
       "mtimeMs": 1774652407632.2324,
@@ -198,6 +289,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches->unresolved:observer",
           "source": "note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai.md": {
+      "relativePath": "backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai.md",
+      "mtimeMs": 1774998007924.2825,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+          "title": "Assistant Excellent Now Let Me Create Summaries For The Other Companies And Store Them As Well Let Me Batch The Remai",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.924Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:observer",
+          "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:open",
+          "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:task",
+          "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->unresolved:observer",
+          "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -840,6 +1022,97 @@
         }
       ]
     },
+    "backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state.md": {
+      "relativePath": "backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state.md",
+      "mtimeMs": 1774998007905.5698,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+          "title": "Assistant Good I Found Existing Portfolio Company Files Let Me Check The Readme To Understand The Current State",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.905Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:observer",
+          "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:open",
+          "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:task",
+          "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->unresolved:observer",
+          "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously.md": {
       "relativePath": "backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously.md",
       "mtimeMs": 1774587616366.4775,
@@ -1386,6 +1659,97 @@
         }
       ]
     },
+    "backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k.md": {
+      "relativePath": "backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k.md",
+      "mtimeMs": 1774998007929.3933,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+          "title": "Assistant Great Now Let Me Also Update The Warm Memory Portfolio Files For Backward Compatibility Let Me Update The K",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.929Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:observer",
+          "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:open",
+          "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:task",
+          "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->unresolved:observer",
+          "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details.md": {
       "relativePath": "backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details.md",
       "mtimeMs": 1774918903431.6936,
@@ -1477,6 +1841,97 @@
         }
       ]
     },
+    "backlog/assistant-great-story-delayed-unlock-let-me-continue.md": {
+      "relativePath": "backlog/assistant-great-story-delayed-unlock-let-me-continue.md",
+      "mtimeMs": 1774998007918.7407,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+          "title": "Assistant Great Story Delayed Unlock Let Me Continue",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-great-story-delayed-unlock-let-me-continue.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.918Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:observer",
+          "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:open",
+          "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:task",
+          "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->unresolved:observer",
+          "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it.md": {
       "relativePath": "backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it.md",
       "mtimeMs": 1774652407615.4006,
@@ -1563,6 +2018,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it->unresolved:observer",
           "source": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries.md": {
+      "relativePath": "backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries.md",
+      "mtimeMs": 1774998007914.3413,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+          "title": "Assistant Hit Rate Limit Immediately Let Me Wait And Search More Carefully With Delays Between Queries",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.914Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:observer",
+          "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:open",
+          "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:task",
+          "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->unresolved:observer",
+          "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -3388,6 +3934,97 @@
         }
       ]
     },
+    "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md": {
+      "relativePath": "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md",
+      "mtimeMs": 1774998007920.094,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "title": "Assistant No Specific Radius Data Let Me Search More Specifically",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.920Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:observer",
+          "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:open",
+          "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:task",
+          "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->unresolved:observer",
+          "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically.md": {
       "relativePath": "backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically.md",
       "mtimeMs": 1774918903432.7834,
@@ -4389,6 +5026,279 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-store-these-in-clawvault.md": {
+      "relativePath": "backlog/assistant-now-let-me-store-these-in-clawvault.md",
+      "mtimeMs": 1774998007925.5295,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+          "title": "Assistant Now Let Me Store These In Clawvault",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-store-these-in-clawvault.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.925Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:open",
+          "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:task",
+          "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-store-these-in-clawvault->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies.md": {
+      "relativePath": "backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies.md",
+      "mtimeMs": 1774998007922.8748,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+          "title": "Assistant Now Let Me Store This In Clawvault And Continue With Other Companies",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.922Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:open",
+          "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:task",
+          "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything.md": {
+      "relativePath": "backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything.md",
+      "mtimeMs": 1774998007930.9092,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+          "title": "Assistant Now Let Me Update The Readme With The New Research Cycle Summary And Commit Everything",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.930Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:open",
+          "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:task",
+          "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-write-all-4-skillmd-files.md": {
       "relativePath": "backlog/assistant-now-let-me-write-all-4-skillmd-files.md",
       "mtimeMs": 1774587616369.027,
@@ -4571,6 +5481,97 @@
         }
       ]
     },
+    "backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies.md": {
+      "relativePath": "backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies.md",
+      "mtimeMs": 1774998007921.494,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+          "title": "Assistant Perfect Found Nurihaus News Now Let Me Compile And Store This Research I Have Enough Data For 10 Companies",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.921Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:observer",
+          "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:open",
+          "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:task",
+          "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files.md": {
       "relativePath": "backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files.md",
       "mtimeMs": 1774652407621.7085,
@@ -4657,6 +5658,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files->unresolved:observer",
           "source": "note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h.md": {
+      "relativePath": "backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h.md",
+      "mtimeMs": 1774998007909.568,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+          "title": "Assistant Perfect I Can See The Existing Research Structure Based On The Readme I Should Prioritize Companies That H",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.909Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:observer",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:open",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:task",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -4935,6 +6027,97 @@
         }
       ]
     },
+    "backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese.md": {
+      "relativePath": "backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese.md",
+      "mtimeMs": 1774998007933.6558,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+          "title": "Assistant Perfect Now Let Me Create A Final Summary Report Portfolio Research Complete April 1 2026 Rese",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.933Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:open",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:task",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8.md": {
       "relativePath": "backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8.md",
       "mtimeMs": 1774587617676.3733,
@@ -5112,6 +6295,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2->unresolved:observer",
           "source": "note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files.md": {
+      "relativePath": "backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files.md",
+      "mtimeMs": 1774998007926.8484,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+          "title": "Assistant Perfect Now Let Me Create Summaries For A Few More Companies And Also Update The Warm Memory Portfolio Files",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.926Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:open",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:task",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -5749,6 +7023,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog->unresolved:observer",
           "source": "note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add.md": {
+      "relativePath": "backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add.md",
+      "mtimeMs": 1774998007916.0032,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+          "title": "Assistant The Uprise Search Shows Old Data From 2021 Merger Announcement Let Me Continue With Sequential Searches Add",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.916Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:observer",
+          "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:open",
+          "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:task",
+          "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->unresolved:observer",
+          "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -7159,7 +8524,7 @@
     },
     "commitments/2026-03-31.md": {
       "relativePath": "commitments/2026-03-31.md",
-      "mtimeMs": 1774976408628.752,
+      "mtimeMs": 1774998007932.1738,
       "nodes": [
         {
           "id": "note:commitments/2026-03-31",
@@ -7170,7 +8535,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T17:00:08.628Z"
+          "modifiedAt": "2026-03-31T23:00:07.932Z"
         },
         {
           "id": "unresolved:your",
@@ -7240,6 +8605,59 @@
           "id": "wiki_link:note:commitments/2026-03-31->unresolved:git",
           "source": "note:commitments/2026-03-31",
           "target": "unresolved:git",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "commitments/2026-04-01.md": {
+      "relativePath": "commitments/2026-04-01.md",
+      "mtimeMs": 1774998007934.0276,
+      "nodes": [
+        {
+          "id": "note:commitments/2026-04-01",
+          "title": "2026 04 01",
+          "type": "commitment",
+          "category": "commitment",
+          "path": "commitments/2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:00:07.934Z"
+        },
+        {
+          "id": "unresolved:your",
+          "title": "Your",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:changes",
+          "title": "Changes",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:commitments/2026-04-01->unresolved:your",
+          "source": "note:commitments/2026-04-01",
+          "target": "unresolved:your",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-01->unresolved:changes",
+          "source": "note:commitments/2026-04-01",
+          "target": "unresolved:changes",
           "type": "wiki_link"
         }
       ]
@@ -7335,6 +8753,24 @@
           "type": "tag"
         }
       ]
+    },
+    "daily/2026-04-01.md": {
+      "relativePath": "daily/2026-04-01.md",
+      "mtimeMs": 1774998170640.3281,
+      "nodes": [
+        {
+          "id": "note:daily/2026-04-01",
+          "title": "2026 04 01",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:02:50.640Z"
+        }
+      ],
+      "edges": []
     },
     "decisions/2022-06-28.md": {
       "relativePath": "decisions/2022-06-28.md",
@@ -11285,7 +12721,7 @@
     },
     "facts/2026-03-31.md": {
       "relativePath": "facts/2026-03-31.md",
-      "mtimeMs": 1774976408627.999,
+      "mtimeMs": 1774998007907.5842,
       "nodes": [
         {
           "id": "note:facts/2026-03-31",
@@ -11296,7 +12732,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T17:00:08.627Z"
+          "modifiedAt": "2026-03-31T23:00:07.907Z"
         },
         {
           "id": "unresolved:claude-code",
@@ -11517,6 +12953,72 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:portfolio-company",
+          "title": "Portfolio Company",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:research-index",
+          "title": "Research Index",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:last-updated",
+          "title": "Last Updated",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:research-cycle",
+          "title": "Research Cycle",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:summary",
+          "title": "Summary",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:major-breakthroughs",
+          "title": "Major Breakthroughs",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -11644,6 +13146,42 @@
           "id": "wiki_link:note:facts/2026-03-31->unresolved:blocked",
           "source": "note:facts/2026-03-31",
           "target": "unresolved:blocked",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:portfolio-company",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:portfolio-company",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:research-index",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:research-index",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:last-updated",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:last-updated",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:research-cycle",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:research-cycle",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:summary",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:summary",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-03-31->unresolved:major-breakthroughs",
+          "source": "note:facts/2026-03-31",
+          "target": "unresolved:major-breakthroughs",
           "type": "wiki_link"
         }
       ]
@@ -12248,6 +13786,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-03-31-2303.md": {
+      "relativePath": "handoffs/handoff-2026-03-31-2303.md",
+      "mtimeMs": 1774998198321.4421,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-31-2303",
+          "title": "handoff-2026-03-31-2303",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-31-2303.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T23:03:18.321Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -12630,7 +14186,7 @@
     },
     "ledger/observations/2026/03/31.md": {
       "relativePath": "ledger/observations/2026/03/31.md",
-      "mtimeMs": 1774976408555.0037,
+      "mtimeMs": 1774998007836.856,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/03/31",
@@ -12641,7 +14197,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T17:00:08.555Z"
+          "modifiedAt": "2026-03-31T23:00:07.836Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -16084,7 +17640,7 @@
     },
     "projects/2026-03-31.md": {
       "relativePath": "projects/2026-03-31.md",
-      "mtimeMs": 1774962170563.7107,
+      "mtimeMs": 1774998007912.6545,
       "nodes": [
         {
           "id": "note:projects/2026-03-31",
@@ -16095,11 +17651,44 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T13:02:50.563Z"
+          "modifiedAt": "2026-03-31T23:00:07.912Z"
         },
         {
           "id": "unresolved:users",
           "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brave-search",
+          "title": "Brave Search",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:request",
+          "title": "Request",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fre",
+          "title": "Fre",
           "type": "unresolved",
           "category": "unresolved",
           "path": null,
@@ -16114,6 +17703,24 @@
           "id": "wiki_link:note:projects/2026-03-31->unresolved:users",
           "source": "note:projects/2026-03-31",
           "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-31->unresolved:brave-search",
+          "source": "note:projects/2026-03-31",
+          "target": "unresolved:brave-search",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-31->unresolved:request",
+          "source": "note:projects/2026-03-31",
+          "target": "unresolved:request",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-03-31->unresolved:fre",
+          "source": "note:projects/2026-03-31",
+          "target": "unresolved:fre",
           "type": "wiki_link"
         }
       ]
@@ -17423,6 +19030,21 @@
         "modifiedAt": "2026-03-27T05:00:17.673Z"
       },
       {
+        "id": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+        "title": "Assistant Excellent Backpack Has Major News Let Me Continue With More Companies",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.917Z"
+      },
+      {
         "id": "note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches",
         "title": "Assistant Excellent Got Major News On Backpack Let Me Continue With More Searches",
         "type": "note",
@@ -17436,6 +19058,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.632Z"
+      },
+      {
+        "id": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+        "title": "Assistant Excellent Now Let Me Create Summaries For The Other Companies And Store Them As Well Let Me Batch The Remai",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.924Z"
       },
       {
         "id": "note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu",
@@ -17543,6 +19180,21 @@
         "modifiedAt": "2026-03-30T02:00:35.298Z"
       },
       {
+        "id": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+        "title": "Assistant Good I Found Existing Portfolio Company Files Let Me Check The Readme To Understand The Current State",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.905Z"
+      },
+      {
         "id": "note:backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously",
         "title": "Assistant Good I Have The Ceo Before Sleep Content Now Let Me Create All 4 Skills Simultaneously",
         "type": "note",
@@ -17633,6 +19285,21 @@
         "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
+        "id": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+        "title": "Assistant Great Now Let Me Also Update The Warm Memory Portfolio Files For Backward Compatibility Let Me Update The K",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.929Z"
+      },
+      {
         "id": "note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details",
         "title": "Assistant Great Nurihaus Launched A 62 Billion Won K Beauty Venture Fund In March 2026 Let Me Fetch More Details",
         "type": "note",
@@ -17648,6 +19315,21 @@
         "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
+        "id": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+        "title": "Assistant Great Story Delayed Unlock Let Me Continue",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-great-story-delayed-unlock-let-me-continue.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.918Z"
+      },
+      {
         "id": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
         "title": "Assistant Great The File Exists In The Tools Directory Let Me Read It",
         "type": "note",
@@ -17661,6 +19343,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.615Z"
+      },
+      {
+        "id": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+        "title": "Assistant Hit Rate Limit Immediately Let Me Wait And Search More Carefully With Delays Between Queries",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.914Z"
       },
       {
         "id": "note:backlog/assistant-hit-rate-limits-good-news-on-radiusxyz-though-theyve-launched-let-me-wait-and-continue-with-sequential-s",
@@ -17963,6 +19660,21 @@
         "modifiedAt": "2026-03-31T01:01:43.432Z"
       },
       {
+        "id": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "title": "Assistant No Specific Radius Data Let Me Search More Specifically",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.920Z"
+      },
+      {
         "id": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
         "title": "Assistant No Taiko Blockchain Results Wrong Taiko Let Me Search More Specifically",
         "type": "note",
@@ -18128,6 +19840,51 @@
         "modifiedAt": "2026-03-30T12:01:22.806Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+        "title": "Assistant Now Let Me Store These In Clawvault",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-store-these-in-clawvault.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.925Z"
+      },
+      {
+        "id": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+        "title": "Assistant Now Let Me Store This In Clawvault And Continue With Other Companies",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.922Z"
+      },
+      {
+        "id": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+        "title": "Assistant Now Let Me Update The Readme With The New Research Cycle Summary And Commit Everything",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.930Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "title": "Assistant Now Let Me Write All 4 Skillmd Files",
         "type": "note",
@@ -18158,6 +19915,21 @@
         "modifiedAt": "2026-03-30T02:00:35.300Z"
       },
       {
+        "id": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+        "title": "Assistant Perfect Found Nurihaus News Now Let Me Compile And Store This Research I Have Enough Data For 10 Companies",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.921Z"
+      },
+      {
         "id": "note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files",
         "title": "Assistant Perfect I Can See Portfolio Companies In Memorymd Now Let Me Check If There Are Any Recent Research Files",
         "type": "note",
@@ -18171,6 +19943,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.621Z"
+      },
+      {
+        "id": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+        "title": "Assistant Perfect I Can See The Existing Research Structure Based On The Readme I Should Prioritize Companies That H",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.909Z"
       },
       {
         "id": "note:backlog/assistant-perfect-i-can-see-the-research-status-based-on-the-readme-last-updated-2026-03-28-i-should-focus-on-the",
@@ -18218,6 +20005,21 @@
         "modifiedAt": "2026-03-27T23:00:07.647Z"
       },
       {
+        "id": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+        "title": "Assistant Perfect Now Let Me Create A Final Summary Report Portfolio Research Complete April 1 2026 Rese",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.933Z"
+      },
+      {
         "id": "note:backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8",
         "title": "Assistant Perfect Now Let Me Create A Summary Document Portfolio Research Complete 2026 03 27 Researched 8",
         "type": "note",
@@ -18246,6 +20048,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-30T02:00:35.301Z"
+      },
+      {
+        "id": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+        "title": "Assistant Perfect Now Let Me Create Summaries For A Few More Companies And Also Update The Warm Memory Portfolio Files",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.926Z"
       },
       {
         "id": "note:backlog/assistant-perfect-now-let-me-update-the-readme-and-commit-everything",
@@ -18351,6 +20168,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.620Z"
+      },
+      {
+        "id": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+        "title": "Assistant The Uprise Search Shows Old Data From 2021 Merger Announcement Let Me Continue With Sequential Searches Add",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.916Z"
       },
       {
         "id": "note:backlog/assistant-the-vault-needs-initialization-let-me-use-the-jino-memory-path-directly-without-the-vault-flag-since-clawv",
@@ -18634,7 +20466,18 @@
         "tags": [],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-31T17:00:08.628Z"
+        "modifiedAt": "2026-03-31T23:00:07.932Z"
+      },
+      {
+        "id": "note:commitments/2026-04-01",
+        "title": "2026 04 01",
+        "type": "commitment",
+        "category": "commitment",
+        "path": "commitments/2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-03-31T23:00:07.934Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -18681,6 +20524,17 @@
         "missing": false,
         "degree": 1,
         "modifiedAt": "2026-03-31T13:02:50.561Z"
+      },
+      {
+        "id": "note:daily/2026-04-01",
+        "title": "2026 04 01",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T23:02:50.640Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -18847,8 +20701,8 @@
         "path": "facts/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 21,
-        "modifiedAt": "2026-03-31T17:00:08.627Z"
+        "degree": 27,
+        "modifiedAt": "2026-03-31T23:00:07.907Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -19167,6 +21021,17 @@
         "modifiedAt": "2026-03-31T17:01:40.892Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-03-31-2303",
+        "title": "handoff-2026-03-31-2303",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-31-2303.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T23:03:18.321Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -19274,7 +21139,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T17:00:08.555Z"
+        "modifiedAt": "2026-03-31T23:00:07.836Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -19531,8 +21396,8 @@
         "path": "projects/2026-03-31.md",
         "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-31T13:02:50.563Z"
+        "degree": 4,
+        "modifiedAt": "2026-03-31T23:00:07.912Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -20371,7 +22236,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 71,
+        "degree": 86,
         "modifiedAt": null
       },
       {
@@ -20382,7 +22247,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 71,
+        "degree": 86,
         "modifiedAt": null
       },
       {
@@ -20393,7 +22258,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 71,
+        "degree": 86,
         "modifiedAt": null
       },
       {
@@ -20767,7 +22632,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -20811,7 +22676,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -21438,7 +23303,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -21867,7 +23732,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -21961,6 +23826,17 @@
       {
         "id": "unresolved:major",
         "title": "Major",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:major-breakthroughs",
+        "title": "Major Breakthroughs",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -22274,7 +24150,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 71,
+        "degree": 86,
         "modifiedAt": null
       },
       {
@@ -22428,7 +24304,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -22747,7 +24623,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -22802,7 +24678,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -22813,7 +24689,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -23330,7 +25206,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -23682,7 +25558,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -23717,6 +25593,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:observer",
+        "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:open",
+        "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->tag:task",
+        "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches->tag:observer",
         "source": "note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches",
         "target": "tag:observer",
@@ -23731,6 +25625,24 @@
       {
         "id": "tag:note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches->tag:task",
         "source": "note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:observer",
+        "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:open",
+        "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->tag:task",
+        "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
         "target": "tag:task",
         "type": "tag"
       },
@@ -23861,6 +25773,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:observer",
+        "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:open",
+        "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->tag:task",
+        "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously->tag:observer",
         "source": "note:backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously",
         "target": "tag:observer",
@@ -23969,6 +25899,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:observer",
+        "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:open",
+        "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->tag:task",
+        "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details->tag:observer",
         "source": "note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details",
         "target": "tag:observer",
@@ -23987,6 +25935,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:observer",
+        "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:open",
+        "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->tag:task",
+        "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it->tag:observer",
         "source": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
         "target": "tag:observer",
@@ -24001,6 +25967,24 @@
       {
         "id": "tag:note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it->tag:task",
         "source": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:observer",
+        "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:open",
+        "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->tag:task",
+        "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
         "target": "tag:task",
         "type": "tag"
       },
@@ -24365,6 +26349,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:observer",
+        "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:open",
+        "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:task",
+        "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically->tag:observer",
         "source": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
         "target": "tag:observer",
@@ -24563,6 +26565,60 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:open",
+        "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-store-these-in-clawvault->tag:task",
+        "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:open",
+        "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->tag:task",
+        "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:open",
+        "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->tag:task",
+        "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-write-all-4-skillmd-files->tag:observer",
         "source": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "target": "tag:observer",
@@ -24599,6 +26655,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:observer",
+        "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:open",
+        "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->tag:task",
+        "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files->tag:observer",
         "source": "note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files",
         "target": "tag:observer",
@@ -24613,6 +26687,24 @@
       {
         "id": "tag:note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files->tag:task",
         "source": "note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:observer",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:open",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:task",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
         "target": "tag:task",
         "type": "tag"
       },
@@ -24671,6 +26763,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:open",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->tag:task",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8->tag:observer",
         "source": "note:backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8",
         "target": "tag:observer",
@@ -24703,6 +26813,24 @@
       {
         "id": "tag:note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2->tag:task",
         "source": "note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:open",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->tag:task",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
         "target": "tag:task",
         "type": "tag"
       },
@@ -24829,6 +26957,24 @@
       {
         "id": "tag:note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog->tag:task",
         "source": "note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:observer",
+        "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:open",
+        "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->tag:task",
+        "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
         "target": "tag:task",
         "type": "tag"
       },
@@ -25175,8 +27321,20 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies->unresolved:observer",
+        "source": "note:backlog/assistant-excellent-backpack-has-major-news-let-me-continue-with-more-companies",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches->unresolved:observer",
         "source": "note:backlog/assistant-excellent-got-major-news-on-backpack-let-me-continue-with-more-searches",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->unresolved:observer",
+        "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25223,6 +27381,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state->unresolved:observer",
+        "source": "note:backlog/assistant-good-i-found-existing-portfolio-company-files-let-me-check-the-readme-to-understand-the-current-state",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously->unresolved:observer",
         "source": "note:backlog/assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4-skills-simultaneously",
         "target": "unresolved:observer",
@@ -25259,14 +27423,32 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k->unresolved:observer",
+        "source": "note:backlog/assistant-great-now-let-me-also-update-the-warm-memory-portfolio-files-for-backward-compatibility-let-me-update-the-k",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details->unresolved:observer",
         "source": "note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-great-story-delayed-unlock-let-me-continue->unresolved:observer",
+        "source": "note:backlog/assistant-great-story-delayed-unlock-let-me-continue",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it->unresolved:observer",
         "source": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries->unresolved:observer",
+        "source": "note:backlog/assistant-hit-rate-limit-immediately-let-me-wait-and-search-more-carefully-with-delays-between-queries",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25391,6 +27573,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->unresolved:observer",
+        "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically->unresolved:observer",
         "source": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
         "target": "unresolved:observer",
@@ -25457,6 +27645,24 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-store-these-in-clawvault->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-store-these-in-clawvault",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-store-this-in-clawvault-and-continue-with-other-companies",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-now-let-me-write-all-4-skillmd-files->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "target": "unresolved:observer",
@@ -25469,8 +27675,20 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-found-nurihaus-news-now-let-me-compile-and-store-this-research-i-have-enough-data-for-10-companies",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files->unresolved:observer",
         "source": "note:backlog/assistant-perfect-i-can-see-portfolio-companies-in-memorymd-now-let-me-check-if-there-are-any-recent-research-files",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25493,6 +27711,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8->unresolved:observer",
         "source": "note:backlog/assistant-perfect-now-let-me-create-a-summary-document-portfolio-research-complete-2026-03-27-researched-8",
         "target": "unresolved:observer",
@@ -25501,6 +27725,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2->unresolved:observer",
         "source": "note:backlog/assistant-perfect-now-let-me-create-a-summary-for-the-cron-job-output-portfolio-research-complete-march-30-2",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-create-summaries-for-a-few-more-companies-and-also-update-the-warm-memory-portfolio-files",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25543,6 +27773,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog->unresolved:observer",
         "source": "note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add->unresolved:observer",
+        "source": "note:backlog/assistant-the-uprise-search-shows-old-data-from-2021-merger-announcement-let-me-continue-with-sequential-searches-add",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -25729,6 +27965,18 @@
       {
         "id": "wiki_link:note:commitments/2026-03-31->unresolved:your",
         "source": "note:commitments/2026-03-31",
+        "target": "unresolved:your",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-01->unresolved:changes",
+        "source": "note:commitments/2026-04-01",
+        "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-01->unresolved:your",
+        "source": "note:commitments/2026-04-01",
         "target": "unresolved:your",
         "type": "wiki_link"
       },
@@ -27125,6 +29373,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:last-updated",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:last-updated",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:major-breakthroughs",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:major-breakthroughs",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-03-31->unresolved:model",
         "source": "note:facts/2026-03-31",
         "target": "unresolved:model",
@@ -27140,6 +29400,30 @@
         "id": "wiki_link:note:facts/2026-03-31->unresolved:path",
         "source": "note:facts/2026-03-31",
         "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:portfolio-company",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:portfolio-company",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:research-cycle",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:research-cycle",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:research-index",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:research-index",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-03-31->unresolved:summary",
+        "source": "note:facts/2026-03-31",
+        "target": "unresolved:summary",
         "type": "wiki_link"
       },
       {
@@ -28247,6 +30531,24 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-03-31->unresolved:brave-search",
+        "source": "note:projects/2026-03-31",
+        "target": "unresolved:brave-search",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-31->unresolved:fre",
+        "source": "note:projects/2026-03-31",
+        "target": "unresolved:fre",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-03-31->unresolved:request",
+        "source": "note:projects/2026-03-31",
+        "target": "unresolved:request",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-03-31->unresolved:users",
         "source": "note:projects/2026-03-31",
         "target": "unresolved:users",
@@ -28254,24 +30556,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T22:07:30.924Z",
-      "nodeCount": 542,
-      "edgeCount": 759,
+      "generatedAt": "2026-03-31T23:03:18.404Z",
+      "nodeCount": 561,
+      "edgeCount": 830,
       "nodeTypeCounts": {
-        "note": 164,
+        "note": 179,
         "tag": 18,
-        "unresolved": 297,
-        "commitment": 4,
-        "daily": 4,
+        "unresolved": 298,
+        "commitment": 5,
+        "daily": 5,
         "decision": 7,
-        "handoff": 8,
+        "handoff": 9,
         "lesson": 7,
         "person": 2,
         "project": 31
       },
       "edgeTypeCounts": {
-        "tag": 245,
-        "wiki_link": 514
+        "tag": 290,
+        "wiki_link": 540
       }
     }
   }
