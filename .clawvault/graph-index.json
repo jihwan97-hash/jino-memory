@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T01:01:29.860Z",
+  "generatedAt": "2026-03-31T08:01:20.252Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -205,7 +205,7 @@
     },
     "backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu.md": {
       "relativePath": "backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu.md",
-      "mtimeMs": 1774911607640.2,
+      "mtimeMs": 1774918903429.7056,
       "nodes": [
         {
           "id": "note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu",
@@ -220,7 +220,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.640Z"
+          "modifiedAt": "2026-03-31T01:01:43.429Z"
         },
         {
           "id": "tag:observer",
@@ -478,7 +478,7 @@
     },
     "backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create.md": {
       "relativePath": "backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create.md",
-      "mtimeMs": 1774911607649.2136,
+      "mtimeMs": 1774918903430.143,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-context-on-mica-transition-now-let-me-compile-my-findings-and-store-them-i-have-enough-data-to-create",
@@ -493,7 +493,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.649Z"
+          "modifiedAt": "2026-03-31T01:01:43.430Z"
         },
         {
           "id": "tag:observer",
@@ -569,7 +569,7 @@
     },
     "backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the.md": {
       "relativePath": "backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the.md",
-      "mtimeMs": 1774911607628.8093,
+      "mtimeMs": 1774918903430.4639,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the",
@@ -584,7 +584,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.628Z"
+          "modifiedAt": "2026-03-31T01:01:43.430Z"
         },
         {
           "id": "tag:observer",
@@ -1115,7 +1115,7 @@
     },
     "backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile.md": {
       "relativePath": "backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile.md",
-      "mtimeMs": 1774911607645.913,
+      "mtimeMs": 1774918903430.7583,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
@@ -1130,7 +1130,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.645Z"
+          "modifiedAt": "2026-03-31T01:01:43.430Z"
         },
         {
           "id": "tag:observer",
@@ -1206,7 +1206,7 @@
     },
     "backlog/assistant-great-fifa-rivals-is-now-live-and-has-already-hit-1-million-downloads-let-me-continue-researching-other-com.md": {
       "relativePath": "backlog/assistant-great-fifa-rivals-is-now-live-and-has-already-hit-1-million-downloads-let-me-continue-researching-other-com.md",
-      "mtimeMs": 1774911607641.333,
+      "mtimeMs": 1774918903431.2246,
       "nodes": [
         {
           "id": "note:backlog/assistant-great-fifa-rivals-is-now-live-and-has-already-hit-1-million-downloads-let-me-continue-researching-other-com",
@@ -1221,7 +1221,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.641Z"
+          "modifiedAt": "2026-03-31T01:01:43.431Z"
         },
         {
           "id": "tag:observer",
@@ -1297,7 +1297,7 @@
     },
     "backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details.md": {
       "relativePath": "backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details.md",
-      "mtimeMs": 1774911607647.0369,
+      "mtimeMs": 1774918903431.6936,
       "nodes": [
         {
           "id": "note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details",
@@ -1312,7 +1312,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.647Z"
+          "modifiedAt": "2026-03-31T01:01:43.431Z"
         },
         {
           "id": "tag:observer",
@@ -1479,7 +1479,7 @@
     },
     "backlog/assistant-hit-rate-limits-good-news-on-radiusxyz-though-theyve-launched-let-me-wait-and-continue-with-sequential-s.md": {
       "relativePath": "backlog/assistant-hit-rate-limits-good-news-on-radiusxyz-though-theyve-launched-let-me-wait-and-continue-with-sequential-s.md",
-      "mtimeMs": 1774911607639.0476,
+      "mtimeMs": 1774918903431.968,
       "nodes": [
         {
           "id": "note:backlog/assistant-hit-rate-limits-good-news-on-radiusxyz-though-theyve-launched-let-me-wait-and-continue-with-sequential-s",
@@ -1494,7 +1494,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.639Z"
+          "modifiedAt": "2026-03-31T01:01:43.431Z"
         },
         {
           "id": "tag:observer",
@@ -1934,7 +1934,7 @@
     },
     "backlog/assistant-ill-conduct-portfolio-research-on-companies-from-your-list-and-store-updates-in-clawvault.md": {
       "relativePath": "backlog/assistant-ill-conduct-portfolio-research-on-companies-from-your-list-and-store-updates-in-clawvault.md",
-      "mtimeMs": 1774911607626.7563,
+      "mtimeMs": 1774918903432.2131,
       "nodes": [
         {
           "id": "note:backlog/assistant-ill-conduct-portfolio-research-on-companies-from-your-list-and-store-updates-in-clawvault",
@@ -1949,7 +1949,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.626Z"
+          "modifiedAt": "2026-03-31T01:01:43.432Z"
         },
         {
           "id": "tag:observer",
@@ -3026,7 +3026,7 @@
     },
     "backlog/assistant-no-specific-payhere-news-let-me-continue-with-more-companies-and-then-compile-findings-ill-search-for-a-fe.md": {
       "relativePath": "backlog/assistant-no-specific-payhere-news-let-me-continue-with-more-companies-and-then-compile-findings-ill-search-for-a-fe.md",
-      "mtimeMs": 1774911607642.4768,
+      "mtimeMs": 1774918903432.506,
       "nodes": [
         {
           "id": "note:backlog/assistant-no-specific-payhere-news-let-me-continue-with-more-companies-and-then-compile-findings-ill-search-for-a-fe",
@@ -3041,7 +3041,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.642Z"
+          "modifiedAt": "2026-03-31T01:01:43.432Z"
         },
         {
           "id": "tag:observer",
@@ -3117,7 +3117,7 @@
     },
     "backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically.md": {
       "relativePath": "backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically.md",
-      "mtimeMs": 1774911607643.562,
+      "mtimeMs": 1774918903432.7834,
       "nodes": [
         {
           "id": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
@@ -3132,7 +3132,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.643Z"
+          "modifiedAt": "2026-03-31T01:01:43.432Z"
         },
         {
           "id": "tag:observer",
@@ -3299,7 +3299,7 @@
     },
     "backlog/assistant-now-let-me-commit-everything-to-git.md": {
       "relativePath": "backlog/assistant-now-let-me-commit-everything-to-git.md",
-      "mtimeMs": 1774911607663.7048,
+      "mtimeMs": 1774918903433.0505,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-commit-everything-to-git",
@@ -3314,7 +3314,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.663Z"
+          "modifiedAt": "2026-03-31T01:01:43.433Z"
         },
         {
           "id": "tag:observer",
@@ -3663,7 +3663,7 @@
     },
     "backlog/assistant-now-let-me-create-one-more-update-for-nurihaus-with-the-k-beauty-fund.md": {
       "relativePath": "backlog/assistant-now-let-me-create-one-more-update-for-nurihaus-with-the-k-beauty-fund.md",
-      "mtimeMs": 1774911607662.5557,
+      "mtimeMs": 1774918903433.326,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-create-one-more-update-for-nurihaus-with-the-k-beauty-fund",
@@ -3678,7 +3678,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.662Z"
+          "modifiedAt": "2026-03-31T01:01:43.433Z"
         },
         {
           "id": "tag:observer",
@@ -3754,7 +3754,7 @@
     },
     "backlog/assistant-now-let-me-create-summaries-for-a-few-more-companies-let-me-do-yuga-labs-and-nurihaus-quickly.md": {
       "relativePath": "backlog/assistant-now-let-me-create-summaries-for-a-few-more-companies-let-me-do-yuga-labs-and-nurihaus-quickly.md",
-      "mtimeMs": 1774911607656.0884,
+      "mtimeMs": 1774918903433.615,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-create-summaries-for-a-few-more-companies-let-me-do-yuga-labs-and-nurihaus-quickly",
@@ -3769,7 +3769,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.656Z"
+          "modifiedAt": "2026-03-31T01:01:43.433Z"
         },
         {
           "id": "tag:observer",
@@ -3936,7 +3936,7 @@
     },
     "backlog/assistant-now-let-me-create-updates-for-mythical-games-fifa-rivals.md": {
       "relativePath": "backlog/assistant-now-let-me-create-updates-for-mythical-games-fifa-rivals.md",
-      "mtimeMs": 1774911607652.828,
+      "mtimeMs": 1774918903433.8896,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-create-updates-for-mythical-games-fifa-rivals",
@@ -3951,7 +3951,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.652Z"
+          "modifiedAt": "2026-03-31T01:01:43.433Z"
         },
         {
           "id": "tag:observer",
@@ -4937,7 +4937,7 @@
     },
     "backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates.md": {
       "relativePath": "backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates.md",
-      "mtimeMs": 1774911607631.8762,
+      "mtimeMs": 1774918903434.2764,
       "nodes": [
         {
           "id": "note:backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates",
@@ -4952,7 +4952,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.631Z"
+          "modifiedAt": "2026-03-31T01:01:43.434Z"
         },
         {
           "id": "tag:observer",
@@ -5028,7 +5028,7 @@
     },
     "backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps.md": {
       "relativePath": "backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps.md",
-      "mtimeMs": 1774911607644.7256,
+      "mtimeMs": 1774918903434.664,
       "nodes": [
         {
           "id": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
@@ -5043,7 +5043,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.644Z"
+          "modifiedAt": "2026-03-31T01:01:43.434Z"
         },
         {
           "id": "tag:observer",
@@ -5119,7 +5119,7 @@
     },
     "backlog/assistant-the-page-didnt-load-the-article-content-properly-let-me-continue-researching-other-companies-and-compile-wh.md": {
       "relativePath": "backlog/assistant-the-page-didnt-load-the-article-content-properly-let-me-continue-researching-other-companies-and-compile-wh.md",
-      "mtimeMs": 1774911607648.1355,
+      "mtimeMs": 1774918903434.9468,
       "nodes": [
         {
           "id": "note:backlog/assistant-the-page-didnt-load-the-article-content-properly-let-me-continue-researching-other-companies-and-compile-wh",
@@ -5134,7 +5134,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.648Z"
+          "modifiedAt": "2026-03-31T01:01:43.434Z"
         },
         {
           "id": "tag:observer",
@@ -6358,6 +6358,62 @@
         }
       ]
     },
+    "brain-memory/daily/email-2026-03-31.md": {
+      "relativePath": "brain-memory/daily/email-2026-03-31.md",
+      "mtimeMs": 1774918903388.669,
+      "nodes": [
+        {
+          "id": "note:brain-memory/daily/email-2026-03-31",
+          "title": "Email 2026 03 31",
+          "type": "note",
+          "category": "note",
+          "path": "brain-memory/daily/email-2026-03-31.md",
+          "tags": [
+            "2",
+            "248"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T01:01:43.388Z"
+        },
+        {
+          "id": "tag:2",
+          "title": "#2",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:248",
+          "title": "#248",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:brain-memory/daily/email-2026-03-31->tag:2",
+          "source": "note:brain-memory/daily/email-2026-03-31",
+          "target": "tag:2",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:brain-memory/daily/email-2026-03-31->tag:248",
+          "source": "note:brain-memory/daily/email-2026-03-31",
+          "target": "tag:248",
+          "type": "tag"
+        }
+      ]
+    },
     "commitments/2026-03-26.md": {
       "relativePath": "commitments/2026-03-26.md",
       "mtimeMs": 1774782039896.7483,
@@ -6567,7 +6623,7 @@
     },
     "commitments/2026-03-30.md": {
       "relativePath": "commitments/2026-03-30.md",
-      "mtimeMs": 1774911607664.5925,
+      "mtimeMs": 1774918903435.4146,
       "nodes": [
         {
           "id": "note:commitments/2026-03-30",
@@ -6578,7 +6634,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.664Z"
+          "modifiedAt": "2026-03-31T01:01:43.435Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -6739,7 +6795,7 @@
     },
     "commitments/2026-03-31.md": {
       "relativePath": "commitments/2026-03-31.md",
-      "mtimeMs": 1774911607666.0679,
+      "mtimeMs": 1774918903435.726,
       "nodes": [
         {
           "id": "note:commitments/2026-03-31",
@@ -6750,7 +6806,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.666Z"
+          "modifiedAt": "2026-03-31T01:01:43.435Z"
         },
         {
           "id": "unresolved:your",
@@ -6846,7 +6902,7 @@
     },
     "decisions/2022-06-28.md": {
       "relativePath": "decisions/2022-06-28.md",
-      "mtimeMs": 1774911606533.1052,
+      "mtimeMs": 1774918903436.0227,
       "nodes": [
         {
           "id": "note:decisions/2022-06-28",
@@ -6857,14 +6913,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.533Z"
+          "modifiedAt": "2026-03-31T01:01:43.436Z"
         }
       ],
       "edges": []
     },
     "decisions/2026-03-26.md": {
       "relativePath": "decisions/2026-03-26.md",
-      "mtimeMs": 1774911606536.708,
+      "mtimeMs": 1774918903436.4375,
       "nodes": [
         {
           "id": "note:decisions/2026-03-26",
@@ -6875,7 +6931,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.536Z"
+          "modifiedAt": "2026-03-31T01:01:43.436Z"
         },
         {
           "id": "unresolved:brain",
@@ -6923,7 +6979,7 @@
     },
     "decisions/2026-03-27.md": {
       "relativePath": "decisions/2026-03-27.md",
-      "mtimeMs": 1774911606538.703,
+      "mtimeMs": 1774918903436.9048,
       "nodes": [
         {
           "id": "note:decisions/2026-03-27",
@@ -6934,7 +6990,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.538Z"
+          "modifiedAt": "2026-03-31T01:01:43.436Z"
         },
         {
           "id": "unresolved:brain",
@@ -7876,7 +7932,7 @@
     },
     "decisions/2026-03-30.md": {
       "relativePath": "decisions/2026-03-30.md",
-      "mtimeMs": 1774911606557.0784,
+      "mtimeMs": 1774918903437.2666,
       "nodes": [
         {
           "id": "note:decisions/2026-03-30",
@@ -7887,7 +7943,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.557Z"
+          "modifiedAt": "2026-03-31T01:01:43.437Z"
         },
         {
           "id": "unresolved:new-items",
@@ -8116,7 +8172,7 @@
     },
     "decisions/2026-03-31.md": {
       "relativePath": "decisions/2026-03-31.md",
-      "mtimeMs": 1774911606557.5327,
+      "mtimeMs": 1774918903437.5637,
       "nodes": [
         {
           "id": "note:decisions/2026-03-31",
@@ -8127,7 +8183,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.557Z"
+          "modifiedAt": "2026-03-31T01:01:43.437Z"
         },
         {
           "id": "unresolved:review",
@@ -9614,7 +9670,7 @@
     },
     "facts/2026-03-28.md": {
       "relativePath": "facts/2026-03-28.md",
-      "mtimeMs": 1774911607610.2498,
+      "mtimeMs": 1774918903437.916,
       "nodes": [
         {
           "id": "note:facts/2026-03-28",
@@ -9625,7 +9681,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.610Z"
+          "modifiedAt": "2026-03-31T01:01:43.437Z"
         },
         {
           "id": "unresolved:edit",
@@ -9924,7 +9980,7 @@
     },
     "facts/2026-03-30.md": {
       "relativePath": "facts/2026-03-30.md",
-      "mtimeMs": 1774911607659.2058,
+      "mtimeMs": 1774918903438.4824,
       "nodes": [
         {
           "id": "note:facts/2026-03-30",
@@ -9935,7 +9991,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.659Z"
+          "modifiedAt": "2026-03-31T01:01:43.438Z"
         },
         {
           "id": "unresolved:web",
@@ -10521,7 +10577,7 @@
     },
     "facts/2026-03-31.md": {
       "relativePath": "facts/2026-03-31.md",
-      "mtimeMs": 1774911607666.4097,
+      "mtimeMs": 1774918903438.9045,
       "nodes": [
         {
           "id": "note:facts/2026-03-31",
@@ -10532,7 +10588,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.666Z"
+          "modifiedAt": "2026-03-31T01:01:43.438Z"
         }
       ],
       "edges": []
@@ -11067,7 +11123,7 @@
     },
     "handoffs/handoff-2026-03-31-0101.md": {
       "relativePath": "handoffs/handoff-2026-03-31-0101.md",
-      "mtimeMs": 1774918889810.0547,
+      "mtimeMs": 1774918903439.2961,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-03-31-0101",
@@ -11078,7 +11134,25 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:29.810Z"
+          "modifiedAt": "2026-03-31T01:01:43.439Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-03-31-0801.md": {
+      "relativePath": "handoffs/handoff-2026-03-31-0801.md",
+      "mtimeMs": 1774944080173.206,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-03-31-0801",
+          "title": "handoff-2026-03-31-0801",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-03-31-0801.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T08:01:20.173Z"
         }
       ],
       "edges": []
@@ -11103,7 +11177,7 @@
     },
     "HOT-MEMORY.md": {
       "relativePath": "HOT-MEMORY.md",
-      "mtimeMs": 1774872082757.9958,
+      "mtimeMs": 1774918903387.9043,
       "nodes": [
         {
           "id": "note:HOT-MEMORY",
@@ -11116,7 +11190,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T12:01:22.757Z"
+          "modifiedAt": "2026-03-31T01:01:43.387Z"
         },
         {
           "id": "tag:248",
@@ -12108,7 +12182,7 @@
     },
     "projects/2026-03-04.md": {
       "relativePath": "projects/2026-03-04.md",
-      "mtimeMs": 1774911606534.0037,
+      "mtimeMs": 1774918903439.7236,
       "nodes": [
         {
           "id": "note:projects/2026-03-04",
@@ -12119,7 +12193,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:06.534Z"
+          "modifiedAt": "2026-03-31T01:01:43.439Z"
         },
         {
           "id": "unresolved:jino-long",
@@ -13944,7 +14018,7 @@
     },
     "projects/2026-03-30.md": {
       "relativePath": "projects/2026-03-30.md",
-      "mtimeMs": 1774911607661.0642,
+      "mtimeMs": 1774918903440.4626,
       "nodes": [
         {
           "id": "note:projects/2026-03-30",
@@ -13955,7 +14029,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T23:00:07.661Z"
+          "modifiedAt": "2026-03-31T01:01:43.440Z"
         },
         {
           "id": "unresolved:brave-search",
@@ -15211,6 +15285,42 @@
       ],
       "edges": []
     },
+    "research/bts-gwanghwamun-igaworks-20260321.md": {
+      "relativePath": "research/bts-gwanghwamun-igaworks-20260321.md",
+      "mtimeMs": 1774936016814.375,
+      "nodes": [
+        {
+          "id": "note:research/bts-gwanghwamun-igaworks-20260321",
+          "title": "Bts Gwanghwamun Igaworks 20260321",
+          "type": "note",
+          "category": "note",
+          "path": "research/bts-gwanghwamun-igaworks-20260321.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T05:46:56.814Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/podcasts/2026-03-31-digest.md": {
+      "relativePath": "research/podcasts/2026-03-31-digest.md",
+      "mtimeMs": 1774918939548.4023,
+      "nodes": [
+        {
+          "id": "note:research/podcasts/2026-03-31-digest",
+          "title": "2026 03 31 Digest",
+          "type": "note",
+          "category": "note",
+          "path": "research/podcasts/2026-03-31-digest.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T01:02:19.548Z"
+        }
+      ],
+      "edges": []
+    },
     "skills/brain-memory/SKILL.md": {
       "relativePath": "skills/brain-memory/SKILL.md",
       "mtimeMs": 1774838828884.7935,
@@ -15723,7 +15833,7 @@
     },
     "warm-memory/portfolio/mythical-games.md": {
       "relativePath": "warm-memory/portfolio/mythical-games.md",
-      "mtimeMs": 1774836035254.9507,
+      "mtimeMs": 1774918903396.7986,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/mythical-games",
@@ -15734,14 +15844,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.254Z"
+          "modifiedAt": "2026-03-31T01:01:43.396Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/nurihaus.md": {
       "relativePath": "warm-memory/portfolio/nurihaus.md",
-      "mtimeMs": 1774638234251.937,
+      "mtimeMs": 1774918903397.7664,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/nurihaus",
@@ -15752,7 +15862,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-27T19:03:54.251Z"
+          "modifiedAt": "2026-03-31T01:01:43.397Z"
         }
       ],
       "edges": []
@@ -15797,7 +15907,7 @@
     },
     "warm-memory/portfolio/radiusxyz.md": {
       "relativePath": "warm-memory/portfolio/radiusxyz.md",
-      "mtimeMs": 1774836035256.3354,
+      "mtimeMs": 1774918903398.531,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/radiusxyz",
@@ -15808,14 +15918,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.256Z"
+          "modifiedAt": "2026-03-31T01:01:43.398Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/README.md": {
       "relativePath": "warm-memory/portfolio/README.md",
-      "mtimeMs": 1774836035252.2302,
+      "mtimeMs": 1774918903396.2456,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/README",
@@ -15826,7 +15936,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.252Z"
+          "modifiedAt": "2026-03-31T01:01:43.396Z"
         }
       ],
       "edges": []
@@ -15905,7 +16015,7 @@
     },
     "warm-memory/portfolio/yuga-labs.md": {
       "relativePath": "warm-memory/portfolio/yuga-labs.md",
-      "mtimeMs": 1774836035259.9468,
+      "mtimeMs": 1774918903398.962,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/yuga-labs",
@@ -15916,7 +16026,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.259Z"
+          "modifiedAt": "2026-03-31T01:01:43.398Z"
         }
       ],
       "edges": []
@@ -15979,7 +16089,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.640Z"
+        "modifiedAt": "2026-03-31T01:01:43.429Z"
       },
       {
         "id": "note:backlog/assistant-excellent-story-protocol-launched-mainnet-now-let-me-gather-a-few-more-companies-updates-and-then-compile",
@@ -16024,7 +16134,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.649Z"
+        "modifiedAt": "2026-03-31T01:01:43.430Z"
       },
       {
         "id": "note:backlog/assistant-good-i-can-see-existing-portfolio-companies-let-me-check-the-readme-to-understand-the-structure-better-the",
@@ -16039,7 +16149,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.628Z"
+        "modifiedAt": "2026-03-31T01:01:43.430Z"
       },
       {
         "id": "note:backlog/assistant-good-i-found-existing-portfolio-companies-let-me-read-the-readme-to-understand-the-structure-and-check-time",
@@ -16129,7 +16239,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.645Z"
+        "modifiedAt": "2026-03-31T01:01:43.430Z"
       },
       {
         "id": "note:backlog/assistant-great-fifa-rivals-is-now-live-and-has-already-hit-1-million-downloads-let-me-continue-researching-other-com",
@@ -16144,7 +16254,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.641Z"
+        "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
         "id": "note:backlog/assistant-great-nurihaus-launched-a-62-billion-won-k-beauty-venture-fund-in-march-2026-let-me-fetch-more-details",
@@ -16159,7 +16269,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.647Z"
+        "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
         "id": "note:backlog/assistant-great-the-file-exists-in-the-tools-directory-let-me-read-it",
@@ -16189,7 +16299,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.639Z"
+        "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch",
@@ -16264,7 +16374,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.626Z"
+        "modifiedAt": "2026-03-31T01:01:43.432Z"
       },
       {
         "id": "note:backlog/assistant-ill-execute-the-brain-memory-consolidation-workflow-step-by-step",
@@ -16444,7 +16554,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.642Z"
+        "modifiedAt": "2026-03-31T01:01:43.432Z"
       },
       {
         "id": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
@@ -16459,7 +16569,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.643Z"
+        "modifiedAt": "2026-03-31T01:01:43.432Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-commit-and-push-all-changes",
@@ -16489,7 +16599,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.663Z"
+        "modifiedAt": "2026-03-31T01:01:43.433Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-commit-these-changes-to-git",
@@ -16549,7 +16659,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.662Z"
+        "modifiedAt": "2026-03-31T01:01:43.433Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-create-summaries-for-a-few-more-companies-let-me-do-yuga-labs-and-nurihaus-quickly",
@@ -16564,7 +16674,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.656Z"
+        "modifiedAt": "2026-03-31T01:01:43.433Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit",
@@ -16594,7 +16704,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.652Z"
+        "modifiedAt": "2026-03-31T01:01:43.433Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-save-the-email-summary-and-handle-the-git-push",
@@ -16759,7 +16869,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.631Z"
+        "modifiedAt": "2026-03-31T01:01:43.434Z"
       },
       {
         "id": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
@@ -16774,7 +16884,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.644Z"
+        "modifiedAt": "2026-03-31T01:01:43.434Z"
       },
       {
         "id": "note:backlog/assistant-the-page-didnt-load-the-article-content-properly-let-me-continue-researching-other-companies-and-compile-wh",
@@ -16789,7 +16899,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:07.648Z"
+        "modifiedAt": "2026-03-31T01:01:43.434Z"
       },
       {
         "id": "note:backlog/assistant-the-portfolio-companies-file-doesnt-exist-yet-let-me-check-if-theres-any-existing-portfolio-data-in-the-wa",
@@ -17048,6 +17158,20 @@
         "modifiedAt": "2026-03-30T12:01:22.759Z"
       },
       {
+        "id": "note:brain-memory/daily/email-2026-03-31",
+        "title": "Email 2026 03 31",
+        "type": "note",
+        "category": "note",
+        "path": "brain-memory/daily/email-2026-03-31.md",
+        "tags": [
+          "2",
+          "248"
+        ],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-03-31T01:01:43.388Z"
+      },
+      {
         "id": "note:commitments/2026-03-26",
         "title": "2026 03 26",
         "type": "commitment",
@@ -17078,7 +17202,7 @@
         "tags": [],
         "missing": false,
         "degree": 9,
-        "modifiedAt": "2026-03-30T23:00:07.664Z"
+        "modifiedAt": "2026-03-31T01:01:43.435Z"
       },
       {
         "id": "note:commitments/2026-03-31",
@@ -17089,7 +17213,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-03-30T23:00:07.666Z"
+        "modifiedAt": "2026-03-31T01:01:43.435Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -17133,7 +17257,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T23:00:06.533Z"
+        "modifiedAt": "2026-03-31T01:01:43.436Z"
       },
       {
         "id": "note:decisions/2026-03-26",
@@ -17144,7 +17268,7 @@
         "tags": [],
         "missing": false,
         "degree": 3,
-        "modifiedAt": "2026-03-30T23:00:06.536Z"
+        "modifiedAt": "2026-03-31T01:01:43.436Z"
       },
       {
         "id": "note:decisions/2026-03-27",
@@ -17155,7 +17279,7 @@
         "tags": [],
         "missing": false,
         "degree": 26,
-        "modifiedAt": "2026-03-30T23:00:06.538Z"
+        "modifiedAt": "2026-03-31T01:01:43.436Z"
       },
       {
         "id": "note:decisions/2026-03-28",
@@ -17188,7 +17312,7 @@
         "tags": [],
         "missing": false,
         "degree": 13,
-        "modifiedAt": "2026-03-30T23:00:06.557Z"
+        "modifiedAt": "2026-03-31T01:01:43.437Z"
       },
       {
         "id": "note:decisions/2026-03-31",
@@ -17199,7 +17323,7 @@
         "tags": [],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-03-30T23:00:06.557Z"
+        "modifiedAt": "2026-03-31T01:01:43.437Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -17257,7 +17381,7 @@
         "tags": [],
         "missing": false,
         "degree": 9,
-        "modifiedAt": "2026-03-30T23:00:07.610Z"
+        "modifiedAt": "2026-03-31T01:01:43.437Z"
       },
       {
         "id": "note:facts/2026-03-29",
@@ -17279,7 +17403,7 @@
         "tags": [],
         "missing": false,
         "degree": 34,
-        "modifiedAt": "2026-03-30T23:00:07.659Z"
+        "modifiedAt": "2026-03-31T01:01:43.438Z"
       },
       {
         "id": "note:facts/2026-03-31",
@@ -17290,7 +17414,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T23:00:07.666Z"
+        "modifiedAt": "2026-03-31T01:01:43.438Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -17573,7 +17697,18 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T01:01:29.810Z"
+        "modifiedAt": "2026-03-31T01:01:43.439Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-03-31-0801",
+        "title": "handoff-2026-03-31-0801",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-03-31-0801.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T08:01:20.173Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -17597,7 +17732,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-30T12:01:22.757Z"
+        "modifiedAt": "2026-03-31T01:01:43.387Z"
       },
       {
         "id": "note:IDENTITY",
@@ -17828,7 +17963,7 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-03-30T23:00:06.534Z"
+        "modifiedAt": "2026-03-31T01:01:43.439Z"
       },
       {
         "id": "note:projects/2026-03-07",
@@ -17908,7 +18043,7 @@
         "tags": [],
         "missing": false,
         "degree": 52,
-        "modifiedAt": "2026-03-30T23:00:07.661Z"
+        "modifiedAt": "2026-03-31T01:01:43.440Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -18102,6 +18237,28 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T19:06:29.332Z"
+      },
+      {
+        "id": "note:research/bts-gwanghwamun-igaworks-20260321",
+        "title": "Bts Gwanghwamun Igaworks 20260321",
+        "type": "note",
+        "category": "note",
+        "path": "research/bts-gwanghwamun-igaworks-20260321.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T05:46:56.814Z"
+      },
+      {
+        "id": "note:research/podcasts/2026-03-31-digest",
+        "title": "2026 03 31 Digest",
+        "type": "note",
+        "category": "note",
+        "path": "research/podcasts/2026-03-31-digest.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T01:02:19.548Z"
       },
       {
         "id": "note:skills/brain-memory/SKILL",
@@ -18383,7 +18540,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.254Z"
+        "modifiedAt": "2026-03-31T01:01:43.396Z"
       },
       {
         "id": "note:warm-memory/portfolio/nurihaus",
@@ -18394,7 +18551,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-27T19:03:54.251Z"
+        "modifiedAt": "2026-03-31T01:01:43.397Z"
       },
       {
         "id": "note:warm-memory/portfolio/payhere",
@@ -18418,7 +18575,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.256Z"
+        "modifiedAt": "2026-03-31T01:01:43.398Z"
       },
       {
         "id": "note:warm-memory/portfolio/README",
@@ -18429,7 +18586,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.252Z"
+        "modifiedAt": "2026-03-31T01:01:43.396Z"
       },
       {
         "id": "note:warm-memory/portfolio/story-protocol",
@@ -18484,7 +18641,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.259Z"
+        "modifiedAt": "2026-03-31T01:01:43.398Z"
       },
       {
         "id": "tag:1",
@@ -18527,7 +18684,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -18538,7 +18695,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -22986,6 +23143,18 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:brain-memory/daily/email-2026-03-31->tag:2",
+        "source": "note:brain-memory/daily/email-2026-03-31",
+        "target": "tag:2",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:brain-memory/daily/email-2026-03-31->tag:248",
+        "source": "note:brain-memory/daily/email-2026-03-31",
+        "target": "tag:248",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:facts/2026-03-25->tag:2",
         "source": "note:facts/2026-03-25",
         "target": "tag:2",
@@ -25945,23 +26114,23 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T01:01:29.860Z",
-      "nodeCount": 501,
-      "edgeCount": 698,
+      "generatedAt": "2026-03-31T08:01:20.252Z",
+      "nodeCount": 505,
+      "edgeCount": 700,
       "nodeTypeCounts": {
-        "note": 154,
+        "note": 157,
         "tag": 18,
         "unresolved": 279,
         "commitment": 4,
         "daily": 3,
         "decision": 7,
-        "handoff": 5,
+        "handoff": 6,
         "lesson": 7,
         "person": 2,
         "project": 22
       },
       "edgeTypeCounts": {
-        "tag": 230,
+        "tag": 232,
         "wiki_link": 468
       }
     }
