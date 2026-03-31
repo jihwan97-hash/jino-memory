@@ -1,88 +1,94 @@
-# Nurihaus Research Update
+# Nurihaus
 
-**Last Updated:** 2026-03-31 04:00 AM KST
+**Last Updated:** 2026-04-01
 
-## 🎉 MAJOR UPDATE: 62억원 K-Beauty Venture Fund (March 2026)
+## Status: 🟢 GREEN LIGHT - Strategic Expansion
 
-**Announcement Date:** March 24, 2026  
-**Fund Size:** 62억원 (~$47M USD)  
-**Focus:** K-Beauty brand investment + marketing + distribution (integrated support model)  
-**Timeline:** H1 2026 first brand investment execution planned
+### Major Development: K-Beauty Venture Fund (March 24, 2026)
 
-### Fund Strategy
-- **Investment:** Direct equity in K-beauty brands
-- **Marketing:** Brand building and promotional support
-- **Distribution:** Access to Nurihaus's distribution network
-- **Partnerships:** Collaboration with K-beauty VCs and global partners
+**Fund Launch:**
+- Size: 6.2 billion KRW (~$4.7M USD)
+- Focus: Early-stage K-beauty brand investments
+- Model: Platform operator → Platform + VC hybrid
 
-This represents a strategic evolution from platform operator to platform + venture capital hybrid.
+**Integrated Value Proposition:**
+- Not just capital → Full support package
+- Investment + Marketing + Distribution bundled
+- Leverage existing Nurihaus platform for portfolio brands
+- US market entry support included
+
+### Timeline & Execution Plan
+
+**H1 2026:**
+- First brand investment planned (by June)
+- LP composition and fund thesis disclosure expected
+
+**H2 2026:**
+- Release campaign performance results for invested brands
+- Expand partnerships with K-beauty VCs and global partners
+
+**2027+:**
+- Scale fund (second raise likely if first performs)
+- Build track record as integrated platform + capital provider
+
+### Market Context
+
+**K-Beauty Tailwinds:**
+- Global export growth accelerating
+- US market highly receptive to Korean cosmetics
+- Sustainability becoming core differentiator
+- $667B global beauty market (2026)
+
+**Competitive Positioning:**
+- Differentiated model (platform + capital rare combo)
+- First-mover in integrated K-beauty fund model
+- Data advantage (see which brands perform → invest in winners)
+
+### Investment Thesis: 🟢 GREEN LIGHT
+
+**Strengths:**
+- ✅ Strategic differentiation (platform + capital)
+- ✅ K-beauty macro tailwind (global demand strong)
+- ✅ Perfect timing (US market expansion wave)
+- ✅ Clear value-add beyond money (marketing/distribution)
+- ✅ Flywheel effect potential (successful investments → more brands join platform)
+
+**Watch Points:**
+- ⚠️ Fund size relatively small (~4-5 seed investments)
+- ⚠️ First-time fund manager risk (no track record yet)
+- ⚠️ Brand selection will be critical (execution dependent)
+
+### Monitoring Plan
+
+**H1 2026 (Next 2-3 Months):**
+- First brand investment announcement (by June)
+- Investment thesis disclosure (what type of brands?)
+- LP composition (who funded the fund?)
+
+**H2 2026:**
+- Campaign performance data (promised public release)
+- Portfolio brand US market traction
+- Fund deployment pace (how many brands by year-end?)
+
+**2027:**
+- Second fund raise size (scaling signal)
+- Exit strategy clarity (acquisition? IPO? sustained growth?)
+- Platform synergy metrics (do invested brands perform better?)
+
+### Strategic Implications
+
+**Business Model Evolution:**
+- Revenue diversification (platform fees + investment returns)
+- Deeper brand relationships (investor = stronger partnership)
+- Competitive moat expansion (data + capital network effects)
+
+**Recommendation:**
+- Positive signal of ambition and strategic thinking
+- Watch H1 2026 first investment carefully
+- Success depends on brand selection judgment
 
 ---
 
-## Company Overview
-K-beauty e-commerce platform, brand incubator, and now venture fund operator
-
-## Major Developments
-
-### Pre-Series A Funding (Aug 2025)
-- **20억원 투자 유치** (Pre-Series A, Aug 2025)
-- Lead investors: Regent Partners, others
-- Valuation: Not disclosed
-
-### Product Strategy
-- **K-beauty 글로벌 원스톱 솔루션** - Marketing + Export + Commerce integrated
-- **NuriGlow Platform**: Creator-led commerce platform for North America
-- **Affiliate marketing infrastructure** - connecting global influencers with K-beauty brands
-- Operating in-market in North America (not just export facilitation)
-
-### Market Position
-- Focus: **North America K-beauty market expansion**
-- Differentiation: Content-Commerce convergence platform
-- Target customers: K-beauty brands seeking international growth
-- Platform enables: Marketing, logistics, payments, compliance in one solution
-
-### Leadership Vision
-- CEO 백아람: "K-beauty now requires integrated strategy - marketing, export, commerce must work together"
-- Platform growth potential as content-commerce fusion play
-- Building localized creator network rather than just B2C marketplace
-
-## Investment Thesis Update (March 2026)
-
-✅ **Strategic expansion**: Fund launch = vertical integration into brand ownership  
-✅ **Market timing**: K-beauty global demand accelerating (hallyu wave)  
-✅ **Business model evolution**: Platform operator → Platform + VC hybrid  
-✅ **Integrated support**: Investment + marketing + distribution = differentiated value prop  
-✅ **Recent funding**: 20억원 pre-A validates product-market fit  
-
-⚠️ **Execution risk**: Beauty is hits-driven; track record in VC TBD  
-⚠️ **Fund details**: LP structure and investment criteria not disclosed yet  
-
-## Next Monitoring Points
-
-### H1 2026 (April-June)
-- First fund investment announcement (which brand?)
-- LP/backer disclosure
-- Team expansion for fund management
-
-### H2 2026
-- Portfolio performance of first investments
-- Fund deployment pace
-- Partnership announcements (global VCs/distributors)
-- Series A fundraising for Nurihaus itself
-
-### Long-term Questions
-- Typical check size and portfolio size strategy?
-- Exit strategy: IPO, M&A, or revenue-share?
-- NuriGlow platform GMV/revenue growth
-- Creator network size and engagement
-
-## Status Assessment
-**🟢 EXPANSION - Strategic Pivot to Platform + Fund Hybrid**
-
-Nurihaus is doubling down on K-beauty with a bold move into venture capital. The integrated model (invest → market → distribute) could be powerful if executed well. However, this is a significant strategic pivot with unproven track record. Monitor first investments closely.
-
-## Sources
-- THE VC: Company profile and CEO interview
-- WowTale (와우테일): Fund announcement, March 24, 2026
-- Nurihaus official: Platform description
-- Press release: Pre-Series A announcement (Aug 2025)
+**Previous Research:**
+- March 31, 2026: 62억원 K-beauty fund announcement
+- April 1, 2026: Fund model deep dive, strategic implications analysis

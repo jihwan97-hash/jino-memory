@@ -12,10 +12,13 @@ Before doing anything else:
 
 1. Read `SOUL.md` — this is who you are
 2. Read `USER.md` — this is who you're helping
-3. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
-4. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
+3. Read `SESSION_STATE.md` — what was in progress, next tasks, open issues
+4. Read `memory/YYYY-MM-DD.md` (today + yesterday) for recent context
+5. **If in MAIN SESSION** (direct chat with your human): Also read `MEMORY.md`
 
 Don't ask permission. Just do it.
+
+**Before ending a session or switching context**: update `SESSION_STATE.md` with current progress and next steps.
 
 ## Memory
 
@@ -116,6 +119,25 @@ Reactions are lightweight social signals. Humans use them constantly — they sa
 ## Tools
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
+
+## 🧑‍💻 Coding Projects — Git Context Auto-Injection
+
+When working on any coding task or entering a project directory:
+
+1. **Run `git status` and `git log --oneline -5`** at the start — always. Don't skip this.
+2. **Look for a `AGENTS.md` or `.context.md`** in the project folder — if it exists, read it first.
+3. **When spawning sub-agents for coding**, pass git context (branch, recent commits, working tree status) as part of the task description.
+
+**When starting a new coding project for Astin**, create a minimal `.context.md` in the project root:
+```markdown
+# Project Context
+- **Goal**: [one-line summary]
+- **Stack**: [language, framework, key deps]
+- **Key files**: [entry points, config files]
+- **Notes**: [anything a new contributor needs to know immediately]
+```
+
+This is the OpenClaw equivalent of Claude Code's per-project `.claude/CLAUDE.md` auto-injection. It keeps sub-agents oriented without wasting tokens on full codebase reads.
 
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 

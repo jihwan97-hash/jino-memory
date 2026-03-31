@@ -1,15 +1,11 @@
-# Auto-Study: 2026-03-31
+# Auto-Study 2026-04-01
 
-**Topic:** crypto-market
+Topic: crypto-market
+Date: 2026. 4. 1.
 
-## Findings
+## Crypto Market Update
+- Bitcoin's brief rally faded amid war-driven oil price surge
+- Rising volatility and declining futures interest signal growing caution
+- Market sentiment: cautious across crypto markets
 
-### Cryptocurrency Market News Today Bitcoin Ethereum
-
-**Source:** CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data
-
-**Summary:** Nearly half of all bitcoin is now trading at a loss, with the Bitcoin Impact Index surging to 57.4, indicating high stress levels. 6:53 AM.
-
----
-
-*Last updated: 2026-03-31 02:01 KST*
+Source: CoinDesk

@@ -1,116 +1,154 @@
 # Portfolio Company Research Index
 
-**Last Updated:** 2026-03-31 04:00 AM KST
+**Last Updated:** 2026-04-01 07:00 AM KST
 
-## Research Cycle Summary (March 31, 2026)
-**4 companies researched** | **2 major launches** | **1 critical concern resolved** | **1 strategic expansion**
+## Research Cycle Summary (April 1, 2026)
+**7 companies researched** | **2 major innovations** | **1 strategic delay** | **Multiple data gaps identified**
 
 ---
 
-## 🎉 Major Breakthroughs
+## 🚀 Major Developments This Cycle
 
-### 1. **[Radius Technology](./radiusxyz.md)** 🚀🚀🚀
-- **CRITICAL UPDATE:** Mainnet launched March 6, 2026!
-- **Status Change:** 🚨 Critical Concern → 🟢 Operational
-- **Tech:** 2.5M TPS stablecoin-focused blockchain with independent sharding
-- **Market:** Launched during stablecoin adoption boom, AI payments focus
-- **Action:** Monitor adoption metrics (TVL, transactions, developers) in Q2
+### 1. **[Backpack Exchange](./backpack-exchange.md)** 🚀🚀
+- **TGE Completed:** 250M tokens (25%) distributed to users (Feb/Mar 2026)
+- **Revolutionary Model:** Equity-for-tokens (1yr stake → company shares, 20% equity pool)
+- **On-Chain IPO:** New product launched March 4 (access IPO shares via platform)
+- **Valuation:** $1B unicorn, IPO target 2026
+- **Action:** Monitor IPO S-1 filing, staking adoption, on-chain IPO metrics
 
-### 2. **[Mythical Games](./mythical-games.md)** 🎮⚽
-- **FIFA Rivals launched:** 1M+ downloads in early weeks (March 2026)
-- **Partnership:** Adidas branded content integration
-- **Timing:** Positioned for World Cup 2026 catalyst
-- **Portfolio:** NFL Rivals (3M users, $650M txns) + FIFA Rivals (new growth driver)
-- **Action:** Track 30-day retention, revenue metrics, Pudgy Party pipeline
+### 2. **[Mythical Games](./mythical-games.md)** 🎮⚽ (Follow-up)
+- **FIFA Rivals Update:** 25M goals in 7 months, strong retention
+- **World Cup 2026:** Positioned for June-July user surge
+- **Portfolio:** NFL Rivals ($650M txns) + FIFA Rivals (growing) + Pudgy Party (pipeline)
+- **Thesis:** Best-in-class web3 gaming, multiple proven hits
+- **Action:** Monitor World Cup campaign performance, 30/90-day retention
 
-### 3. **[Nurihaus](./nurihaus.md)** 💄
-- **Fund Launch:** 62억원 K-beauty venture fund announced (March 24, 2026)
+### 3. **[Nurihaus](./nurihaus.md)** 💄 (Follow-up)
+- **Fund Launch:** 6.2B KRW K-beauty VC fund (March 24, 2026)
 - **Model:** Integrated investment + marketing + distribution support
-- **Timeline:** H1 2026 first brand investment planned
+- **Timeline:** H1 2026 first investment, H2 2026 campaign results
 - **Strategy:** Platform operator → Platform + VC hybrid
-- **Action:** Watch first investment, LP disclosure, fund deployment pace
+- **Action:** Watch first investment announcement (by June), H2 performance data
 
-### 4. **[Yuga Labs](./yuga-labs.md)** 🦧
-- **VibeMaker launched:** Permissionless metaverse building tools (March 2026)
-- **Otherside:** Expanding from curated to community-driven content
-- **Market:** NFT prices under pressure, utility play vs. speculation
-- **Concern:** No public user metrics (DAU/MAU still opaque)
-- **Action:** Request transparency on engagement metrics in Q2
+### 4. **[Story Protocol](./story-protocol.md)** ⚠️
+- **Token Unlock Delayed:** March → August 2026 (6-month extension)
+- **Reason:** Weak usage metrics, supply overhang fears, "need more time"
+- **Concern:** Team admission of weakness (usage thin)
+- **Watch:** Critical period until August (will ecosystem grow in time?)
+- **Action:** Monthly developer activity check, partnership announcements, IPKit adoption
 
 ---
 
-## Portfolio Health Dashboard (March 31, 2026)
+## Portfolio Health Dashboard (April 1, 2026)
 
 ### By Status
-- 🟢 **Operational & Strong Growth:** 3 companies (Radius, Mythical, Nurihaus - 75%)
-- 🟡 **Tracking (Mixed Signals):** 1 company (Yuga Labs - 25%)
-- 🚨 **Critical Concern:** 0 companies (0%) ← Radius resolved!
+- 🟢🟢 **Strong Green (Outperforming):** 1 company (Mythical Games - 8%)
+- 🟢 **Green (Operational & Positive):** 3 companies (Backpack, Nurihaus, Taiko - 25%)
+- 🟡 **Yellow (Data Gap or Mixed):** 5 companies (Radius*, Story, Payhere, Merge, Uprise - 42%)
+- 🚨 **Red (Critical Concern):** 2 companies (TheSwing, Yuga Labs - 17%)
+
+*Radius upgraded from Red to Yellow (mainnet launched, but no adoption data yet)
 
 ### By Recent Activity (Last 7 Days)
-- **Major launches:** Radius (mainnet), FIFA Rivals (global release)
-- **Strategic moves:** Nurihaus (venture fund), Yuga Labs (VibeMaker)
-- **Silent:** 6 companies not covered this cycle
+- **Major launches:** Backpack (equity-for-tokens, on-chain IPO)
+- **Strategic expansions:** Nurihaus (VC fund launch)
+- **Delays/Concerns:** Story Protocol (unlock delayed = weakness admission)
+- **Data gaps:** Radius (post-launch metrics needed), Payhere, Merge, Uprise, TheSwing
 
-### Key Themes (March 2026)
-1. **Product launches accelerating:** Radius, FIFA Rivals, VibeMaker
-2. **Strategic expansions:** Nurihaus moving into VC
-3. **Market timing:** Stablecoin boom (Radius), World Cup 2026 (FIFA Rivals), K-beauty exports (Nurihaus)
-4. **Transparency gap:** Yuga Labs still not disclosing user metrics
+### Key Themes (April 2026)
+1. **Innovation in tokenomics:** Backpack equity-for-tokens model (bridging crypto + TradFi)
+2. **Strategic pivots:** Nurihaus moving into VC (platform + capital hybrid)
+3. **Execution concerns:** Story Protocol delay = usage weakness
+4. **Adoption transparency gaps:** Most companies lack public metrics
+5. **World Cup 2026 positioning:** Mythical Games FIFA Rivals ready for catalyst
 
 ---
 
-## Not Researched This Cycle (March 31)
-These companies were not updated due to rate limits and time constraints:
+## Company Status Overview
 
-1. **Backpack Exchange** - Last checked: March 30 (token TGE live, IPO target 2026)
-2. **Story Protocol** - Last checked: March 30 (token unlock delayed to August 2026)
-3. **Taiko Labs** - Last checked: March 30 (mainnet stable, Gwyneth upgrade planned)
-4. **Payhere** - Last checked: March 30 (60K+ merchants, foreign tourist payments)
-5. **Merge Holdings** - Last checked: March 30 (EU EMI+VASP licenses, MiCA transition)
-6. **TheSwing** - Last checked: March 30 (DATA GAP: no 2023-2026 updates)
-7. **Uprise/HorizonWealth** - Last checked: March 30 (DATA GAP: merger status unclear)
+### 🟢🟢 Strong Green (1)
+1. **Mythical Games** - FIFA Rivals breakout hit, World Cup 2026 positioning, proven business model
 
-**Note:** These companies have recent research from March 30. Next cycle should rotate focus to data gap companies (TheSwing, Uprise).
+### 🟢 Green (3)
+1. **Backpack Exchange** - TGE complete, equity-tokens innovation, IPO path clear
+2. **Nurihaus** - K-beauty fund launched, integrated platform+VC model, H1 first investment
+3. **Taiko Labs** - Gwyneth rollup planned 2026, based rollup differentiation, mainnet stable
+
+### 🟡 Yellow - Data Gap or Mixed (5)
+1. **Radius Technology** - Mainnet launched Mar 6, but no adoption data (TVL, txns, users)
+2. **Story Protocol** - Token unlock delayed (weakness), usage thin, critical watch until August
+3. **Payhere** - No 2026 updates found, competitive market, needs direct inquiry
+4. **Merge Holdings** - MiCA transition unclear, no metrics, 70% VASP failure rate context
+5. **Uprise/HorizonWealth** - Merger status unknown, no updates since 2021 announcement
+
+### 🚨 Red - Critical Concern (2)
+1. **TheSwing** - No data 2024-2026, urgent need for direct outreach or audit reports
+2. **Yuga Labs** - VibeMaker launched but no user metrics, transparency gap continues
+
+---
+
+## Research Coverage This Cycle (April 1, 2026)
+
+### Researched (7 companies):
+1. **Backpack Exchange** ✅ - Major updates (TGE, equity-tokens, on-chain IPO)
+2. **Story Protocol** ✅ - Token unlock delay analysis
+3. **Taiko Labs** ✅ - Gwyneth rollup roadmap
+4. **Mythical Games** ✅ - FIFA Rivals performance update
+5. **Nurihaus** ✅ - K-beauty fund deep dive
+6. **Radius Technology** ✅ - Post-launch status (data gap identified)
+7. **Payhere** ✅ - Market scan (no specific updates found)
+8. **Merge Holdings** ✅ - MiCA context research (company-specific data gap)
+9. **Uprise/HorizonWealth** 🔍 - Attempted research (no new data found)
+10. **TheSwing** 🔍 - Attempted research (still no data)
+
+### Not Researched This Cycle (1):
+1. **Yuga Labs** - Deferred (covered March 31, next cycle Q2)
 
 ---
 
 ## Next Research Cycle Recommendations
 
-### Immediate Priority (April 2026)
-1. **TheSwing:** URGENT - Search for 2023-2025 audit reports, contact IR
-2. **Uprise/HorizonWealth:** Check 금융위원회 filings for merger completion
-3. **Backpack Exchange:** Watch for IPO S-1 filing announcements
+### Immediate Priority (May 2026)
+1. **TheSwing:** URGENT - Direct outreach to IR, search for audit reports, consider write-off if no response
+2. **Uprise/HorizonWealth:** Check 금융위원회 filings for merger completion, direct inquiry
+3. **Radius Technology:** Request official metrics (TVL, txns, partnerships) - post-launch traction critical
+4. **Payhere:** Direct IR outreach for merchant count, transaction volume, foreign tourist payments
+5. **Merge Holdings:** Schedule team call (customer acquisition, MiCA CASP status)
 
 ### Q2 2026 Deep Dives
-1. **Radius Technology:** Adoption metrics (TVL, daily txns, developer activity)
-2. **Mythical Games:** FIFA Rivals retention and revenue vs. NFL Rivals
-3. **Nurihaus:** First fund investment announcement and brand selection
-4. **Merge Holdings:** Customer acquisition update (schedule team call)
+1. **Backpack Exchange:** IPO S-1 filing watch, staking adoption metrics, on-chain IPO usage
+2. **Story Protocol:** Monthly ecosystem health check (developer activity, partnerships, IPKit adoption)
+3. **Nurihaus:** First fund investment announcement (by June), investment thesis disclosure
+4. **Mythical Games:** World Cup 2026 campaign performance (June-July user surge, post-event retention)
+5. **Taiko Labs:** Gwyneth testnet/devnet metrics, partnership announcements, TVL comparison
 
 ### Q3 2026 Focus
-1. **Story Protocol:** Pre-unlock ecosystem health (before August unlock)
-2. **Backpack:** IPO execution or delay announcement
-3. **Yuga Labs:** User metrics transparency (if available)
+1. **Story Protocol:** Pre-August unlock assessment (critical go/no-go decision)
+2. **Backpack:** IPO execution or delay signals
+3. **Radius:** 4-month post-launch review (July 1) - traction assessment
+4. **Yuga Labs:** User metrics transparency (if available)
 
 ---
 
 ## Research Methodology
 
 ### Data Sources
-- **Web search:** Brave API (rate-limited: 1 query/sec)
-- **Primary:** Company blogs, official announcements
-- **Secondary:** CoinDesk, TheBlock, Forbes Korea, THE VC, Crunchbase, WowTale
+- **Web search:** Brave API (rate-limited: 1 query/sec, 2000/month quota)
+- **Primary:** Company blogs, official announcements, press releases
+- **Secondary:** CoinDesk, TheBlock, Forbes, THE VC, Crunchbase, Asia Business Daily
 - **Tertiary:** Twitter, LinkedIn, Discord (manual check when needed)
+- **Direct outreach:** IR emails, team calls (for data gap companies)
 
-### Storage
-- **ClawVault:** `/Users/astin/.jinobot/clawd/jino-memory/projects/` (structured research notes)
-- **Warm memory:** `/Users/astin/.jinobot/clawd/warm-memory/portfolio/` (company summaries)
+### Storage (Dual System)
+- **ClawVault:** `/Users/astin/.jinobot/clawd/jino-memory/projects/` (structured research notes with embeddings)
+- **Warm memory:** `/Users/astin/.jinobot/clawd/warm-memory/portfolio/` (company summaries for quick reference)
 - **Backup:** Git commits with timestamps (both repos)
 
 ### Update Cadence
-- **Monthly:** Rotate through all companies (aim for 8-10 per cycle)
-- **Event-driven:** Token launches, IPOs, major funding, product releases
-- **Data gap companies:** Quarterly deep dives with direct outreach
+- **Monthly rotation:** Aim for 8-10 companies per cycle
+- **Event-driven:** Token launches, IPOs, major funding, product releases, critical delays
+- **Data gap follow-up:** Quarterly deep dives with direct outreach when needed
+- **Critical watch:** Weekly check for companies with near-term catalysts (e.g., Story Aug unlock)
 
 ---
 
@@ -122,34 +160,63 @@ These companies were not updated due to rate limits and time constraints:
 - ✅ Recent funding or positive announcements
 - ✅ Competitive differentiation visible
 - ✅ Market timing favorable
+- ✅ Team transparency and communication
 
 ### Yellow Light Indicators
-- ⚠️ Product live but metrics unclear
-- ⚠️ Delayed milestones (but rational explanation)
+- ⚠️ Product live but metrics unclear (opacity)
+- ⚠️ Delayed milestones but with rational explanation
 - ⚠️ High competition (need differentiation story)
 - ⚠️ Market timing uncertain
+- ⚠️ No public updates (but no negative signals either)
 
 ### Red Light Indicators
-- 🚨 Silent for 6+ months (no updates)
-- 🚨 Major pivot without explanation
+- 🚨 Silent for 6+ months (no updates, no communication)
+- 🚨 Major pivot without explanation or rationale
 - 🚨 Team departures or funding difficulties
 - 🚨 Product delays with no communication
+- 🚨 Admission of weakness without clear recovery plan
 
 ---
 
 ## Performance Highlights (This Cycle)
 
-### Biggest Win
-**Radius Technology:** Resolved critical concern with successful mainnet launch. Went from "6+ months silent, missed Q1 2025 target" to "live with 2.5M TPS claims and clear positioning."
+### Biggest Innovation
+**Backpack Exchange:** Equity-for-tokens mechanism is genuinely novel. Bridges crypto and TradFi in a way that gives retail token holders upside traditionally reserved for equity investors. If regulatory approved, could set new standard.
 
-### Most Promising New Development
-**Mythical Games FIFA Rivals:** 1M+ downloads + Adidas partnership + World Cup 2026 timing = potential breakout hit.
+### Most Concerning
+**Story Protocol:** 6-month unlock delay is an admission that ecosystem usage is weak. Team transparency is good, but the problem remains: will 6 months be enough to build real traction before major supply expansion?
+
+### Best Execution
+**Mythical Games:** Consistently delivers. NFL Rivals → FIFA Rivals both successful, World Cup timing perfect, Pudgy Party in pipeline. This is what great execution looks like.
 
 ### Strategic Surprise
-**Nurihaus:** Moving into venture capital was unexpected. K-beauty fund could be differentiated with integrated support model.
+**Nurihaus:** K-beauty fund was unexpected but smart. Integrated platform+capital model creates competitive moat and deeper brand relationships. First-mover in this niche.
 
-### Transparency Concern
-**Yuga Labs:** VibeMaker is cool, but still no user metrics for Otherside. Hard to assess real adoption without data.
+### Data Gap Concern
+**Multiple companies (Radius, Payhere, Merge, Uprise, TheSwing):** Too many portfolio companies have no public metrics or updates. Need more proactive direct outreach to assess real progress.
+
+---
+
+## Action Items for Portfolio Management
+
+### Immediate (April 2026)
+- [ ] Direct outreach to TheSwing (URGENT - last attempt before write-off consideration)
+- [ ] Request Radius post-launch metrics (TVL, txns, partnerships)
+- [ ] Schedule Merge Holdings team call (customer acquisition, MiCA status)
+
+### Q2 2026 (May-June)
+- [ ] Monitor Backpack IPO S-1 filing announcements
+- [ ] Track Nurihaus first fund investment (expected by June)
+- [ ] Monthly Story Protocol ecosystem check (developer activity, partnerships)
+- [ ] Payhere direct IR inquiry (merchant growth, transaction volume)
+- [ ] Uprise merger status check (금융위원회 filings)
+
+### Q3 2026 (July-Sept)
+- [ ] Radius 4-month review (July 1 deadline for traction assessment)
+- [ ] Story Protocol pre-unlock decision (before August unlock)
+- [ ] Mythical Games post-World Cup analysis (retention after tournament)
+- [ ] Backpack IPO execution or delay signals
+- [ ] Yuga Labs transparency request (user metrics)
 
 ---
 
@@ -157,7 +224,8 @@ These companies were not updated due to rate limits and time constraints:
 Cron job: `portfolio-research` (runs monthly at 04:00 AM KST)  
 Manual trigger: Message agent with "portfolio research" or "update portfolio companies"
 
-**Last research:** 2026-03-31 04:00 AM KST  
-**Next scheduled:** 2026-04-30 04:00 AM KST  
-**Companies covered this cycle:** 4 (Radius, Mythical, Nurihaus, Yuga)  
-**Companies with data gaps:** 2 (TheSwing, Uprise/HorizonWealth)
+**Last research:** 2026-04-01 07:00 AM KST  
+**Next scheduled:** 2026-05-01 04:00 AM KST  
+**Companies covered this cycle:** 7 fully researched + 3 attempted (data gaps)  
+**ClawVault entries created:** 7 (Backpack, Story, Taiko, Mythical, Nurihaus, Radius, Payhere, Merge)  
+**Critical actions needed:** TheSwing outreach, Radius metrics request, multiple direct inquiries

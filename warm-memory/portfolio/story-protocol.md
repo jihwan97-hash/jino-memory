@@ -1,82 +1,68 @@
-# Story Protocol - Portfolio Research
+# Story Protocol
 
-**Last Updated:** 2026-03-30
+**Last Updated:** 2026-04-01
 
-## Company Overview
-Blockchain for programmable intellectual property (IP)
-- **Vision:** Tokenize the $80 trillion IP asset class
-- **Focus:** IP ownership, remix rights, monetization on-chain
+## Status: ⚠️ YELLOW LIGHT - Token Unlock Delayed
 
-## Recent Developments
+### Critical Development (February 2026)
 
-### Mainnet Launch ✅ (Nov 2025)
-- Successfully launched production network
-- IP registration and licensing infrastructure live
+**6-Month Unlock Delay:**
+- Original: March 2026 (team + early backers unlock)
+- **New date: August 2026**
+- Reason: Weak usage metrics, supply overhang fears
 
-### 🚨 Token Unlock Delay (Feb 9, 2026)
-**Original plan:** March 2026 token unlock for early backers/contributors  
-**New timeline:** **August 2026** (6-month delay)
+**Co-Founder Statement (Feb 9):**
+- "Project needs more time" to build network usage
+- Admission of weak market conditions
+- Strategy: Build utility before major supply expansion
 
-**Rationale (from co-founder):**
-- "Project needs more time" to build usage
-- Team + investor tokens remain locked
-- Community tokens unaffected by delay
+### Technology & Vision
 
-### Current Token Price (March 27, 2026)
-- **$0.6067 USD** (+0.02% in 24h)
-- Relatively stable post-delay announcement
+**Market Positioning:**
+- "Unlocking the $80 trillion IP asset class"
+- Tokenize and program intellectual property
+- Target: AI data licensing and monetization
 
-## Strategic Analysis
+**Product Focus:**
+- IPKit tooling development (advanced IP management)
+- Positioning at AI + blockchain intersection
+- Programmable IP ownership, remix, monetization
 
-### The Delay: Positive or Negative?
+### Investment Thesis: ⚠️ YELLOW LIGHT
 
-**Bullish Signals:**
-- ✅ Reduces sell pressure (no VC dumping in March)
-- ✅ Shows team discipline (prioritizing product over liquidity)
-- ✅ More time for ecosystem development
+**Concerns:**
+- ⚠️ Usage remains thin (team admission)
+- ⚠️ Delay = weakness acknowledgment (not strength)
+- ⚠️ Supply overhang will still hit in August
+- ⚠️ 6 months to prove traction = high pressure
 
-**Bearish Signals:**
-- ⚠️ Suggests slower-than-expected adoption
-- ⚠️ May indicate product-market fit challenges
-- ⚠️ Changing unlock schedules erodes trust
+**Positives:**
+- ✅ Team transparency (acknowledged issues publicly)
+- ✅ Compelling long-term vision ($80T IP market)
+- ✅ AI + IP narrative gaining traction
+- ✅ Discipline shown (not dumping on weak market)
 
-**Market Reaction:**
-Token price remained stable, suggesting community accepted the rationale.
+### Critical Watch Period: August 2026
 
-## Use Cases
-- **AI training data licensing:** Track provenance and pay creators
-- **Content creator IP management:** Automated royalty splits
-- **Remix economy:** Derivative work tracking on-chain
-- **Brand licensing:** Programmable IP for merchandise/partnerships
+**Success Metrics Needed:**
+- Monthly active developers on Story Protocol
+- IPKit integration partnerships
+- AI licensing use cases (real revenue vs. promises)
+- Pre-unlock ecosystem health indicators
 
-## Competitive Landscape
-- **Direct:** Other IP-focused blockchains (rare)
-- **Adjacent:** NFT marketplaces (OpenSea, Blur) - different model
-- **Potential partners:** AI companies (OpenAI, Anthropic) for training data
+**Decision Framework:**
+- If usage still thin in August → Major red flag
+- If adoption growing → Delay was justified
+- Monitor Q2 2026 progress closely
 
-## Status Assessment
-**🟡 MAINNET LIVE - ADOPTION BUILDING**
-
-The mainnet is operational, but the unlock delay suggests traction is slower than hoped. This is a long-term infrastructure play—patience required.
-
-## Key Metrics to Watch
-- IP registrations on-chain (monthly growth)
-- Developer activity (SDKs, APIs usage)
-- Partnerships with content platforms (YouTube creators, stock photo sites, etc.)
-- Token unlock impact (August 2026)
-
-## Investment Implications
-- **Timing:** Very early-stage (mainnet <6 months old)
-- **Market:** $80T IP market is real, but blockchain adoption unclear
-- **Execution risk:** Building two-sided marketplace (IP owners + licensees)
-- **Token dynamics:** August 2026 unlock will be first major test
-
-## Catalysts for 2026
-- **Q2:** Major partnership announcement (music label? stock photo site?)
-- **August:** First token unlock—will market absorb supply?
-- **Q4:** Annual usage metrics (IPs registered, license transactions)
-
-**Next check:** June 2026 for pre-unlock ecosystem health, then September 2026 post-unlock analysis
+### Next Steps
+- Monthly check on developer activity
+- Watch for partnership announcements
+- IPKit adoption metrics (if disclosed)
+- Reassess before August unlock
 
 ---
-*Research sources: CoinDesk, VentureBurn, CoinMarketCap, Story Foundation (Nov 2025 - Mar 2026)*
+
+**Previous Research:**
+- March 30, 2026: Token unlock delayed to August 2026
+- April 1, 2026: Deep dive on delay reasoning and ecosystem concerns
