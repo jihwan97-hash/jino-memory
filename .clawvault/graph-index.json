@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-03-31T17:02:07.995Z",
+  "generatedAt": "2026-03-31T22:07:30.924Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -16136,6 +16136,24 @@
       ],
       "edges": []
     },
+    "projects/backpack-exchange-research-2026-04-01.md": {
+      "relativePath": "projects/backpack-exchange-research-2026-04-01.md",
+      "mtimeMs": 1774994664100.7249,
+      "nodes": [
+        {
+          "id": "note:projects/backpack-exchange-research-2026-04-01",
+          "title": "backpack-exchange-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/backpack-exchange-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:04:24.100Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/merge-holdings-research-2026-03-30.md": {
       "relativePath": "projects/merge-holdings-research-2026-03-30.md",
       "mtimeMs": 1774836035310.0703,
@@ -16150,6 +16168,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-30T02:00:35.310Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/merge-holdings-research-2026-04-01.md": {
+      "relativePath": "projects/merge-holdings-research-2026-04-01.md",
+      "mtimeMs": 1774994850841.409,
+      "nodes": [
+        {
+          "id": "note:projects/merge-holdings-research-2026-04-01",
+          "title": "merge-holdings-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/merge-holdings-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:07:30.841Z"
         }
       ],
       "edges": []
@@ -16190,6 +16226,24 @@
       ],
       "edges": []
     },
+    "projects/mythical-games-research-2026-04-01.md": {
+      "relativePath": "projects/mythical-games-research-2026-04-01.md",
+      "mtimeMs": 1774994762580.849,
+      "nodes": [
+        {
+          "id": "note:projects/mythical-games-research-2026-04-01",
+          "title": "mythical-games-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/mythical-games-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:06:02.580Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/nurihaus-research-2026-03-31.md": {
       "relativePath": "projects/nurihaus-research-2026-03-31.md",
       "mtimeMs": 1774897589331.1099,
@@ -16204,6 +16258,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-30T19:06:29.331Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/nurihaus-research-2026-04-01.md": {
+      "relativePath": "projects/nurihaus-research-2026-04-01.md",
+      "mtimeMs": 1774994765533.5845,
+      "nodes": [
+        {
+          "id": "note:projects/nurihaus-research-2026-04-01",
+          "title": "nurihaus-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/nurihaus-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:06:05.533Z"
         }
       ],
       "edges": []
@@ -16246,6 +16318,24 @@
         }
       ]
     },
+    "projects/payhere-research-2026-04-01.md": {
+      "relativePath": "projects/payhere-research-2026-04-01.md",
+      "mtimeMs": 1774994847834.7358,
+      "nodes": [
+        {
+          "id": "note:projects/payhere-research-2026-04-01",
+          "title": "payhere-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/payhere-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:07:27.834Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/radius-technology-research-2026-03-31.md": {
       "relativePath": "projects/radius-technology-research-2026-03-31.md",
       "mtimeMs": 1774897589331.6377,
@@ -16260,6 +16350,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-30T19:06:29.331Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/radius-technology-research-2026-04-01.md": {
+      "relativePath": "projects/radius-technology-research-2026-04-01.md",
+      "mtimeMs": 1774994844876.828,
+      "nodes": [
+        {
+          "id": "note:projects/radius-technology-research-2026-04-01",
+          "title": "radius-technology-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/radius-technology-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:07:24.876Z"
         }
       ],
       "edges": []
@@ -16300,6 +16408,24 @@
       ],
       "edges": []
     },
+    "projects/story-protocol-research-2026-04-01.md": {
+      "relativePath": "projects/story-protocol-research-2026-04-01.md",
+      "mtimeMs": 1774994756594.482,
+      "nodes": [
+        {
+          "id": "note:projects/story-protocol-research-2026-04-01",
+          "title": "story-protocol-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/story-protocol-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:05:56.594Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/taiko-labs-research-2026-03-30.md": {
       "relativePath": "projects/taiko-labs-research-2026-03-30.md",
       "mtimeMs": 1774836035312.5833,
@@ -16314,6 +16440,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-30T02:00:35.312Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/taiko-labs-research-2026-04-01.md": {
+      "relativePath": "projects/taiko-labs-research-2026-04-01.md",
+      "mtimeMs": 1774994759571.0283,
+      "nodes": [
+        {
+          "id": "note:projects/taiko-labs-research-2026-04-01",
+          "title": "taiko-labs-research-2026-04-01",
+          "type": "project",
+          "category": "project",
+          "path": "projects/taiko-labs-research-2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-31T22:05:59.571Z"
         }
       ],
       "edges": []
@@ -19402,6 +19546,17 @@
         "modifiedAt": "2026-03-30T02:00:35.309Z"
       },
       {
+        "id": "note:projects/backpack-exchange-research-2026-04-01",
+        "title": "backpack-exchange-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/backpack-exchange-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:04:24.100Z"
+      },
+      {
         "id": "note:projects/merge-holdings-research-2026-03-30",
         "title": "merge-holdings-research-2026-03-30",
         "type": "project",
@@ -19411,6 +19566,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T02:00:35.310Z"
+      },
+      {
+        "id": "note:projects/merge-holdings-research-2026-04-01",
+        "title": "merge-holdings-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/merge-holdings-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:07:30.841Z"
       },
       {
         "id": "note:projects/mythical-games-research-2026-03-30",
@@ -19435,6 +19601,17 @@
         "modifiedAt": "2026-03-30T19:06:29.330Z"
       },
       {
+        "id": "note:projects/mythical-games-research-2026-04-01",
+        "title": "mythical-games-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/mythical-games-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:06:02.580Z"
+      },
+      {
         "id": "note:projects/nurihaus-research-2026-03-31",
         "title": "nurihaus-research-2026-03-31",
         "type": "project",
@@ -19444,6 +19621,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T19:06:29.331Z"
+      },
+      {
+        "id": "note:projects/nurihaus-research-2026-04-01",
+        "title": "nurihaus-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/nurihaus-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:06:05.533Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-30",
@@ -19459,6 +19647,17 @@
         "modifiedAt": "2026-03-30T02:00:35.311Z"
       },
       {
+        "id": "note:projects/payhere-research-2026-04-01",
+        "title": "payhere-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/payhere-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:07:27.834Z"
+      },
+      {
         "id": "note:projects/radius-technology-research-2026-03-31",
         "title": "radius-technology-research-2026-03-31",
         "type": "project",
@@ -19468,6 +19667,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T19:06:29.331Z"
+      },
+      {
+        "id": "note:projects/radius-technology-research-2026-04-01",
+        "title": "radius-technology-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/radius-technology-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:07:24.876Z"
       },
       {
         "id": "note:projects/radiusxyz-research-2026-03-30",
@@ -19492,6 +19702,17 @@
         "modifiedAt": "2026-03-30T02:00:35.312Z"
       },
       {
+        "id": "note:projects/story-protocol-research-2026-04-01",
+        "title": "story-protocol-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/story-protocol-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:05:56.594Z"
+      },
+      {
         "id": "note:projects/taiko-labs-research-2026-03-30",
         "title": "taiko-labs-research-2026-03-30",
         "type": "project",
@@ -19501,6 +19722,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-30T02:00:35.312Z"
+      },
+      {
+        "id": "note:projects/taiko-labs-research-2026-04-01",
+        "title": "taiko-labs-research-2026-04-01",
+        "type": "project",
+        "category": "project",
+        "path": "projects/taiko-labs-research-2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-31T22:05:59.571Z"
       },
       {
         "id": "note:projects/theswing-research-2026-03-30",
@@ -28022,8 +28254,8 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-03-31T17:02:07.995Z",
-      "nodeCount": 534,
+      "generatedAt": "2026-03-31T22:07:30.924Z",
+      "nodeCount": 542,
       "edgeCount": 759,
       "nodeTypeCounts": {
         "note": 164,
@@ -28035,7 +28267,7 @@
         "handoff": 8,
         "lesson": 7,
         "person": 2,
-        "project": 23
+        "project": 31
       },
       "edgeTypeCounts": {
         "tag": 245,
