@@ -139,6 +139,24 @@ When working on any coding task or entering a project directory:
 
 This is the OpenClaw equivalent of Claude Code's per-project `.claude/CLAUDE.md` auto-injection. It keeps sub-agents oriented without wasting tokens on full codebase reads.
 
+## ⚡ LLM Engineering Patterns (Claude Code 분석 기반)
+
+### Tool Result 크기 관리
+- Sub-agent에게 파일 읽기/grep 같은 대량 작업 시킬 때, 결과 크기를 미리 고려할 것
+- 병렬 tool 호출 결과 합산이 클 경우 청크로 나눠 처리 (예: 파일 10개 동시 읽기 → 2~3개씩)
+- 대량 결과는 `/tmp/` 파일로 먼저 저장 후 필요한 부분만 발췌해서 컨텍스트에 넣기
+
+### 비가역 액션 분리 원칙 (Hooks 패턴)
+- 스킬이나 액션 설계 시 **"이게 비가역적인가?"** 를 먼저 물을 것
+- 비가역적 액션(이메일 발송, 파일 삭제, 공개 포스팅, DB 쓰기)은 반드시 확인 단계 포함
+- 가역적 액션(읽기, 로컬 파일 생성, 검색)은 바로 실행
+- LLM 판단에 의존하지 말고 **결정론적으로 차단** — "조심해" 프롬프트보다 명시적 확인이 훨씬 신뢰성 높음
+
+### Prompt Cache 최적화
+- 컨텍스트 배치 순서: 불변 파일(SOUL.md, AGENTS.md) → 반불변(MEMORY.md) → 자주 변하는 것(SESSION_STATE, conversation)
+- MEMORY.md에는 **안정적인 장기 사실만** 담을 것 — 임시 인사이트나 진행 중 작업은 SESSION_STATE.md로
+- MEMORY.md 내용이 자주 바뀌면 매 세션마다 cache break → 토큰 낭비
+
 **🎭 Voice Storytelling:** If you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and "storytime" moments! Way more engaging than walls of text. Surprise people with funny voices.
 
 **📝 Platform Formatting:**

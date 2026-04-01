@@ -23,6 +23,12 @@
 - 보내기: `exec` tool로 `node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js send --to "수신자" --subject "제목" --body "내용" --account jihwan`
 - 답장: `exec` tool로 `node /Users/astin/.jinobot/clawd/skills/gmail/scripts/gmail.js reply --id MSG_ID --body "내용" --account jihwan`
 
+## Twitter/X 읽기 전략
+- **일반 트윗**: `curl -s "https://api.fxtwitter.com/{username}/status/{id}"` — 로그인 불필요, 텍스트/미디어 추출 가능
+- **X Article**: 로그인 필요 → `bird read URL` (쿠키 필요) 또는 직접 내용 복붙 요청
+- `bird read` 쿠키 설정 안 되어 있음 → 필요 시 브라우저 로그인 후 쿠키 export 작업 필요
+- fxtwitter 웹(fxtwitter.com)은 x.com으로 redirect되어 막힘 — **반드시 API 엔드포인트** `api.fxtwitter.com` 사용
+
 ## Browser (Playwright Chromium)
 - 웹페이지 읽기: `exec` tool로 `node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/read-page.js "URL" --max-chars 5000`
 - 스크린샷: `exec` tool로 `node /Users/astin/.jinobot/clawd/skills/cloudflare-browser/scripts/screenshot.js "URL" /tmp/screenshot.png`
