@@ -160,5 +160,11 @@
     "lastObservedAt": "2026-04-01T05:00:08.437Z",
     "sessionKey": "agent:main:cron:545eab8f-a216-41b6-bfa4-1c8aa635199a",
     "lastFileSize": 51755
+  },
+  "6012036f-cf85-4be4-bffa-e2ca877a20db": {
+    "lastObservedOffset": 52272,
+    "lastObservedAt": "2026-04-01T17:00:14.272Z",
+    "sessionKey": "agent:main:cron:a05851dd-1193-4618-884c-bf060a44b98f",
+    "lastFileSize": 52272
   }
 }

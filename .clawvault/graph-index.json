@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-01T11:02:39.017Z",
+  "generatedAt": "2026-04-01T17:02:28.743Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -4207,6 +4207,97 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md": {
+      "relativePath": "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md",
+      "mtimeMs": 1775062814269.6855,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+          "title": "Assistant Now Let Me Check If Hot Memorymd And The Brain Memory Directory Exist",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T17:00:14.269Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:open",
+          "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:task",
+          "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd.md": {
       "relativePath": "backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd.md",
       "mtimeMs": 1775019647905.1455,
@@ -6846,6 +6937,97 @@
         }
       ]
     },
+    "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md": {
+      "relativePath": "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md",
+      "mtimeMs": 1775062814261.0342,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+          "title": "Assistant The Inbox Data Hasnt Changed Since The Morning Summary Still Last Synced 2026 03 28 0701 Kst Let Me Writ",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T17:00:14.261Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:observer",
+          "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:open",
+          "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:task",
+          "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->unresolved:observer",
+          "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and.md": {
       "relativePath": "backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and.md",
       "mtimeMs": 1775019647905.6743,
@@ -8940,7 +9122,7 @@
     },
     "commitments/2026-04-01.md": {
       "relativePath": "commitments/2026-04-01.md",
-      "mtimeMs": 1775019647906.3206,
+      "mtimeMs": 1775062814271.2214,
       "nodes": [
         {
           "id": "note:commitments/2026-04-01",
@@ -8951,7 +9133,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:47.906Z"
+          "modifiedAt": "2026-04-01T17:00:14.271Z"
         },
         {
           "id": "unresolved:your",
@@ -14444,6 +14626,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-04-01-1702.md": {
+      "relativePath": "handoffs/handoff-2026-04-01-1702.md",
+      "mtimeMs": 1775062948659.7305,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-01-1702",
+          "title": "handoff-2026-04-01-1702",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-01-1702.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T17:02:28.659Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -14862,7 +15062,7 @@
     },
     "ledger/observations/2026/04/01.md": {
       "relativePath": "ledger/observations/2026/04/01.md",
-      "mtimeMs": 1775019608408.6409,
+      "mtimeMs": 1775062814194.7798,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/01",
@@ -14873,7 +15073,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.408Z"
+          "modifiedAt": "2026-04-01T17:00:14.194Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -20555,6 +20755,21 @@
         "modifiedAt": "2026-04-01T05:00:47.904Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+        "title": "Assistant Now Let Me Check If Hot Memorymd And The Brain Memory Directory Exist",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T17:00:14.269Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
         "title": "Assistant Now Let Me Check If The Brain Memory Directory Exists And Look For Hot Memorymd",
         "type": "note",
@@ -20990,6 +21205,21 @@
         "modifiedAt": "2026-03-31T01:01:43.434Z"
       },
       {
+        "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+        "title": "Assistant The Inbox Data Hasnt Changed Since The Morning Summary Still Last Synced 2026 03 28 0701 Kst Let Me Writ",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T17:00:14.261Z"
+      },
+      {
         "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and",
         "title": "Assistant The Inbox Data Hasnt Changed Still Last Synced March 28 Ill Write Todays Email Summary Noting This And",
         "type": "note",
@@ -21386,7 +21616,7 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-04-01T05:00:47.906Z"
+        "modifiedAt": "2026-04-01T17:00:14.271Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -21985,6 +22215,17 @@
         "modifiedAt": "2026-04-01T11:02:38.935Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-04-01-1702",
+        "title": "handoff-2026-04-01-1702",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-01-1702.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T17:02:28.659Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -22103,7 +22344,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T05:00:08.408Z"
+        "modifiedAt": "2026-04-01T17:00:14.194Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -23233,7 +23474,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 89,
+        "degree": 91,
         "modifiedAt": null
       },
       {
@@ -23244,7 +23485,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 89,
+        "degree": 91,
         "modifiedAt": null
       },
       {
@@ -23255,7 +23496,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 89,
+        "degree": 91,
         "modifiedAt": null
       },
       {
@@ -25213,7 +25454,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 89,
+        "degree": 91,
         "modifiedAt": null
       },
       {
@@ -27477,6 +27718,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:open",
+        "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->tag:task",
+        "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd->tag:observer",
         "source": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
         "target": "tag:observer",
@@ -27995,6 +28254,24 @@
       {
         "id": "tag:note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps->tag:task",
         "source": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:observer",
+        "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:open",
+        "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->tag:task",
+        "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
         "target": "tag:task",
         "type": "tag"
       },
@@ -28731,6 +29008,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
         "target": "unresolved:observer",
@@ -28901,6 +29184,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps->unresolved:observer",
         "source": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ->unresolved:observer",
+        "source": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -31846,24 +32135,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-01T11:02:39.017Z",
-      "nodeCount": 580,
-      "edgeCount": 866,
+      "generatedAt": "2026-04-01T17:02:28.743Z",
+      "nodeCount": 583,
+      "edgeCount": 874,
       "nodeTypeCounts": {
-        "note": 187,
+        "note": 189,
         "tag": 18,
         "unresolved": 305,
         "commitment": 5,
         "daily": 5,
         "decision": 7,
-        "handoff": 12,
+        "handoff": 13,
         "lesson": 7,
         "person": 2,
         "project": 32
       },
       "edgeTypeCounts": {
-        "tag": 301,
-        "wiki_link": 565
+        "tag": 307,
+        "wiki_link": 567
       }
     }
   }
