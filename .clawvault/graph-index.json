@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-01T17:02:28.743Z",
+  "generatedAt": "2026-04-01T19:06:39.613Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -4209,7 +4209,7 @@
     },
     "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md": {
       "relativePath": "backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist.md",
-      "mtimeMs": 1775062814269.6855,
+      "mtimeMs": 1775062957003.9807,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-check-if-hot-memorymd-and-the-brain-memory-directory-exist",
@@ -4224,7 +4224,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:00:14.269Z"
+          "modifiedAt": "2026-04-01T17:02:37.003Z"
         },
         {
           "id": "tag:observer",
@@ -6939,7 +6939,7 @@
     },
     "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md": {
       "relativePath": "backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ.md",
-      "mtimeMs": 1775062814261.0342,
+      "mtimeMs": 1775062957004.5396,
       "nodes": [
         {
           "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
@@ -6954,7 +6954,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:00:14.261Z"
+          "modifiedAt": "2026-04-01T17:02:37.004Z"
         },
         {
           "id": "tag:observer",
@@ -8600,7 +8600,7 @@
     },
     "brain-memory/daily/email-2026-04-01.md": {
       "relativePath": "brain-memory/daily/email-2026-04-01.md",
-      "mtimeMs": 1775019647849.6667,
+      "mtimeMs": 1775062956954.4365,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-04-01",
@@ -8614,7 +8614,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:47.849Z"
+          "modifiedAt": "2026-04-01T17:02:36.954Z"
         },
         {
           "id": "tag:2",
@@ -9122,7 +9122,7 @@
     },
     "commitments/2026-04-01.md": {
       "relativePath": "commitments/2026-04-01.md",
-      "mtimeMs": 1775062814271.2214,
+      "mtimeMs": 1775062957005.2026,
       "nodes": [
         {
           "id": "note:commitments/2026-04-01",
@@ -9133,7 +9133,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:00:14.271Z"
+          "modifiedAt": "2026-04-01T17:02:37.005Z"
         },
         {
           "id": "unresolved:your",
@@ -14628,7 +14628,7 @@
     },
     "handoffs/handoff-2026-04-01-1702.md": {
       "relativePath": "handoffs/handoff-2026-04-01-1702.md",
-      "mtimeMs": 1775062948659.7305,
+      "mtimeMs": 1775062957005.7227,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-01-1702",
@@ -14639,7 +14639,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:02:28.659Z"
+          "modifiedAt": "2026-04-01T17:02:37.005Z"
         }
       ],
       "edges": []
@@ -14664,7 +14664,7 @@
     },
     "HOT-MEMORY.md": {
       "relativePath": "HOT-MEMORY.md",
-      "mtimeMs": 1775019647849.1,
+      "mtimeMs": 1775062956953.6858,
       "nodes": [
         {
           "id": "note:HOT-MEMORY",
@@ -14677,7 +14677,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:47.849Z"
+          "modifiedAt": "2026-04-01T17:02:36.953Z"
         },
         {
           "id": "tag:248",
@@ -18775,6 +18775,24 @@
       ],
       "edges": []
     },
+    "projects/backpack-exchange-research-2026-04-02.md": {
+      "relativePath": "projects/backpack-exchange-research-2026-04-02.md",
+      "mtimeMs": 1775070386614.8813,
+      "nodes": [
+        {
+          "id": "note:projects/backpack-exchange-research-2026-04-02",
+          "title": "backpack-exchange-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/backpack-exchange-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:06:26.614Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/merge-holdings-research-2026-03-30.md": {
       "relativePath": "projects/merge-holdings-research-2026-03-30.md",
       "mtimeMs": 1774836035310.0703,
@@ -18807,6 +18825,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-31T22:07:30.841Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/merge-holdings-research-2026-04-02.md": {
+      "relativePath": "projects/merge-holdings-research-2026-04-02.md",
+      "mtimeMs": 1775070278916.6924,
+      "nodes": [
+        {
+          "id": "note:projects/merge-holdings-research-2026-04-02",
+          "title": "merge-holdings-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/merge-holdings-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:04:38.916Z"
         }
       ],
       "edges": []
@@ -18865,6 +18901,24 @@
       ],
       "edges": []
     },
+    "projects/mythical-games-research-2026-04-02.md": {
+      "relativePath": "projects/mythical-games-research-2026-04-02.md",
+      "mtimeMs": 1775070357277.3196,
+      "nodes": [
+        {
+          "id": "note:projects/mythical-games-research-2026-04-02",
+          "title": "mythical-games-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/mythical-games-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:05:57.277Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/nurihaus-research-2026-03-31.md": {
       "relativePath": "projects/nurihaus-research-2026-03-31.md",
       "mtimeMs": 1774897589331.1099,
@@ -18897,6 +18951,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-31T22:06:05.533Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/nurihaus-research-2026-04-02.md": {
+      "relativePath": "projects/nurihaus-research-2026-04-02.md",
+      "mtimeMs": 1775070371881.254,
+      "nodes": [
+        {
+          "id": "note:projects/nurihaus-research-2026-04-02",
+          "title": "nurihaus-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/nurihaus-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:06:11.881Z"
         }
       ],
       "edges": []
@@ -18957,6 +19029,24 @@
       ],
       "edges": []
     },
+    "projects/payhere-research-2026-04-02.md": {
+      "relativePath": "projects/payhere-research-2026-04-02.md",
+      "mtimeMs": 1775070290974.5156,
+      "nodes": [
+        {
+          "id": "note:projects/payhere-research-2026-04-02",
+          "title": "payhere-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/payhere-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:04:50.974Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/radius-technology-research-2026-03-31.md": {
       "relativePath": "projects/radius-technology-research-2026-03-31.md",
       "mtimeMs": 1774897589331.6377,
@@ -19011,6 +19101,24 @@
       ],
       "edges": []
     },
+    "projects/radiusxyz-research-2026-04-02.md": {
+      "relativePath": "projects/radiusxyz-research-2026-04-02.md",
+      "mtimeMs": 1775070318100.9756,
+      "nodes": [
+        {
+          "id": "note:projects/radiusxyz-research-2026-04-02",
+          "title": "radiusxyz-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/radiusxyz-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:05:18.100Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/story-protocol-research-2026-03-30.md": {
       "relativePath": "projects/story-protocol-research-2026-03-30.md",
       "mtimeMs": 1774836035312.08,
@@ -19047,6 +19155,24 @@
       ],
       "edges": []
     },
+    "projects/story-protocol-research-2026-04-02.md": {
+      "relativePath": "projects/story-protocol-research-2026-04-02.md",
+      "mtimeMs": 1775070344396.8647,
+      "nodes": [
+        {
+          "id": "note:projects/story-protocol-research-2026-04-02",
+          "title": "story-protocol-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/story-protocol-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:05:44.396Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/taiko-labs-research-2026-03-30.md": {
       "relativePath": "projects/taiko-labs-research-2026-03-30.md",
       "mtimeMs": 1774836035312.5833,
@@ -19079,6 +19205,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-31T22:05:59.571Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/taiko-labs-research-2026-04-02.md": {
+      "relativePath": "projects/taiko-labs-research-2026-04-02.md",
+      "mtimeMs": 1775070305818.2544,
+      "nodes": [
+        {
+          "id": "note:projects/taiko-labs-research-2026-04-02",
+          "title": "taiko-labs-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/taiko-labs-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:05:05.818Z"
         }
       ],
       "edges": []
@@ -19139,6 +19283,24 @@
       ],
       "edges": []
     },
+    "projects/uprise-horizonwealth-research-2026-04-02.md": {
+      "relativePath": "projects/uprise-horizonwealth-research-2026-04-02.md",
+      "mtimeMs": 1775070399529.2166,
+      "nodes": [
+        {
+          "id": "note:projects/uprise-horizonwealth-research-2026-04-02",
+          "title": "uprise-horizonwealth-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/uprise-horizonwealth-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:06:39.529Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/yuga-labs-research-2026-03-30.md": {
       "relativePath": "projects/yuga-labs-research-2026-03-30.md",
       "mtimeMs": 1774836035314.127,
@@ -19194,6 +19356,24 @@
           "type": "tag"
         }
       ]
+    },
+    "projects/yuga-labs-research-2026-04-02.md": {
+      "relativePath": "projects/yuga-labs-research-2026-04-02.md",
+      "mtimeMs": 1775070331918.43,
+      "nodes": [
+        {
+          "id": "note:projects/yuga-labs-research-2026-04-02",
+          "title": "yuga-labs-research-2026-04-02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/yuga-labs-research-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T19:05:31.918Z"
+        }
+      ],
+      "edges": []
     },
     "README.md": {
       "relativePath": "README.md",
@@ -19263,6 +19443,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-03-31T17:02:07.918Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/auto-study-2026-04-02.md": {
+      "relativePath": "research/auto-study-2026-04-02.md",
+      "mtimeMs": 1775062980655.0388,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-04-02",
+          "title": "auto-study-2026-04-02",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T17:03:00.655Z"
         }
       ],
       "edges": []
@@ -20767,7 +20965,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T17:00:14.269Z"
+        "modifiedAt": "2026-04-01T17:02:37.003Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
@@ -21217,7 +21415,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T17:00:14.261Z"
+        "modifiedAt": "2026-04-01T17:02:37.004Z"
       },
       {
         "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and",
@@ -21561,7 +21759,7 @@
         ],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-04-01T05:00:47.849Z"
+        "modifiedAt": "2026-04-01T17:02:36.954Z"
       },
       {
         "id": "note:commitments/2026-03-26",
@@ -21616,7 +21814,7 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-04-01T17:00:14.271Z"
+        "modifiedAt": "2026-04-01T17:02:37.005Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -22223,7 +22421,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T17:02:28.659Z"
+        "modifiedAt": "2026-04-01T17:02:37.005Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -22247,7 +22445,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T05:00:47.849Z"
+        "modifiedAt": "2026-04-01T17:02:36.953Z"
       },
       {
         "id": "note:IDENTITY",
@@ -22638,6 +22836,17 @@
         "modifiedAt": "2026-03-31T22:04:24.100Z"
       },
       {
+        "id": "note:projects/backpack-exchange-research-2026-04-02",
+        "title": "backpack-exchange-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/backpack-exchange-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:06:26.614Z"
+      },
+      {
         "id": "note:projects/merge-holdings-research-2026-03-30",
         "title": "merge-holdings-research-2026-03-30",
         "type": "project",
@@ -22658,6 +22867,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-31T22:07:30.841Z"
+      },
+      {
+        "id": "note:projects/merge-holdings-research-2026-04-02",
+        "title": "merge-holdings-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/merge-holdings-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:04:38.916Z"
       },
       {
         "id": "note:projects/mythical-games-research-2026-03-30",
@@ -22693,6 +22913,17 @@
         "modifiedAt": "2026-03-31T22:06:02.580Z"
       },
       {
+        "id": "note:projects/mythical-games-research-2026-04-02",
+        "title": "mythical-games-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/mythical-games-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:05:57.277Z"
+      },
+      {
         "id": "note:projects/nurihaus-research-2026-03-31",
         "title": "nurihaus-research-2026-03-31",
         "type": "project",
@@ -22713,6 +22944,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-31T22:06:05.533Z"
+      },
+      {
+        "id": "note:projects/nurihaus-research-2026-04-02",
+        "title": "nurihaus-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/nurihaus-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:06:11.881Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-30",
@@ -22737,6 +22979,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-31T22:07:27.834Z"
+      },
+      {
+        "id": "note:projects/payhere-research-2026-04-02",
+        "title": "payhere-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/payhere-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:04:50.974Z"
       },
       {
         "id": "note:projects/radius-technology-research-2026-03-31",
@@ -22772,6 +23025,17 @@
         "modifiedAt": "2026-03-30T02:00:35.311Z"
       },
       {
+        "id": "note:projects/radiusxyz-research-2026-04-02",
+        "title": "radiusxyz-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/radiusxyz-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:05:18.100Z"
+      },
+      {
         "id": "note:projects/story-protocol-research-2026-03-30",
         "title": "story-protocol-research-2026-03-30",
         "type": "project",
@@ -22794,6 +23058,17 @@
         "modifiedAt": "2026-03-31T22:05:56.594Z"
       },
       {
+        "id": "note:projects/story-protocol-research-2026-04-02",
+        "title": "story-protocol-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/story-protocol-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:05:44.396Z"
+      },
+      {
         "id": "note:projects/taiko-labs-research-2026-03-30",
         "title": "taiko-labs-research-2026-03-30",
         "type": "project",
@@ -22814,6 +23089,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-31T22:05:59.571Z"
+      },
+      {
+        "id": "note:projects/taiko-labs-research-2026-04-02",
+        "title": "taiko-labs-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/taiko-labs-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:05:05.818Z"
       },
       {
         "id": "note:projects/theswing-research-2026-03-30",
@@ -22840,6 +23126,17 @@
         "modifiedAt": "2026-03-30T02:00:35.313Z"
       },
       {
+        "id": "note:projects/uprise-horizonwealth-research-2026-04-02",
+        "title": "uprise-horizonwealth-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/uprise-horizonwealth-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:06:39.529Z"
+      },
+      {
         "id": "note:projects/yuga-labs-research-2026-03-30",
         "title": "yuga-labs-research-2026-03-30",
         "type": "project",
@@ -22862,6 +23159,17 @@
         "missing": false,
         "degree": 1,
         "modifiedAt": "2026-03-30T19:06:29.332Z"
+      },
+      {
+        "id": "note:projects/yuga-labs-research-2026-04-02",
+        "title": "yuga-labs-research-2026-04-02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/yuga-labs-research-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T19:05:31.918Z"
       },
       {
         "id": "note:README",
@@ -22906,6 +23214,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-03-31T17:02:07.918Z"
+      },
+      {
+        "id": "note:research/auto-study-2026-04-02",
+        "title": "auto-study-2026-04-02",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T17:03:00.655Z"
       },
       {
         "id": "note:research/bts-gwanghwamun-igaworks-20260321",
@@ -32135,11 +32454,11 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-01T17:02:28.743Z",
-      "nodeCount": 583,
+      "generatedAt": "2026-04-01T19:06:39.613Z",
+      "nodeCount": 594,
       "edgeCount": 874,
       "nodeTypeCounts": {
-        "note": 189,
+        "note": 190,
         "tag": 18,
         "unresolved": 305,
         "commitment": 5,
@@ -32148,7 +32467,7 @@
         "handoff": 13,
         "lesson": 7,
         "person": 2,
-        "project": 32
+        "project": 42
       },
       "edgeTypeCounts": {
         "tag": 307,
