@@ -166,5 +166,17 @@
     "lastObservedAt": "2026-04-01T17:00:14.272Z",
     "sessionKey": "agent:main:cron:a05851dd-1193-4618-884c-bf060a44b98f",
     "lastFileSize": 52272
+  },
+  "eba77b41-f501-42d8-95a9-6101f5b9c520": {
+    "lastObservedOffset": 70308,
+    "lastObservedAt": "2026-04-01T23:02:25.674Z",
+    "sessionKey": "agent:main:cron:24da8e1b-15af-4067-a909-02e42947f1e7",
+    "lastFileSize": 70308
+  },
+  "18ca1e55-c44c-41d8-8e9c-a0636402e589": {
+    "lastObservedOffset": 197416,
+    "lastObservedAt": "2026-04-01T23:02:26.075Z",
+    "sessionKey": "agent:main:cron:ad0d952d-affb-477f-ad82-d07e60897b11",
+    "lastFileSize": 197416
   }
 }

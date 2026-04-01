@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-01T19:06:39.613Z",
+  "generatedAt": "2026-04-01T23:03:22.170Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
-      "mtimeMs": 1774998211229.482,
+      "mtimeMs": 1775070499176.3496,
       "nodes": [
         {
           "id": "note:AGENTS",
@@ -16,7 +16,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.229Z"
+          "modifiedAt": "2026-04-01T19:08:19.176Z"
         }
       ],
       "edges": []
@@ -1386,6 +1386,97 @@
         }
       ]
     },
+    "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md": {
+      "relativePath": "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md",
+      "mtimeMs": 1775084546070.161,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+          "title": "Assistant Good Progress Now Let Me Compile The Research Into Summaries And Store Them In Clawvault Let Me Create Summ",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.070Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:observer",
+          "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:open",
+          "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:task",
+          "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->unresolved:observer",
+          "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto.md": {
       "relativePath": "backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto.md",
       "mtimeMs": 1774836035298.7676,
@@ -1472,6 +1563,188 @@
         {
           "id": "wiki_link:note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto->unresolved:observer",
           "source": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md": {
+      "relativePath": "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md",
+      "mtimeMs": 1775084546056.0435,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+          "title": "Assistant Good Theres A Warm Memoryportfolio Directory Let Me Check What Companies Are There",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.056Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:observer",
+          "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:open",
+          "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:task",
+          "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->unresolved:observer",
+          "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md": {
+      "relativePath": "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md",
+      "mtimeMs": 1775084546062.8938,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+          "title": "Assistant Good This Is A Fresh Start Let Me Select 10 Companies To Research Ill Pick A Mix Focusing On Those Not U",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.062Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:observer",
+          "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:open",
+          "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:task",
+          "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->unresolved:observer",
+          "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -2205,6 +2478,188 @@
         }
       ]
     },
+    "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md": {
+      "relativePath": "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md",
+      "mtimeMs": 1775084546060.405,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+          "title": "Assistant I Can See That Some Companies Were Just Updated Apr 1 0710 And Others Are Older Let Me Also Check Clawva",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.060Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:observer",
+          "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:open",
+          "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:task",
+          "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->unresolved:observer",
+          "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md": {
+      "relativePath": "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md",
+      "mtimeMs": 1775084546066.9087,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+          "title": "Assistant I Hit The Rate Limit Let Me Continue With Sequential Searches With Delays",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.066Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:observer",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:open",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:task",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->unresolved:observer",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch.md": {
       "relativePath": "backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch.md",
       "mtimeMs": 1774652407631.4646,
@@ -2473,6 +2928,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc->unresolved:observer",
           "source": "note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md": {
+      "relativePath": "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md",
+      "mtimeMs": 1775084546051.9314,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+          "title": "Assistant Ill Conduct Portfolio Research And Store Updates In Clawvault Let Me Start By Reading The Portfolio Compani",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.051Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:observer",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:open",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:task",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->unresolved:observer",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -3115,6 +3661,97 @@
         }
       ]
     },
+    "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md": {
+      "relativePath": "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md",
+      "mtimeMs": 1775084546068.4807,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+          "title": "Assistant Interesting Looks Like Nurihaus Has Pivoted From Remodeling To K Beauty Global Expansion Let Me Continue W",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.068Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:observer",
+          "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:open",
+          "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:task",
+          "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->unresolved:observer",
+          "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-its-a-symlink-let-me-read-the-actual-file.md": {
       "relativePath": "backlog/assistant-its-a-symlink-let-me-read-the-actual-file.md",
       "mtimeMs": 1774652407619.7544,
@@ -3565,6 +4202,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-let-me-check-the-clawvault-structure->unresolved:observer",
           "source": "note:backlog/assistant-let-me-check-the-clawvault-structure",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md": {
+      "relativePath": "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md",
+      "mtimeMs": 1775084546058.6033,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+          "title": "Assistant Let Me Check When These Were Last Updated To Identify Companies Not Recently Researched",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.058Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:observer",
+          "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:open",
+          "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:task",
+          "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->unresolved:observer",
+          "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -6755,6 +7483,97 @@
         }
       ]
     },
+    "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md": {
+      "relativePath": "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+      "mtimeMs": 1775084546071.8247,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "title": "Assistant Perfect Now Let Me Update The Warm Memory Portfolio Files For Backward Compatibility",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.071Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:open",
+          "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:task",
+          "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates.md": {
       "relativePath": "backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates.md",
       "mtimeMs": 1774918903434.2764,
@@ -9122,7 +9941,7 @@
     },
     "commitments/2026-04-01.md": {
       "relativePath": "commitments/2026-04-01.md",
-      "mtimeMs": 1775062957005.2026,
+      "mtimeMs": 1775084546073.1536,
       "nodes": [
         {
           "id": "note:commitments/2026-04-01",
@@ -9133,7 +9952,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:02:37.005Z"
+          "modifiedAt": "2026-04-01T23:02:26.073Z"
         },
         {
           "id": "unresolved:your",
@@ -9220,6 +10039,59 @@
           "id": "wiki_link:note:commitments/2026-04-01->unresolved:command",
           "source": "note:commitments/2026-04-01",
           "target": "unresolved:command",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "commitments/2026-04-02.md": {
+      "relativePath": "commitments/2026-04-02.md",
+      "mtimeMs": 1775084546074.8257,
+      "nodes": [
+        {
+          "id": "note:commitments/2026-04-02",
+          "title": "2026 04 02",
+          "type": "commitment",
+          "category": "commitment",
+          "path": "commitments/2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.074Z"
+        },
+        {
+          "id": "unresolved:your",
+          "title": "Your",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:changes",
+          "title": "Changes",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:your",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:your",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:changes",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:changes",
           "type": "wiki_link"
         }
       ]
@@ -9318,7 +10190,7 @@
     },
     "daily/2026-04-01.md": {
       "relativePath": "daily/2026-04-01.md",
-      "mtimeMs": 1775041344972.737,
+      "mtimeMs": 1775084591506.609,
       "nodes": [
         {
           "id": "note:daily/2026-04-01",
@@ -9329,7 +10201,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T11:02:24.972Z"
+          "modifiedAt": "2026-04-01T23:03:11.506Z"
         }
       ],
       "edges": []
@@ -10962,6 +11834,351 @@
           "type": "wiki_link"
         }
       ]
+    },
+    "decisions/2026-04-01.md": {
+      "relativePath": "decisions/2026-04-01.md",
+      "mtimeMs": 1775084545673.3643,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-04-01",
+          "title": "2026 04 01",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-04-01.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:25.673Z"
+        },
+        {
+          "id": "unresolved:review-report",
+          "title": "Review Report",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:scanned",
+          "title": "Scanned",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:last",
+          "title": "Last",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:previously",
+          "title": "Previously",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-promotion",
+          "title": "Tier Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:candidates",
+          "title": "Candidates",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review-script",
+          "title": "Review Script",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:knowledge-base",
+          "title": "Knowledge Base",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-review",
+          "title": "Tier Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:promotion",
+          "title": "Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:reads",
+          "title": "Reads",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:review-report",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:review-report",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:scanned",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:scanned",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:last",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:last",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:previously",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:previously",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:new-items",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:new-items",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:tier-promotion",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:tier-promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:candidates",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:candidates",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:users",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:review-script",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:review-script",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:knowledge-base",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:knowledge-base",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:tier-review",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:tier-review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:promotion",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-01->unresolved:reads",
+          "source": "note:decisions/2026-04-01",
+          "target": "unresolved:reads",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "decisions/2026-04-02.md": {
+      "relativePath": "decisions/2026-04-02.md",
+      "mtimeMs": 1775084545673.7869,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-04-02",
+          "title": "2026 04 02",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:25.673Z"
+        },
+        {
+          "id": "unresolved:review",
+          "title": "Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-promotion",
+          "title": "Tier Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:candidates",
+          "title": "Candidates",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:review",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:new-items",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:new-items",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier-promotion",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:tier-promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:candidates",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:candidates",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "facts/2022-06-28.md": {
+      "relativePath": "facts/2022-06-28.md",
+      "mtimeMs": 1775084545664.4988,
+      "nodes": [
+        {
+          "id": "note:facts/2022-06-28",
+          "title": "2022 06 28",
+          "type": "note",
+          "category": "note",
+          "path": "facts/2022-06-28.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:25.664Z"
+        }
+      ],
+      "edges": []
     },
     "facts/2026-03-05.md": {
       "relativePath": "facts/2026-03-05.md",
@@ -13784,7 +15001,7 @@
     },
     "facts/2026-04-01.md": {
       "relativePath": "facts/2026-04-01.md",
-      "mtimeMs": 1775019647909.288,
+      "mtimeMs": 1775084546061.1052,
       "nodes": [
         {
           "id": "note:facts/2026-04-01",
@@ -13795,7 +15012,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:47.909Z"
+          "modifiedAt": "2026-04-01T23:02:26.061Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -13953,6 +15170,24 @@
           "type": "wiki_link"
         }
       ]
+    },
+    "facts/2026-04-02.md": {
+      "relativePath": "facts/2026-04-02.md",
+      "mtimeMs": 1775084546075.152,
+      "nodes": [
+        {
+          "id": "note:facts/2026-04-02",
+          "title": "2026 04 02",
+          "type": "note",
+          "category": "note",
+          "path": "facts/2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:02:26.075Z"
+        }
+      ],
+      "edges": []
     },
     "hades-src/docs/advanced-backtesting.md": {
       "relativePath": "hades-src/docs/advanced-backtesting.md",
@@ -14644,6 +15879,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-04-01-2303.md": {
+      "relativePath": "handoffs/handoff-2026-04-01-2303.md",
+      "mtimeMs": 1775084602080.0098,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-01-2303",
+          "title": "handoff-2026-04-01-2303",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-01-2303.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:03:22.080Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -15062,7 +16315,7 @@
     },
     "ledger/observations/2026/04/01.md": {
       "relativePath": "ledger/observations/2026/04/01.md",
-      "mtimeMs": 1775062814194.7798,
+      "mtimeMs": 1775084546027.1926,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/01",
@@ -15073,7 +16326,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:00:14.194Z"
+          "modifiedAt": "2026-04-01T23:02:26.027Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -15476,7 +16729,7 @@
     },
     "MEMORY.md": {
       "relativePath": "MEMORY.md",
-      "mtimeMs": 1774897589286.8242,
+      "mtimeMs": 1775070499177.318,
       "nodes": [
         {
           "id": "note:MEMORY",
@@ -15487,7 +16740,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T19:06:29.286Z"
+          "modifiedAt": "2026-04-01T19:08:19.177Z"
         }
       ],
       "edges": []
@@ -18603,7 +19856,7 @@
     },
     "projects/2026-04-01.md": {
       "relativePath": "projects/2026-04-01.md",
-      "mtimeMs": 1775019647910.3298,
+      "mtimeMs": 1775084546065.1575,
       "nodes": [
         {
           "id": "note:projects/2026-04-01",
@@ -18614,7 +19867,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:47.910Z"
+          "modifiedAt": "2026-04-01T23:02:26.065Z"
         },
         {
           "id": "unresolved:jino-long",
@@ -18692,6 +19945,39 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brave-search",
+          "title": "Brave Search",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:request",
+          "title": "Request",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fre",
+          "title": "Fre",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -18736,6 +20022,24 @@
           "source": "note:projects/2026-04-01",
           "target": "unresolved:reply_to_current",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-01->unresolved:brave-search",
+          "source": "note:projects/2026-04-01",
+          "target": "unresolved:brave-search",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-01->unresolved:request",
+          "source": "note:projects/2026-04-01",
+          "target": "unresolved:request",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-01->unresolved:fre",
+          "source": "note:projects/2026-04-01",
+          "target": "unresolved:fre",
+          "type": "wiki_link"
         }
       ]
     },
@@ -18777,7 +20081,7 @@
     },
     "projects/backpack-exchange-research-2026-04-02.md": {
       "relativePath": "projects/backpack-exchange-research-2026-04-02.md",
-      "mtimeMs": 1775070386614.8813,
+      "mtimeMs": 1775070499229.3125,
       "nodes": [
         {
           "id": "note:projects/backpack-exchange-research-2026-04-02",
@@ -18788,7 +20092,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:06:26.614Z"
+          "modifiedAt": "2026-04-01T19:08:19.229Z"
         }
       ],
       "edges": []
@@ -18831,7 +20135,7 @@
     },
     "projects/merge-holdings-research-2026-04-02.md": {
       "relativePath": "projects/merge-holdings-research-2026-04-02.md",
-      "mtimeMs": 1775070278916.6924,
+      "mtimeMs": 1775070499229.805,
       "nodes": [
         {
           "id": "note:projects/merge-holdings-research-2026-04-02",
@@ -18842,7 +20146,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:04:38.916Z"
+          "modifiedAt": "2026-04-01T19:08:19.229Z"
         }
       ],
       "edges": []
@@ -18903,7 +20207,7 @@
     },
     "projects/mythical-games-research-2026-04-02.md": {
       "relativePath": "projects/mythical-games-research-2026-04-02.md",
-      "mtimeMs": 1775070357277.3196,
+      "mtimeMs": 1775070499230.302,
       "nodes": [
         {
           "id": "note:projects/mythical-games-research-2026-04-02",
@@ -18914,7 +20218,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:05:57.277Z"
+          "modifiedAt": "2026-04-01T19:08:19.230Z"
         }
       ],
       "edges": []
@@ -18957,7 +20261,7 @@
     },
     "projects/nurihaus-research-2026-04-02.md": {
       "relativePath": "projects/nurihaus-research-2026-04-02.md",
-      "mtimeMs": 1775070371881.254,
+      "mtimeMs": 1775070499230.7998,
       "nodes": [
         {
           "id": "note:projects/nurihaus-research-2026-04-02",
@@ -18968,7 +20272,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:06:11.881Z"
+          "modifiedAt": "2026-04-01T19:08:19.230Z"
         }
       ],
       "edges": []
@@ -19031,7 +20335,7 @@
     },
     "projects/payhere-research-2026-04-02.md": {
       "relativePath": "projects/payhere-research-2026-04-02.md",
-      "mtimeMs": 1775070290974.5156,
+      "mtimeMs": 1775070499231.3057,
       "nodes": [
         {
           "id": "note:projects/payhere-research-2026-04-02",
@@ -19042,7 +20346,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:04:50.974Z"
+          "modifiedAt": "2026-04-01T19:08:19.231Z"
         }
       ],
       "edges": []
@@ -19103,7 +20407,7 @@
     },
     "projects/radiusxyz-research-2026-04-02.md": {
       "relativePath": "projects/radiusxyz-research-2026-04-02.md",
-      "mtimeMs": 1775070318100.9756,
+      "mtimeMs": 1775070499231.7932,
       "nodes": [
         {
           "id": "note:projects/radiusxyz-research-2026-04-02",
@@ -19114,7 +20418,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:05:18.100Z"
+          "modifiedAt": "2026-04-01T19:08:19.231Z"
         }
       ],
       "edges": []
@@ -19157,7 +20461,7 @@
     },
     "projects/story-protocol-research-2026-04-02.md": {
       "relativePath": "projects/story-protocol-research-2026-04-02.md",
-      "mtimeMs": 1775070344396.8647,
+      "mtimeMs": 1775070499232.2942,
       "nodes": [
         {
           "id": "note:projects/story-protocol-research-2026-04-02",
@@ -19168,7 +20472,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:05:44.396Z"
+          "modifiedAt": "2026-04-01T19:08:19.232Z"
         }
       ],
       "edges": []
@@ -19211,7 +20515,7 @@
     },
     "projects/taiko-labs-research-2026-04-02.md": {
       "relativePath": "projects/taiko-labs-research-2026-04-02.md",
-      "mtimeMs": 1775070305818.2544,
+      "mtimeMs": 1775070499232.7842,
       "nodes": [
         {
           "id": "note:projects/taiko-labs-research-2026-04-02",
@@ -19222,7 +20526,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:05:05.818Z"
+          "modifiedAt": "2026-04-01T19:08:19.232Z"
         }
       ],
       "edges": []
@@ -19285,7 +20589,7 @@
     },
     "projects/uprise-horizonwealth-research-2026-04-02.md": {
       "relativePath": "projects/uprise-horizonwealth-research-2026-04-02.md",
-      "mtimeMs": 1775070399529.2166,
+      "mtimeMs": 1775070499233.2966,
       "nodes": [
         {
           "id": "note:projects/uprise-horizonwealth-research-2026-04-02",
@@ -19296,7 +20600,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:06:39.529Z"
+          "modifiedAt": "2026-04-01T19:08:19.233Z"
         }
       ],
       "edges": []
@@ -19359,7 +20663,7 @@
     },
     "projects/yuga-labs-research-2026-04-02.md": {
       "relativePath": "projects/yuga-labs-research-2026-04-02.md",
-      "mtimeMs": 1775070331918.43,
+      "mtimeMs": 1775070499233.8113,
       "nodes": [
         {
           "id": "note:projects/yuga-labs-research-2026-04-02",
@@ -19370,7 +20674,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T19:05:31.918Z"
+          "modifiedAt": "2026-04-01T19:08:19.233Z"
         }
       ],
       "edges": []
@@ -19449,7 +20753,7 @@
     },
     "research/auto-study-2026-04-02.md": {
       "relativePath": "research/auto-study-2026-04-02.md",
-      "mtimeMs": 1775062980655.0388,
+      "mtimeMs": 1775070499234.3242,
       "nodes": [
         {
           "id": "note:research/auto-study-2026-04-02",
@@ -19460,7 +20764,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:03:00.655Z"
+          "modifiedAt": "2026-04-01T19:08:19.234Z"
         }
       ],
       "edges": []
@@ -19521,7 +20825,7 @@
     },
     "SESSION_STATE.md": {
       "relativePath": "SESSION_STATE.md",
-      "mtimeMs": 1774998211230.0122,
+      "mtimeMs": 1775070499178.1672,
       "nodes": [
         {
           "id": "note:SESSION_STATE",
@@ -19532,7 +20836,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.230Z"
+          "modifiedAt": "2026-04-01T19:08:19.178Z"
         }
       ],
       "edges": []
@@ -19847,7 +21151,7 @@
     },
     "TOOLS.md": {
       "relativePath": "TOOLS.md",
-      "mtimeMs": 1774998211231.0632,
+      "mtimeMs": 1775070499178.8728,
       "nodes": [
         {
           "id": "note:TOOLS",
@@ -19858,7 +21162,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.231Z"
+          "modifiedAt": "2026-04-01T19:08:19.178Z"
         }
       ],
       "edges": []
@@ -19883,7 +21187,7 @@
     },
     "warm-memory/auto-study-latest.md": {
       "relativePath": "warm-memory/auto-study-latest.md",
-      "mtimeMs": 1774998211235.0957,
+      "mtimeMs": 1775070499180.4678,
       "nodes": [
         {
           "id": "note:warm-memory/auto-study-latest",
@@ -19894,7 +21198,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.235Z"
+          "modifiedAt": "2026-04-01T19:08:19.180Z"
         }
       ],
       "edges": []
@@ -20260,7 +21564,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.229Z"
+        "modifiedAt": "2026-04-01T19:08:19.176Z"
       },
       {
         "id": "note:backlog/assistant-based-on-memorymd-i-can-see-portfolio-companies-mentioned-let-me-create-a-research-list-and-proceed-with-w",
@@ -20488,6 +21792,21 @@
         "modifiedAt": "2026-03-27T23:00:07.637Z"
       },
       {
+        "id": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+        "title": "Assistant Good Progress Now Let Me Compile The Research Into Summaries And Store Them In Clawvault Let Me Create Summ",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.070Z"
+      },
+      {
         "id": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
         "title": "Assistant Good Progress Now Let Me Store These Findings In Clawvault And Update The Company Files Let Me Start By Sto",
         "type": "note",
@@ -20501,6 +21820,36 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-30T02:00:35.298Z"
+      },
+      {
+        "id": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+        "title": "Assistant Good Theres A Warm Memoryportfolio Directory Let Me Check What Companies Are There",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.056Z"
+      },
+      {
+        "id": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+        "title": "Assistant Good This Is A Fresh Start Let Me Select 10 Companies To Research Ill Pick A Mix Focusing On Those Not U",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.062Z"
       },
       {
         "id": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
@@ -20623,6 +21972,36 @@
         "modifiedAt": "2026-03-31T01:01:43.431Z"
       },
       {
+        "id": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+        "title": "Assistant I Can See That Some Companies Were Just Updated Apr 1 0710 And Others Are Older Let Me Also Check Clawva",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.060Z"
+      },
+      {
+        "id": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+        "title": "Assistant I Hit The Rate Limit Let Me Continue With Sequential Searches With Delays",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.066Z"
+      },
+      {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch",
         "title": "Assistant I Hit The Rate Limit On Brave Search Let Me Wait A Moment And Continue With The Remaining Companies In Batch",
         "type": "note",
@@ -20666,6 +22045,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.644Z"
+      },
+      {
+        "id": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+        "title": "Assistant Ill Conduct Portfolio Research And Store Updates In Clawvault Let Me Start By Reading The Portfolio Compani",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.051Z"
       },
       {
         "id": "note:backlog/assistant-ill-conduct-portfolio-research-for-companies-that-havent-been-recently-updated",
@@ -20773,6 +22167,21 @@
         "modifiedAt": "2026-03-27T23:00:07.203Z"
       },
       {
+        "id": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+        "title": "Assistant Interesting Looks Like Nurihaus Has Pivoted From Remodeling To K Beauty Global Expansion Let Me Continue W",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.068Z"
+      },
+      {
         "id": "note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file",
         "title": "Assistant Its A Symlink Let Me Read The Actual File",
         "type": "note",
@@ -20846,6 +22255,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.642Z"
+      },
+      {
+        "id": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+        "title": "Assistant Let Me Check When These Were Last Updated To Identify Companies Not Recently Researched",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.058Z"
       },
       {
         "id": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
@@ -21373,6 +22797,21 @@
         "modifiedAt": "2026-03-30T02:00:35.301Z"
       },
       {
+        "id": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "title": "Assistant Perfect Now Let Me Update The Warm Memory Portfolio Files For Backward Compatibility",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:26.071Z"
+      },
+      {
         "id": "note:backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates",
         "title": "Assistant Perfect The Last Research Was Done On March 30 Yesterday Let Me Research The Companies That Need Updates",
         "type": "note",
@@ -21814,7 +23253,18 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-04-01T17:02:37.005Z"
+        "modifiedAt": "2026-04-01T23:02:26.073Z"
+      },
+      {
+        "id": "note:commitments/2026-04-02",
+        "title": "2026 04 02",
+        "type": "commitment",
+        "category": "commitment",
+        "path": "commitments/2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-04-01T23:02:26.074Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -21871,7 +23321,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T11:02:24.972Z"
+        "modifiedAt": "2026-04-01T23:03:11.506Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -21949,6 +23399,39 @@
         "missing": false,
         "degree": 13,
         "modifiedAt": "2026-04-01T05:00:47.907Z"
+      },
+      {
+        "id": "note:decisions/2026-04-01",
+        "title": "2026 04 01",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-04-01.md",
+        "tags": [],
+        "missing": false,
+        "degree": 13,
+        "modifiedAt": "2026-04-01T23:02:25.673Z"
+      },
+      {
+        "id": "note:decisions/2026-04-02",
+        "title": "2026 04 02",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-01T23:02:25.673Z"
+      },
+      {
+        "id": "note:facts/2022-06-28",
+        "title": "2022 06 28",
+        "type": "note",
+        "category": "note",
+        "path": "facts/2022-06-28.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T23:02:25.664Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -22050,7 +23533,18 @@
         "tags": [],
         "missing": false,
         "degree": 9,
-        "modifiedAt": "2026-04-01T05:00:47.909Z"
+        "modifiedAt": "2026-04-01T23:02:26.061Z"
+      },
+      {
+        "id": "note:facts/2026-04-02",
+        "title": "2026 04 02",
+        "type": "note",
+        "category": "note",
+        "path": "facts/2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T23:02:26.075Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -22424,6 +23918,17 @@
         "modifiedAt": "2026-04-01T17:02:37.005Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-04-01-2303",
+        "title": "handoff-2026-04-01-2303",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-01-2303.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T23:03:22.080Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -22542,7 +24047,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T17:00:14.194Z"
+        "modifiedAt": "2026-04-01T23:02:26.027Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -22632,7 +24137,7 @@
         "tags": [],
         "missing": false,
         "degree": 3,
-        "modifiedAt": "2026-03-30T19:06:29.286Z"
+        "modifiedAt": "2026-04-01T19:08:19.177Z"
       },
       {
         "id": "note:memory/2026-03-27",
@@ -22810,8 +24315,8 @@
         "path": "projects/2026-04-01.md",
         "tags": [],
         "missing": false,
-        "degree": 7,
-        "modifiedAt": "2026-04-01T05:00:47.910Z"
+        "degree": 10,
+        "modifiedAt": "2026-04-01T23:02:26.065Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -22844,7 +24349,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:06:26.614Z"
+        "modifiedAt": "2026-04-01T19:08:19.229Z"
       },
       {
         "id": "note:projects/merge-holdings-research-2026-03-30",
@@ -22877,7 +24382,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:04:38.916Z"
+        "modifiedAt": "2026-04-01T19:08:19.229Z"
       },
       {
         "id": "note:projects/mythical-games-research-2026-03-30",
@@ -22921,7 +24426,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:05:57.277Z"
+        "modifiedAt": "2026-04-01T19:08:19.230Z"
       },
       {
         "id": "note:projects/nurihaus-research-2026-03-31",
@@ -22954,7 +24459,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:06:11.881Z"
+        "modifiedAt": "2026-04-01T19:08:19.230Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-30",
@@ -22989,7 +24494,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:04:50.974Z"
+        "modifiedAt": "2026-04-01T19:08:19.231Z"
       },
       {
         "id": "note:projects/radius-technology-research-2026-03-31",
@@ -23033,7 +24538,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:05:18.100Z"
+        "modifiedAt": "2026-04-01T19:08:19.231Z"
       },
       {
         "id": "note:projects/story-protocol-research-2026-03-30",
@@ -23066,7 +24571,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:05:44.396Z"
+        "modifiedAt": "2026-04-01T19:08:19.232Z"
       },
       {
         "id": "note:projects/taiko-labs-research-2026-03-30",
@@ -23099,7 +24604,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:05:05.818Z"
+        "modifiedAt": "2026-04-01T19:08:19.232Z"
       },
       {
         "id": "note:projects/theswing-research-2026-03-30",
@@ -23134,7 +24639,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:06:39.529Z"
+        "modifiedAt": "2026-04-01T19:08:19.233Z"
       },
       {
         "id": "note:projects/yuga-labs-research-2026-03-30",
@@ -23169,7 +24674,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T19:05:31.918Z"
+        "modifiedAt": "2026-04-01T19:08:19.233Z"
       },
       {
         "id": "note:README",
@@ -23224,7 +24729,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T17:03:00.655Z"
+        "modifiedAt": "2026-04-01T19:08:19.234Z"
       },
       {
         "id": "note:research/bts-gwanghwamun-igaworks-20260321",
@@ -23268,7 +24773,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.230Z"
+        "modifiedAt": "2026-04-01T19:08:19.178Z"
       },
       {
         "id": "note:skills/brain-memory/SKILL",
@@ -23457,7 +24962,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.231Z"
+        "modifiedAt": "2026-04-01T19:08:19.178Z"
       },
       {
         "id": "note:USER",
@@ -23479,7 +24984,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.235Z"
+        "modifiedAt": "2026-04-01T19:08:19.180Z"
       },
       {
         "id": "note:warm-memory/inbox",
@@ -23793,7 +25298,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 91,
+        "degree": 100,
         "modifiedAt": null
       },
       {
@@ -23804,7 +25309,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 91,
+        "degree": 100,
         "modifiedAt": null
       },
       {
@@ -23815,7 +25320,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 91,
+        "degree": 100,
         "modifiedAt": null
       },
       {
@@ -24200,7 +25705,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -24222,7 +25727,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -24244,7 +25749,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -24915,7 +26420,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -25289,7 +26794,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -25333,7 +26838,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -25641,7 +27146,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -25773,7 +27278,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 91,
+        "degree": 100,
         "modifiedAt": null
       },
       {
@@ -25971,7 +27476,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -26037,7 +27542,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -26147,7 +27652,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -26246,7 +27751,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -26378,7 +27883,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -26389,7 +27894,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -26400,7 +27905,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -26466,7 +27971,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -26939,7 +28444,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -26950,7 +28455,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27082,7 +28587,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 16,
+        "degree": 17,
         "modifiedAt": null
       },
       {
@@ -27192,7 +28697,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -27479,6 +28984,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:observer",
+        "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:open",
+        "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->tag:task",
+        "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto->tag:observer",
         "source": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
         "target": "tag:observer",
@@ -27493,6 +29016,42 @@
       {
         "id": "tag:note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto->tag:task",
         "source": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:observer",
+        "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:open",
+        "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:task",
+        "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:observer",
+        "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:open",
+        "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->tag:task",
+        "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
         "target": "tag:task",
         "type": "tag"
       },
@@ -27641,6 +29200,42 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:observer",
+        "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:open",
+        "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->tag:task",
+        "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:observer",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:open",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:task",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch->tag:observer",
         "source": "note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch",
         "target": "tag:observer",
@@ -27691,6 +29286,24 @@
       {
         "id": "tag:note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc->tag:task",
         "source": "note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:observer",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:open",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:task",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
         "target": "tag:task",
         "type": "tag"
       },
@@ -27821,6 +29434,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:observer",
+        "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:open",
+        "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->tag:task",
+        "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file->tag:observer",
         "source": "note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file",
         "target": "tag:observer",
@@ -27907,6 +29538,24 @@
       {
         "id": "tag:note:backlog/assistant-let-me-check-the-clawvault-structure->tag:task",
         "source": "note:backlog/assistant-let-me-check-the-clawvault-structure",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:observer",
+        "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:open",
+        "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->tag:task",
+        "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
         "target": "tag:task",
         "type": "tag"
       },
@@ -28541,6 +30190,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:open",
+        "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:task",
+        "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates->tag:observer",
         "source": "note:backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates",
         "target": "tag:observer",
@@ -29141,8 +30808,26 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ->unresolved:observer",
+        "source": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto->unresolved:observer",
         "source": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->unresolved:observer",
+        "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u->unresolved:observer",
+        "source": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -29195,6 +30880,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva->unresolved:observer",
+        "source": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->unresolved:observer",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch->unresolved:observer",
         "source": "note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch",
         "target": "unresolved:observer",
@@ -29209,6 +30906,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc->unresolved:observer",
         "source": "note:backlog/assistant-i-see-the-issue-jino-memory-is-a-git-repo-but-not-initialized-as-a-clawvault-let-me-just-store-the-researc",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->unresolved:observer",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -29255,6 +30958,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w->unresolved:observer",
+        "source": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file->unresolved:observer",
         "source": "note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file",
         "target": "unresolved:observer",
@@ -29281,6 +30990,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-let-me-check-the-clawvault-structure->unresolved:observer",
         "source": "note:backlog/assistant-let-me-check-the-clawvault-structure",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched->unresolved:observer",
+        "source": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -29491,6 +31206,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-update-the-readme-and-commit-everything->unresolved:observer",
         "source": "note:backlog/assistant-perfect-now-let-me-update-the-readme-and-commit-everything",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -29761,6 +31482,18 @@
       {
         "id": "wiki_link:note:commitments/2026-04-01->unresolved:your",
         "source": "note:commitments/2026-04-01",
+        "target": "unresolved:your",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:changes",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:your",
+        "source": "note:commitments/2026-04-02",
         "target": "unresolved:your",
         "type": "wiki_link"
       },
@@ -30301,6 +32034,108 @@
       {
         "id": "wiki_link:note:decisions/2026-03-31->unresolved:tier-promotion",
         "source": "note:decisions/2026-03-31",
+        "target": "unresolved:tier-promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:candidates",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:knowledge-base",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:knowledge-base",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:last",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:last",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:new-items",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:previously",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:previously",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:promotion",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:reads",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:reads",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:review-report",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:review-report",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:review-script",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:review-script",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:scanned",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:scanned",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:tier-promotion",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:tier-promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:tier-review",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:tier-review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-01->unresolved:users",
+        "source": "note:decisions/2026-04-01",
+        "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:candidates",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:new-items",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:review",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier-promotion",
+        "source": "note:decisions/2026-04-02",
         "target": "unresolved:tier-promotion",
         "type": "wiki_link"
       },
@@ -32417,6 +34252,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:projects/2026-04-01->unresolved:brave-search",
+        "source": "note:projects/2026-04-01",
+        "target": "unresolved:brave-search",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-01->unresolved:fre",
+        "source": "note:projects/2026-04-01",
+        "target": "unresolved:fre",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:projects/2026-04-01->unresolved:jino-long",
         "source": "note:projects/2026-04-01",
         "target": "unresolved:jino-long",
@@ -32432,6 +34279,12 @@
         "id": "wiki_link:note:projects/2026-04-01->unresolved:reply_to_current",
         "source": "note:projects/2026-04-01",
         "target": "unresolved:reply_to_current",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-01->unresolved:request",
+        "source": "note:projects/2026-04-01",
+        "target": "unresolved:request",
         "type": "wiki_link"
       },
       {
@@ -32454,24 +34307,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-01T19:06:39.613Z",
-      "nodeCount": 594,
-      "edgeCount": 874,
+      "generatedAt": "2026-04-01T23:03:22.170Z",
+      "nodeCount": 609,
+      "edgeCount": 932,
       "nodeTypeCounts": {
-        "note": 190,
+        "note": 201,
         "tag": 18,
         "unresolved": 305,
-        "commitment": 5,
+        "commitment": 6,
         "daily": 5,
-        "decision": 7,
-        "handoff": 13,
+        "decision": 9,
+        "handoff": 14,
         "lesson": 7,
         "person": 2,
         "project": 42
       },
       "edgeTypeCounts": {
-        "tag": 307,
-        "wiki_link": 567
+        "tag": 334,
+        "wiki_link": 598
       }
     }
   }
