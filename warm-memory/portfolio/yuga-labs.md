@@ -1,49 +1,29 @@
-# Yuga Labs - Portfolio Research
+# Yuga Labs
 
-**Last Updated:** 2026-03-31 04:00 AM KST
+**Last Updated:** 2026-04-02
 
-## Company Overview
-Creator of Bored Ape Yacht Club (BAYC), leading Web3 entertainment company
+## Status
+BAYC creator, active in metaverse and gaming
 
-## Recent Developments
+## Major Developments (2025-2026)
+- **Otherside metaverse LAUNCHED** Nov 12, 2025 (after 3 years development)
+- Acquired Improbable Unreal Engine platform (Dec 2025)
+- Large developer team from Improbable joining early 2026
+- Amazon Gaming partnership: Boximus NFT release ahead of Otherside Koda Nexus launch
 
-### Otherside Metaverse Launch ✅ (Nov 12, 2025)
-- **Koda Nexus hub** launched successfully
-- Browser-based experience (no download required)
-- Email sign-up flow (NFT ownership not required)
-- Amazon partnership for infrastructure
-- Accessibility-first approach
+## Funding Context
+Raised $450M in 2022 for metaverse development
 
-### 🆕 VibeMaker Launch (March 2026)
-- **Tagline:** "Built by the community, for the community"
-- Permissionless metaverse building tools
-- Open to all voyagers (builders and enjoyers)
-- Lowers barrier to creator participation
-- Signals platform maturation
+## Product Roadmap 2025-2026
+- Otherside metaverse live and operational
+- Community engagement and NFT experiences expanding
+- Integration of acquired Improbable tech team for development acceleration
 
-### 2026 Roadmap
-- **Resources System** introduction planned
-- Land utility expansion: crafting items, hosting events
-- Enhanced creator tools and social hubs
+## Partnership
+Amazon Gaming collaboration expanding BAYC-themed web3 metaverse to wider audience
 
-## Status Assessment
-**🟢 LAUNCHED - Post-Launch Phase**
+## Market Position
+Leading NFT brand transitioning successfully to metaverse gaming platform
 
-After years of development and delays, Otherside finally went live. The browser-based, low-barrier approach is smart positioning for mainstream adoption. Early user adoption metrics not yet public.
-
-## Key Metrics to Watch
-- Monthly active users (MAU)
-- Land utilization rates
-- Resources system rollout (2026)
-- Revenue model clarity (land sales vs. ongoing monetization)
-
-## Investment Implications
-- Major risk removed: product is live
-- Execution risk remains: user retention and engagement
-- Market timing: Metaverse hype has cooled since 2021-2022 peak
-- Differentiation: BAYC brand + Amazon infrastructure could drive adoption
-
-**Next check:** Q2 2026 for user growth and Resources system announcement
-
----
-*Research sources: Hypebeast, PlayToEarn, BlockchainGamer (Oct-Nov 2025)*
+## Next Check
+Q3 2026 for Otherside user metrics, new content drops, or expansion announcements

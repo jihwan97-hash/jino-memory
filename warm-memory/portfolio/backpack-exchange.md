@@ -1,52 +1,37 @@
 # Backpack Exchange
 
-**Last Updated:** 2026-04-01
+**Last Updated:** 2026-04-02
 
-## Status: 🚀 STRONG MOMENTUM
+## Status
+Combined wallet-exchange ecosystem, Solana-native with multi-chain expansion
 
-### Recent Developments (Feb-Mar 2026)
+## Products
 
-**Token Launch:**
-- TGE completed with 25% (250M tokens) distributed
-- 240M to point holders, 10M to Mad Lads NFT owners
-- 37.5% locked until 12+ months post-IPO
+### 1. Backpack Wallet
+- Self-custodial, non-custodial secure wallet
+- Supports Solana and Ethereum
+- Executable NFTs (xNFTs) support
+- Collection locking, hardware wallet integration
+- Blockchain computing platform features
 
-**Major Innovation: Equity-for-Tokens (Feb 23)**
-- Users can stake tokens for 1+ year → swap for company equity
-- 20% of company equity available through this mechanism
-- Revolutionary bridge between crypto and traditional finance
+### 2. Backpack Exchange
+- VASP license from Dubai VARA (Virtual Assets Regulatory Authority)
+- Regulated trading platform
+- Tight integration with wallet UX
 
-**On-Chain IPO Access (March 4)**
-- New product: Access IPO shares through platform
-- First token utility rollout for 2026
-- Waitlist launched
+## Recent Developments (2026)
+- 2026 positioning: Wallet + Exchange ecosystem with strong Solana identity
+- Multi-chain footprint expanding (Solana, Ethereum, additional integrations planned)
+- BP token debuted on Orca DEX
+- Partnership with Orca for DEX infrastructure integration
 
-### Valuation & Trajectory
-- Current: ~$1B (unicorn status)
-- Target: US IPO in 2026
-- CEO: Armani Ferrante
-- Focus: Solana ecosystem
+## Technology
+- DeFi multi-chain access
+- Cross-chain interoperability focus
+- User-friendly Solana ecosystem gateway
 
-### Investment Thesis: 🟢 GREEN LIGHT
+## Market Position
+User-friendly Solana ecosystem gateway expanding to multi-chain
 
-**Strengths:**
-- Token utility beyond speculation (IPO access + equity conversion)
-- Anti-dump tokenomics (post-IPO lock for insiders)
-- Clear path to traditional finance
-- Strong founder (ex-Solana core developer)
-
-**Watch Points:**
-- IPO timing depends on market conditions
-- Equity-token swap requires regulatory approval
-- On-chain IPO adoption metrics needed
-
-### Next Steps
-- Monitor IPO S-1 filing announcement
-- Track staking participation rate (equity conversion demand)
-- Watch on-chain IPO user adoption (Q2-Q3 2026)
-
----
-
-**Previous Research:**
-- March 30, 2026: Token TGE live, IPO target 2026
-- April 1, 2026: Equity-for-tokens mechanism, on-chain IPO launch
+## Next Check
+Q3 2026 for new chain integrations, regulatory expansions, or funding announcements
