@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-01T05:00:38.991Z",
+  "generatedAt": "2026-04-01T11:02:39.017Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -4118,7 +4118,7 @@
     },
     "backlog/assistant-now-i-have-all-the-context-the-inbox-data-is-from-march-27-last-synced-march-28-since-today-is-april-1-2.md": {
       "relativePath": "backlog/assistant-now-i-have-all-the-context-the-inbox-data-is-from-march-27-last-synced-march-28-since-today-is-april-1-2.md",
-      "mtimeMs": 1775019608429.9978,
+      "mtimeMs": 1775019647904.62,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-i-have-all-the-context-the-inbox-data-is-from-march-27-last-synced-march-28-since-today-is-april-1-2",
@@ -4133,7 +4133,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.429Z"
+          "modifiedAt": "2026-04-01T05:00:47.904Z"
         },
         {
           "id": "tag:observer",
@@ -4209,7 +4209,7 @@
     },
     "backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd.md": {
       "relativePath": "backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd.md",
-      "mtimeMs": 1775019608433.7002,
+      "mtimeMs": 1775019647905.1455,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
@@ -4224,7 +4224,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.433Z"
+          "modifiedAt": "2026-04-01T05:00:47.905Z"
         },
         {
           "id": "tag:observer",
@@ -6848,7 +6848,7 @@
     },
     "backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and.md": {
       "relativePath": "backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and.md",
-      "mtimeMs": 1775019608435.642,
+      "mtimeMs": 1775019647905.6743,
       "nodes": [
         {
           "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-still-last-synced-march-28-ill-write-todays-email-summary-noting-this-and",
@@ -6863,7 +6863,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.435Z"
+          "modifiedAt": "2026-04-01T05:00:47.905Z"
         },
         {
           "id": "tag:observer",
@@ -8416,6 +8416,62 @@
         }
       ]
     },
+    "brain-memory/daily/email-2026-04-01.md": {
+      "relativePath": "brain-memory/daily/email-2026-04-01.md",
+      "mtimeMs": 1775019647849.6667,
+      "nodes": [
+        {
+          "id": "note:brain-memory/daily/email-2026-04-01",
+          "title": "Email 2026 04 01",
+          "type": "note",
+          "category": "note",
+          "path": "brain-memory/daily/email-2026-04-01.md",
+          "tags": [
+            "2",
+            "248"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T05:00:47.849Z"
+        },
+        {
+          "id": "tag:2",
+          "title": "#2",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:248",
+          "title": "#248",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:brain-memory/daily/email-2026-04-01->tag:2",
+          "source": "note:brain-memory/daily/email-2026-04-01",
+          "target": "tag:2",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:brain-memory/daily/email-2026-04-01->tag:248",
+          "source": "note:brain-memory/daily/email-2026-04-01",
+          "target": "tag:248",
+          "type": "tag"
+        }
+      ]
+    },
     "commitments/2026-03-26.md": {
       "relativePath": "commitments/2026-03-26.md",
       "mtimeMs": 1774782039896.7483,
@@ -8884,7 +8940,7 @@
     },
     "commitments/2026-04-01.md": {
       "relativePath": "commitments/2026-04-01.md",
-      "mtimeMs": 1775019608437.377,
+      "mtimeMs": 1775019647906.3206,
       "nodes": [
         {
           "id": "note:commitments/2026-04-01",
@@ -8895,7 +8951,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.437Z"
+          "modifiedAt": "2026-04-01T05:00:47.906Z"
         },
         {
           "id": "unresolved:your",
@@ -9080,7 +9136,7 @@
     },
     "daily/2026-04-01.md": {
       "relativePath": "daily/2026-04-01.md",
-      "mtimeMs": 1775019629005.7305,
+      "mtimeMs": 1775041344972.737,
       "nodes": [
         {
           "id": "note:daily/2026-04-01",
@@ -9091,7 +9147,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:29.005Z"
+          "modifiedAt": "2026-04-01T11:02:24.972Z"
         }
       ],
       "edges": []
@@ -10487,7 +10543,7 @@
     },
     "decisions/2026-03-31.md": {
       "relativePath": "decisions/2026-03-31.md",
-      "mtimeMs": 1775019608225.781,
+      "mtimeMs": 1775019647907.6294,
       "nodes": [
         {
           "id": "note:decisions/2026-03-31",
@@ -10498,7 +10554,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.225Z"
+          "modifiedAt": "2026-04-01T05:00:47.907Z"
         },
         {
           "id": "unresolved:review",
@@ -13045,7 +13101,7 @@
     },
     "facts/2026-03-31.md": {
       "relativePath": "facts/2026-03-31.md",
-      "mtimeMs": 1775019608223.9885,
+      "mtimeMs": 1775019647908.7476,
       "nodes": [
         {
           "id": "note:facts/2026-03-31",
@@ -13056,7 +13112,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.223Z"
+          "modifiedAt": "2026-04-01T05:00:47.908Z"
         },
         {
           "id": "unresolved:claude-code",
@@ -13546,7 +13602,7 @@
     },
     "facts/2026-04-01.md": {
       "relativePath": "facts/2026-04-01.md",
-      "mtimeMs": 1775019608226.979,
+      "mtimeMs": 1775019647909.288,
       "nodes": [
         {
           "id": "note:facts/2026-04-01",
@@ -13557,7 +13613,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.226Z"
+          "modifiedAt": "2026-04-01T05:00:47.909Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -14336,7 +14392,7 @@
     },
     "handoffs/handoff-2026-04-01-0500.md": {
       "relativePath": "handoffs/handoff-2026-04-01-0500.md",
-      "mtimeMs": 1775019638908.7598,
+      "mtimeMs": 1775019647909.8015,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-01-0500",
@@ -14347,7 +14403,43 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:38.908Z"
+          "modifiedAt": "2026-04-01T05:00:47.909Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-01-1101.md": {
+      "relativePath": "handoffs/handoff-2026-04-01-1101.md",
+      "mtimeMs": 1775041266874.3328,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-01-1101",
+          "title": "handoff-2026-04-01-1101",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-01-1101.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T11:01:06.874Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-01-1102.md": {
+      "relativePath": "handoffs/handoff-2026-04-01-1102.md",
+      "mtimeMs": 1775041358935.6448,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-01-1102",
+          "title": "handoff-2026-04-01-1102",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-01-1102.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T11:02:38.935Z"
         }
       ],
       "edges": []
@@ -14372,7 +14464,7 @@
     },
     "HOT-MEMORY.md": {
       "relativePath": "HOT-MEMORY.md",
-      "mtimeMs": 1774918903387.9043,
+      "mtimeMs": 1775019647849.1,
       "nodes": [
         {
           "id": "note:HOT-MEMORY",
@@ -14385,7 +14477,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.387Z"
+          "modifiedAt": "2026-04-01T05:00:47.849Z"
         },
         {
           "id": "tag:248",
@@ -18311,7 +18403,7 @@
     },
     "projects/2026-04-01.md": {
       "relativePath": "projects/2026-04-01.md",
-      "mtimeMs": 1775019608229.36,
+      "mtimeMs": 1775019647910.3298,
       "nodes": [
         {
           "id": "note:projects/2026-04-01",
@@ -18322,7 +18414,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T05:00:08.229Z"
+          "modifiedAt": "2026-04-01T05:00:47.910Z"
         },
         {
           "id": "unresolved:jino-long",
@@ -19013,7 +19105,7 @@
     },
     "research/podcasts/2026-04-01-digest.md": {
       "relativePath": "research/podcasts/2026-04-01-digest.md",
-      "mtimeMs": 1774998239413.7236,
+      "mtimeMs": 1775019647910.8533,
       "nodes": [
         {
           "id": "note:research/podcasts/2026-04-01-digest",
@@ -19024,7 +19116,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:59.413Z"
+          "modifiedAt": "2026-04-01T05:00:47.910Z"
         }
       ],
       "edges": []
@@ -20460,7 +20552,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T05:00:08.429Z"
+        "modifiedAt": "2026-04-01T05:00:47.904Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-check-if-the-brain-memory-directory-exists-and-look-for-hot-memorymd",
@@ -20475,7 +20567,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T05:00:08.433Z"
+        "modifiedAt": "2026-04-01T05:00:47.905Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-commit-and-push-all-changes",
@@ -20910,7 +21002,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T05:00:08.435Z"
+        "modifiedAt": "2026-04-01T05:00:47.905Z"
       },
       {
         "id": "note:backlog/assistant-the-page-didnt-load-the-article-content-properly-let-me-continue-researching-other-companies-and-compile-wh",
@@ -21228,6 +21320,20 @@
         "modifiedAt": "2026-03-31T13:02:50.513Z"
       },
       {
+        "id": "note:brain-memory/daily/email-2026-04-01",
+        "title": "Email 2026 04 01",
+        "type": "note",
+        "category": "note",
+        "path": "brain-memory/daily/email-2026-04-01.md",
+        "tags": [
+          "2",
+          "248"
+        ],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-04-01T05:00:47.849Z"
+      },
+      {
         "id": "note:commitments/2026-03-26",
         "title": "2026 03 26",
         "type": "commitment",
@@ -21280,7 +21386,7 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-04-01T05:00:08.437Z"
+        "modifiedAt": "2026-04-01T05:00:47.906Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -21337,7 +21443,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T05:00:29.005Z"
+        "modifiedAt": "2026-04-01T11:02:24.972Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -21414,7 +21520,7 @@
         "tags": [],
         "missing": false,
         "degree": 13,
-        "modifiedAt": "2026-04-01T05:00:08.225Z"
+        "modifiedAt": "2026-04-01T05:00:47.907Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -21505,7 +21611,7 @@
         "tags": [],
         "missing": false,
         "degree": 29,
-        "modifiedAt": "2026-04-01T05:00:08.223Z"
+        "modifiedAt": "2026-04-01T05:00:47.908Z"
       },
       {
         "id": "note:facts/2026-04-01",
@@ -21516,7 +21622,7 @@
         "tags": [],
         "missing": false,
         "degree": 9,
-        "modifiedAt": "2026-04-01T05:00:08.226Z"
+        "modifiedAt": "2026-04-01T05:00:47.909Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -21854,7 +21960,29 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T05:00:38.908Z"
+        "modifiedAt": "2026-04-01T05:00:47.909Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-01-1101",
+        "title": "handoff-2026-04-01-1101",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-01-1101.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T11:01:06.874Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-01-1102",
+        "title": "handoff-2026-04-01-1102",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-01-1102.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T11:02:38.935Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -21878,7 +22006,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-03-31T01:01:43.387Z"
+        "modifiedAt": "2026-04-01T05:00:47.849Z"
       },
       {
         "id": "note:IDENTITY",
@@ -22244,7 +22372,7 @@
         "tags": [],
         "missing": false,
         "degree": 7,
-        "modifiedAt": "2026-04-01T05:00:08.229Z"
+        "modifiedAt": "2026-04-01T05:00:47.910Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -22569,7 +22697,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:59.413Z"
+        "modifiedAt": "2026-04-01T05:00:47.910Z"
       },
       {
         "id": "note:SESSION_STATE",
@@ -23006,7 +23134,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -23017,7 +23145,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -28159,6 +28287,18 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:brain-memory/daily/email-2026-04-01->tag:2",
+        "source": "note:brain-memory/daily/email-2026-04-01",
+        "target": "tag:2",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:brain-memory/daily/email-2026-04-01->tag:248",
+        "source": "note:brain-memory/daily/email-2026-04-01",
+        "target": "tag:248",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:daily/2026-03-31->tag:248",
         "source": "note:daily/2026-03-31",
         "target": "tag:248",
@@ -31706,23 +31846,23 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-01T05:00:38.991Z",
-      "nodeCount": 577,
-      "edgeCount": 864,
+      "generatedAt": "2026-04-01T11:02:39.017Z",
+      "nodeCount": 580,
+      "edgeCount": 866,
       "nodeTypeCounts": {
-        "note": 186,
+        "note": 187,
         "tag": 18,
         "unresolved": 305,
         "commitment": 5,
         "daily": 5,
         "decision": 7,
-        "handoff": 10,
+        "handoff": 12,
         "lesson": 7,
         "person": 2,
         "project": 32
       },
       "edgeTypeCounts": {
-        "tag": 299,
+        "tag": 301,
         "wiki_link": 565
       }
     }
