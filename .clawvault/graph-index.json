@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-02T11:05:37.746Z",
+  "generatedAt": "2026-04-02T17:03:33.460Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -3565,6 +3565,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-ill-run-the-portfolio-research-workflow-let-me-start-by-reading-the-portfolio-companies-list->unresolved:observer",
           "source": "note:backlog/assistant-ill-run-the-portfolio-research-workflow-let-me-start-by-reading-the-portfolio-companies-list",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md": {
+      "relativePath": "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md",
+      "mtimeMs": 1775149211039.244,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+          "title": "Assistant Inbox Data Is Still From 327 Not Re Synced Let Me Sync Now Before Writing Todays Evening Summary",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:00:11.039Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:observer",
+          "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:open",
+          "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:task",
+          "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->unresolved:observer",
+          "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -7665,6 +7756,97 @@
         }
       ]
     },
+    "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md": {
+      "relativePath": "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md",
+      "mtimeMs": 1775149211041.7222,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+          "title": "Assistant Sync Failed Wrong Path Context The Inbox Data Is From 327 Ill Proceed With Whats Available Noting Th",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:00:11.041Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:observer",
+          "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:open",
+          "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:task",
+          "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->unresolved:observer",
+          "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps.md": {
       "relativePath": "backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps.md",
       "mtimeMs": 1774918903434.664,
@@ -8570,6 +8752,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location->unresolved:observer",
           "source": "note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md": {
+      "relativePath": "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md",
+      "mtimeMs": 1775149211522.5703,
+      "nodes": [
+        {
+          "id": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+          "title": "Toolresult Created 2026 04 01t230226069z Source Observer Tags Open Observer Task Assistant Goo",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:00:11.522Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:observer",
+          "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:open",
+          "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:task",
+          "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->unresolved:observer",
+          "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -10083,7 +10356,7 @@
     },
     "commitments/2026-04-02.md": {
       "relativePath": "commitments/2026-04-02.md",
-      "mtimeMs": 1775106086438.4834,
+      "mtimeMs": 1775149211043.1157,
       "nodes": [
         {
           "id": "note:commitments/2026-04-02",
@@ -10094,7 +10367,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T05:01:26.438Z"
+          "modifiedAt": "2026-04-02T17:00:11.043Z"
         },
         {
           "id": "unresolved:your",
@@ -10161,6 +10434,72 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:you",
+          "title": "You",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:please",
+          "title": "Please",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:command",
+          "title": "Command",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:saved",
+          "title": "Saved",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:rebasing",
+          "title": "Rebasing",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:successfully",
+          "title": "Successfully",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -10198,6 +10537,42 @@
           "id": "wiki_link:note:commitments/2026-04-02->unresolved:handle",
           "source": "note:commitments/2026-04-02",
           "target": "unresolved:handle",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:you",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:you",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:please",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:please",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:command",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:command",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:saved",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:saved",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:rebasing",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:rebasing",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:successfully",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:successfully",
           "type": "wiki_link"
         }
       ]
@@ -10326,6 +10701,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-02T11:05:27.421Z"
+        }
+      ],
+      "edges": []
+    },
+    "daily/2026-04-03.md": {
+      "relativePath": "daily/2026-04-03.md",
+      "mtimeMs": 1775149403838.053,
+      "nodes": [
+        {
+          "id": "note:daily/2026-04-03",
+          "title": "2026 04 03",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:03:23.838Z"
         }
       ],
       "edges": []
@@ -12201,7 +12594,7 @@
     },
     "decisions/2026-04-02.md": {
       "relativePath": "decisions/2026-04-02.md",
-      "mtimeMs": 1775106086673.646,
+      "mtimeMs": 1775149211536.1846,
       "nodes": [
         {
           "id": "note:decisions/2026-04-02",
@@ -12212,7 +12605,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T05:01:26.673Z"
+          "modifiedAt": "2026-04-02T17:00:11.536Z"
         },
         {
           "id": "unresolved:review",
@@ -12301,6 +12694,17 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:creat",
+          "title": "Creat",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -12356,6 +12760,12 @@
           "id": "wiki_link:note:decisions/2026-04-02->note:MEMORY",
           "source": "note:decisions/2026-04-02",
           "target": "note:MEMORY",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:creat",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:creat",
           "type": "wiki_link"
         }
       ]
@@ -15411,7 +15821,7 @@
     },
     "facts/2026-04-02.md": {
       "relativePath": "facts/2026-04-02.md",
-      "mtimeMs": 1775127754926.2322,
+      "mtimeMs": 1775149211535.1177,
       "nodes": [
         {
           "id": "note:facts/2026-04-02",
@@ -15422,7 +15832,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T11:02:34.926Z"
+          "modifiedAt": "2026-04-02T17:00:11.535Z"
         },
         {
           "id": "unresolved:users",
@@ -15522,6 +15932,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:session-handoff",
+          "title": "Session Handoff",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:created",
+          "title": "Created",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:blocked",
+          "title": "Blocked",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:path",
+          "title": "Path",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -15577,6 +16031,36 @@
           "id": "wiki_link:note:facts/2026-04-02->unresolved:subagent-task",
           "source": "note:facts/2026-04-02",
           "target": "unresolved:subagent-task",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:session-handoff",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:session-handoff",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:created",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:created",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:blocked",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:blocked",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->note:templates/handoff",
+          "source": "note:facts/2026-04-02",
+          "target": "note:templates/handoff",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:path",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:path",
           "type": "wiki_link"
         }
       ]
@@ -16325,6 +16809,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-04-02-1703.md": {
+      "relativePath": "handoffs/handoff-2026-04-02-1703.md",
+      "mtimeMs": 1775149413384.8965,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-02-1703",
+          "title": "handoff-2026-04-02-1703",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-02-1703.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:03:33.384Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -16779,7 +17281,7 @@
     },
     "ledger/observations/2026/04/02.md": {
       "relativePath": "ledger/observations/2026/04/02.md",
-      "mtimeMs": 1775127754897.8806,
+      "mtimeMs": 1775149211499.2827,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/02",
@@ -16792,7 +17294,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T11:02:34.897Z"
+          "modifiedAt": "2026-04-02T17:00:11.499Z"
         },
         {
           "id": "tag:hashed",
@@ -16806,8 +17308,52 @@
           "modifiedAt": null
         },
         {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
           "id": "unresolved:reply_to_current",
           "title": "Reply To Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review",
+          "title": "Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brave-search",
+          "title": "Brave Search",
           "type": "unresolved",
           "category": "unresolved",
           "path": null,
@@ -16825,9 +17371,33 @@
           "type": "tag"
         },
         {
+          "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:observer",
+          "source": "note:ledger/observations/2026/04/02",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        },
+        {
           "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/04/02",
           "target": "unresolved:reply_to_current",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:review",
+          "source": "note:ledger/observations/2026/04/02",
+          "target": "unresolved:review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:new-items",
+          "source": "note:ledger/observations/2026/04/02",
+          "target": "unresolved:new-items",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:brave-search",
+          "source": "note:ledger/observations/2026/04/02",
+          "target": "unresolved:brave-search",
           "type": "wiki_link"
         }
       ]
@@ -22703,6 +23273,21 @@
         "modifiedAt": "2026-03-30T02:00:35.299Z"
       },
       {
+        "id": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+        "title": "Assistant Inbox Data Is Still From 327 Not Re Synced Let Me Sync Now Before Writing Todays Evening Summary",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T17:00:11.039Z"
+      },
+      {
         "id": "note:backlog/assistant-inbox-files-dont-exist-yet-let-me-sync-them-first",
         "title": "Assistant Inbox Files Dont Exist Yet Let Me Sync Them First",
         "type": "note",
@@ -23378,6 +23963,21 @@
         "modifiedAt": "2026-03-31T01:01:43.434Z"
       },
       {
+        "id": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+        "title": "Assistant Sync Failed Wrong Path Context The Inbox Data Is From 327 Ill Proceed With Whats Available Noting Th",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T17:00:11.041Z"
+      },
+      {
         "id": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
         "title": "Assistant Taiko Mentioned As A Mature L2 Let Me Search For More Companies With Data Gaps",
         "type": "note",
@@ -23526,6 +24126,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T23:00:07.647Z"
+      },
+      {
+        "id": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+        "title": "Toolresult Created 2026 04 01t230226069z Source Observer Tags Open Observer Task Assistant Goo",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T17:00:11.522Z"
       },
       {
         "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4",
@@ -23827,8 +24442,8 @@
         "path": "commitments/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 6,
-        "modifiedAt": "2026-04-02T05:01:26.438Z"
+        "degree": 12,
+        "modifiedAt": "2026-04-02T17:00:11.043Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -23897,6 +24512,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-02T11:05:27.421Z"
+      },
+      {
+        "id": "note:daily/2026-04-03",
+        "title": "2026 04 03",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T17:03:23.838Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -23994,8 +24620,8 @@
         "path": "decisions/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 9,
-        "modifiedAt": "2026-04-02T05:01:26.673Z"
+        "degree": 10,
+        "modifiedAt": "2026-04-02T17:00:11.536Z"
       },
       {
         "id": "note:facts/2022-06-28",
@@ -24118,8 +24744,8 @@
         "path": "facts/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 9,
-        "modifiedAt": "2026-04-02T11:02:34.926Z"
+        "degree": 14,
+        "modifiedAt": "2026-04-02T17:00:11.535Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -24526,6 +25152,17 @@
         "modifiedAt": "2026-04-02T11:05:37.661Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-04-02-1703",
+        "title": "handoff-2026-04-02-1703",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-02-1703.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T17:03:33.384Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -24656,8 +25293,8 @@
           "hashed"
         ],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-04-02T11:02:34.897Z"
+        "degree": 6,
+        "modifiedAt": "2026-04-02T17:00:11.499Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -25538,7 +26175,7 @@
         "path": "templates/handoff.md",
         "tags": [],
         "missing": false,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": "2026-03-30T02:00:35.316Z"
       },
       {
@@ -25928,7 +26565,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 100,
+        "degree": 103,
         "modifiedAt": null
       },
       {
@@ -25939,7 +26576,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 100,
+        "degree": 103,
         "modifiedAt": null
       },
       {
@@ -25950,7 +26587,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 100,
+        "degree": 103,
         "modifiedAt": null
       },
       {
@@ -26280,7 +26917,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -26346,7 +26983,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -26511,7 +27148,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -26724,8 +27361,30 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:creat",
+        "title": "Creat",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:create",
         "title": "Create",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:created",
+        "title": "Created",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27831,7 +28490,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -27963,7 +28622,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 100,
+        "degree": 104,
         "modifiedAt": null
       },
       {
@@ -28040,7 +28699,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28095,7 +28754,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -28359,7 +29018,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28568,7 +29227,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28645,7 +29304,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -28734,6 +29393,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:session-handoff",
+        "title": "Session Handoff",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -29025,6 +29695,17 @@
       {
         "id": "unresolved:successful-global",
         "title": "Successful Global",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:successfully",
+        "title": "Successfully",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29393,7 +30074,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -30119,6 +30800,24 @@
       {
         "id": "tag:note:backlog/assistant-ill-run-the-portfolio-research-workflow-let-me-start-by-reading-the-portfolio-companies-list->tag:task",
         "source": "note:backlog/assistant-ill-run-the-portfolio-research-workflow-let-me-start-by-reading-the-portfolio-companies-list",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:observer",
+        "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:open",
+        "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->tag:task",
+        "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
         "target": "tag:task",
         "type": "tag"
       },
@@ -30933,6 +31632,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:observer",
+        "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:open",
+        "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->tag:task",
+        "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps->tag:observer",
         "source": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
         "target": "tag:observer",
@@ -31109,6 +31826,24 @@
       {
         "id": "tag:note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location->tag:task",
         "source": "note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:observer",
+        "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:open",
+        "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->tag:task",
+        "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
         "target": "tag:task",
         "type": "tag"
       },
@@ -31665,6 +32400,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary->unresolved:observer",
+        "source": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-inbox-files-dont-exist-yet-let-me-sync-them-first->unresolved:observer",
         "source": "note:backlog/assistant-inbox-files-dont-exist-yet-let-me-sync-them-first",
         "target": "unresolved:observer",
@@ -31935,6 +32676,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th->unresolved:observer",
+        "source": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps->unresolved:observer",
         "source": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
         "target": "unresolved:observer",
@@ -31991,6 +32738,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location->unresolved:observer",
         "source": "note:backlog/assistant-the-warm-memory-directory-is-a-symlink-let-me-check-the-actual-location",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo->unresolved:observer",
+        "source": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -32217,6 +32970,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:command",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:command",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-04-02->unresolved:dashboard-data",
         "source": "note:commitments/2026-04-02",
         "target": "unresolved:dashboard-data",
@@ -32226,6 +32985,36 @@
         "id": "wiki_link:note:commitments/2026-04-02->unresolved:handle",
         "source": "note:commitments/2026-04-02",
         "target": "unresolved:handle",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:please",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:please",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:rebasing",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:rebasing",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:saved",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:saved",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:successfully",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:successfully",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:you",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:you",
         "type": "wiki_link"
       },
       {
@@ -32874,6 +33663,12 @@
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:compacted",
         "source": "note:decisions/2026-04-02",
         "target": "unresolved:compacted",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:creat",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:creat",
         "type": "wiki_link"
       },
       {
@@ -33915,9 +34710,27 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-02->note:templates/handoff",
+        "source": "note:facts/2026-04-02",
+        "target": "note:templates/handoff",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:blocked",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:blocked",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-02->unresolved:cannot",
         "source": "note:facts/2026-04-02",
         "target": "unresolved:cannot",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:created",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:created",
         "type": "wiki_link"
       },
       {
@@ -33933,9 +34746,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:path",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-02->unresolved:results",
         "source": "note:facts/2026-04-02",
         "target": "unresolved:results",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:session-handoff",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:session-handoff",
         "type": "wiki_link"
       },
       {
@@ -34017,9 +34842,33 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:brave-search",
+        "source": "note:ledger/observations/2026/04/02",
+        "target": "unresolved:brave-search",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:new-items",
+        "source": "note:ledger/observations/2026/04/02",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:observer",
+        "source": "note:ledger/observations/2026/04/02",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:reply_to_current",
         "source": "note:ledger/observations/2026/04/02",
         "target": "unresolved:reply_to_current",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:review",
+        "source": "note:ledger/observations/2026/04/02",
+        "target": "unresolved:review",
         "type": "wiki_link"
       },
       {
@@ -35170,24 +36019,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-02T11:05:37.746Z",
-      "nodeCount": 623,
-      "edgeCount": 958,
+      "generatedAt": "2026-04-02T17:03:33.460Z",
+      "nodeCount": 632,
+      "edgeCount": 986,
       "nodeTypeCounts": {
-        "note": 204,
+        "note": 207,
         "tag": 18,
-        "unresolved": 312,
+        "unresolved": 316,
         "commitment": 6,
-        "daily": 6,
+        "daily": 7,
         "decision": 9,
-        "handoff": 16,
+        "handoff": 17,
         "lesson": 7,
         "person": 2,
         "project": 43
       },
       "edgeTypeCounts": {
-        "tag": 335,
-        "wiki_link": 623
+        "tag": 344,
+        "wiki_link": 642
       }
     }
   }
