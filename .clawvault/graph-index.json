@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-02T17:03:33.460Z",
+  "generatedAt": "2026-04-02T23:03:34.871Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -380,6 +380,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai->unresolved:observer",
           "source": "note:backlog/assistant-excellent-now-let-me-create-summaries-for-the-other-companies-and-store-them-as-well-let-me-batch-the-remai",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies.md": {
+      "relativePath": "backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies.md",
+      "mtimeMs": 1775170870360.877,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+          "title": "Assistant Excellent Nurihaus Update Confirmed Let Me Continue With Remaining Companies",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.360Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:observer",
+          "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:open",
+          "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:task",
+          "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->unresolved:observer",
+          "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -1204,6 +1295,97 @@
         }
       ]
     },
+    "backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches.md": {
+      "relativePath": "backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches.md",
+      "mtimeMs": 1775170870364.435,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+          "title": "Assistant Good Info On Taikos Fusaka Upgrade Benefits Let Me Continue With A Couple More Searches",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.364Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:observer",
+          "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:open",
+          "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:task",
+          "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->unresolved:observer",
+          "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire.md": {
       "relativePath": "backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire.md",
       "mtimeMs": 1774652407639.981,
@@ -1568,6 +1750,97 @@
         }
       ]
     },
+    "backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont.md": {
+      "relativePath": "backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont.md",
+      "mtimeMs": 1775170870357.4546,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+          "title": "Assistant Good Story Protocol Has New Info Pip Labs Had Layoffs In March 2026 10 Workforce Reduction Let Me Cont",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.357Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:observer",
+          "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:open",
+          "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:task",
+          "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->unresolved:observer",
+          "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md": {
       "relativePath": "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md",
       "mtimeMs": 1775084609150.4927,
@@ -1836,6 +2109,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile->unresolved:observer",
           "source": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue.md": {
+      "relativePath": "backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue.md",
+      "mtimeMs": 1775170870359.2275,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+          "title": "Assistant Great Backpacks Tge Happened March 23 2026 Let Me Continue",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.359Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:observer",
+          "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:open",
+          "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:task",
+          "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->unresolved:observer",
+          "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -2569,6 +2933,97 @@
         }
       ]
     },
+    "backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches.md": {
+      "relativePath": "backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches.md",
+      "mtimeMs": 1775170870353.0356,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+          "title": "Assistant I Hit The Rate Limit 1 Querysec Let Me Wait And Continue With Sequential Searches",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.353Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:observer",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:open",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:task",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->unresolved:observer",
+          "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md": {
       "relativePath": "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md",
       "mtimeMs": 1775084609152.2603,
@@ -3019,6 +3474,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->unresolved:observer",
           "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault.md": {
+      "relativePath": "backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault.md",
+      "mtimeMs": 1775170870339.8542,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+          "title": "Assistant Ill Conduct Portfolio Research For 10 Companies And Store The Updates In Clawvault",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.339Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:observer",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:open",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:task",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->unresolved:observer",
+          "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -3572,7 +4118,7 @@
     },
     "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md": {
       "relativePath": "backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary.md",
-      "mtimeMs": 1775149211039.244,
+      "mtimeMs": 1775149424222.7415,
       "nodes": [
         {
           "id": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
@@ -3587,7 +4133,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.039Z"
+          "modifiedAt": "2026-04-02T17:03:44.222Z"
         },
         {
           "id": "tag:observer",
@@ -4753,6 +5299,97 @@
         }
       ]
     },
+    "backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies.md": {
+      "relativePath": "backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies.md",
+      "mtimeMs": 1775170870354.8384,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+          "title": "Assistant No Specific Payhere Results Let Me Continue With Other Companies",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.354Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:observer",
+          "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:open",
+          "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:task",
+          "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->unresolved:observer",
+          "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md": {
       "relativePath": "backlog/assistant-no-specific-radius-data-let-me-search-more-specifically.md",
       "mtimeMs": 1774998211292.0667,
@@ -4839,6 +5476,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->unresolved:observer",
           "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search.md": {
+      "relativePath": "backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search.md",
+      "mtimeMs": 1775170870362.6274,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+          "title": "Assistant No Specific Taiko Labs Updates Let Me Try A More Specific Search",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.362Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:observer",
+          "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:open",
+          "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:task",
+          "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->unresolved:observer",
+          "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -5845,6 +6573,97 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault.md": {
+      "relativePath": "backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault.md",
+      "mtimeMs": 1775170870368.3716,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+          "title": "Assistant Now Let Me Create Summaries For The Remaining Companies And Store Everything In Clawvault",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.368Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:open",
+          "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:task",
+          "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit.md": {
       "relativePath": "backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit.md",
       "mtimeMs": 1774652407645.4294,
@@ -6391,6 +7210,97 @@
         }
       ]
     },
+    "backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md": {
+      "relativePath": "backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+      "mtimeMs": 1775170870370.7146,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "title": "Assistant Now Let Me Update The Warm Memory Portfolio Files For Backward Compatibility",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.370Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:observer",
+          "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:open",
+          "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:task",
+          "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->unresolved:observer",
+          "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-now-let-me-write-all-4-skillmd-files.md": {
       "relativePath": "backlog/assistant-now-let-me-write-all-4-skillmd-files.md",
       "mtimeMs": 1774587616369.027,
@@ -6841,6 +7751,97 @@
         {
           "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->unresolved:observer",
           "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t.md": {
+      "relativePath": "backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t.md",
+      "mtimeMs": 1775170870345.3232,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+          "title": "Assistant Perfect I Can See The Portfolio Structure And That The Last Research Was On April 1 Let Me Pick Companies T",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.345Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:observer",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:open",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:task",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->unresolved:observer",
+          "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -7758,7 +8759,7 @@
     },
     "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md": {
       "relativePath": "backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th.md",
-      "mtimeMs": 1775149211041.7222,
+      "mtimeMs": 1775149424223.2695,
       "nodes": [
         {
           "id": "note:backlog/assistant-sync-failed-wrong-path-context-the-inbox-data-is-from-327-ill-proceed-with-whats-available-noting-th",
@@ -7773,7 +8774,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.041Z"
+          "modifiedAt": "2026-04-02T17:03:44.223Z"
         },
         {
           "id": "tag:observer",
@@ -8393,6 +9394,97 @@
         }
       ]
     },
+    "backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m.md": {
+      "relativePath": "backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m.md",
+      "mtimeMs": 1775170870366.266,
+      "nodes": [
+        {
+          "id": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+          "title": "Assistant The Search Is Picking Up Radius The Network Protocol Not Radius Technology The Blockchain Company Let M",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.366Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:observer",
+          "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:open",
+          "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:task",
+          "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->unresolved:observer",
+          "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog.md": {
       "relativePath": "backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog.md",
       "mtimeMs": 1774652407620.8967,
@@ -8759,7 +9851,7 @@
     },
     "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md": {
       "relativePath": "backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo.md",
-      "mtimeMs": 1775149211522.5703,
+      "mtimeMs": 1775149424223.8315,
       "nodes": [
         {
           "id": "note:backlog/toolresult-created-2026-04-01t230226069z-source-observer-tags-open-observer-task-assistant-goo",
@@ -8774,7 +9866,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.522Z"
+          "modifiedAt": "2026-04-02T17:03:44.223Z"
         },
         {
           "id": "tag:observer",
@@ -9748,7 +10840,7 @@
     },
     "brain-memory/daily/email-2026-04-02.md": {
       "relativePath": "brain-memory/daily/email-2026-04-02.md",
-      "mtimeMs": 1775084609086.347,
+      "mtimeMs": 1775149424167.774,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-04-02",
@@ -9761,7 +10853,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:29.086Z"
+          "modifiedAt": "2026-04-02T17:03:44.167Z"
         },
         {
           "id": "tag:248",
@@ -10356,7 +11448,7 @@
     },
     "commitments/2026-04-02.md": {
       "relativePath": "commitments/2026-04-02.md",
-      "mtimeMs": 1775149211043.1157,
+      "mtimeMs": 1775149424224.5168,
       "nodes": [
         {
           "id": "note:commitments/2026-04-02",
@@ -10367,7 +11459,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.043Z"
+          "modifiedAt": "2026-04-02T17:03:44.224Z"
         },
         {
           "id": "unresolved:your",
@@ -10707,7 +11799,7 @@
     },
     "daily/2026-04-03.md": {
       "relativePath": "daily/2026-04-03.md",
-      "mtimeMs": 1775149403838.053,
+      "mtimeMs": 1775170928063.536,
       "nodes": [
         {
           "id": "note:daily/2026-04-03",
@@ -10718,14 +11810,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:03:23.838Z"
+          "modifiedAt": "2026-04-02T23:02:08.063Z"
         }
       ],
       "edges": []
     },
     "decisions/2022-06-28.md": {
       "relativePath": "decisions/2022-06-28.md",
-      "mtimeMs": 1774918903436.0227,
+      "mtimeMs": 1775170869591.8018,
       "nodes": [
         {
           "id": "note:decisions/2022-06-28",
@@ -10736,7 +11828,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.436Z"
+          "modifiedAt": "2026-04-02T23:01:09.591Z"
         }
       ],
       "edges": []
@@ -12594,7 +13686,7 @@
     },
     "decisions/2026-04-02.md": {
       "relativePath": "decisions/2026-04-02.md",
-      "mtimeMs": 1775149211536.1846,
+      "mtimeMs": 1775170869613.171,
       "nodes": [
         {
           "id": "note:decisions/2026-04-02",
@@ -12605,7 +13697,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.536Z"
+          "modifiedAt": "2026-04-02T23:01:09.613Z"
         },
         {
           "id": "unresolved:review",
@@ -12705,6 +13797,116 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review-report",
+          "title": "Review Report",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:scanned",
+          "title": "Scanned",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:last",
+          "title": "Last",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:previously",
+          "title": "Previously",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review-script",
+          "title": "Review Script",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:knowledge-base",
+          "title": "Knowledge Base",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-review",
+          "title": "Tier Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:promotion",
+          "title": "Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:reads",
+          "title": "Reads",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier",
+          "title": "Tier",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -12766,6 +13968,153 @@
           "id": "wiki_link:note:decisions/2026-04-02->unresolved:creat",
           "source": "note:decisions/2026-04-02",
           "target": "unresolved:creat",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:review-report",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:review-report",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:scanned",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:scanned",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:last",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:last",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:previously",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:previously",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:review-script",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:review-script",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:knowledge-base",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:knowledge-base",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier-review",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:tier-review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:promotion",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:reads",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:reads",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:tier",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "decisions/2026-04-03.md": {
+      "relativePath": "decisions/2026-04-03.md",
+      "mtimeMs": 1775170869613.7131,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-04-03",
+          "title": "2026 04 03",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:09.613Z"
+        },
+        {
+          "id": "unresolved:review",
+          "title": "Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-promotion",
+          "title": "Tier Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:candidates",
+          "title": "Candidates",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-04-03->unresolved:review",
+          "source": "note:decisions/2026-04-03",
+          "target": "unresolved:review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-03->unresolved:new-items",
+          "source": "note:decisions/2026-04-03",
+          "target": "unresolved:new-items",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-03->unresolved:tier-promotion",
+          "source": "note:decisions/2026-04-03",
+          "target": "unresolved:tier-promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-03->unresolved:candidates",
+          "source": "note:decisions/2026-04-03",
+          "target": "unresolved:candidates",
           "type": "wiki_link"
         }
       ]
@@ -15821,7 +17170,7 @@
     },
     "facts/2026-04-02.md": {
       "relativePath": "facts/2026-04-02.md",
-      "mtimeMs": 1775149211535.1177,
+      "mtimeMs": 1775170870341.3894,
       "nodes": [
         {
           "id": "note:facts/2026-04-02",
@@ -15832,7 +17181,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.535Z"
+          "modifiedAt": "2026-04-02T23:01:10.341Z"
         },
         {
           "id": "unresolved:users",
@@ -16061,6 +17410,161 @@
           "id": "wiki_link:note:facts/2026-04-02->unresolved:path",
           "source": "note:facts/2026-04-02",
           "target": "unresolved:path",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "facts/2026-04-03.md": {
+      "relativePath": "facts/2026-04-03.md",
+      "mtimeMs": 1775170870372.0933,
+      "nodes": [
+        {
+          "id": "note:facts/2026-04-03",
+          "title": "2026 04 03",
+          "type": "note",
+          "category": "note",
+          "path": "facts/2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.372Z"
+        },
+        {
+          "id": "unresolved:story-protocol",
+          "title": "Story Protocol",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:date",
+          "title": "Date",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:status",
+          "title": "Status",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:red",
+          "title": "Red",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:layoffs",
+          "title": "Layoffs",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:critical-developments",
+          "title": "Critical Developments",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:labs-layoffs",
+          "title": "Labs Layoffs",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:citing",
+          "title": "Citing",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:story-protocol",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:story-protocol",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:date",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:date",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:status",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:status",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:red",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:red",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:layoffs",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:layoffs",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:critical-developments",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:critical-developments",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:labs-layoffs",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:labs-layoffs",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:citing",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:citing",
           "type": "wiki_link"
         }
       ]
@@ -16811,7 +18315,7 @@
     },
     "handoffs/handoff-2026-04-02-1703.md": {
       "relativePath": "handoffs/handoff-2026-04-02-1703.md",
-      "mtimeMs": 1775149413384.8965,
+      "mtimeMs": 1775149424226.9814,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-02-1703",
@@ -16822,7 +18326,25 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:03:33.384Z"
+          "modifiedAt": "2026-04-02T17:03:44.226Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-02-2303.md": {
+      "relativePath": "handoffs/handoff-2026-04-02-2303.md",
+      "mtimeMs": 1775171014780.5947,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-02-2303",
+          "title": "handoff-2026-04-02-2303",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-02-2303.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:03:34.780Z"
         }
       ],
       "edges": []
@@ -16847,7 +18369,7 @@
     },
     "HOT-MEMORY.md": {
       "relativePath": "HOT-MEMORY.md",
-      "mtimeMs": 1775084609085.7039,
+      "mtimeMs": 1775149424167.0112,
       "nodes": [
         {
           "id": "note:HOT-MEMORY",
@@ -16860,7 +18382,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:29.085Z"
+          "modifiedAt": "2026-04-02T17:03:44.167Z"
         },
         {
           "id": "tag:248",
@@ -17281,7 +18803,7 @@
     },
     "ledger/observations/2026/04/02.md": {
       "relativePath": "ledger/observations/2026/04/02.md",
-      "mtimeMs": 1775149211499.2827,
+      "mtimeMs": 1775170870301.5688,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/02",
@@ -17294,7 +18816,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T17:00:11.499Z"
+          "modifiedAt": "2026-04-02T23:01:10.301Z"
         },
         {
           "id": "tag:hashed",
@@ -21098,7 +22620,7 @@
     },
     "projects/2026-04-02.md": {
       "relativePath": "projects/2026-04-02.md",
-      "mtimeMs": 1775127754928.5625,
+      "mtimeMs": 1775170870350.6716,
       "nodes": [
         {
           "id": "note:projects/2026-04-02",
@@ -21109,7 +22631,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T11:02:34.928Z"
+          "modifiedAt": "2026-04-02T23:01:10.350Z"
         },
         {
           "id": "unresolved:brave-search",
@@ -21166,6 +22688,354 @@
         }
       ]
     },
+    "projects/2026-04-03.md": {
+      "relativePath": "projects/2026-04-03.md",
+      "mtimeMs": 1775170870372.9639,
+      "nodes": [
+        {
+          "id": "note:projects/2026-04-03",
+          "title": "2026 04 03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T23:01:10.372Z"
+        },
+        {
+          "id": "unresolved:backpack-exchange",
+          "title": "Backpack Exchange",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:date",
+          "title": "Date",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:status",
+          "title": "Status",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:strong-green",
+          "title": "Strong Green",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:major-milestone",
+          "title": "Major Milestone",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:completed",
+          "title": "Completed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:token-launch",
+          "title": "Token Launch",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:details",
+          "title": "Details",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:token",
+          "title": "Token",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:solana",
+          "title": "Solana",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:total",
+          "title": "Total",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:green",
+          "title": "Green",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fund",
+          "title": "Fund",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:beauty-fund",
+          "title": "Beauty Fund",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:confirmed",
+          "title": "Confirmed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fund-details",
+          "title": "Fund Details",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:size",
+          "title": "Size",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:focus",
+          "title": "Focus",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:model",
+          "title": "Model",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:backpack-exchange",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:backpack-exchange",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:date",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:date",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:status",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:status",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:strong-green",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:strong-green",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:major-milestone",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:major-milestone",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:completed",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:completed",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:token-launch",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:token-launch",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:details",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:details",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:token",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:token",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:solana",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:solana",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:total",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:total",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->note:warm-memory/portfolio/nurihaus",
+          "source": "note:projects/2026-04-03",
+          "target": "note:warm-memory/portfolio/nurihaus",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:green",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:green",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:fund",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:fund",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:beauty-fund",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:beauty-fund",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:confirmed",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:confirmed",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:fund-details",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:fund-details",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:size",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:size",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:focus",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:focus",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-03->unresolved:model",
+          "source": "note:projects/2026-04-03",
+          "target": "unresolved:model",
+          "type": "wiki_link"
+        }
+      ]
+    },
     "projects/backpack-exchange-research-2026-03-30.md": {
       "relativePath": "projects/backpack-exchange-research-2026-03-30.md",
       "mtimeMs": 1774836035309.54,
@@ -21216,6 +23086,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-01T19:08:19.229Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/backpack-exchange-research-2026-04-03.md": {
+      "relativePath": "projects/backpack-exchange-research-2026-04-03.md",
+      "mtimeMs": 1775156819549.1733,
+      "nodes": [
+        {
+          "id": "note:projects/backpack-exchange-research-2026-04-03",
+          "title": "backpack-exchange-research-2026-04-03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/backpack-exchange-research-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T19:06:59.549Z"
         }
       ],
       "edges": []
@@ -21396,6 +23284,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-01T19:08:19.230Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/nurihaus-research-2026-04-03.md": {
+      "relativePath": "projects/nurihaus-research-2026-04-03.md",
+      "mtimeMs": 1775156827644.3591,
+      "nodes": [
+        {
+          "id": "note:projects/nurihaus-research-2026-04-03",
+          "title": "nurihaus-research-2026-04-03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/nurihaus-research-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T19:07:07.644Z"
         }
       ],
       "edges": []
@@ -21600,6 +23506,24 @@
       ],
       "edges": []
     },
+    "projects/story-protocol-research-2026-04-03.md": {
+      "relativePath": "projects/story-protocol-research-2026-04-03.md",
+      "mtimeMs": 1775156811108.8767,
+      "nodes": [
+        {
+          "id": "note:projects/story-protocol-research-2026-04-03",
+          "title": "story-protocol-research-2026-04-03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/story-protocol-research-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T19:06:51.108Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/taiko-labs-research-2026-03-30.md": {
       "relativePath": "projects/taiko-labs-research-2026-03-30.md",
       "mtimeMs": 1774836035312.5833,
@@ -21650,6 +23574,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-01T19:08:19.232Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/taiko-labs-research-2026-04-03.md": {
+      "relativePath": "projects/taiko-labs-research-2026-04-03.md",
+      "mtimeMs": 1775156836266.304,
+      "nodes": [
+        {
+          "id": "note:projects/taiko-labs-research-2026-04-03",
+          "title": "taiko-labs-research-2026-04-03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/taiko-labs-research-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T19:07:16.266Z"
         }
       ],
       "edges": []
@@ -21802,6 +23744,24 @@
       ],
       "edges": []
     },
+    "projects/yuga-labs-research-2026-04-03.md": {
+      "relativePath": "projects/yuga-labs-research-2026-04-03.md",
+      "mtimeMs": 1775156804408.5046,
+      "nodes": [
+        {
+          "id": "note:projects/yuga-labs-research-2026-04-03",
+          "title": "yuga-labs-research-2026-04-03",
+          "type": "project",
+          "category": "project",
+          "path": "projects/yuga-labs-research-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T19:06:44.408Z"
+        }
+      ],
+      "edges": []
+    },
     "README.md": {
       "relativePath": "README.md",
       "mtimeMs": 1774836035295.8853,
@@ -21888,6 +23848,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-01T19:08:19.234Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/auto-study-2026-04-03.md": {
+      "relativePath": "research/auto-study-2026-04-03.md",
+      "mtimeMs": 1775149453132.4023,
+      "nodes": [
+        {
+          "id": "note:research/auto-study-2026-04-03",
+          "title": "auto-study-2026-04-03",
+          "type": "note",
+          "category": "note",
+          "path": "research/auto-study-2026-04-03.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T17:04:13.132Z"
         }
       ],
       "edges": []
@@ -22748,6 +24726,21 @@
         "modifiedAt": "2026-03-31T23:03:31.289Z"
       },
       {
+        "id": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+        "title": "Assistant Excellent Nurihaus Update Confirmed Let Me Continue With Remaining Companies",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.360Z"
+      },
+      {
         "id": "note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu",
         "title": "Assistant Excellent Radiusxyz Rebranded To Radius Technology Launched Their Mainnet On March 6 2026 This Is Hu",
         "type": "note",
@@ -22883,6 +24876,21 @@
         "modifiedAt": "2026-03-27T05:00:16.366Z"
       },
       {
+        "id": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+        "title": "Assistant Good Info On Taikos Fusaka Upgrade Benefits Let Me Continue With A Couple More Searches",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.364Z"
+      },
+      {
         "id": "note:backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire",
         "title": "Assistant Good Now Let Me Compile All The Research Findings And Store Them In Clawvault First Let Me Create The Dire",
         "type": "note",
@@ -22943,6 +24951,21 @@
         "modifiedAt": "2026-03-30T02:00:35.298Z"
       },
       {
+        "id": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+        "title": "Assistant Good Story Protocol Has New Info Pip Labs Had Layoffs In March 2026 10 Workforce Reduction Let Me Cont",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.357Z"
+      },
+      {
         "id": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
         "title": "Assistant Good Theres A Warm Memoryportfolio Directory Let Me Check What Companies Are There",
         "type": "note",
@@ -22986,6 +25009,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-31T01:01:43.430Z"
+      },
+      {
+        "id": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+        "title": "Assistant Great Backpacks Tge Happened March 23 2026 Let Me Continue",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.359Z"
       },
       {
         "id": "note:backlog/assistant-great-fifa-rivals-is-now-live-and-has-already-hit-1-million-downloads-let-me-continue-researching-other-com",
@@ -23108,6 +25146,21 @@
         "modifiedAt": "2026-04-01T23:03:29.151Z"
       },
       {
+        "id": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+        "title": "Assistant I Hit The Rate Limit 1 Querysec Let Me Wait And Continue With Sequential Searches",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.353Z"
+      },
+      {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
         "title": "Assistant I Hit The Rate Limit Let Me Continue With Sequential Searches With Delays",
         "type": "note",
@@ -23181,6 +25234,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-04-01T23:03:29.152Z"
+      },
+      {
+        "id": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+        "title": "Assistant Ill Conduct Portfolio Research For 10 Companies And Store The Updates In Clawvault",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.339Z"
       },
       {
         "id": "note:backlog/assistant-ill-conduct-portfolio-research-for-companies-that-havent-been-recently-updated",
@@ -23285,7 +25353,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-02T17:00:11.039Z"
+        "modifiedAt": "2026-04-02T17:03:44.222Z"
       },
       {
         "id": "note:backlog/assistant-inbox-files-dont-exist-yet-let-me-sync-them-first",
@@ -23468,6 +25536,21 @@
         "modifiedAt": "2026-03-31T01:01:43.432Z"
       },
       {
+        "id": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+        "title": "Assistant No Specific Payhere Results Let Me Continue With Other Companies",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.354Z"
+      },
+      {
         "id": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
         "title": "Assistant No Specific Radius Data Let Me Search More Specifically",
         "type": "note",
@@ -23481,6 +25564,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-31T23:03:31.292Z"
+      },
+      {
+        "id": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+        "title": "Assistant No Specific Taiko Labs Updates Let Me Try A More Specific Search",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.362Z"
       },
       {
         "id": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
@@ -23648,6 +25746,21 @@
         "modifiedAt": "2026-03-31T01:01:43.433Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+        "title": "Assistant Now Let Me Create Summaries For The Remaining Companies And Store Everything In Clawvault",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.368Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit",
         "title": "Assistant Now Let Me Create Summary Files For The Remaining Companies Based On The Existing Memory Context Then Commit",
         "type": "note",
@@ -23738,6 +25851,21 @@
         "modifiedAt": "2026-03-31T23:03:31.293Z"
       },
       {
+        "id": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "title": "Assistant Now Let Me Update The Warm Memory Portfolio Files For Backward Compatibility",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.370Z"
+      },
+      {
         "id": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "title": "Assistant Now Let Me Write All 4 Skillmd Files",
         "type": "note",
@@ -23811,6 +25939,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-31T23:03:31.294Z"
+      },
+      {
+        "id": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+        "title": "Assistant Perfect I Can See The Portfolio Structure And That The Last Research Was On April 1 Let Me Pick Companies T",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.345Z"
       },
       {
         "id": "note:backlog/assistant-perfect-i-can-see-the-research-status-based-on-the-readme-last-updated-2026-03-28-i-should-focus-on-the",
@@ -23975,7 +26118,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-02T17:00:11.041Z"
+        "modifiedAt": "2026-04-02T17:03:44.223Z"
       },
       {
         "id": "note:backlog/assistant-taiko-mentioned-as-a-mature-l2-let-me-search-for-more-companies-with-data-gaps",
@@ -24068,6 +26211,21 @@
         "modifiedAt": "2026-03-27T23:00:07.212Z"
       },
       {
+        "id": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+        "title": "Assistant The Search Is Picking Up Radius The Network Protocol Not Radius Technology The Blockchain Company Let M",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:10.366Z"
+      },
+      {
         "id": "note:backlog/assistant-the-symlink-is-broken-let-me-check-what-portfolio-information-exists-in-memory-or-backlog",
         "title": "Assistant The Symlink Is Broken Let Me Check What Portfolio Information Exists In Memory Or Backlog",
         "type": "note",
@@ -24140,7 +26298,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-02T17:00:11.522Z"
+        "modifiedAt": "2026-04-02T17:03:44.223Z"
       },
       {
         "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4",
@@ -24377,7 +26535,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T23:03:29.086Z"
+        "modifiedAt": "2026-04-02T17:03:44.167Z"
       },
       {
         "id": "note:commitments/2026-03-26",
@@ -24443,7 +26601,7 @@
         "tags": [],
         "missing": false,
         "degree": 12,
-        "modifiedAt": "2026-04-02T17:00:11.043Z"
+        "modifiedAt": "2026-04-02T17:03:44.224Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -24522,7 +26680,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T17:03:23.838Z"
+        "modifiedAt": "2026-04-02T23:02:08.063Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -24533,7 +26691,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T01:01:43.436Z"
+        "modifiedAt": "2026-04-02T23:01:09.591Z"
       },
       {
         "id": "note:decisions/2026-03-26",
@@ -24620,8 +26778,19 @@
         "path": "decisions/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 10,
-        "modifiedAt": "2026-04-02T17:00:11.536Z"
+        "degree": 20,
+        "modifiedAt": "2026-04-02T23:01:09.613Z"
+      },
+      {
+        "id": "note:decisions/2026-04-03",
+        "title": "2026 04 03",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-02T23:01:09.613Z"
       },
       {
         "id": "note:facts/2022-06-28",
@@ -24745,7 +26914,18 @@
         "tags": [],
         "missing": false,
         "degree": 14,
-        "modifiedAt": "2026-04-02T17:00:11.535Z"
+        "modifiedAt": "2026-04-02T23:01:10.341Z"
+      },
+      {
+        "id": "note:facts/2026-04-03",
+        "title": "2026 04 03",
+        "type": "note",
+        "category": "note",
+        "path": "facts/2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 8,
+        "modifiedAt": "2026-04-02T23:01:10.372Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -25160,7 +27340,18 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T17:03:33.384Z"
+        "modifiedAt": "2026-04-02T17:03:44.226Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-02-2303",
+        "title": "handoff-2026-04-02-2303",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-02-2303.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T23:03:34.780Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -25184,7 +27375,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T23:03:29.085Z"
+        "modifiedAt": "2026-04-02T17:03:44.167Z"
       },
       {
         "id": "note:IDENTITY",
@@ -25294,7 +27485,7 @@
         ],
         "missing": false,
         "degree": 6,
-        "modifiedAt": "2026-04-02T17:00:11.499Z"
+        "modifiedAt": "2026-04-02T23:01:10.301Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -25574,7 +27765,18 @@
         "tags": [],
         "missing": false,
         "degree": 3,
-        "modifiedAt": "2026-04-02T11:02:34.928Z"
+        "modifiedAt": "2026-04-02T23:01:10.350Z"
+      },
+      {
+        "id": "note:projects/2026-04-03",
+        "title": "2026 04 03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 20,
+        "modifiedAt": "2026-04-02T23:01:10.372Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -25608,6 +27810,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-01T19:08:19.229Z"
+      },
+      {
+        "id": "note:projects/backpack-exchange-research-2026-04-03",
+        "title": "backpack-exchange-research-2026-04-03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/backpack-exchange-research-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T19:06:59.549Z"
       },
       {
         "id": "note:projects/merge-holdings-research-2026-03-30",
@@ -25718,6 +27931,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-01T19:08:19.230Z"
+      },
+      {
+        "id": "note:projects/nurihaus-research-2026-04-03",
+        "title": "nurihaus-research-2026-04-03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/nurihaus-research-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T19:07:07.644Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-30",
@@ -25832,6 +28056,17 @@
         "modifiedAt": "2026-04-01T19:08:19.232Z"
       },
       {
+        "id": "note:projects/story-protocol-research-2026-04-03",
+        "title": "story-protocol-research-2026-04-03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/story-protocol-research-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T19:06:51.108Z"
+      },
+      {
         "id": "note:projects/taiko-labs-research-2026-03-30",
         "title": "taiko-labs-research-2026-03-30",
         "type": "project",
@@ -25863,6 +28098,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-01T19:08:19.232Z"
+      },
+      {
+        "id": "note:projects/taiko-labs-research-2026-04-03",
+        "title": "taiko-labs-research-2026-04-03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/taiko-labs-research-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T19:07:16.266Z"
       },
       {
         "id": "note:projects/theswing-research-2026-03-30",
@@ -25935,6 +28181,17 @@
         "modifiedAt": "2026-04-01T19:08:19.233Z"
       },
       {
+        "id": "note:projects/yuga-labs-research-2026-04-03",
+        "title": "yuga-labs-research-2026-04-03",
+        "type": "project",
+        "category": "project",
+        "path": "projects/yuga-labs-research-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T19:06:44.408Z"
+      },
+      {
         "id": "note:README",
         "title": "README",
         "type": "note",
@@ -25988,6 +28245,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-01T19:08:19.234Z"
+      },
+      {
+        "id": "note:research/auto-study-2026-04-03",
+        "title": "auto-study-2026-04-03",
+        "type": "note",
+        "category": "note",
+        "path": "research/auto-study-2026-04-03.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T17:04:13.132Z"
       },
       {
         "id": "note:research/bts-gwanghwamun-igaworks-20260321",
@@ -26334,7 +28602,7 @@
         "path": "warm-memory/portfolio/nurihaus.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
+        "degree": 1,
         "modifiedAt": "2026-04-01T23:03:29.092Z"
       },
       {
@@ -26565,7 +28833,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 103,
+        "degree": 115,
         "modifiedAt": null
       },
       {
@@ -26576,7 +28844,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 103,
+        "degree": 115,
         "modifiedAt": null
       },
       {
@@ -26587,7 +28855,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 103,
+        "degree": 115,
         "modifiedAt": null
       },
       {
@@ -26866,6 +29134,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:backpack-exchange",
+        "title": "Backpack Exchange",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:baek",
         "title": "Baek",
         "type": "unresolved",
@@ -26879,6 +29158,17 @@
       {
         "id": "unresolved:based",
         "title": "Based",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:beauty-fund",
+        "title": "Beauty Fund",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27005,7 +29295,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -27066,6 +29356,17 @@
       {
         "id": "unresolved:chip-factory",
         "title": "Chip Factory",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:citing",
+        "title": "Citing",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27236,7 +29537,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27264,6 +29565,17 @@
       {
         "id": "unresolved:concept",
         "title": "Concept",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:confirmed",
+        "title": "Confirmed",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27405,6 +29717,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:critical-developments",
+        "title": "Critical Developments",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:critical-updates",
         "title": "Critical Updates",
         "type": "unresolved",
@@ -27500,7 +29823,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -27561,6 +29884,17 @@
       {
         "id": "unresolved:deploying",
         "title": "Deploying",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:details",
+        "title": "Details",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27724,6 +30058,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:focus",
+        "title": "Focus",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:follow",
         "title": "Follow",
         "type": "unresolved",
@@ -27770,6 +30115,28 @@
       {
         "id": "unresolved:fri-mar",
         "title": "Fri Mar",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:fund",
+        "title": "Fund",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:fund-details",
+        "title": "Fund Details",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27886,6 +30253,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:green",
+        "title": "Green",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -28138,7 +30516,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28175,6 +30553,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:labs-layoffs",
+        "title": "Labs Layoffs",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:last",
         "title": "Last",
         "type": "unresolved",
@@ -28182,7 +30571,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -28210,6 +30599,17 @@
       {
         "id": "unresolved:launch-date",
         "title": "Launch Date",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:layoffs",
+        "title": "Layoffs",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -28336,7 +30736,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28402,7 +30802,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28490,7 +30890,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -28622,7 +31022,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 104,
+        "degree": 116,
         "modifiedAt": null
       },
       {
@@ -28820,7 +31220,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -28886,7 +31286,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -28996,7 +31396,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -29035,6 +31435,17 @@
       {
         "id": "unresolved:recommended",
         "title": "Recommended",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:red",
+        "title": "Red",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29227,7 +31638,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -29238,7 +31649,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -29249,7 +31660,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -29315,7 +31726,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -29473,6 +31884,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:size",
+        "title": "Size",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:skills",
         "title": "Skills",
         "type": "unresolved",
@@ -29497,6 +31919,17 @@
       {
         "id": "unresolved:slack-app",
         "title": "Slack App",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:solana",
+        "title": "Solana",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29557,7 +31990,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -29612,12 +32045,23 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
         "id": "unresolved:strategy-decoded",
         "title": "Strategy Decoded",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:strong-green",
+        "title": "Strong Green",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29821,7 +32265,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -29832,7 +32276,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -29843,7 +32287,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -29871,6 +32315,28 @@
       {
         "id": "unresolved:title",
         "title": "Title",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:token",
+        "title": "Token",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:token-launch",
+        "title": "Token Launch",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29909,7 +32375,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -30174,6 +32640,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:observer",
+        "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:open",
+        "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->tag:task",
+        "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu->tag:observer",
         "source": "note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu",
         "target": "tag:observer",
@@ -30336,6 +32820,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:observer",
+        "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:open",
+        "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->tag:task",
+        "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire->tag:observer",
         "source": "note:backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire",
         "target": "tag:observer",
@@ -30408,6 +32910,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:observer",
+        "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:open",
+        "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->tag:task",
+        "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->tag:observer",
         "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
         "target": "tag:observer",
@@ -30458,6 +32978,24 @@
       {
         "id": "tag:note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile->tag:task",
         "source": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:observer",
+        "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:open",
+        "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->tag:task",
+        "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
         "target": "tag:task",
         "type": "tag"
       },
@@ -30606,6 +33144,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:observer",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:open",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->tag:task",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->tag:observer",
         "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
         "target": "tag:observer",
@@ -30692,6 +33248,24 @@
       {
         "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->tag:task",
         "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:observer",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:open",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->tag:task",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
         "target": "tag:task",
         "type": "tag"
       },
@@ -31038,6 +33612,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:observer",
+        "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:open",
+        "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->tag:task",
+        "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:observer",
         "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
         "target": "tag:observer",
@@ -31052,6 +33644,24 @@
       {
         "id": "tag:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->tag:task",
         "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:observer",
+        "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:open",
+        "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->tag:task",
+        "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
         "target": "tag:task",
         "type": "tag"
       },
@@ -31254,6 +33864,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:open",
+        "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->tag:task",
+        "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit->tag:observer",
         "source": "note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit",
         "target": "tag:observer",
@@ -31362,6 +33990,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:observer",
+        "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:open",
+        "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->tag:task",
+        "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/assistant-now-let-me-write-all-4-skillmd-files->tag:observer",
         "source": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "target": "tag:observer",
@@ -31448,6 +34094,24 @@
       {
         "id": "tag:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->tag:task",
         "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:observer",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:open",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->tag:task",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
         "target": "tag:task",
         "type": "tag"
       },
@@ -31754,6 +34418,24 @@
       {
         "id": "tag:note:backlog/assistant-the-script-hardcodes-rootclawdwarm-memory-let-me-patch-the-env-and-run-directly-with-the-correct-path->tag:task",
         "source": "note:backlog/assistant-the-script-hardcodes-rootclawdwarm-memory-let-me-patch-the-env-and-run-directly-with-the-correct-path",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:observer",
+        "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:open",
+        "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->tag:task",
+        "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
         "target": "tag:task",
         "type": "tag"
       },
@@ -32190,6 +34872,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies->unresolved:observer",
+        "source": "note:backlog/assistant-excellent-nurihaus-update-confirmed-let-me-continue-with-remaining-companies",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu->unresolved:observer",
         "source": "note:backlog/assistant-excellent-radiusxyz-rebranded-to-radius-technology-launched-their-mainnet-on-march-6-2026-this-is-hu",
         "target": "unresolved:observer",
@@ -32244,6 +34932,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches->unresolved:observer",
+        "source": "note:backlog/assistant-good-info-on-taikos-fusaka-upgrade-benefits-let-me-continue-with-a-couple-more-searches",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire->unresolved:observer",
         "source": "note:backlog/assistant-good-now-let-me-compile-all-the-research-findings-and-store-them-in-clawvault-first-let-me-create-the-dire",
         "target": "unresolved:observer",
@@ -32268,6 +34962,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont->unresolved:observer",
+        "source": "note:backlog/assistant-good-story-protocol-has-new-info-pip-labs-had-layoffs-in-march-2026-10-workforce-reduction-let-me-cont",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there->unresolved:observer",
         "source": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
         "target": "unresolved:observer",
@@ -32282,6 +34982,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile->unresolved:observer",
         "source": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue->unresolved:observer",
+        "source": "note:backlog/assistant-great-backpacks-tge-happened-march-23-2026-let-me-continue",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -32334,6 +35040,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches->unresolved:observer",
+        "source": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays->unresolved:observer",
         "source": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
         "target": "unresolved:observer",
@@ -32360,6 +35072,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani->unresolved:observer",
         "source": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault->unresolved:observer",
+        "source": "note:backlog/assistant-ill-conduct-portfolio-research-for-10-companies-and-store-the-updates-in-clawvault",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -32478,8 +35196,20 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies->unresolved:observer",
+        "source": "note:backlog/assistant-no-specific-payhere-results-let-me-continue-with-other-companies",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically->unresolved:observer",
         "source": "note:backlog/assistant-no-specific-radius-data-let-me-search-more-specifically",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search->unresolved:observer",
+        "source": "note:backlog/assistant-no-specific-taiko-labs-updates-let-me-try-a-more-specific-search",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -32550,6 +35280,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-create-summaries-for-the-remaining-companies-and-store-everything-in-clawvault",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-create-summary-files-for-the-remaining-companies-based-on-the-existing-memory-context-then-commit",
         "target": "unresolved:observer",
@@ -32586,6 +35322,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility->unresolved:observer",
+        "source": "note:backlog/assistant-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:backlog/assistant-now-let-me-write-all-4-skillmd-files->unresolved:observer",
         "source": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
         "target": "unresolved:observer",
@@ -32612,6 +35354,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h->unresolved:observer",
         "source": "note:backlog/assistant-perfect-i-can-see-the-existing-research-structure-based-on-the-readme-i-should-prioritize-companies-that-h",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t->unresolved:observer",
+        "source": "note:backlog/assistant-perfect-i-can-see-the-portfolio-structure-and-that-the-last-research-was-on-april-1-let-me-pick-companies-t",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -32714,6 +35462,12 @@
       {
         "id": "wiki_link:note:backlog/assistant-the-script-hardcodes-rootclawdwarm-memory-let-me-patch-the-env-and-run-directly-with-the-correct-path->unresolved:observer",
         "source": "note:backlog/assistant-the-script-hardcodes-rootclawdwarm-memory-let-me-patch-the-env-and-run-directly-with-the-correct-path",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m->unresolved:observer",
+        "source": "note:backlog/assistant-the-search-is-picking-up-radius-the-network-protocol-not-radius-technology-the-blockchain-company-let-m",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -33672,6 +36426,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:knowledge-base",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:knowledge-base",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:last",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:last",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:new-items",
         "source": "note:decisions/2026-04-02",
         "target": "unresolved:new-items",
@@ -33684,9 +36450,45 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:previously",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:previously",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:promotion",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:reads",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:reads",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:review",
         "source": "note:decisions/2026-04-02",
         "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:review-report",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:review-report",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:review-script",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:review-script",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:scanned",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:scanned",
         "type": "wiki_link"
       },
       {
@@ -33696,8 +36498,44 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:tier",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier-promotion",
         "source": "note:decisions/2026-04-02",
+        "target": "unresolved:tier-promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:tier-review",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:tier-review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-03->unresolved:candidates",
+        "source": "note:decisions/2026-04-03",
+        "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-03->unresolved:new-items",
+        "source": "note:decisions/2026-04-03",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-03->unresolved:review",
+        "source": "note:decisions/2026-04-03",
+        "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-03->unresolved:tier-promotion",
+        "source": "note:decisions/2026-04-03",
         "target": "unresolved:tier-promotion",
         "type": "wiki_link"
       },
@@ -34791,6 +37629,54 @@
         "id": "wiki_link:note:facts/2026-04-02->unresolved:you",
         "source": "note:facts/2026-04-02",
         "target": "unresolved:you",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:citing",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:citing",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:critical-developments",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:critical-developments",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:date",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:date",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:labs-layoffs",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:labs-layoffs",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:layoffs",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:layoffs",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:red",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:red",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:status",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:status",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:story-protocol",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:story-protocol",
         "type": "wiki_link"
       },
       {
@@ -36016,27 +38902,147 @@
         "source": "note:projects/2026-04-02",
         "target": "unresolved:request",
         "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->note:warm-memory/portfolio/nurihaus",
+        "source": "note:projects/2026-04-03",
+        "target": "note:warm-memory/portfolio/nurihaus",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:backpack-exchange",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:backpack-exchange",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:beauty-fund",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:beauty-fund",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:completed",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:completed",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:confirmed",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:confirmed",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:date",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:date",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:details",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:details",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:focus",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:focus",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:fund",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:fund",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:fund-details",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:fund-details",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:green",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:green",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:major-milestone",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:major-milestone",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:model",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:model",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:size",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:size",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:solana",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:solana",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:status",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:status",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:strong-green",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:strong-green",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:token",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:token",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:token-launch",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:token-launch",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-03->unresolved:total",
+        "source": "note:projects/2026-04-03",
+        "target": "unresolved:total",
+        "type": "wiki_link"
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-02T17:03:33.460Z",
-      "nodeCount": 632,
-      "edgeCount": 986,
+      "generatedAt": "2026-04-02T23:03:34.871Z",
+      "nodeCount": 672,
+      "edgeCount": 1076,
       "nodeTypeCounts": {
-        "note": 207,
+        "note": 221,
         "tag": 18,
-        "unresolved": 316,
+        "unresolved": 334,
         "commitment": 6,
         "daily": 7,
-        "decision": 9,
-        "handoff": 17,
+        "decision": 10,
+        "handoff": 18,
         "lesson": 7,
         "person": 2,
-        "project": 43
+        "project": 49
       },
       "edgeTypeCounts": {
-        "tag": 344,
-        "wiki_link": 642
+        "tag": 380,
+        "wiki_link": 696
       }
     }
   }
