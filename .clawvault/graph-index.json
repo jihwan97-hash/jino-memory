@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-02T07:03:01.750Z",
+  "generatedAt": "2026-04-02T11:05:37.746Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -10312,6 +10312,24 @@
       ],
       "edges": []
     },
+    "daily/2026-04-02.md": {
+      "relativePath": "daily/2026-04-02.md",
+      "mtimeMs": 1775127927421.3496,
+      "nodes": [
+        {
+          "id": "note:daily/2026-04-02",
+          "title": "2026 04 02",
+          "type": "daily",
+          "category": "daily",
+          "path": "daily/2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T11:05:27.421Z"
+        }
+      ],
+      "edges": []
+    },
     "decisions/2022-06-28.md": {
       "relativePath": "decisions/2022-06-28.md",
       "mtimeMs": 1774918903436.0227,
@@ -15393,7 +15411,7 @@
     },
     "facts/2026-04-02.md": {
       "relativePath": "facts/2026-04-02.md",
-      "mtimeMs": 1775106086673.0068,
+      "mtimeMs": 1775127754926.2322,
       "nodes": [
         {
           "id": "note:facts/2026-04-02",
@@ -15404,7 +15422,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T05:01:26.673Z"
+          "modifiedAt": "2026-04-02T11:02:34.926Z"
         },
         {
           "id": "unresolved:users",
@@ -15438,6 +15456,72 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:thu",
+          "title": "Thu",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:internal",
+          "title": "Internal",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:subagent-context",
+          "title": "Subagent Context",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:you",
+          "title": "You",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:results",
+          "title": "Results",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:subagent-task",
+          "title": "Subagent Task",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -15457,6 +15541,42 @@
           "id": "wiki_link:note:facts/2026-04-02->unresolved:module",
           "source": "note:facts/2026-04-02",
           "target": "unresolved:module",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:thu",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:thu",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:internal",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:internal",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:subagent-context",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:subagent-context",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:you",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:you",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:results",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:results",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:subagent-task",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:subagent-task",
           "type": "wiki_link"
         }
       ]
@@ -16187,6 +16307,24 @@
       ],
       "edges": []
     },
+    "handoffs/handoff-2026-04-02-1105.md": {
+      "relativePath": "handoffs/handoff-2026-04-02-1105.md",
+      "mtimeMs": 1775127937661.3896,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-02-1105",
+          "title": "handoff-2026-04-02-1105",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-02-1105.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T11:05:37.661Z"
+        }
+      ],
+      "edges": []
+    },
     "HEARTBEAT.md": {
       "relativePath": "HEARTBEAT.md",
       "mtimeMs": 1774836035244.4766,
@@ -16641,7 +16779,7 @@
     },
     "ledger/observations/2026/04/02.md": {
       "relativePath": "ledger/observations/2026/04/02.md",
-      "mtimeMs": 1775106086646.1743,
+      "mtimeMs": 1775127754897.8806,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/02",
@@ -16649,10 +16787,23 @@
           "type": "note",
           "category": "note",
           "path": "ledger/observations/2026/04/02.md",
+          "tags": [
+            "hashed"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T11:02:34.897Z"
+        },
+        {
+          "id": "tag:hashed",
+          "title": "#hashed",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T05:01:26.646Z"
+          "modifiedAt": null
         },
         {
           "id": "unresolved:reply_to_current",
@@ -16667,6 +16818,12 @@
         }
       ],
       "edges": [
+        {
+          "id": "tag:note:ledger/observations/2026/04/02->tag:hashed",
+          "source": "note:ledger/observations/2026/04/02",
+          "target": "tag:hashed",
+          "type": "tag"
+        },
         {
           "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/04/02",
@@ -20371,7 +20528,7 @@
     },
     "projects/2026-04-02.md": {
       "relativePath": "projects/2026-04-02.md",
-      "mtimeMs": 1775106086442.6445,
+      "mtimeMs": 1775127754928.5625,
       "nodes": [
         {
           "id": "note:projects/2026-04-02",
@@ -20382,7 +20539,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T05:01:26.442Z"
+          "modifiedAt": "2026-04-02T11:02:34.928Z"
         },
         {
           "id": "unresolved:brave-search",
@@ -23731,6 +23888,17 @@
         "modifiedAt": "2026-04-01T23:03:29.156Z"
       },
       {
+        "id": "note:daily/2026-04-02",
+        "title": "2026 04 02",
+        "type": "daily",
+        "category": "daily",
+        "path": "daily/2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T11:05:27.421Z"
+      },
+      {
         "id": "note:decisions/2022-06-28",
         "title": "2022 06 28",
         "type": "decision",
@@ -23950,8 +24118,8 @@
         "path": "facts/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 3,
-        "modifiedAt": "2026-04-02T05:01:26.673Z"
+        "degree": 9,
+        "modifiedAt": "2026-04-02T11:02:34.926Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -24347,6 +24515,17 @@
         "modifiedAt": "2026-04-02T07:03:01.663Z"
       },
       {
+        "id": "note:handoffs/handoff-2026-04-02-1105",
+        "title": "handoff-2026-04-02-1105",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-02-1105.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T11:05:37.661Z"
+      },
+      {
         "id": "note:HEARTBEAT",
         "title": "HEARTBEAT",
         "type": "note",
@@ -24473,10 +24652,12 @@
         "type": "note",
         "category": "note",
         "path": "ledger/observations/2026/04/02.md",
-        "tags": [],
+        "tags": [
+          "hashed"
+        ],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-04-02T05:01:26.646Z"
+        "degree": 2,
+        "modifiedAt": "2026-04-02T11:02:34.897Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -24756,7 +24937,7 @@
         "tags": [],
         "missing": false,
         "degree": 3,
-        "modifiedAt": "2026-04-02T05:01:26.442Z"
+        "modifiedAt": "2026-04-02T11:02:34.928Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -25736,7 +25917,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27221,7 +27402,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28354,7 +28535,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28805,7 +28986,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28816,7 +28997,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -28932,6 +29113,17 @@
       {
         "id": "unresolved:the-new",
         "title": "The New",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:thu",
+        "title": "Thu",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -29201,7 +29393,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -31170,6 +31362,12 @@
         "id": "tag:note:ledger/observations/2026/03/30->tag:494",
         "source": "note:ledger/observations/2026/03/30",
         "target": "tag:494",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:ledger/observations/2026/04/02->tag:hashed",
+        "source": "note:ledger/observations/2026/04/02",
+        "target": "tag:hashed",
         "type": "tag"
       },
       {
@@ -33723,15 +33921,51 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:internal",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:internal",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-02->unresolved:module",
         "source": "note:facts/2026-04-02",
         "target": "unresolved:module",
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:results",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:results",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:subagent-context",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:subagent-context",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:subagent-task",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:subagent-task",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:thu",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:thu",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-02->unresolved:users",
         "source": "note:facts/2026-04-02",
         "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:you",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:you",
         "type": "wiki_link"
       },
       {
@@ -34936,24 +35170,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-02T07:03:01.750Z",
-      "nodeCount": 620,
-      "edgeCount": 951,
+      "generatedAt": "2026-04-02T11:05:37.746Z",
+      "nodeCount": 623,
+      "edgeCount": 958,
       "nodeTypeCounts": {
         "note": 204,
         "tag": 18,
-        "unresolved": 311,
+        "unresolved": 312,
         "commitment": 6,
-        "daily": 5,
+        "daily": 6,
         "decision": 9,
-        "handoff": 15,
+        "handoff": 16,
         "lesson": 7,
         "person": 2,
         "project": 43
       },
       "edgeTypeCounts": {
-        "tag": 334,
-        "wiki_link": 617
+        "tag": 335,
+        "wiki_link": 623
       }
     }
   }
