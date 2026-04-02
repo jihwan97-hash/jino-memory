@@ -1,27 +1,24 @@
 # Taiko Labs
 
-**Last Updated:** 2026-04-02
+**Last Updated:** 2026-04-03  
+**Status:** 🟢 Green (Fusaka upgrade benefits, EIL development)
 
-## Status
-Type 1 zkEVM Layer 2 - LIVE on mainnet (launched Q2 2024)
+## Quick Summary
+- **Fusaka upgrade benefits:** 20-30x faster finality as L1-sequenced rollup
+- **EIL development:** Trustless cross-rollup messaging (solving fragmentation)
+- Loopring deploying L3 on Taiko zkEVM
+- Based rollup + ZK = unique positioning
 
-## Recent Developments (2026 Roadmap)
-- Q1 2026: Launch Gwyneth mainnet
-- Upgrade Taiko EVM to Pectra (EIP-7702: Account Abstraction)
-- Q2 2026: Fully decentralized preconfirmations, sub-1s latency target
-- First Layer 2 to test multiproof solutions in public testnet
+## Data Gap
+Still no public TVL, transaction volume, or user metrics. Need transparency.
 
-## Funding
-$37M raised across two rounds (last: Jun 2023)
-- Leads: Sequoia China, Lightspeed, Hashed, Generative Ventures
+## Latest Research
+📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/taiko-labs-research-2026-04-03.md)
 
-## Technical Achievements
-- Enabled permissionless sequencing and proving (Jun 2024)
-- DAO launch planned for progressive protocol control transfer to community
-- Ecosystem investment fund planned to attract dApps and developers
+## Watch List
+- TVL metrics vs. competitors (Arbitrum, Optimism, zkSync)
+- Gwyneth rollup launch status
+- DApp ecosystem growth
+- Daily transaction/user counts
 
-## Market Position
-Leading Type 1 zkEVM with strong technical differentiation
-
-## Next Check
-Q3 2026 for Gwyneth mainnet launch progress and ecosystem growth metrics
+**Next Check:** May 2026 (TVL metrics, ecosystem growth)

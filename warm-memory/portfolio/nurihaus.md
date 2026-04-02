@@ -1,31 +1,27 @@
 # Nurihaus
 
-**Last Updated:** 2026-04-02
+**Last Updated:** 2026-04-03  
+**Status:** 🟢 Green (K-beauty fund launched, clear execution timeline)
 
-## Status
-K-beauty global expansion platform (PIVOTED from remodeling)
+## Quick Summary
+- **K-beauty VC fund launched March 24, 2026** - 6.2B KRW (~$4.6M USD)
+- Model: Platform operator → Platform + VC hybrid
+- Integrated investment + marketing + distribution support
+- First-mover in K-beauty platform+capital niche
 
-## Business Model Transformation
-**Major Discovery**: Pivoted from construction/remodeling platform to K-beauty brand services
+## Execution Timeline
+- **H1 2026 (by June):** First brand investment
+- **H2 2026:** U.S. campaign performance results, portfolio expansion
 
-## Current Focus
-- One-stop solution for K-beauty brands entering global markets
-- Brand strategy development
-- Market entry strategies
-- Support for brand launches
+## Market Context
+K-beauty market: $19B by 2033 (CAGR 9.7% from 2026-2033)
 
-## Funding
-- Series A round with PS Ventures, GROWmatica (Crunchbase)
-- Founded: 2020
-- Location: Seoul, South Korea
+## Latest Research
+📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/nurihaus-research-2026-04-03.md)
 
-## Market Opportunity
-- K-beauty global demand continuing to grow
-- Platform model for brand internationalization
-- Services targeting Korean beauty brands seeking overseas expansion
+## Watch List
+- First fund investment announcement (by June)
+- Brand partner details
+- H2 campaign metrics (conversion, retention, CAC)
 
-## Strategic Note
-Major strategic shift from original remodeling platform to beauty brand services - indicates market opportunity repositioning
-
-## Next Check
-Q3 2026 for client announcements, expansion markets, or Series B funding
+**Next Check:** June 2026 (first investment, fund strategy)

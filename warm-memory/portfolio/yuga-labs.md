@@ -1,29 +1,20 @@
 # Yuga Labs
 
-**Last Updated:** 2026-04-02
+**Last Updated:** 2026-04-03  
+**Status:** 🟡 Yellow (Restructuring complete, transparency gap continues)
 
-## Status
-BAYC creator, active in metaverse and gaming
+## Quick Summary
+- Restructuring completed March 2026 (response to NFT sector challenges)
+- Team: 100+ people (down from peak)
+- VibeMaker launched but **zero public metrics**
+- Transparency gap remains critical concern
 
-## Major Developments (2025-2026)
-- **Otherside metaverse LAUNCHED** Nov 12, 2025 (after 3 years development)
-- Acquired Improbable Unreal Engine platform (Dec 2025)
-- Large developer team from Improbable joining early 2026
-- Amazon Gaming partnership: Boximus NFT release ahead of Otherside Koda Nexus launch
+## Latest Research
+📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/yuga-labs-research-2026-04-03.md)
 
-## Funding Context
-Raised $450M in 2022 for metaverse development
+## Action Items
+- [ ] Request VibeMaker user metrics from IR team
+- [ ] Compare builder activity vs. competitors
+- [ ] Assess whether restructuring fixed root issues
 
-## Product Roadmap 2025-2026
-- Otherside metaverse live and operational
-- Community engagement and NFT experiences expanding
-- Integration of acquired Improbable tech team for development acceleration
-
-## Partnership
-Amazon Gaming collaboration expanding BAYC-themed web3 metaverse to wider audience
-
-## Market Position
-Leading NFT brand transitioning successfully to metaverse gaming platform
-
-## Next Check
-Q3 2026 for Otherside user metrics, new content drops, or expansion announcements
+**Next Check:** May 2026 (VibeMaker metrics, builder retention)

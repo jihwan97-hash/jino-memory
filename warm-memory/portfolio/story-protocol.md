@@ -1,31 +1,26 @@
 # Story Protocol
 
-**Last Updated:** 2026-04-02
+**Last Updated:** 2026-04-03  
+**Status:** 🔴 Red (Layoffs + token unlock delay = critical concern)
 
-## Status
-Layer 1 blockchain for programmable IP - LAUNCHED Feb 2025
+## Quick Summary
+- **PIP Labs 10% layoffs** (March 21, 2026) - "strategic shift and market pressures"
+- **Token unlock delayed to August 13, 2026** (originally March)
+- Red flags stacking: Unlock delay → Layoffs 7 weeks later
+- Still no ecosystem usage metrics disclosed
 
-## Core Technology
-- Programmable intellectual property layer
-- Global registry for creative works
-- On-chain licensing, royalty distribution, tokenization
-- Graph-based IP data structures
-- Support for art, music, AI datasets
-- 100% EVM compatible with IP optimizations
-- Proof of Creativity consensus mechanism
+## Critical Timeline
+- Feb 2: Token unlock delay (weakness admission)
+- March 21: 10% workforce cut
+- **August 13: Unlock deadline** (4 months away)
 
-## Use Cases
-- Tokenized brands and DePIN
-- Creator licensing automation
-- AI-native data marketplaces
-- Transparent royalty tracking
-- Collaborative IP development (spin-offs, expansions)
+## Latest Research
+📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/story-protocol-research-2026-04-03.md)
 
-## Market Position
-First dedicated L1 for IP management, addressing multi-billion dollar creator economy inefficiencies
+## Decision Framework
+- Before August: Monthly ecosystem health checks
+- If growth visible → Hold and monitor
+- If still weak → Consider exit before unlock
+- Another delay → Serious portfolio review
 
-## Adoption Stage
-Early mainnet (launched Feb 2025), building ecosystem applications
-
-## Next Check
-Q3 2026 for ecosystem growth metrics, major IP onboarding announcements, or protocol upgrades
+**Next Check:** Monthly through July 2026 | **Critical Deadline:** August 13, 2026
