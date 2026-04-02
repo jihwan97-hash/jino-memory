@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-01T23:03:22.170Z",
+  "generatedAt": "2026-04-02T07:03:01.750Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -1388,7 +1388,7 @@
     },
     "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md": {
       "relativePath": "backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ.md",
-      "mtimeMs": 1775084546070.161,
+      "mtimeMs": 1775084609149.9158,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-progress-now-let-me-compile-the-research-into-summaries-and-store-them-in-clawvault-let-me-create-summ",
@@ -1403,7 +1403,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.070Z"
+          "modifiedAt": "2026-04-01T23:03:29.149Z"
         },
         {
           "id": "tag:observer",
@@ -1570,7 +1570,7 @@
     },
     "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md": {
       "relativePath": "backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there.md",
-      "mtimeMs": 1775084546056.0435,
+      "mtimeMs": 1775084609150.4927,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-theres-a-warm-memoryportfolio-directory-let-me-check-what-companies-are-there",
@@ -1585,7 +1585,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.056Z"
+          "modifiedAt": "2026-04-01T23:03:29.150Z"
         },
         {
           "id": "tag:observer",
@@ -1661,7 +1661,7 @@
     },
     "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md": {
       "relativePath": "backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u.md",
-      "mtimeMs": 1775084546062.8938,
+      "mtimeMs": 1775084609151.1584,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
@@ -1676,7 +1676,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.062Z"
+          "modifiedAt": "2026-04-01T23:03:29.151Z"
         },
         {
           "id": "tag:observer",
@@ -2480,7 +2480,7 @@
     },
     "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md": {
       "relativePath": "backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva.md",
-      "mtimeMs": 1775084546060.405,
+      "mtimeMs": 1775084609151.7322,
       "nodes": [
         {
           "id": "note:backlog/assistant-i-can-see-that-some-companies-were-just-updated-apr-1-0710-and-others-are-older-let-me-also-check-clawva",
@@ -2495,7 +2495,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.060Z"
+          "modifiedAt": "2026-04-01T23:03:29.151Z"
         },
         {
           "id": "tag:observer",
@@ -2571,7 +2571,7 @@
     },
     "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md": {
       "relativePath": "backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays.md",
-      "mtimeMs": 1775084546066.9087,
+      "mtimeMs": 1775084609152.2603,
       "nodes": [
         {
           "id": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
@@ -2586,7 +2586,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.066Z"
+          "modifiedAt": "2026-04-01T23:03:29.152Z"
         },
         {
           "id": "tag:observer",
@@ -2935,7 +2935,7 @@
     },
     "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md": {
       "relativePath": "backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani.md",
-      "mtimeMs": 1775084546051.9314,
+      "mtimeMs": 1775084609152.8042,
       "nodes": [
         {
           "id": "note:backlog/assistant-ill-conduct-portfolio-research-and-store-updates-in-clawvault-let-me-start-by-reading-the-portfolio-compani",
@@ -2950,7 +2950,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.051Z"
+          "modifiedAt": "2026-04-01T23:03:29.152Z"
         },
         {
           "id": "tag:observer",
@@ -3663,7 +3663,7 @@
     },
     "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md": {
       "relativePath": "backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w.md",
-      "mtimeMs": 1775084546068.4807,
+      "mtimeMs": 1775084609153.335,
       "nodes": [
         {
           "id": "note:backlog/assistant-interesting-looks-like-nurihaus-has-pivoted-from-remodeling-to-k-beauty-global-expansion-let-me-continue-w",
@@ -3678,7 +3678,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.068Z"
+          "modifiedAt": "2026-04-01T23:03:29.153Z"
         },
         {
           "id": "tag:observer",
@@ -4209,7 +4209,7 @@
     },
     "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md": {
       "relativePath": "backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched.md",
-      "mtimeMs": 1775084546058.6033,
+      "mtimeMs": 1775084609153.8977,
       "nodes": [
         {
           "id": "note:backlog/assistant-let-me-check-when-these-were-last-updated-to-identify-companies-not-recently-researched",
@@ -4224,7 +4224,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.058Z"
+          "modifiedAt": "2026-04-01T23:03:29.153Z"
         },
         {
           "id": "tag:observer",
@@ -7485,7 +7485,7 @@
     },
     "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md": {
       "relativePath": "backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility.md",
-      "mtimeMs": 1775084546071.8247,
+      "mtimeMs": 1775084609154.418,
       "nodes": [
         {
           "id": "note:backlog/assistant-perfect-now-let-me-update-the-warm-memory-portfolio-files-for-backward-compatibility",
@@ -7500,7 +7500,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.071Z"
+          "modifiedAt": "2026-04-01T23:03:29.154Z"
         },
         {
           "id": "tag:observer",
@@ -9473,6 +9473,44 @@
         }
       ]
     },
+    "brain-memory/daily/email-2026-04-02.md": {
+      "relativePath": "brain-memory/daily/email-2026-04-02.md",
+      "mtimeMs": 1775084609086.347,
+      "nodes": [
+        {
+          "id": "note:brain-memory/daily/email-2026-04-02",
+          "title": "Email 2026 04 02",
+          "type": "note",
+          "category": "note",
+          "path": "brain-memory/daily/email-2026-04-02.md",
+          "tags": [
+            "248"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:03:29.086Z"
+        },
+        {
+          "id": "tag:248",
+          "title": "#248",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:brain-memory/daily/email-2026-04-02->tag:248",
+          "source": "note:brain-memory/daily/email-2026-04-02",
+          "target": "tag:248",
+          "type": "tag"
+        }
+      ]
+    },
     "commitments/2026-03-26.md": {
       "relativePath": "commitments/2026-03-26.md",
       "mtimeMs": 1774782039896.7483,
@@ -9941,7 +9979,7 @@
     },
     "commitments/2026-04-01.md": {
       "relativePath": "commitments/2026-04-01.md",
-      "mtimeMs": 1775084546073.1536,
+      "mtimeMs": 1775084609155.1375,
       "nodes": [
         {
           "id": "note:commitments/2026-04-01",
@@ -9952,7 +9990,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.073Z"
+          "modifiedAt": "2026-04-01T23:03:29.155Z"
         },
         {
           "id": "unresolved:your",
@@ -10045,7 +10083,7 @@
     },
     "commitments/2026-04-02.md": {
       "relativePath": "commitments/2026-04-02.md",
-      "mtimeMs": 1775084546074.8257,
+      "mtimeMs": 1775106086438.4834,
       "nodes": [
         {
           "id": "note:commitments/2026-04-02",
@@ -10056,7 +10094,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.074Z"
+          "modifiedAt": "2026-04-02T05:01:26.438Z"
         },
         {
           "id": "unresolved:your",
@@ -10079,6 +10117,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:dashboard-data",
+          "title": "Dashboard Data",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:check",
+          "title": "Check",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:baek",
+          "title": "Baek",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:handle",
+          "title": "Handle",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -10092,6 +10174,30 @@
           "id": "wiki_link:note:commitments/2026-04-02->unresolved:changes",
           "source": "note:commitments/2026-04-02",
           "target": "unresolved:changes",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:dashboard-data",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:dashboard-data",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:check",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:check",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:baek",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:baek",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:commitments/2026-04-02->unresolved:handle",
+          "source": "note:commitments/2026-04-02",
+          "target": "unresolved:handle",
           "type": "wiki_link"
         }
       ]
@@ -10190,7 +10296,7 @@
     },
     "daily/2026-04-01.md": {
       "relativePath": "daily/2026-04-01.md",
-      "mtimeMs": 1775084591506.609,
+      "mtimeMs": 1775084609156.3894,
       "nodes": [
         {
           "id": "note:daily/2026-04-01",
@@ -10201,7 +10307,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:11.506Z"
+          "modifiedAt": "2026-04-01T23:03:29.156Z"
         }
       ],
       "edges": []
@@ -11837,7 +11943,7 @@
     },
     "decisions/2026-04-01.md": {
       "relativePath": "decisions/2026-04-01.md",
-      "mtimeMs": 1775084545673.3643,
+      "mtimeMs": 1775084609156.9055,
       "nodes": [
         {
           "id": "note:decisions/2026-04-01",
@@ -11848,7 +11954,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:25.673Z"
+          "modifiedAt": "2026-04-01T23:03:29.156Z"
         },
         {
           "id": "unresolved:review-report",
@@ -12077,7 +12183,7 @@
     },
     "decisions/2026-04-02.md": {
       "relativePath": "decisions/2026-04-02.md",
-      "mtimeMs": 1775084545673.7869,
+      "mtimeMs": 1775106086673.646,
       "nodes": [
         {
           "id": "note:decisions/2026-04-02",
@@ -12088,7 +12194,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:25.673Z"
+          "modifiedAt": "2026-04-02T05:01:26.673Z"
         },
         {
           "id": "unresolved:review",
@@ -12133,6 +12239,50 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain",
+          "title": "Brain",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:steps",
+          "title": "Steps",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observed",
+          "title": "Observed",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:compacted",
+          "title": "Compacted",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -12159,12 +12309,42 @@
           "source": "note:decisions/2026-04-02",
           "target": "unresolved:candidates",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:brain",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:brain",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:steps",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:steps",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:observed",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:observed",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->unresolved:compacted",
+          "source": "note:decisions/2026-04-02",
+          "target": "unresolved:compacted",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-02->note:MEMORY",
+          "source": "note:decisions/2026-04-02",
+          "target": "note:MEMORY",
+          "type": "wiki_link"
         }
       ]
     },
     "facts/2022-06-28.md": {
       "relativePath": "facts/2022-06-28.md",
-      "mtimeMs": 1775084545664.4988,
+      "mtimeMs": 1775084609157.9517,
       "nodes": [
         {
           "id": "note:facts/2022-06-28",
@@ -12175,7 +12355,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:25.664Z"
+          "modifiedAt": "2026-04-01T23:03:29.157Z"
         }
       ],
       "edges": []
@@ -15001,7 +15181,7 @@
     },
     "facts/2026-04-01.md": {
       "relativePath": "facts/2026-04-01.md",
-      "mtimeMs": 1775084546061.1052,
+      "mtimeMs": 1775106086667.336,
       "nodes": [
         {
           "id": "note:facts/2026-04-01",
@@ -15012,7 +15192,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.061Z"
+          "modifiedAt": "2026-04-02T05:01:26.667Z"
         },
         {
           "id": "unresolved:reply_to_current",
@@ -15112,6 +15292,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:path",
+          "title": "Path",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:blocked",
+          "title": "Blocked",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -15168,12 +15370,30 @@
           "source": "note:facts/2026-04-01",
           "target": "unresolved:twitter",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-01->note:templates/handoff",
+          "source": "note:facts/2026-04-01",
+          "target": "note:templates/handoff",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-01->unresolved:path",
+          "source": "note:facts/2026-04-01",
+          "target": "unresolved:path",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-01->unresolved:blocked",
+          "source": "note:facts/2026-04-01",
+          "target": "unresolved:blocked",
+          "type": "wiki_link"
         }
       ]
     },
     "facts/2026-04-02.md": {
       "relativePath": "facts/2026-04-02.md",
-      "mtimeMs": 1775084546075.152,
+      "mtimeMs": 1775106086673.0068,
       "nodes": [
         {
           "id": "note:facts/2026-04-02",
@@ -15184,10 +15404,62 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.075Z"
+          "modifiedAt": "2026-04-02T05:01:26.673Z"
+        },
+        {
+          "id": "unresolved:users",
+          "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:cannot",
+          "title": "Cannot",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:module",
+          "title": "Module",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:users",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:cannot",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:cannot",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-02->unresolved:module",
+          "source": "note:facts/2026-04-02",
+          "target": "unresolved:module",
+          "type": "wiki_link"
+        }
+      ]
     },
     "hades-src/docs/advanced-backtesting.md": {
       "relativePath": "hades-src/docs/advanced-backtesting.md",
@@ -15881,7 +16153,7 @@
     },
     "handoffs/handoff-2026-04-01-2303.md": {
       "relativePath": "handoffs/handoff-2026-04-01-2303.md",
-      "mtimeMs": 1775084602080.0098,
+      "mtimeMs": 1775084609159.687,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-01-2303",
@@ -15892,7 +16164,25 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:22.080Z"
+          "modifiedAt": "2026-04-01T23:03:29.159Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-02-0703.md": {
+      "relativePath": "handoffs/handoff-2026-04-02-0703.md",
+      "mtimeMs": 1775113381663.236,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-02-0703",
+          "title": "handoff-2026-04-02-0703",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-02-0703.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T07:03:01.663Z"
         }
       ],
       "edges": []
@@ -15917,7 +16207,7 @@
     },
     "HOT-MEMORY.md": {
       "relativePath": "HOT-MEMORY.md",
-      "mtimeMs": 1775062956953.6858,
+      "mtimeMs": 1775084609085.7039,
       "nodes": [
         {
           "id": "note:HOT-MEMORY",
@@ -15930,7 +16220,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T17:02:36.953Z"
+          "modifiedAt": "2026-04-01T23:03:29.085Z"
         },
         {
           "id": "tag:248",
@@ -16344,6 +16634,42 @@
         {
           "id": "wiki_link:note:ledger/observations/2026/04/01->unresolved:reply_to_current",
           "source": "note:ledger/observations/2026/04/01",
+          "target": "unresolved:reply_to_current",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "ledger/observations/2026/04/02.md": {
+      "relativePath": "ledger/observations/2026/04/02.md",
+      "mtimeMs": 1775106086646.1743,
+      "nodes": [
+        {
+          "id": "note:ledger/observations/2026/04/02",
+          "title": "02",
+          "type": "note",
+          "category": "note",
+          "path": "ledger/observations/2026/04/02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T05:01:26.646Z"
+        },
+        {
+          "id": "unresolved:reply_to_current",
+          "title": "Reply To Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:reply_to_current",
+          "source": "note:ledger/observations/2026/04/02",
           "target": "unresolved:reply_to_current",
           "type": "wiki_link"
         }
@@ -19856,7 +20182,7 @@
     },
     "projects/2026-04-01.md": {
       "relativePath": "projects/2026-04-01.md",
-      "mtimeMs": 1775084546065.1575,
+      "mtimeMs": 1775084609160.3687,
       "nodes": [
         {
           "id": "note:projects/2026-04-01",
@@ -19867,7 +20193,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:02:26.065Z"
+          "modifiedAt": "2026-04-01T23:03:29.160Z"
         },
         {
           "id": "unresolved:jino-long",
@@ -20038,6 +20364,76 @@
         {
           "id": "wiki_link:note:projects/2026-04-01->unresolved:fre",
           "source": "note:projects/2026-04-01",
+          "target": "unresolved:fre",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "projects/2026-04-02.md": {
+      "relativePath": "projects/2026-04-02.md",
+      "mtimeMs": 1775106086442.6445,
+      "nodes": [
+        {
+          "id": "note:projects/2026-04-02",
+          "title": "2026 04 02",
+          "type": "project",
+          "category": "project",
+          "path": "projects/2026-04-02.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-02T05:01:26.442Z"
+        },
+        {
+          "id": "unresolved:brave-search",
+          "title": "Brave Search",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:request",
+          "title": "Request",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:fre",
+          "title": "Fre",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:projects/2026-04-02->unresolved:brave-search",
+          "source": "note:projects/2026-04-02",
+          "target": "unresolved:brave-search",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-02->unresolved:request",
+          "source": "note:projects/2026-04-02",
+          "target": "unresolved:request",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:projects/2026-04-02->unresolved:fre",
+          "source": "note:projects/2026-04-02",
           "target": "unresolved:fre",
           "type": "wiki_link"
         }
@@ -20823,6 +21219,24 @@
       ],
       "edges": []
     },
+    "research/podcasts/2026-04-02-digest.md": {
+      "relativePath": "research/podcasts/2026-04-02-digest.md",
+      "mtimeMs": 1775084636107.8706,
+      "nodes": [
+        {
+          "id": "note:research/podcasts/2026-04-02-digest",
+          "title": "2026 04 02 Digest",
+          "type": "note",
+          "category": "note",
+          "path": "research/podcasts/2026-04-02-digest.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-01T23:03:56.107Z"
+        }
+      ],
+      "edges": []
+    },
     "SESSION_STATE.md": {
       "relativePath": "SESSION_STATE.md",
       "mtimeMs": 1775070499178.1672,
@@ -21317,7 +21731,7 @@
     },
     "warm-memory/portfolio/backpack-exchange.md": {
       "relativePath": "warm-memory/portfolio/backpack-exchange.md",
-      "mtimeMs": 1774998211238.3042,
+      "mtimeMs": 1775084609090.489,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/backpack-exchange",
@@ -21328,14 +21742,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.238Z"
+          "modifiedAt": "2026-04-01T23:03:29.090Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/merge-holdings.md": {
       "relativePath": "warm-memory/portfolio/merge-holdings.md",
-      "mtimeMs": 1774836035254.1196,
+      "mtimeMs": 1775084609091.3848,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/merge-holdings",
@@ -21346,14 +21760,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.254Z"
+          "modifiedAt": "2026-04-01T23:03:29.091Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/mythical-games.md": {
       "relativePath": "warm-memory/portfolio/mythical-games.md",
-      "mtimeMs": 1774998211238.991,
+      "mtimeMs": 1775084609092.0583,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/mythical-games",
@@ -21364,14 +21778,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.238Z"
+          "modifiedAt": "2026-04-01T23:03:29.092Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/nurihaus.md": {
       "relativePath": "warm-memory/portfolio/nurihaus.md",
-      "mtimeMs": 1774998211239.6855,
+      "mtimeMs": 1775084609092.8635,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/nurihaus",
@@ -21382,14 +21796,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.239Z"
+          "modifiedAt": "2026-04-01T23:03:29.092Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/payhere.md": {
       "relativePath": "warm-memory/portfolio/payhere.md",
-      "mtimeMs": 1774836035255.6277,
+      "mtimeMs": 1775084609093.9604,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/payhere",
@@ -21397,37 +21811,17 @@
           "type": "note",
           "category": "note",
           "path": "warm-memory/portfolio/payhere.md",
-          "tags": [
-            "1"
-          ],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.255Z"
-        },
-        {
-          "id": "tag:1",
-          "title": "#1",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-04-01T23:03:29.093Z"
         }
       ],
-      "edges": [
-        {
-          "id": "tag:note:warm-memory/portfolio/payhere->tag:1",
-          "source": "note:warm-memory/portfolio/payhere",
-          "target": "tag:1",
-          "type": "tag"
-        }
-      ]
+      "edges": []
     },
     "warm-memory/portfolio/radiusxyz.md": {
       "relativePath": "warm-memory/portfolio/radiusxyz.md",
-      "mtimeMs": 1774918903398.531,
+      "mtimeMs": 1775084609094.8174,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/radiusxyz",
@@ -21438,7 +21832,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.398Z"
+          "modifiedAt": "2026-04-01T23:03:29.094Z"
         }
       ],
       "edges": []
@@ -21463,7 +21857,7 @@
     },
     "warm-memory/portfolio/story-protocol.md": {
       "relativePath": "warm-memory/portfolio/story-protocol.md",
-      "mtimeMs": 1774998211240.4377,
+      "mtimeMs": 1775084609095.5059,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/story-protocol",
@@ -21474,14 +21868,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.240Z"
+          "modifiedAt": "2026-04-01T23:03:29.095Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/taiko-labs.md": {
       "relativePath": "warm-memory/portfolio/taiko-labs.md",
-      "mtimeMs": 1774836035257.7244,
+      "mtimeMs": 1775084609096.1626,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/taiko-labs",
@@ -21492,7 +21886,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.257Z"
+          "modifiedAt": "2026-04-01T23:03:29.096Z"
         }
       ],
       "edges": []
@@ -21517,7 +21911,7 @@
     },
     "warm-memory/portfolio/uprise-horizonwealth.md": {
       "relativePath": "warm-memory/portfolio/uprise-horizonwealth.md",
-      "mtimeMs": 1774836035259.1023,
+      "mtimeMs": 1775084609096.9636,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/uprise-horizonwealth",
@@ -21528,14 +21922,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-30T02:00:35.259Z"
+          "modifiedAt": "2026-04-01T23:03:29.096Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/yuga-labs.md": {
       "relativePath": "warm-memory/portfolio/yuga-labs.md",
-      "mtimeMs": 1774918903398.962,
+      "mtimeMs": 1775084609097.7136,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/yuga-labs",
@@ -21546,7 +21940,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T01:01:43.398Z"
+          "modifiedAt": "2026-04-01T23:03:29.097Z"
         }
       ],
       "edges": []
@@ -21804,7 +22198,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.070Z"
+        "modifiedAt": "2026-04-01T23:03:29.149Z"
       },
       {
         "id": "note:backlog/assistant-good-progress-now-let-me-store-these-findings-in-clawvault-and-update-the-company-files-let-me-start-by-sto",
@@ -21834,7 +22228,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.056Z"
+        "modifiedAt": "2026-04-01T23:03:29.150Z"
       },
       {
         "id": "note:backlog/assistant-good-this-is-a-fresh-start-let-me-select-10-companies-to-research-ill-pick-a-mix-focusing-on-those-not-u",
@@ -21849,7 +22243,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.062Z"
+        "modifiedAt": "2026-04-01T23:03:29.151Z"
       },
       {
         "id": "note:backlog/assistant-good-yuga-labs-launched-vibemaker-in-the-otherside-let-me-continue-with-a-few-more-companies-then-compile",
@@ -21984,7 +22378,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.060Z"
+        "modifiedAt": "2026-04-01T23:03:29.151Z"
       },
       {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-let-me-continue-with-sequential-searches-with-delays",
@@ -21999,7 +22393,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.066Z"
+        "modifiedAt": "2026-04-01T23:03:29.152Z"
       },
       {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-on-brave-search-let-me-wait-a-moment-and-continue-with-the-remaining-companies-in-batch",
@@ -22059,7 +22453,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.051Z"
+        "modifiedAt": "2026-04-01T23:03:29.152Z"
       },
       {
         "id": "note:backlog/assistant-ill-conduct-portfolio-research-for-companies-that-havent-been-recently-updated",
@@ -22179,7 +22573,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.068Z"
+        "modifiedAt": "2026-04-01T23:03:29.153Z"
       },
       {
         "id": "note:backlog/assistant-its-a-symlink-let-me-read-the-actual-file",
@@ -22269,7 +22663,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.058Z"
+        "modifiedAt": "2026-04-01T23:03:29.153Z"
       },
       {
         "id": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
@@ -22809,7 +23203,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:26.071Z"
+        "modifiedAt": "2026-04-01T23:03:29.154Z"
       },
       {
         "id": "note:backlog/assistant-perfect-the-last-research-was-done-on-march-30-yesterday-let-me-research-the-companies-that-need-updates",
@@ -23201,6 +23595,19 @@
         "modifiedAt": "2026-04-01T17:02:36.954Z"
       },
       {
+        "id": "note:brain-memory/daily/email-2026-04-02",
+        "title": "Email 2026 04 02",
+        "type": "note",
+        "category": "note",
+        "path": "brain-memory/daily/email-2026-04-02.md",
+        "tags": [
+          "248"
+        ],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-04-01T23:03:29.086Z"
+      },
+      {
         "id": "note:commitments/2026-03-26",
         "title": "2026 03 26",
         "type": "commitment",
@@ -23253,7 +23660,7 @@
         "tags": [],
         "missing": false,
         "degree": 5,
-        "modifiedAt": "2026-04-01T23:02:26.073Z"
+        "modifiedAt": "2026-04-01T23:03:29.155Z"
       },
       {
         "id": "note:commitments/2026-04-02",
@@ -23263,8 +23670,8 @@
         "path": "commitments/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-04-01T23:02:26.074Z"
+        "degree": 6,
+        "modifiedAt": "2026-04-02T05:01:26.438Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -23321,7 +23728,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T23:03:11.506Z"
+        "modifiedAt": "2026-04-01T23:03:29.156Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -23409,7 +23816,7 @@
         "tags": [],
         "missing": false,
         "degree": 13,
-        "modifiedAt": "2026-04-01T23:02:25.673Z"
+        "modifiedAt": "2026-04-01T23:03:29.156Z"
       },
       {
         "id": "note:decisions/2026-04-02",
@@ -23419,8 +23826,8 @@
         "path": "decisions/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 4,
-        "modifiedAt": "2026-04-01T23:02:25.673Z"
+        "degree": 9,
+        "modifiedAt": "2026-04-02T05:01:26.673Z"
       },
       {
         "id": "note:facts/2022-06-28",
@@ -23431,7 +23838,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T23:02:25.664Z"
+        "modifiedAt": "2026-04-01T23:03:29.157Z"
       },
       {
         "id": "note:facts/2026-03-05",
@@ -23532,8 +23939,8 @@
         "path": "facts/2026-04-01.md",
         "tags": [],
         "missing": false,
-        "degree": 9,
-        "modifiedAt": "2026-04-01T23:02:26.061Z"
+        "degree": 12,
+        "modifiedAt": "2026-04-02T05:01:26.667Z"
       },
       {
         "id": "note:facts/2026-04-02",
@@ -23543,8 +23950,8 @@
         "path": "facts/2026-04-02.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
-        "modifiedAt": "2026-04-01T23:02:26.075Z"
+        "degree": 3,
+        "modifiedAt": "2026-04-02T05:01:26.673Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -23926,7 +24333,18 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T23:03:22.080Z"
+        "modifiedAt": "2026-04-01T23:03:29.159Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-02-0703",
+        "title": "handoff-2026-04-02-0703",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-02-0703.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-02T07:03:01.663Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -23950,7 +24368,7 @@
         ],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-01T17:02:36.953Z"
+        "modifiedAt": "2026-04-01T23:03:29.085Z"
       },
       {
         "id": "note:IDENTITY",
@@ -24050,6 +24468,17 @@
         "modifiedAt": "2026-04-01T23:02:26.027Z"
       },
       {
+        "id": "note:ledger/observations/2026/04/02",
+        "title": "02",
+        "type": "note",
+        "category": "note",
+        "path": "ledger/observations/2026/04/02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": "2026-04-02T05:01:26.646Z"
+      },
+      {
         "id": "note:lessons/2026-03-04",
         "title": "2026 03 04",
         "type": "lesson",
@@ -24136,7 +24565,7 @@
         "path": "MEMORY.md",
         "tags": [],
         "missing": false,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": "2026-04-01T19:08:19.177Z"
       },
       {
@@ -24316,7 +24745,18 @@
         "tags": [],
         "missing": false,
         "degree": 10,
-        "modifiedAt": "2026-04-01T23:02:26.065Z"
+        "modifiedAt": "2026-04-01T23:03:29.160Z"
+      },
+      {
+        "id": "note:projects/2026-04-02",
+        "title": "2026 04 02",
+        "type": "project",
+        "category": "project",
+        "path": "projects/2026-04-02.md",
+        "tags": [],
+        "missing": false,
+        "degree": 3,
+        "modifiedAt": "2026-04-02T05:01:26.442Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -24765,6 +25205,17 @@
         "modifiedAt": "2026-04-01T05:00:47.910Z"
       },
       {
+        "id": "note:research/podcasts/2026-04-02-digest",
+        "title": "2026 04 02 Digest",
+        "type": "note",
+        "category": "note",
+        "path": "research/podcasts/2026-04-02-digest.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-01T23:03:56.107Z"
+      },
+      {
         "id": "note:SESSION_STATE",
         "title": "SESSION STATE",
         "type": "note",
@@ -24906,7 +25357,7 @@
         "path": "templates/handoff.md",
         "tags": [],
         "missing": false,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": "2026-03-30T02:00:35.316Z"
       },
       {
@@ -25033,7 +25484,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.238Z"
+        "modifiedAt": "2026-04-01T23:03:29.090Z"
       },
       {
         "id": "note:warm-memory/portfolio/merge-holdings",
@@ -25044,7 +25495,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.254Z"
+        "modifiedAt": "2026-04-01T23:03:29.091Z"
       },
       {
         "id": "note:warm-memory/portfolio/mythical-games",
@@ -25055,7 +25506,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.238Z"
+        "modifiedAt": "2026-04-01T23:03:29.092Z"
       },
       {
         "id": "note:warm-memory/portfolio/nurihaus",
@@ -25066,7 +25517,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.239Z"
+        "modifiedAt": "2026-04-01T23:03:29.092Z"
       },
       {
         "id": "note:warm-memory/portfolio/payhere",
@@ -25074,12 +25525,10 @@
         "type": "note",
         "category": "note",
         "path": "warm-memory/portfolio/payhere.md",
-        "tags": [
-          "1"
-        ],
+        "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-03-30T02:00:35.255Z"
+        "degree": 0,
+        "modifiedAt": "2026-04-01T23:03:29.093Z"
       },
       {
         "id": "note:warm-memory/portfolio/radiusxyz",
@@ -25090,7 +25539,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T01:01:43.398Z"
+        "modifiedAt": "2026-04-01T23:03:29.094Z"
       },
       {
         "id": "note:warm-memory/portfolio/README",
@@ -25112,7 +25561,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.240Z"
+        "modifiedAt": "2026-04-01T23:03:29.095Z"
       },
       {
         "id": "note:warm-memory/portfolio/taiko-labs",
@@ -25123,7 +25572,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.257Z"
+        "modifiedAt": "2026-04-01T23:03:29.096Z"
       },
       {
         "id": "note:warm-memory/portfolio/theswing",
@@ -25145,7 +25594,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-30T02:00:35.259Z"
+        "modifiedAt": "2026-04-01T23:03:29.096Z"
       },
       {
         "id": "note:warm-memory/portfolio/yuga-labs",
@@ -25156,7 +25605,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T01:01:43.398Z"
+        "modifiedAt": "2026-04-01T23:03:29.097Z"
       },
       {
         "id": "tag:1",
@@ -25166,7 +25615,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 6,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -25210,7 +25659,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -25599,6 +26048,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:baek",
+        "title": "Baek",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:based",
         "title": "Based",
         "type": "unresolved",
@@ -25639,7 +26099,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -25683,7 +26143,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -25705,7 +26165,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -25738,7 +26198,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -25755,6 +26215,17 @@
       {
         "id": "unresolved:cheat-sheet",
         "title": "Cheat Sheet",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:check",
+        "title": "Check",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -25882,6 +26353,17 @@
         "tags": [],
         "missing": true,
         "degree": 2,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:compacted",
+        "title": "Compacted",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
         "modifiedAt": null
       },
       {
@@ -26129,6 +26611,17 @@
       {
         "id": "unresolved:daily-memory",
         "title": "Daily Memory",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:dashboard-data",
+        "title": "Dashboard Data",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -26420,7 +26913,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -26569,6 +27062,17 @@
       {
         "id": "unresolved:hackathon",
         "title": "Hackathon",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:handle",
+        "title": "Handle",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -27069,7 +27573,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -27267,7 +27771,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27355,7 +27859,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
@@ -27729,7 +28233,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -27751,7 +28255,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -28217,6 +28721,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:steps",
+        "title": "Steps",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:steps-completed",
         "title": "Steps Completed",
         "type": "unresolved",
@@ -28587,7 +29102,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 17,
+        "degree": 18,
         "modifiedAt": null
       },
       {
@@ -30562,6 +31077,12 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:brain-memory/daily/email-2026-04-02->tag:248",
+        "source": "note:brain-memory/daily/email-2026-04-02",
+        "target": "tag:248",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:daily/2026-03-31->tag:248",
         "source": "note:daily/2026-03-31",
         "target": "tag:248",
@@ -30709,12 +31230,6 @@
         "id": "tag:note:warm-memory/inbox-personal->tag:248",
         "source": "note:warm-memory/inbox-personal",
         "target": "tag:248",
-        "type": "tag"
-      },
-      {
-        "id": "tag:note:warm-memory/portfolio/payhere->tag:1",
-        "source": "note:warm-memory/portfolio/payhere",
-        "target": "tag:1",
         "type": "tag"
       },
       {
@@ -31486,9 +32001,33 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:baek",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:baek",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:commitments/2026-04-02->unresolved:changes",
         "source": "note:commitments/2026-04-02",
         "target": "unresolved:changes",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:check",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:check",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:dashboard-data",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:dashboard-data",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:commitments/2026-04-02->unresolved:handle",
+        "source": "note:commitments/2026-04-02",
+        "target": "unresolved:handle",
         "type": "wiki_link"
       },
       {
@@ -32116,9 +32655,27 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-02->note:MEMORY",
+        "source": "note:decisions/2026-04-02",
+        "target": "note:MEMORY",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:brain",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:brain",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:candidates",
         "source": "note:decisions/2026-04-02",
         "target": "unresolved:candidates",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:compacted",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:compacted",
         "type": "wiki_link"
       },
       {
@@ -32128,9 +32685,21 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:observed",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:observed",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-02->unresolved:review",
         "source": "note:decisions/2026-04-02",
         "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-02->unresolved:steps",
+        "source": "note:decisions/2026-04-02",
+        "target": "unresolved:steps",
         "type": "wiki_link"
       },
       {
@@ -33076,6 +33645,18 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-01->note:templates/handoff",
+        "source": "note:facts/2026-04-01",
+        "target": "note:templates/handoff",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-01->unresolved:blocked",
+        "source": "note:facts/2026-04-01",
+        "target": "unresolved:blocked",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-01->unresolved:containers",
         "source": "note:facts/2026-04-01",
         "target": "unresolved:containers",
@@ -33106,6 +33687,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-01->unresolved:path",
+        "source": "note:facts/2026-04-01",
+        "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-01->unresolved:reply_to_current",
         "source": "note:facts/2026-04-01",
         "target": "unresolved:reply_to_current",
@@ -33126,6 +33713,24 @@
       {
         "id": "wiki_link:note:facts/2026-04-01->unresolved:users",
         "source": "note:facts/2026-04-01",
+        "target": "unresolved:users",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:cannot",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:cannot",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:module",
+        "source": "note:facts/2026-04-02",
+        "target": "unresolved:module",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-02->unresolved:users",
+        "source": "note:facts/2026-04-02",
         "target": "unresolved:users",
         "type": "wiki_link"
       },
@@ -33174,6 +33779,12 @@
       {
         "id": "wiki_link:note:ledger/observations/2026/04/01->unresolved:reply_to_current",
         "source": "note:ledger/observations/2026/04/01",
+        "target": "unresolved:reply_to_current",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:reply_to_current",
+        "source": "note:ledger/observations/2026/04/02",
         "target": "unresolved:reply_to_current",
         "type": "wiki_link"
       },
@@ -34304,27 +34915,45 @@
         "source": "note:projects/2026-04-01",
         "target": "unresolved:vercel",
         "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-02->unresolved:brave-search",
+        "source": "note:projects/2026-04-02",
+        "target": "unresolved:brave-search",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-02->unresolved:fre",
+        "source": "note:projects/2026-04-02",
+        "target": "unresolved:fre",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:projects/2026-04-02->unresolved:request",
+        "source": "note:projects/2026-04-02",
+        "target": "unresolved:request",
+        "type": "wiki_link"
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-01T23:03:22.170Z",
-      "nodeCount": 609,
-      "edgeCount": 932,
+      "generatedAt": "2026-04-02T07:03:01.750Z",
+      "nodeCount": 620,
+      "edgeCount": 951,
       "nodeTypeCounts": {
-        "note": 201,
+        "note": 204,
         "tag": 18,
-        "unresolved": 305,
+        "unresolved": 311,
         "commitment": 6,
         "daily": 5,
         "decision": 9,
-        "handoff": 14,
+        "handoff": 15,
         "lesson": 7,
         "person": 2,
-        "project": 42
+        "project": 43
       },
       "edgeTypeCounts": {
         "tag": 334,
-        "wiki_link": 598
+        "wiki_link": 617
       }
     }
   }
