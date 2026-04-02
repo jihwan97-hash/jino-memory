@@ -1,0 +1,49 @@
+{
+  "hashed_portfolio": {
+    "hvf1": [
+      "Republic Opendeal Inc.",
+      "TheSwing", "더스윙",
+      "Payhere", "페이히어",
+      "Nurihaus", "누리하우스",
+      "Dydx",
+      "Comento", "코멘토",
+      "Hyperithm",
+      "Seoul Exchange", "서울거래",
+      "Wavebridge", "웨이브릿지",
+      "Uprise", "업라이즈",
+      "Vrism", "브리즘"
+    ],
+    "hvf2": [
+      "Trek Labs", "Backpack",
+      "Pen Technology",
+      "Ad-Shield", "애드쉴드",
+      "Atommerce", "아토머스",
+      "Halliday International",
+      "Dfns",
+      "DrNow", "닥터나우",
+      "Merge Holdings",
+      "LOVO",
+      "Seoul Exchange", "서울거래",
+      "Borderless Investing",
+      "Doeat", "두잇",
+      "Gowid",
+      "RadiusXYZ",
+      "Phi Labs",
+      "Taiko Labs",
+      "Kite AI",
+      "Matonee",
+      "Sejinsa", "세진사",
+      "Overworld",
+      "Mine.is",
+      "Init Capital",
+      "Anotherball",
+      "TheSwing", "더스윙",
+      "Payhere", "페이히어",
+      "Yuga Labs",
+      "Portone",
+      "Ramper"
+    ]
+  },
+  "output_dir": "/Users/astin/.jinobot/clawd/research/ipo",
+  "notify_channel": "telegram"
+}
