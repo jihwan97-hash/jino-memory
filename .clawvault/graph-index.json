@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-03T08:03:15.144Z",
+  "generatedAt": "2026-04-03T13:03:37.689Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -11855,7 +11855,7 @@
     },
     "daily/2026-04-03.md": {
       "relativePath": "daily/2026-04-03.md",
-      "mtimeMs": 1775171027789.525,
+      "mtimeMs": 1775221406287.2913,
       "nodes": [
         {
           "id": "note:daily/2026-04-03",
@@ -11866,7 +11866,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T23:03:47.789Z"
+          "modifiedAt": "2026-04-03T13:03:26.287Z"
         }
       ],
       "edges": []
@@ -18419,6 +18419,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-03T08:03:15.054Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-03-1303.md": {
+      "relativePath": "handoffs/handoff-2026-04-03-1303.md",
+      "mtimeMs": 1775221417601.645,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-03-1303",
+          "title": "handoff-2026-04-03-1303",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-03-1303.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-03T13:03:37.601Z"
         }
       ],
       "edges": []
@@ -26804,7 +26822,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T23:03:47.789Z"
+        "modifiedAt": "2026-04-03T13:03:26.287Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -27487,6 +27505,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-03T08:03:15.054Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-03-1303",
+        "title": "handoff-2026-04-03-1303",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-03-1303.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-03T13:03:37.601Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -39194,8 +39223,8 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-03T08:03:15.144Z",
-      "nodeCount": 676,
+      "generatedAt": "2026-04-03T13:03:37.689Z",
+      "nodeCount": 677,
       "edgeCount": 1078,
       "nodeTypeCounts": {
         "note": 224,
@@ -39204,7 +39233,7 @@
         "commitment": 6,
         "daily": 7,
         "decision": 10,
-        "handoff": 19,
+        "handoff": 20,
         "lesson": 7,
         "person": 2,
         "project": 49
