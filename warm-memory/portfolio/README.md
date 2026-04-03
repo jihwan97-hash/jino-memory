@@ -1,8 +1,33 @@
 # Portfolio Company Research Index
 
-**Last Updated:** 2026-04-01 07:00 AM KST
+**Last Updated:** 2026-04-04 07:03 AM KST
 
-## Research Cycle Summary (April 1, 2026)
+## Research Cycle Summary (April 4, 2026)
+**6 companies researched** | **1 status upgrade** | **1 critical delay confirmed** | **4 data gaps identified**
+
+### Key Findings This Cycle
+
+**🟢🟢 Strong Green (2 companies - Portfolio Stars):**
+1. **[Backpack Exchange](./backpack-exchange.md)** - TGE complete, equity-for-tokens revolutionary
+2. **[Mythical Games](./mythical-games.md)** - FIFA Rivals live, World Cup 2026 catalyst ahead
+
+**🟢 Green (2 companies):**
+1. **[Radius Technology](./radiusxyz.md)** 🆙 Yellow→Green - Mainnet launched (2.5M TPS), conditional pending adoption proof
+2. **[Nurihaus](./nurihaus.md)** - K-beauty fund operational, H1 first investment
+
+**🟡 Yellow (2 companies):**
+1. **[Story Protocol](./story-protocol.md)** ⚠️ - Second unlock delay (Aug 13), usage "thin"
+2. **[Yuga Labs](./yuga-labs.md)** - Restructuring complete, but still zero metrics
+
+**🚨 Red/Data Gap (4 companies - CRITICAL):**
+1. **TheSwing** - No data found (urgent: direct outreach by April 15)
+2. **Merge Holdings** - No company news (need team call)
+3. **Uprise/HorizonWealth** - Merger status unknown (check Korea FSC)
+4. **Payhere** - No 2026 updates (IR inquiry needed)
+
+---
+
+## Previous Cycle: Research Summary (April 1, 2026)
 **7 companies researched** | **2 major innovations** | **1 strategic delay** | **Multiple data gaps identified**
 
 ---

@@ -1,26 +1,37 @@
 # Story Protocol
 
-**Last Updated:** 2026-04-03  
-**Status:** 🔴 Red (Layoffs + token unlock delay = critical concern)
+**Status:** 🟡 Yellow (Critical Watch)  
+**Last Updated:** 2026-04-04
 
 ## Quick Summary
-- **PIP Labs 10% layoffs** (March 21, 2026) - "strategic shift and market pressures"
-- **Token unlock delayed to August 13, 2026** (originally March)
-- Red flags stacking: Unlock delay → Layoffs 7 weeks later
-- Still no ecosystem usage metrics disclosed
+- **Token unlock delayed AGAIN:** Feb 13 → Aug 13, 2026 (6-month extension)
+- **Reason:** "Weak usage metrics, need more time"
+- **This is the SECOND delay** (chronic weakness signal)
+- **Supply overhang:** 41.6% of tokens locked (team + investors)
+- **Staking yields:** 10-20% APY working as designed
 
-## Critical Timeline
-- Feb 2: Token unlock delay (weakness admission)
-- March 21: 10% workforce cut
-- **August 13: Unlock deadline** (4 months away)
+## Critical Assessment
+🚨 **Red Flags:**
+- Team admits usage is "thin" (ecosystem not growing fast enough)
+- Second delay = chronic problem (not one-time issue)
+- Massive dilution coming (41.6% locked tokens)
 
-## Latest Research
-📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/story-protocol-research-2026-04-03.md)
+✅ **Positive Signals:**
+- Team is transparent (honest about challenges)
+- Validator economics working (10-20% APY)
+- $100M daily trading volume (liquid token)
 
-## Decision Framework
-- Before August: Monthly ecosystem health checks
-- If growth visible → Hold and monitor
-- If still weak → Consider exit before unlock
-- Another delay → Serious portfolio review
+## Make-or-Break Date: August 13, 2026
+**Go signal:** Developer activity up 3x+, major IP partnerships, IPKit adoption metrics
+**No-go signal:** Another delay, continued opacity, or underwhelming growth
 
-**Next Check:** Monthly through July 2026 | **Critical Deadline:** August 13, 2026
+## Next Actions (MONTHLY MONITORING)
+- Monthly developer activity checks (April-August)
+- Track partnership announcements (Disney, Warner, etc.)
+- Monitor on-chain activity trends
+- **August 1:** Final pre-unlock assessment
+
+**Investment Thesis:** Strong vision (on-chain IP for AI) but execution lagging. August unlock is critical test. Yellow status appropriate: known risks, uncertain outcome.
+
+---
+*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/story-protocol-research-2026-04-04.md`*

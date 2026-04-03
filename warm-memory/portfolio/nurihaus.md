@@ -1,27 +1,37 @@
 # Nurihaus
 
-**Last Updated:** 2026-04-03  
-**Status:** 🟢 Green (K-beauty fund launched, clear execution timeline)
+**Status:** 🟢 Green  
+**Last Updated:** 2026-04-04
 
 ## Quick Summary
-- **K-beauty VC fund launched March 24, 2026** - 6.2B KRW (~$4.6M USD)
-- Model: Platform operator → Platform + VC hybrid
-- Integrated investment + marketing + distribution support
-- First-mover in K-beauty platform+capital niche
+- **K-Beauty VC Fund launched** March 24, 2026
+- **Fund size:** 6.2B KRW (~$4.7M USD)
+- **Model:** Platform + VC hybrid (investment + marketing + distribution)
+- **Timeline:** H1 2026 first investment, H2 2026 campaign results
+- **Market growth:** K-beauty projected 9.7% CAGR (2026-2033), $19B by 2033
 
-## Execution Timeline
-- **H1 2026 (by June):** First brand investment
-- **H2 2026:** U.S. campaign performance results, portfolio expansion
+## Strategic Innovation
+- **Old model:** Platform connecting K-beauty brands with US influencers
+- **New model:** Platform services + capital investment + distribution support
+- **Competitive moat:** Integrated services create stickiness vs. pure platforms
+- **First-mover:** No major K-beauty platforms have dedicated VC funds
 
-## Market Context
-K-beauty market: $19B by 2033 (CAGR 9.7% from 2026-2033)
+## Assessment
+✅ **Fund operational** (not just announced)  
+✅ **Strategic differentiation** (platform + VC hybrid unique)  
+✅ **Market timing** (K-beauty high growth phase)  
+✅ **Clear milestones** (H1 investment, H2 results)
 
-## Latest Research
-📄 [Full Report](/Users/astin/.jinobot/clawd/jino-memory/projects/nurihaus-research-2026-04-03.md)
+⚠️ **Fund size modest** ($4.7M limits portfolio)  
+⚠️ **Execution risk** (VC track record unclear)  
+⚠️ **Platform metrics unknown** (no public GMV, brand, or influencer data)
 
-## Watch List
-- First fund investment announcement (by June)
-- Brand partner details
-- H2 campaign metrics (conversion, retention, CAC)
+## Next Actions
+- **June 2026:** Watch for first brand investment announcement
+- **Q3 2026:** Campaign performance results (promised H2)
+- **Direct inquiry:** Request platform metrics (GMV, brands, influencers)
 
-**Next Check:** June 2026 (first investment, fund strategy)
+**Investment Thesis:** Smart strategic pivot to platform + capital model. Fund size modest but appropriate for first fund. Status Green based on operational fund + favorable market timing.
+
+---
+*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/nurihaus-research-2026-04-04.md`*
