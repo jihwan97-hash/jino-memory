@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-03T23:04:15.886Z",
+  "generatedAt": "2026-04-04T05:04:38.265Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -842,7 +842,7 @@
     },
     "backlog/assistant-good-found-radius-mainnet-launch-info-let-me-fetch-that-article.md": {
       "relativePath": "backlog/assistant-good-found-radius-mainnet-launch-info-let-me-fetch-that-article.md",
-      "mtimeMs": 1775257415150.162,
+      "mtimeMs": 1775257464776.0496,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-found-radius-mainnet-launch-info-let-me-fetch-that-article",
@@ -857,7 +857,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.150Z"
+          "modifiedAt": "2026-04-03T23:04:24.776Z"
         },
         {
           "id": "tag:observer",
@@ -1570,7 +1570,7 @@
     },
     "backlog/assistant-good-now-let-me-create-the-rest-of-the-research-entries-efficiently.md": {
       "relativePath": "backlog/assistant-good-now-let-me-create-the-rest-of-the-research-entries-efficiently.md",
-      "mtimeMs": 1775257415162.6587,
+      "mtimeMs": 1775257464776.5886,
       "nodes": [
         {
           "id": "note:backlog/assistant-good-now-let-me-create-the-rest-of-the-research-entries-efficiently",
@@ -1585,7 +1585,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.162Z"
+          "modifiedAt": "2026-04-03T23:04:24.776Z"
         },
         {
           "id": "tag:observer",
@@ -3117,7 +3117,7 @@
     },
     "backlog/assistant-i-can-see-the-portfolio-structure-based-on-the-readme-ill-select-10-companies-that-havent-been-researched.md": {
       "relativePath": "backlog/assistant-i-can-see-the-portfolio-structure-based-on-the-readme-ill-select-10-companies-that-havent-been-researched.md",
-      "mtimeMs": 1775257415138.4307,
+      "mtimeMs": 1775257464777.1516,
       "nodes": [
         {
           "id": "note:backlog/assistant-i-can-see-the-portfolio-structure-based-on-the-readme-ill-select-10-companies-that-havent-been-researched",
@@ -3132,7 +3132,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.138Z"
+          "modifiedAt": "2026-04-03T23:04:24.777Z"
         },
         {
           "id": "tag:observer",
@@ -4391,7 +4391,7 @@
     },
     "backlog/assistant-im-hitting-rate-limits-on-the-brave-search-api-1-querysecond-let-me-fetch-the-yuga-labs-article-and-then.md": {
       "relativePath": "backlog/assistant-im-hitting-rate-limits-on-the-brave-search-api-1-querysecond-let-me-fetch-the-yuga-labs-article-and-then.md",
-      "mtimeMs": 1775257415144.0923,
+      "mtimeMs": 1775257464777.7297,
       "nodes": [
         {
           "id": "note:backlog/assistant-im-hitting-rate-limits-on-the-brave-search-api-1-querysecond-let-me-fetch-the-yuga-labs-article-and-then",
@@ -4406,7 +4406,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.144Z"
+          "modifiedAt": "2026-04-03T23:04:24.777Z"
         },
         {
           "id": "tag:observer",
@@ -5301,7 +5301,7 @@
     },
     "backlog/assistant-let-me-continue-with-a-few-more-companies-and-then-compile-the-research-ill-search-for-theswing-merge-and.md": {
       "relativePath": "backlog/assistant-let-me-continue-with-a-few-more-companies-and-then-compile-the-research-ill-search-for-theswing-merge-and.md",
-      "mtimeMs": 1775257415152.0247,
+      "mtimeMs": 1775257464778.2698,
       "nodes": [
         {
           "id": "note:backlog/assistant-let-me-continue-with-a-few-more-companies-and-then-compile-the-research-ill-search-for-theswing-merge-and",
@@ -5316,7 +5316,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.152Z"
+          "modifiedAt": "2026-04-03T23:04:24.778Z"
         },
         {
           "id": "tag:observer",
@@ -5392,7 +5392,7 @@
     },
     "backlog/assistant-let-me-fix-the-escaping-and-use-a-different-approach-write-to-temp-files-first.md": {
       "relativePath": "backlog/assistant-let-me-fix-the-escaping-and-use-a-different-approach-write-to-temp-files-first.md",
-      "mtimeMs": 1775257415160.5684,
+      "mtimeMs": 1775257464778.7786,
       "nodes": [
         {
           "id": "note:backlog/assistant-let-me-fix-the-escaping-and-use-a-different-approach-write-to-temp-files-first",
@@ -5407,7 +5407,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.160Z"
+          "modifiedAt": "2026-04-03T23:04:24.778Z"
         },
         {
           "id": "tag:observer",
@@ -5574,7 +5574,7 @@
     },
     "backlog/assistant-let-me-prepend-the-new-cycle-summary-to-the-readme.md": {
       "relativePath": "backlog/assistant-let-me-prepend-the-new-cycle-summary-to-the-readme.md",
-      "mtimeMs": 1775257415169.8635,
+      "mtimeMs": 1775257464779.3066,
       "nodes": [
         {
           "id": "note:backlog/assistant-let-me-prepend-the-new-cycle-summary-to-the-readme",
@@ -5589,7 +5589,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.169Z"
+          "modifiedAt": "2026-04-03T23:04:24.779Z"
         },
         {
           "id": "tag:observer",
@@ -5756,7 +5756,7 @@
     },
     "backlog/assistant-no-direct-payhere-news-let-me-try-a-more-specific-search-and-continue-with-other-companies.md": {
       "relativePath": "backlog/assistant-no-direct-payhere-news-let-me-try-a-more-specific-search-and-continue-with-other-companies.md",
-      "mtimeMs": 1775257415148.2712,
+      "mtimeMs": 1775257464779.825,
       "nodes": [
         {
           "id": "note:backlog/assistant-no-direct-payhere-news-let-me-try-a-more-specific-search-and-continue-with-other-companies",
@@ -5771,7 +5771,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.148Z"
+          "modifiedAt": "2026-04-03T23:04:24.779Z"
         },
         {
           "id": "tag:observer",
@@ -5938,7 +5938,7 @@
     },
     "backlog/assistant-no-merge-holdings-news-let-me-try-uprise-and-then-compile-what-i-have.md": {
       "relativePath": "backlog/assistant-no-merge-holdings-news-let-me-try-uprise-and-then-compile-what-i-have.md",
-      "mtimeMs": 1775257415155.9353,
+      "mtimeMs": 1775257464780.3914,
       "nodes": [
         {
           "id": "note:backlog/assistant-no-merge-holdings-news-let-me-try-uprise-and-then-compile-what-i-have",
@@ -5953,7 +5953,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.155Z"
+          "modifiedAt": "2026-04-03T23:04:24.780Z"
         },
         {
           "id": "tag:observer",
@@ -6393,7 +6393,7 @@
     },
     "backlog/assistant-no-specific-uprisehorizonwealth-news-now-let-me-compile-the-research-ive-gathered-and-store-it-in-clawvaul.md": {
       "relativePath": "backlog/assistant-no-specific-uprisehorizonwealth-news-now-let-me-compile-the-research-ive-gathered-and-store-it-in-clawvaul.md",
-      "mtimeMs": 1775257415158.3542,
+      "mtimeMs": 1775257464780.9192,
       "nodes": [
         {
           "id": "note:backlog/assistant-no-specific-uprisehorizonwealth-news-now-let-me-compile-the-research-ive-gathered-and-store-it-in-clawvaul",
@@ -6408,7 +6408,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.158Z"
+          "modifiedAt": "2026-04-03T23:04:24.780Z"
         },
         {
           "id": "tag:observer",
@@ -6939,7 +6939,7 @@
     },
     "backlog/assistant-now-let-me-commit-and-push-everything.md": {
       "relativePath": "backlog/assistant-now-let-me-commit-and-push-everything.md",
-      "mtimeMs": 1775257415171.6306,
+      "mtimeMs": 1775257464781.4365,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-commit-and-push-everything",
@@ -6954,7 +6954,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.171Z"
+          "modifiedAt": "2026-04-03T23:04:24.781Z"
         },
         {
           "id": "tag:observer",
@@ -7212,7 +7212,7 @@
     },
     "backlog/assistant-now-let-me-create-a-data-gap-summary-and-commit-everything.md": {
       "relativePath": "backlog/assistant-now-let-me-create-a-data-gap-summary-and-commit-everything.md",
-      "mtimeMs": 1775257415165.3513,
+      "mtimeMs": 1775257464781.9592,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-create-a-data-gap-summary-and-commit-everything",
@@ -7227,7 +7227,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.165Z"
+          "modifiedAt": "2026-04-03T23:04:24.781Z"
         },
         {
           "id": "tag:observer",
@@ -8213,7 +8213,7 @@
     },
     "backlog/assistant-now-let-me-update-the-portfolio-readme-with-this-cycles-findings.md": {
       "relativePath": "backlog/assistant-now-let-me-update-the-portfolio-readme-with-this-cycles-findings.md",
-      "mtimeMs": 1775257415167.9978,
+      "mtimeMs": 1775257464782.4924,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-update-the-portfolio-readme-with-this-cycles-findings",
@@ -8228,7 +8228,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.167Z"
+          "modifiedAt": "2026-04-03T23:04:24.782Z"
         },
         {
           "id": "tag:observer",
@@ -8486,7 +8486,7 @@
     },
     "backlog/assistant-now-let-me-wait-and-search-for-more-companies-with-proper-rate-limiting-1-query-per-second.md": {
       "relativePath": "backlog/assistant-now-let-me-wait-and-search-for-more-companies-with-proper-rate-limiting-1-query-per-second.md",
-      "mtimeMs": 1775257415146.1162,
+      "mtimeMs": 1775257464783.0486,
       "nodes": [
         {
           "id": "note:backlog/assistant-now-let-me-wait-and-search-for-more-companies-with-proper-rate-limiting-1-query-per-second",
@@ -8501,7 +8501,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.146Z"
+          "modifiedAt": "2026-04-03T23:04:24.783Z"
         },
         {
           "id": "tag:observer",
@@ -9396,7 +9396,7 @@
     },
     "backlog/assistant-perfect-now-let-me-create-a-concise-summary-for-delivery-portfolio-research-complete-april-4-2026.md": {
       "relativePath": "backlog/assistant-perfect-now-let-me-create-a-concise-summary-for-delivery-portfolio-research-complete-april-4-2026.md",
-      "mtimeMs": 1775257415175.2354,
+      "mtimeMs": 1775257464783.5762,
       "nodes": [
         {
           "id": "note:backlog/assistant-perfect-now-let-me-create-a-concise-summary-for-delivery-portfolio-research-complete-april-4-2026",
@@ -9411,7 +9411,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.175Z"
+          "modifiedAt": "2026-04-03T23:04:24.783Z"
         },
         {
           "id": "tag:observer",
@@ -10306,7 +10306,7 @@
     },
     "backlog/assistant-thats-swing-mobility-not-theswing-social-app-let-me-try-a-different-search.md": {
       "relativePath": "backlog/assistant-thats-swing-mobility-not-theswing-social-app-let-me-try-a-different-search.md",
-      "mtimeMs": 1775257415153.9087,
+      "mtimeMs": 1775257464784.1118,
       "nodes": [
         {
           "id": "note:backlog/assistant-thats-swing-mobility-not-theswing-social-app-let-me-try-a-different-search",
@@ -10321,7 +10321,7 @@
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.153Z"
+          "modifiedAt": "2026-04-03T23:04:24.784Z"
         },
         {
           "id": "tag:observer",
@@ -11482,6 +11482,97 @@
         {
           "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4->unresolved:observer",
           "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst.md": {
+      "relativePath": "backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst.md",
+      "mtimeMs": 1775279031577.0898,
+      "nodes": [
+        {
+          "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+          "title": "Toolresult Dedup Hit For Task Candidate User System Perfect Now Let Me Create A Summary For Delivery System Syst",
+          "type": "note",
+          "category": "note",
+          "path": "backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst.md",
+          "tags": [
+            "observer",
+            "open",
+            "task"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T05:03:51.577Z"
+        },
+        {
+          "id": "tag:observer",
+          "title": "#observer",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:open",
+          "title": "#open",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:task",
+          "title": "#task",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:observer",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+          "target": "tag:observer",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:open",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+          "target": "tag:open",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:task",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+          "target": "tag:task",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->unresolved:observer",
+          "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
           "target": "unresolved:observer",
           "type": "wiki_link"
         }
@@ -13183,7 +13274,7 @@
     },
     "commitments/2026-04-03.md": {
       "relativePath": "commitments/2026-04-03.md",
-      "mtimeMs": 1775257415172.0994,
+      "mtimeMs": 1775257464784.642,
       "nodes": [
         {
           "id": "note:commitments/2026-04-03",
@@ -13194,7 +13285,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.172Z"
+          "modifiedAt": "2026-04-03T23:04:24.784Z"
         },
         {
           "id": "unresolved:your",
@@ -13236,7 +13327,7 @@
     },
     "commitments/2026-04-04.md": {
       "relativePath": "commitments/2026-04-04.md",
-      "mtimeMs": 1775257415173.2734,
+      "mtimeMs": 1775257464785.1296,
       "nodes": [
         {
           "id": "note:commitments/2026-04-04",
@@ -13247,7 +13338,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.173Z"
+          "modifiedAt": "2026-04-03T23:04:24.785Z"
         },
         {
           "id": "unresolved:your",
@@ -13435,7 +13526,7 @@
     },
     "daily/2026-04-04.md": {
       "relativePath": "daily/2026-04-04.md",
-      "mtimeMs": 1775257445081.018,
+      "mtimeMs": 1775279068072.5715,
       "nodes": [
         {
           "id": "note:daily/2026-04-04",
@@ -13446,7 +13537,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:04:05.081Z"
+          "modifiedAt": "2026-04-04T05:04:28.072Z"
         }
       ],
       "edges": []
@@ -15670,7 +15761,7 @@
     },
     "decisions/2026-04-03.md": {
       "relativePath": "decisions/2026-04-03.md",
-      "mtimeMs": 1775257415399.5693,
+      "mtimeMs": 1775257464786.5098,
       "nodes": [
         {
           "id": "note:decisions/2026-04-03",
@@ -15681,7 +15772,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.399Z"
+          "modifiedAt": "2026-04-03T23:04:24.786Z"
         },
         {
           "id": "unresolved:review",
@@ -15785,6 +15876,178 @@
           "id": "wiki_link:note:decisions/2026-04-03->unresolved:portfolio-researc",
           "source": "note:decisions/2026-04-03",
           "target": "unresolved:portfolio-researc",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "decisions/2026-04-04.md": {
+      "relativePath": "decisions/2026-04-04.md",
+      "mtimeMs": 1775279031580.011,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-04-04",
+          "title": "2026 04 04",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-04-04.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T05:03:51.580Z"
+        },
+        {
+          "id": "unresolved:daily-journal",
+          "title": "Daily Journal",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:early-morning",
+          "title": "Early Morning",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:consolidation",
+          "title": "Consolidation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observation-summary",
+          "title": "Observation Summary",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:observer",
+          "title": "Observer",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain",
+          "title": "Brain",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:daily",
+          "title": "Daily",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:key-findings",
+          "title": "Key Findings",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:portfolio",
+          "title": "Portfolio",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:daily-journal",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:daily-journal",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:early-morning",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:early-morning",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:consolidation",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:consolidation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:observation-summary",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:observation-summary",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:observer",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:observer",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:brain",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:brain",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:daily",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:daily",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:key-findings",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:key-findings",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:portfolio",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:portfolio",
           "type": "wiki_link"
         }
       ]
@@ -19086,7 +19349,7 @@
     },
     "facts/2026-04-03.md": {
       "relativePath": "facts/2026-04-03.md",
-      "mtimeMs": 1775257415401.7056,
+      "mtimeMs": 1775279031569.878,
       "nodes": [
         {
           "id": "note:facts/2026-04-03",
@@ -19097,7 +19360,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.401Z"
+          "modifiedAt": "2026-04-04T05:03:51.569Z"
         },
         {
           "id": "unresolved:story-protocol",
@@ -19383,7 +19646,7 @@
     },
     "facts/2026-04-04.md": {
       "relativePath": "facts/2026-04-04.md",
-      "mtimeMs": 1775257415402.3818,
+      "mtimeMs": 1775279031579.325,
       "nodes": [
         {
           "id": "note:facts/2026-04-04",
@@ -19394,11 +19657,33 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.402Z"
+          "modifiedAt": "2026-04-04T05:03:51.579Z"
         },
         {
           "id": "unresolved:users",
           "title": "Users",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:cannot",
+          "title": "Cannot",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:module",
+          "title": "Module",
           "type": "unresolved",
           "category": "unresolved",
           "path": null,
@@ -19413,6 +19698,18 @@
           "id": "wiki_link:note:facts/2026-04-04->unresolved:users",
           "source": "note:facts/2026-04-04",
           "target": "unresolved:users",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:cannot",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:cannot",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:module",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:module",
           "type": "wiki_link"
         }
       ]
@@ -20253,7 +20550,7 @@
     },
     "handoffs/handoff-2026-04-03-2304.md": {
       "relativePath": "handoffs/handoff-2026-04-03-2304.md",
-      "mtimeMs": 1775257455789.4102,
+      "mtimeMs": 1775257464788.2007,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-03-2304",
@@ -20264,7 +20561,25 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:04:15.789Z"
+          "modifiedAt": "2026-04-03T23:04:24.788Z"
+        }
+      ],
+      "edges": []
+    },
+    "handoffs/handoff-2026-04-04-0504.md": {
+      "relativePath": "handoffs/handoff-2026-04-04-0504.md",
+      "mtimeMs": 1775279078171.404,
+      "nodes": [
+        {
+          "id": "note:handoffs/handoff-2026-04-04-0504",
+          "title": "handoff-2026-04-04-0504",
+          "type": "handoff",
+          "category": "handoff",
+          "path": "handoffs/handoff-2026-04-04-0504.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T05:04:38.171Z"
         }
       ],
       "edges": []
@@ -20858,6 +21173,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-03T23:03:35.366Z"
+        }
+      ],
+      "edges": []
+    },
+    "ledger/observations/2026/04/04.md": {
+      "relativePath": "ledger/observations/2026/04/04.md",
+      "mtimeMs": 1775279031483.0425,
+      "nodes": [
+        {
+          "id": "note:ledger/observations/2026/04/04",
+          "title": "04",
+          "type": "note",
+          "category": "note",
+          "path": "ledger/observations/2026/04/04.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T05:03:51.483Z"
         }
       ],
       "edges": []
@@ -24664,7 +24997,7 @@
     },
     "projects/2026-04-03.md": {
       "relativePath": "projects/2026-04-03.md",
-      "mtimeMs": 1775257415141.6675,
+      "mtimeMs": 1775257464788.8765,
       "nodes": [
         {
           "id": "note:projects/2026-04-03",
@@ -24675,7 +25008,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T23:03:35.141Z"
+          "modifiedAt": "2026-04-03T23:04:24.788Z"
         },
         {
           "id": "unresolved:backpack-exchange",
@@ -26023,7 +26356,7 @@
     },
     "research/auto-study-2026-04-04.md": {
       "relativePath": "research/auto-study-2026-04-04.md",
-      "mtimeMs": 1775235901798.3828,
+      "mtimeMs": 1775257464789.3982,
       "nodes": [
         {
           "id": "note:research/auto-study-2026-04-04",
@@ -26034,7 +26367,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-03T17:05:01.798Z"
+          "modifiedAt": "2026-04-03T23:04:24.789Z"
         }
       ],
       "edges": []
@@ -26143,6 +26476,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-02T23:04:19.351Z"
+        }
+      ],
+      "edges": []
+    },
+    "research/podcasts/2026-04-04-digest.md": {
+      "relativePath": "research/podcasts/2026-04-04-digest.md",
+      "mtimeMs": 1775257493562.418,
+      "nodes": [
+        {
+          "id": "note:research/podcasts/2026-04-04-digest",
+          "title": "2026 04 04 Digest",
+          "type": "note",
+          "category": "note",
+          "path": "research/podcasts/2026-04-04-digest.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-03T23:04:53.562Z"
         }
       ],
       "edges": []
@@ -26641,7 +26992,7 @@
     },
     "warm-memory/portfolio/backpack-exchange.md": {
       "relativePath": "warm-memory/portfolio/backpack-exchange.md",
-      "mtimeMs": 1775171027725.5078,
+      "mtimeMs": 1775257464714.9883,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/backpack-exchange",
@@ -26652,7 +27003,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T23:03:47.725Z"
+          "modifiedAt": "2026-04-03T23:04:24.714Z"
         }
       ],
       "edges": []
@@ -26677,7 +27028,7 @@
     },
     "warm-memory/portfolio/mythical-games.md": {
       "relativePath": "warm-memory/portfolio/mythical-games.md",
-      "mtimeMs": 1775084609092.0583,
+      "mtimeMs": 1775257464716.1091,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/mythical-games",
@@ -26688,14 +27039,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:29.092Z"
+          "modifiedAt": "2026-04-03T23:04:24.716Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/nurihaus.md": {
       "relativePath": "warm-memory/portfolio/nurihaus.md",
-      "mtimeMs": 1775171027726.1956,
+      "mtimeMs": 1775257464716.7832,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/nurihaus",
@@ -26706,7 +27057,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T23:03:47.726Z"
+          "modifiedAt": "2026-04-03T23:04:24.716Z"
         }
       ],
       "edges": []
@@ -26731,7 +27082,7 @@
     },
     "warm-memory/portfolio/radiusxyz.md": {
       "relativePath": "warm-memory/portfolio/radiusxyz.md",
-      "mtimeMs": 1775084609094.8174,
+      "mtimeMs": 1775257464717.4749,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/radiusxyz",
@@ -26742,14 +27093,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-01T23:03:29.094Z"
+          "modifiedAt": "2026-04-03T23:04:24.717Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/README.md": {
       "relativePath": "warm-memory/portfolio/README.md",
-      "mtimeMs": 1774998211237.4136,
+      "mtimeMs": 1775257464713.9978,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/README",
@@ -26760,14 +27111,14 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-03-31T23:03:31.237Z"
+          "modifiedAt": "2026-04-03T23:04:24.713Z"
         }
       ],
       "edges": []
     },
     "warm-memory/portfolio/story-protocol.md": {
       "relativePath": "warm-memory/portfolio/story-protocol.md",
-      "mtimeMs": 1775171027726.9358,
+      "mtimeMs": 1775257464718.1943,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/story-protocol",
@@ -26778,7 +27129,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T23:03:47.726Z"
+          "modifiedAt": "2026-04-03T23:04:24.718Z"
         }
       ],
       "edges": []
@@ -26839,7 +27190,7 @@
     },
     "warm-memory/portfolio/yuga-labs.md": {
       "relativePath": "warm-memory/portfolio/yuga-labs.md",
-      "mtimeMs": 1775171027728.2827,
+      "mtimeMs": 1775257464718.8945,
       "nodes": [
         {
           "id": "note:warm-memory/portfolio/yuga-labs",
@@ -26850,7 +27201,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-02T23:03:47.728Z"
+          "modifiedAt": "2026-04-03T23:04:24.718Z"
         }
       ],
       "edges": []
@@ -27018,7 +27369,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.150Z"
+        "modifiedAt": "2026-04-03T23:04:24.776Z"
       },
       {
         "id": "note:backlog/assistant-good-found-the-march-31-portfolio-research-let-me-check-recent-clawvault-content",
@@ -27138,7 +27489,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.162Z"
+        "modifiedAt": "2026-04-03T23:04:24.776Z"
       },
       {
         "id": "note:backlog/assistant-good-progress-let-me-continue-with-more-companies-after-a-brief-pause",
@@ -27393,7 +27744,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.138Z"
+        "modifiedAt": "2026-04-03T23:04:24.777Z"
       },
       {
         "id": "note:backlog/assistant-i-hit-the-rate-limit-1-querysec-let-me-wait-and-continue-with-sequential-searches",
@@ -27603,7 +27954,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.144Z"
+        "modifiedAt": "2026-04-03T23:04:24.777Z"
       },
       {
         "id": "note:backlog/assistant-inbox-data-is-still-from-327-not-re-synced-let-me-sync-now-before-writing-todays-evening-summary",
@@ -27753,7 +28104,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.152Z"
+        "modifiedAt": "2026-04-03T23:04:24.778Z"
       },
       {
         "id": "note:backlog/assistant-let-me-fix-the-escaping-and-use-a-different-approach-write-to-temp-files-first",
@@ -27768,7 +28119,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.160Z"
+        "modifiedAt": "2026-04-03T23:04:24.778Z"
       },
       {
         "id": "note:backlog/assistant-let-me-now-search-for-story-protocol-updates-since-its-a-top-priority",
@@ -27798,7 +28149,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.169Z"
+        "modifiedAt": "2026-04-03T23:04:24.779Z"
       },
       {
         "id": "note:backlog/assistant-no-daily-file-exists-yet-for-today-let-me-check-whats-in-the-jino-memory-structure",
@@ -27828,7 +28179,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.148Z"
+        "modifiedAt": "2026-04-03T23:04:24.779Z"
       },
       {
         "id": "note:backlog/assistant-no-file-for-today-2026-03-31-yet-let-me-create-it-and-check-yesterdays-file-for-context",
@@ -27858,7 +28209,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.155Z"
+        "modifiedAt": "2026-04-03T23:04:24.780Z"
       },
       {
         "id": "note:backlog/assistant-no-specific-payhere-news-let-me-continue-with-more-companies-and-then-compile-findings-ill-search-for-a-fe",
@@ -27933,7 +28284,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.158Z"
+        "modifiedAt": "2026-04-03T23:04:24.780Z"
       },
       {
         "id": "note:backlog/assistant-no-taiko-blockchain-results-wrong-taiko-let-me-search-more-specifically",
@@ -28023,7 +28374,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.171Z"
+        "modifiedAt": "2026-04-03T23:04:24.781Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-commit-everything-to-git",
@@ -28068,7 +28419,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.165Z"
+        "modifiedAt": "2026-04-03T23:04:24.781Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-create-a-summary-index-file-and-then-commit-everything",
@@ -28233,7 +28584,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.167Z"
+        "modifiedAt": "2026-04-03T23:04:24.782Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-update-the-readme-with-the-new-research-cycle-summary-and-commit-everything",
@@ -28278,7 +28629,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.146Z"
+        "modifiedAt": "2026-04-03T23:04:24.783Z"
       },
       {
         "id": "note:backlog/assistant-now-let-me-write-all-4-skillmd-files",
@@ -28428,7 +28779,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.175Z"
+        "modifiedAt": "2026-04-03T23:04:24.783Z"
       },
       {
         "id": "note:backlog/assistant-perfect-now-let-me-create-a-final-summary-report-portfolio-research-complete-april-1-2026-rese",
@@ -28578,7 +28929,7 @@
         ],
         "missing": false,
         "degree": 4,
-        "modifiedAt": "2026-04-03T23:03:35.153Z"
+        "modifiedAt": "2026-04-03T23:04:24.784Z"
       },
       {
         "id": "note:backlog/assistant-the-inbox-data-hasnt-changed-since-the-morning-summary-still-last-synced-2026-03-28-0701-kst-let-me-writ",
@@ -28759,6 +29110,21 @@
         "missing": false,
         "degree": 4,
         "modifiedAt": "2026-03-27T11:00:09.466Z"
+      },
+      {
+        "id": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+        "title": "Toolresult Dedup Hit For Task Candidate User System Perfect Now Let Me Create A Summary For Delivery System Syst",
+        "type": "note",
+        "category": "note",
+        "path": "backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst.md",
+        "tags": [
+          "observer",
+          "open",
+          "task"
+        ],
+        "missing": false,
+        "degree": 4,
+        "modifiedAt": "2026-04-04T05:03:51.577Z"
       },
       {
         "id": "note:backlog/toolresult-jinobot-brain-memory-consolidation-2026-03-27-2000-kst-11-files-changed-710-insertions-3-deletions",
@@ -29071,7 +29437,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-04-03T23:03:35.172Z"
+        "modifiedAt": "2026-04-03T23:04:24.784Z"
       },
       {
         "id": "note:commitments/2026-04-04",
@@ -29082,7 +29448,7 @@
         "tags": [],
         "missing": false,
         "degree": 2,
-        "modifiedAt": "2026-04-03T23:03:35.173Z"
+        "modifiedAt": "2026-04-03T23:04:24.785Z"
       },
       {
         "id": "note:daily/2026-03-28",
@@ -29172,7 +29538,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-03T23:04:05.081Z"
+        "modifiedAt": "2026-04-04T05:04:28.072Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -29282,7 +29648,18 @@
         "tags": [],
         "missing": false,
         "degree": 6,
-        "modifiedAt": "2026-04-03T23:03:35.399Z"
+        "modifiedAt": "2026-04-03T23:04:24.786Z"
+      },
+      {
+        "id": "note:decisions/2026-04-04",
+        "title": "2026 04 04",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-04-04.md",
+        "tags": [],
+        "missing": false,
+        "degree": 9,
+        "modifiedAt": "2026-04-04T05:03:51.580Z"
       },
       {
         "id": "note:facts/2022-06-28",
@@ -29417,7 +29794,7 @@
         "tags": [],
         "missing": false,
         "degree": 17,
-        "modifiedAt": "2026-04-03T23:03:35.401Z"
+        "modifiedAt": "2026-04-04T05:03:51.569Z"
       },
       {
         "id": "note:facts/2026-04-04",
@@ -29427,8 +29804,8 @@
         "path": "facts/2026-04-04.md",
         "tags": [],
         "missing": false,
-        "degree": 1,
-        "modifiedAt": "2026-04-03T23:03:35.402Z"
+        "degree": 3,
+        "modifiedAt": "2026-04-04T05:03:51.579Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -29898,7 +30275,18 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-03T23:04:15.789Z"
+        "modifiedAt": "2026-04-03T23:04:24.788Z"
+      },
+      {
+        "id": "note:handoffs/handoff-2026-04-04-0504",
+        "title": "handoff-2026-04-04-0504",
+        "type": "handoff",
+        "category": "handoff",
+        "path": "handoffs/handoff-2026-04-04-0504.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T05:04:38.171Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -30044,6 +30432,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-03T23:03:35.366Z"
+      },
+      {
+        "id": "note:ledger/observations/2026/04/04",
+        "title": "04",
+        "type": "note",
+        "category": "note",
+        "path": "ledger/observations/2026/04/04.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T05:03:51.483Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -30345,7 +30744,7 @@
         "tags": [],
         "missing": false,
         "degree": 23,
-        "modifiedAt": "2026-04-03T23:03:35.141Z"
+        "modifiedAt": "2026-04-03T23:04:24.788Z"
       },
       {
         "id": "note:projects/backpack-exchange-research-2026-03-30",
@@ -30912,7 +31311,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-03T17:05:01.798Z"
+        "modifiedAt": "2026-04-03T23:04:24.789Z"
       },
       {
         "id": "note:research/bts-gwanghwamun-igaworks-20260321",
@@ -30979,6 +31378,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-02T23:04:19.351Z"
+      },
+      {
+        "id": "note:research/podcasts/2026-04-04-digest",
+        "title": "2026 04 04 Digest",
+        "type": "note",
+        "category": "note",
+        "path": "research/podcasts/2026-04-04-digest.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-03T23:04:53.562Z"
       },
       {
         "id": "note:SESSION_STATE",
@@ -31249,7 +31659,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T23:03:47.725Z"
+        "modifiedAt": "2026-04-03T23:04:24.714Z"
       },
       {
         "id": "note:warm-memory/portfolio/merge-holdings",
@@ -31271,7 +31681,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T23:03:29.092Z"
+        "modifiedAt": "2026-04-03T23:04:24.716Z"
       },
       {
         "id": "note:warm-memory/portfolio/nurihaus",
@@ -31282,7 +31692,7 @@
         "tags": [],
         "missing": false,
         "degree": 1,
-        "modifiedAt": "2026-04-02T23:03:47.726Z"
+        "modifiedAt": "2026-04-03T23:04:24.716Z"
       },
       {
         "id": "note:warm-memory/portfolio/payhere",
@@ -31304,7 +31714,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-01T23:03:29.094Z"
+        "modifiedAt": "2026-04-03T23:04:24.717Z"
       },
       {
         "id": "note:warm-memory/portfolio/README",
@@ -31315,7 +31725,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-03-31T23:03:31.237Z"
+        "modifiedAt": "2026-04-03T23:04:24.713Z"
       },
       {
         "id": "note:warm-memory/portfolio/story-protocol",
@@ -31326,7 +31736,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T23:03:47.726Z"
+        "modifiedAt": "2026-04-03T23:04:24.718Z"
       },
       {
         "id": "note:warm-memory/portfolio/taiko-labs",
@@ -31370,7 +31780,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-02T23:03:47.728Z"
+        "modifiedAt": "2026-04-03T23:04:24.718Z"
       },
       {
         "id": "tag:1",
@@ -31512,7 +31922,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 131,
+        "degree": 132,
         "modifiedAt": null
       },
       {
@@ -31523,7 +31933,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 131,
+        "degree": 132,
         "modifiedAt": null
       },
       {
@@ -31534,7 +31944,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 131,
+        "degree": 132,
         "modifiedAt": null
       },
       {
@@ -31930,7 +32340,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 8,
+        "degree": 9,
         "modifiedAt": null
       },
       {
@@ -31985,7 +32395,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -32264,6 +32674,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:consolidation",
+        "title": "Consolidation",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:consolidation-run",
         "title": "Consolidation Run",
         "type": "unresolved",
@@ -32436,12 +32857,23 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 1,
+        "degree": 2,
         "modifiedAt": null
       },
       {
         "id": "unresolved:daily-brain",
         "title": "Daily Brain",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:daily-journal",
+        "title": "Daily Journal",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -32629,6 +33061,17 @@
       {
         "id": "unresolved:downloads",
         "title": "Downloads",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:early-morning",
+        "title": "Early Morning",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -33166,6 +33609,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:key-findings",
+        "title": "Key Findings",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:key-insigh",
         "title": "Key Insigh",
         "type": "unresolved",
@@ -33492,7 +33946,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -33672,6 +34126,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:observation-summary",
+        "title": "Observation Summary",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:observe",
         "title": "Observe",
         "type": "unresolved",
@@ -33701,7 +34166,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 132,
+        "degree": 134,
         "modifiedAt": null
       },
       {
@@ -33839,6 +34304,17 @@
       {
         "id": "unresolved:portfol",
         "title": "Portfol",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:portfolio",
+        "title": "Portfolio",
         "type": "unresolved",
         "category": "unresolved",
         "path": null,
@@ -37526,6 +38002,24 @@
         "type": "tag"
       },
       {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:observer",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+        "target": "tag:observer",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:open",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+        "target": "tag:open",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->tag:task",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
+        "target": "tag:task",
+        "type": "tag"
+      },
+      {
         "id": "tag:note:backlog/toolresult-jinobot-brain-memory-consolidation-2026-03-27-2000-kst-11-files-changed-710-insertions-3-deletions->tag:observer",
         "source": "note:backlog/toolresult-jinobot-brain-memory-consolidation-2026-03-27-2000-kst-11-files-changed-710-insertions-3-deletions",
         "target": "tag:observer",
@@ -38590,6 +39084,12 @@
       {
         "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4->unresolved:observer",
         "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-assistant-good-i-have-the-ceo-before-sleep-content-now-let-me-create-all-4",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst->unresolved:observer",
+        "source": "note:backlog/toolresult-dedup-hit-for-task-candidate-user-system-perfect-now-let-me-create-a-summary-for-delivery-system-syst",
         "target": "unresolved:observer",
         "type": "wiki_link"
       },
@@ -39659,6 +40159,60 @@
         "id": "wiki_link:note:decisions/2026-04-03->unresolved:tier-promotion",
         "source": "note:decisions/2026-04-03",
         "target": "unresolved:tier-promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:brain",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:brain",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:consolidation",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:consolidation",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:daily",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:daily",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:daily-journal",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:daily-journal",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:early-morning",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:early-morning",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:key-findings",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:key-findings",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:observation-summary",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:observation-summary",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:observer",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:observer",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:portfolio",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:portfolio",
         "type": "wiki_link"
       },
       {
@@ -40853,6 +41407,18 @@
         "id": "wiki_link:note:facts/2026-04-03->unresolved:web",
         "source": "note:facts/2026-04-03",
         "target": "unresolved:web",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:cannot",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:cannot",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:module",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:module",
         "type": "wiki_link"
       },
       {
@@ -42231,24 +42797,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-03T23:04:15.886Z",
-      "nodeCount": 710,
-      "edgeCount": 1162,
+      "generatedAt": "2026-04-04T05:04:38.265Z",
+      "nodeCount": 721,
+      "edgeCount": 1177,
       "nodeTypeCounts": {
-        "note": 244,
+        "note": 247,
         "tag": 18,
-        "unresolved": 335,
+        "unresolved": 341,
         "commitment": 8,
         "daily": 8,
-        "decision": 10,
-        "handoff": 22,
+        "decision": 11,
+        "handoff": 23,
         "lesson": 7,
         "person": 2,
         "project": 56
       },
       "edgeTypeCounts": {
-        "tag": 430,
-        "wiki_link": 732
+        "tag": 433,
+        "wiki_link": 744
       }
     }
   }
