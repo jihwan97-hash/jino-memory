@@ -250,5 +250,23 @@
     "lastObservedAt": "2026-04-04T05:03:51.581Z",
     "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:02ebf37c-6ce4-4966-898e-e4a6bb9c9cab",
     "lastFileSize": 57039
+  },
+  "79d22543-9b8c-410f-8764-5210d3067614": {
+    "lastObservedOffset": 64743,
+    "lastObservedAt": "2026-04-04T19:03:41.670Z",
+    "sessionKey": "agent:main:main",
+    "lastFileSize": 64743
+  },
+  "46931621-c83d-4f4d-941e-58ebb24759ad": {
+    "lastObservedOffset": 63916,
+    "lastObservedAt": "2026-04-04T19:03:41.841Z",
+    "sessionKey": "agent:main:cron:24da8e1b-15af-4067-a909-02e42947f1e7",
+    "lastFileSize": 63916
+  },
+  "0532a9ed-a876-4ef8-ac9d-b19561479984": {
+    "lastObservedOffset": 52679,
+    "lastObservedAt": "2026-04-04T19:03:42.026Z",
+    "sessionKey": "agent:main:cron:27f9f9fb-8ce9-46b0-b41a-b7c9ea9a01cb:run:0532a9ed-a876-4ef8-ac9d-b19561479984",
+    "lastFileSize": 52679
   }
 }

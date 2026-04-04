@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "vaultPath": "/Users/astin/.jinobot/clawd/jino-memory",
-  "generatedAt": "2026-04-04T14:04:25.987Z",
+  "generatedAt": "2026-04-04T19:09:12.244Z",
   "files": {
     "AGENTS.md": {
       "relativePath": "AGENTS.md",
@@ -12481,7 +12481,7 @@
     },
     "brain-memory/daily/email-2026-04-04.md": {
       "relativePath": "brain-memory/daily/email-2026-04-04.md",
-      "mtimeMs": 1775279086749.092,
+      "mtimeMs": 1775311473749.4307,
       "nodes": [
         {
           "id": "note:brain-memory/daily/email-2026-04-04",
@@ -12490,23 +12490,11 @@
           "category": "note",
           "path": "brain-memory/daily/email-2026-04-04.md",
           "tags": [
-            "2",
             "248"
           ],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T05:04:46.749Z"
-        },
-        {
-          "id": "tag:2",
-          "title": "#2",
-          "type": "tag",
-          "category": "tag",
-          "path": null,
-          "tags": [],
-          "missing": false,
-          "degree": 0,
-          "modifiedAt": null
+          "modifiedAt": "2026-04-04T14:04:33.749Z"
         },
         {
           "id": "tag:248",
@@ -12521,12 +12509,6 @@
         }
       ],
       "edges": [
-        {
-          "id": "tag:note:brain-memory/daily/email-2026-04-04->tag:2",
-          "source": "note:brain-memory/daily/email-2026-04-04",
-          "target": "tag:2",
-          "type": "tag"
-        },
         {
           "id": "tag:note:brain-memory/daily/email-2026-04-04->tag:248",
           "source": "note:brain-memory/daily/email-2026-04-04",
@@ -13582,7 +13564,7 @@
     },
     "daily/2026-04-04.md": {
       "relativePath": "daily/2026-04-04.md",
-      "mtimeMs": 1775311455632.754,
+      "mtimeMs": 1775311473806.0603,
       "nodes": [
         {
           "id": "note:daily/2026-04-04",
@@ -13593,7 +13575,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T14:04:15.632Z"
+          "modifiedAt": "2026-04-04T14:04:33.806Z"
         }
       ],
       "edges": []
@@ -15938,7 +15920,7 @@
     },
     "decisions/2026-04-04.md": {
       "relativePath": "decisions/2026-04-04.md",
-      "mtimeMs": 1775279086810.0261,
+      "mtimeMs": 1775329421840.4656,
       "nodes": [
         {
           "id": "note:decisions/2026-04-04",
@@ -15949,7 +15931,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T05:04:46.810Z"
+          "modifiedAt": "2026-04-04T19:03:41.840Z"
         },
         {
           "id": "unresolved:daily-journal",
@@ -16049,6 +16031,116 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review-report",
+          "title": "Review Report",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:scanned",
+          "title": "Scanned",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:last",
+          "title": "Last",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:previously",
+          "title": "Previously",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:review-script",
+          "title": "Review Script",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:knowledge-base",
+          "title": "Knowledge Base",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:tier-review",
+          "title": "Tier Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:promotion",
+          "title": "Promotion",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:reads",
+          "title": "Reads",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -16104,6 +16196,119 @@
           "id": "wiki_link:note:decisions/2026-04-04->unresolved:portfolio",
           "source": "note:decisions/2026-04-04",
           "target": "unresolved:portfolio",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:review-report",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:review-report",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:scanned",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:scanned",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:last",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:last",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:previously",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:previously",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:new-items",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:new-items",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:review-script",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:review-script",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:knowledge-base",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:knowledge-base",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:tier-review",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:tier-review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:promotion",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:promotion",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-04->unresolved:reads",
+          "source": "note:decisions/2026-04-04",
+          "target": "unresolved:reads",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "decisions/2026-04-05.md": {
+      "relativePath": "decisions/2026-04-05.md",
+      "mtimeMs": 1775329421841.187,
+      "nodes": [
+        {
+          "id": "note:decisions/2026-04-05",
+          "title": "2026 04 05",
+          "type": "decision",
+          "category": "decision",
+          "path": "decisions/2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:03:41.841Z"
+        },
+        {
+          "id": "unresolved:review",
+          "title": "Review",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:new-items",
+          "title": "New Items",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "wiki_link:note:decisions/2026-04-05->unresolved:review",
+          "source": "note:decisions/2026-04-05",
+          "target": "unresolved:review",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:decisions/2026-04-05->unresolved:new-items",
+          "source": "note:decisions/2026-04-05",
+          "target": "unresolved:new-items",
           "type": "wiki_link"
         }
       ]
@@ -19405,7 +19610,7 @@
     },
     "facts/2026-04-03.md": {
       "relativePath": "facts/2026-04-03.md",
-      "mtimeMs": 1775279086810.666,
+      "mtimeMs": 1775329421666.1794,
       "nodes": [
         {
           "id": "note:facts/2026-04-03",
@@ -19416,7 +19621,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T05:04:46.810Z"
+          "modifiedAt": "2026-04-04T19:03:41.666Z"
         },
         {
           "id": "unresolved:story-protocol",
@@ -19593,6 +19798,28 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:read",
+          "title": "Read",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:follow",
+          "title": "Follow",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -19697,12 +19924,24 @@
           "source": "note:facts/2026-04-03",
           "target": "unresolved:blocked",
           "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:read",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:read",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-03->unresolved:follow",
+          "source": "note:facts/2026-04-03",
+          "target": "unresolved:follow",
+          "type": "wiki_link"
         }
       ]
     },
     "facts/2026-04-04.md": {
       "relativePath": "facts/2026-04-04.md",
-      "mtimeMs": 1775279086811.278,
+      "mtimeMs": 1775329422026.3647,
       "nodes": [
         {
           "id": "note:facts/2026-04-04",
@@ -19713,7 +19952,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T05:04:46.811Z"
+          "modifiedAt": "2026-04-04T19:03:42.026Z"
         },
         {
           "id": "unresolved:users",
@@ -19747,6 +19986,94 @@
           "missing": true,
           "degree": 0,
           "modifiedAt": null
+        },
+        {
+          "id": "unresolved:path",
+          "title": "Path",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:blocked",
+          "title": "Blocked",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:brain",
+          "title": "Brain",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:memory-consolidation",
+          "title": "Memory Consolidation",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:complete",
+          "title": "Complete",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:summary",
+          "title": "Summary",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:compaction",
+          "title": "Compaction",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:retrieved",
+          "title": "Retrieved",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
       "edges": [
@@ -19766,6 +20093,66 @@
           "id": "wiki_link:note:facts/2026-04-04->unresolved:module",
           "source": "note:facts/2026-04-04",
           "target": "unresolved:module",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->note:templates/handoff",
+          "source": "note:facts/2026-04-04",
+          "target": "note:templates/handoff",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:path",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:path",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:blocked",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:blocked",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:brain",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:brain",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:memory-consolidation",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:memory-consolidation",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:complete",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:complete",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:summary",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:summary",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:compaction",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:compaction",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->note:MEMORY",
+          "source": "note:facts/2026-04-04",
+          "target": "note:MEMORY",
+          "type": "wiki_link"
+        },
+        {
+          "id": "wiki_link:note:facts/2026-04-04->unresolved:retrieved",
+          "source": "note:facts/2026-04-04",
+          "target": "unresolved:retrieved",
           "type": "wiki_link"
         }
       ]
@@ -20642,7 +21029,7 @@
     },
     "handoffs/handoff-2026-04-04-1404.md": {
       "relativePath": "handoffs/handoff-2026-04-04-1404.md",
-      "mtimeMs": 1775311465894.4783,
+      "mtimeMs": 1775311473806.577,
       "nodes": [
         {
           "id": "note:handoffs/handoff-2026-04-04-1404",
@@ -20653,7 +21040,7 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T14:04:25.894Z"
+          "modifiedAt": "2026-04-04T14:04:33.806Z"
         }
       ],
       "edges": []
@@ -21253,7 +21640,7 @@
     },
     "ledger/observations/2026/04/04.md": {
       "relativePath": "ledger/observations/2026/04/04.md",
-      "mtimeMs": 1775279031483.0425,
+      "mtimeMs": 1775329422011.4172,
       "nodes": [
         {
           "id": "note:ledger/observations/2026/04/04",
@@ -21264,10 +21651,28 @@
           "tags": [],
           "missing": false,
           "degree": 0,
-          "modifiedAt": "2026-04-04T05:03:51.483Z"
+          "modifiedAt": "2026-04-04T19:03:42.011Z"
+        },
+        {
+          "id": "unresolved:reply_to_current",
+          "title": "Reply To Current",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
         }
       ],
-      "edges": []
+      "edges": [
+        {
+          "id": "wiki_link:note:ledger/observations/2026/04/04->unresolved:reply_to_current",
+          "source": "note:ledger/observations/2026/04/04",
+          "target": "unresolved:reply_to_current",
+          "type": "wiki_link"
+        }
+      ]
     },
     "lessons/2026-03-04.md": {
       "relativePath": "lessons/2026-03-04.md",
@@ -25558,6 +25963,42 @@
       ],
       "edges": []
     },
+    "projects/backpack-exchange-research-2026-04-05.md": {
+      "relativePath": "projects/backpack-exchange-research-2026-04-05.md",
+      "mtimeMs": 1775329569559.1887,
+      "nodes": [
+        {
+          "id": "note:projects/backpack-exchange-research-2026-04-05",
+          "title": "backpack-exchange-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/backpack-exchange-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:06:09.559Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/data-gap-companies-2026-04-05.md": {
+      "relativePath": "projects/data-gap-companies-2026-04-05.md",
+      "mtimeMs": 1775329752161.172,
+      "nodes": [
+        {
+          "id": "note:projects/data-gap-companies-2026-04-05",
+          "title": "data-gap-companies-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/data-gap-companies-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:09:12.161Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/merge-holdings-research-2026-03-30.md": {
       "relativePath": "projects/merge-holdings-research-2026-03-30.md",
       "mtimeMs": 1774836035310.0703,
@@ -25702,6 +26143,24 @@
       ],
       "edges": []
     },
+    "projects/mythical-games-research-2026-04-05.md": {
+      "relativePath": "projects/mythical-games-research-2026-04-05.md",
+      "mtimeMs": 1775329743616.2292,
+      "nodes": [
+        {
+          "id": "note:projects/mythical-games-research-2026-04-05",
+          "title": "mythical-games-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/mythical-games-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:09:03.616Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/nurihaus-research-2026-03-31.md": {
       "relativePath": "projects/nurihaus-research-2026-03-31.md",
       "mtimeMs": 1774897589331.1099,
@@ -25788,6 +26247,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-03T22:12:57.200Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/nurihaus-research-2026-04-05.md": {
+      "relativePath": "projects/nurihaus-research-2026-04-05.md",
+      "mtimeMs": 1775329637134.8735,
+      "nodes": [
+        {
+          "id": "note:projects/nurihaus-research-2026-04-05",
+          "title": "nurihaus-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/nurihaus-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:07:17.134Z"
         }
       ],
       "edges": []
@@ -25938,6 +26415,24 @@
       ],
       "edges": []
     },
+    "projects/radius-technology-research-2026-04-05.md": {
+      "relativePath": "projects/radius-technology-research-2026-04-05.md",
+      "mtimeMs": 1775329628638.593,
+      "nodes": [
+        {
+          "id": "note:projects/radius-technology-research-2026-04-05",
+          "title": "radius-technology-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/radius-technology-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:07:08.638Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/radiusxyz-research-2026-03-30.md": {
       "relativePath": "projects/radiusxyz-research-2026-03-30.md",
       "mtimeMs": 1774836035311.581,
@@ -26064,6 +26559,24 @@
       ],
       "edges": []
     },
+    "projects/story-protocol-research-2026-04-05.md": {
+      "relativePath": "projects/story-protocol-research-2026-04-05.md",
+      "mtimeMs": 1775329624346.5144,
+      "nodes": [
+        {
+          "id": "note:projects/story-protocol-research-2026-04-05",
+          "title": "story-protocol-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/story-protocol-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:07:04.346Z"
+        }
+      ],
+      "edges": []
+    },
     "projects/taiko-labs-research-2026-03-30.md": {
       "relativePath": "projects/taiko-labs-research-2026-03-30.md",
       "mtimeMs": 1774836035312.5833,
@@ -26132,6 +26645,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-02T23:03:47.797Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/taiko-labs-research-2026-04-05.md": {
+      "relativePath": "projects/taiko-labs-research-2026-04-05.md",
+      "mtimeMs": 1775329747916.5532,
+      "nodes": [
+        {
+          "id": "note:projects/taiko-labs-research-2026-04-05",
+          "title": "taiko-labs-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/taiko-labs-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:09:07.916Z"
         }
       ],
       "edges": []
@@ -26316,6 +26847,24 @@
           "missing": false,
           "degree": 0,
           "modifiedAt": "2026-04-03T22:12:57.202Z"
+        }
+      ],
+      "edges": []
+    },
+    "projects/yuga-labs-research-2026-04-05.md": {
+      "relativePath": "projects/yuga-labs-research-2026-04-05.md",
+      "mtimeMs": 1775329632921.8662,
+      "nodes": [
+        {
+          "id": "note:projects/yuga-labs-research-2026-04-05",
+          "title": "yuga-labs-research-2026-04-05",
+          "type": "project",
+          "category": "project",
+          "path": "projects/yuga-labs-research-2026-04-05.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-04-04T19:07:12.921Z"
         }
       ],
       "edges": []
@@ -29443,12 +29992,11 @@
         "category": "note",
         "path": "brain-memory/daily/email-2026-04-04.md",
         "tags": [
-          "2",
           "248"
         ],
         "missing": false,
-        "degree": 2,
-        "modifiedAt": "2026-04-04T05:04:46.749Z"
+        "degree": 1,
+        "modifiedAt": "2026-04-04T14:04:33.749Z"
       },
       {
         "id": "note:commitments/2026-03-26",
@@ -29626,7 +30174,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-04T14:04:15.632Z"
+        "modifiedAt": "2026-04-04T14:04:33.806Z"
       },
       {
         "id": "note:decisions/2022-06-28",
@@ -29746,8 +30294,19 @@
         "path": "decisions/2026-04-04.md",
         "tags": [],
         "missing": false,
-        "degree": 9,
-        "modifiedAt": "2026-04-04T05:04:46.810Z"
+        "degree": 19,
+        "modifiedAt": "2026-04-04T19:03:41.840Z"
+      },
+      {
+        "id": "note:decisions/2026-04-05",
+        "title": "2026 04 05",
+        "type": "decision",
+        "category": "decision",
+        "path": "decisions/2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 2,
+        "modifiedAt": "2026-04-04T19:03:41.841Z"
       },
       {
         "id": "note:facts/2022-06-28",
@@ -29881,8 +30440,8 @@
         "path": "facts/2026-04-03.md",
         "tags": [],
         "missing": false,
-        "degree": 17,
-        "modifiedAt": "2026-04-04T05:04:46.810Z"
+        "degree": 19,
+        "modifiedAt": "2026-04-04T19:03:41.666Z"
       },
       {
         "id": "note:facts/2026-04-04",
@@ -29892,8 +30451,8 @@
         "path": "facts/2026-04-04.md",
         "tags": [],
         "missing": false,
-        "degree": 3,
-        "modifiedAt": "2026-04-04T05:04:46.811Z"
+        "degree": 13,
+        "modifiedAt": "2026-04-04T19:03:42.026Z"
       },
       {
         "id": "note:hades-src/docs/advanced-backtesting",
@@ -30385,7 +30944,7 @@
         "tags": [],
         "missing": false,
         "degree": 0,
-        "modifiedAt": "2026-04-04T14:04:25.894Z"
+        "modifiedAt": "2026-04-04T14:04:33.806Z"
       },
       {
         "id": "note:HEARTBEAT",
@@ -30540,8 +31099,8 @@
         "path": "ledger/observations/2026/04/04.md",
         "tags": [],
         "missing": false,
-        "degree": 0,
-        "modifiedAt": "2026-04-04T05:03:51.483Z"
+        "degree": 1,
+        "modifiedAt": "2026-04-04T19:03:42.011Z"
       },
       {
         "id": "note:lessons/2026-03-04",
@@ -30630,7 +31189,7 @@
         "path": "MEMORY.md",
         "tags": [],
         "missing": false,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": "2026-04-01T19:08:19.177Z"
       },
       {
@@ -30901,6 +31460,28 @@
         "modifiedAt": "2026-04-03T22:12:57.198Z"
       },
       {
+        "id": "note:projects/backpack-exchange-research-2026-04-05",
+        "title": "backpack-exchange-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/backpack-exchange-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:06:09.559Z"
+      },
+      {
+        "id": "note:projects/data-gap-companies-2026-04-05",
+        "title": "data-gap-companies-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/data-gap-companies-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:09:12.161Z"
+      },
+      {
         "id": "note:projects/merge-holdings-research-2026-03-30",
         "title": "merge-holdings-research-2026-03-30",
         "type": "project",
@@ -30989,6 +31570,17 @@
         "modifiedAt": "2026-04-03T22:12:57.199Z"
       },
       {
+        "id": "note:projects/mythical-games-research-2026-04-05",
+        "title": "mythical-games-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/mythical-games-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:09:03.616Z"
+      },
+      {
         "id": "note:projects/nurihaus-research-2026-03-31",
         "title": "nurihaus-research-2026-03-31",
         "type": "project",
@@ -31042,6 +31634,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-03T22:12:57.200Z"
+      },
+      {
+        "id": "note:projects/nurihaus-research-2026-04-05",
+        "title": "nurihaus-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/nurihaus-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:07:17.134Z"
       },
       {
         "id": "note:projects/payhere-research-2026-03-30",
@@ -31123,6 +31726,17 @@
         "modifiedAt": "2026-04-03T22:12:57.201Z"
       },
       {
+        "id": "note:projects/radius-technology-research-2026-04-05",
+        "title": "radius-technology-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/radius-technology-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:07:08.638Z"
+      },
+      {
         "id": "note:projects/radiusxyz-research-2026-03-30",
         "title": "radiusxyz-research-2026-03-30",
         "type": "project",
@@ -31200,6 +31814,17 @@
         "modifiedAt": "2026-04-03T22:12:57.201Z"
       },
       {
+        "id": "note:projects/story-protocol-research-2026-04-05",
+        "title": "story-protocol-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/story-protocol-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:07:04.346Z"
+      },
+      {
         "id": "note:projects/taiko-labs-research-2026-03-30",
         "title": "taiko-labs-research-2026-03-30",
         "type": "project",
@@ -31242,6 +31867,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-02T23:03:47.797Z"
+      },
+      {
+        "id": "note:projects/taiko-labs-research-2026-04-05",
+        "title": "taiko-labs-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/taiko-labs-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:09:07.916Z"
       },
       {
         "id": "note:projects/theswing-research-2026-03-30",
@@ -31334,6 +31970,17 @@
         "missing": false,
         "degree": 0,
         "modifiedAt": "2026-04-03T22:12:57.202Z"
+      },
+      {
+        "id": "note:projects/yuga-labs-research-2026-04-05",
+        "title": "yuga-labs-research-2026-04-05",
+        "type": "project",
+        "category": "project",
+        "path": "projects/yuga-labs-research-2026-04-05.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-04-04T19:07:12.921Z"
       },
       {
         "id": "note:README",
@@ -31631,7 +32278,7 @@
         "path": "templates/handoff.md",
         "tags": [],
         "missing": false,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": "2026-03-30T02:00:35.316Z"
       },
       {
@@ -31922,7 +32569,7 @@
         "path": null,
         "tags": [],
         "missing": false,
-        "degree": 10,
+        "degree": 9,
         "modifiedAt": null
       },
       {
@@ -32395,7 +33042,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -32439,7 +33086,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 9,
+        "degree": 10,
         "modifiedAt": null
       },
       {
@@ -32681,7 +33328,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 2,
+        "degree": 3,
         "modifiedAt": null
       },
       {
@@ -32714,7 +33361,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -33297,7 +33944,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 5,
+        "degree": 6,
         "modifiedAt": null
       },
       {
@@ -33748,7 +34395,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -33803,7 +34450,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34001,7 +34648,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -34122,7 +34769,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 9,
         "modifiedAt": null
       },
       {
@@ -34342,7 +34989,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34485,7 +35132,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34551,7 +35198,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34650,7 +35297,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -34661,7 +35308,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34749,7 +35396,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 7,
+        "degree": 8,
         "modifiedAt": null
       },
       {
@@ -34874,6 +35521,17 @@
         "modifiedAt": null
       },
       {
+        "id": "unresolved:retrieved",
+        "title": "Retrieved",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
         "id": "unresolved:retrieving",
         "title": "Retrieving",
         "type": "unresolved",
@@ -34903,7 +35561,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34914,7 +35572,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -34925,7 +35583,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -34991,7 +35649,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 4,
+        "degree": 5,
         "modifiedAt": null
       },
       {
@@ -35431,7 +36089,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 6,
+        "degree": 7,
         "modifiedAt": null
       },
       {
@@ -35552,7 +36210,7 @@
         "path": null,
         "tags": [],
         "missing": true,
-        "degree": 3,
+        "degree": 4,
         "modifiedAt": null
       },
       {
@@ -38275,12 +38933,6 @@
         "type": "tag"
       },
       {
-        "id": "tag:note:brain-memory/daily/email-2026-04-04->tag:2",
-        "source": "note:brain-memory/daily/email-2026-04-04",
-        "target": "tag:2",
-        "type": "tag"
-      },
-      {
         "id": "tag:note:brain-memory/daily/email-2026-04-04->tag:248",
         "source": "note:brain-memory/daily/email-2026-04-04",
         "target": "tag:248",
@@ -40309,6 +40961,24 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:knowledge-base",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:knowledge-base",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:last",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:last",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:new-items",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:decisions/2026-04-04->unresolved:observation-summary",
         "source": "note:decisions/2026-04-04",
         "target": "unresolved:observation-summary",
@@ -40324,6 +40994,60 @@
         "id": "wiki_link:note:decisions/2026-04-04->unresolved:portfolio",
         "source": "note:decisions/2026-04-04",
         "target": "unresolved:portfolio",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:previously",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:previously",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:promotion",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:promotion",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:reads",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:reads",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:review-report",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:review-report",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:review-script",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:review-script",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:scanned",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:scanned",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-04->unresolved:tier-review",
+        "source": "note:decisions/2026-04-04",
+        "target": "unresolved:tier-review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-05->unresolved:new-items",
+        "source": "note:decisions/2026-04-05",
+        "target": "unresolved:new-items",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:decisions/2026-04-05->unresolved:review",
+        "source": "note:decisions/2026-04-05",
+        "target": "unresolved:review",
         "type": "wiki_link"
       },
       {
@@ -41449,6 +42173,12 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:follow",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:follow",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-03->unresolved:integrated",
         "source": "note:facts/2026-04-03",
         "target": "unresolved:integrated",
@@ -41476,6 +42206,12 @@
         "id": "wiki_link:note:facts/2026-04-03->unresolved:path",
         "source": "note:facts/2026-04-03",
         "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-03->unresolved:read",
+        "source": "note:facts/2026-04-03",
+        "target": "unresolved:read",
         "type": "wiki_link"
       },
       {
@@ -41521,15 +42257,75 @@
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-04->note:MEMORY",
+        "source": "note:facts/2026-04-04",
+        "target": "note:MEMORY",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->note:templates/handoff",
+        "source": "note:facts/2026-04-04",
+        "target": "note:templates/handoff",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:blocked",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:blocked",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:brain",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:brain",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-04->unresolved:cannot",
         "source": "note:facts/2026-04-04",
         "target": "unresolved:cannot",
         "type": "wiki_link"
       },
       {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:compaction",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:compaction",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:complete",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:complete",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:memory-consolidation",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:memory-consolidation",
+        "type": "wiki_link"
+      },
+      {
         "id": "wiki_link:note:facts/2026-04-04->unresolved:module",
         "source": "note:facts/2026-04-04",
         "target": "unresolved:module",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:path",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:path",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:retrieved",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:retrieved",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:facts/2026-04-04->unresolved:summary",
+        "source": "note:facts/2026-04-04",
+        "target": "unresolved:summary",
         "type": "wiki_link"
       },
       {
@@ -41614,6 +42410,12 @@
         "id": "wiki_link:note:ledger/observations/2026/04/02->unresolved:review",
         "source": "note:ledger/observations/2026/04/02",
         "target": "unresolved:review",
+        "type": "wiki_link"
+      },
+      {
+        "id": "wiki_link:note:ledger/observations/2026/04/04->unresolved:reply_to_current",
+        "source": "note:ledger/observations/2026/04/04",
+        "target": "unresolved:reply_to_current",
         "type": "wiki_link"
       },
       {
@@ -42908,24 +43710,24 @@
       }
     ],
     "stats": {
-      "generatedAt": "2026-04-04T14:04:25.987Z",
-      "nodeCount": 723,
-      "edgeCount": 1179,
+      "generatedAt": "2026-04-04T19:09:12.244Z",
+      "nodeCount": 733,
+      "edgeCount": 1203,
       "nodeTypeCounts": {
         "note": 248,
         "tag": 18,
-        "unresolved": 341,
+        "unresolved": 342,
         "commitment": 8,
         "daily": 8,
-        "decision": 11,
+        "decision": 12,
         "handoff": 24,
         "lesson": 7,
         "person": 2,
-        "project": 56
+        "project": 64
       },
       "edgeTypeCounts": {
-        "tag": 435,
-        "wiki_link": 744
+        "tag": 434,
+        "wiki_link": 769
       }
     }
   }
