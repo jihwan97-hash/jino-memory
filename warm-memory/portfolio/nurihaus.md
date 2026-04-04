@@ -1,37 +1,44 @@
 # Nurihaus
 
 **Status:** 🟢 Green  
-**Last Updated:** 2026-04-04
+**Last Updated:** 2026-04-05 04:04 AM KST
 
-## Quick Summary
-- **K-Beauty VC Fund launched** March 24, 2026
-- **Fund size:** 6.2B KRW (~$4.7M USD)
-- **Model:** Platform + VC hybrid (investment + marketing + distribution)
-- **Timeline:** H1 2026 first investment, H2 2026 campaign results
-- **Market growth:** K-beauty projected 9.7% CAGR (2026-2033), $19B by 2033
+## K-Beauty VC Fund Established (March 24, 2026)
 
-## Strategic Innovation
-- **Old model:** Platform connecting K-beauty brands with US influencers
-- **New model:** Platform services + capital investment + distribution support
-- **Competitive moat:** Integrated services create stickiness vs. pure platforms
-- **First-mover:** No major K-beauty platforms have dedicated VC funds
+### Fund Details
+- **Size:** 6.2 billion KRW (~$4.65M USD)
+- **Focus:** Dedicated venture fund for K-beauty brands
+- **Model:** Integrated investment + marketing + distribution support
+- **Strategic shift:** Platform operator → Platform + VC hybrid
+
+### Timeline
+- **H1 2026:** First brand investment (planned within Q2)
+- **H2 2026:** Release actual campaign performance results in U.S. market
+- **Future:** Gradual collaboration with specialized K-beauty VCs and global partners
+
+## Market Opportunity
+
+### K-Beauty Growth Trajectory
+- **CAGR:** 9.7% projected (2026-2033)
+- **2033 market size:** $19B+ globally (Grand View Horizon estimate)
+- **Current momentum:** K-beauty brands surging in Western markets
+
+## Competitive Positioning
+
+### Why This Matters
+- **First-mover:** Only platform combining distribution + capital in K-beauty niche
+- **Integrated model:** Investment + marketing + distribution = deeper brand relationships
+- **Value-add beyond capital:** Brands get full support ecosystem, not just money
 
 ## Assessment
-✅ **Fund operational** (not just announced)  
-✅ **Strategic differentiation** (platform + VC hybrid unique)  
-✅ **Market timing** (K-beauty high growth phase)  
-✅ **Clear milestones** (H1 investment, H2 results)
+This is a smart strategic expansion. Nurihaus was already successful as a platform operator. Adding VC capabilities creates a competitive moat and captures more upside from brand growth.
 
-⚠️ **Fund size modest** ($4.7M limits portfolio)  
-⚠️ **Execution risk** (VC track record unclear)  
-⚠️ **Platform metrics unknown** (no public GMV, brand, or influencer data)
+Fund is operational, H1 investment on track. The integrated model (platform + capital) is genuinely differentiated in the K-beauty space.
 
-## Next Actions
-- **June 2026:** Watch for first brand investment announcement
-- **Q3 2026:** Campaign performance results (promised H2)
-- **Direct inquiry:** Request platform metrics (GMV, brands, influencers)
+## Next Watch Points
+- **Q2 2026:** First brand investment announcement (expected by June)
+- **H2 2026:** U.S. campaign performance results
+- **2027:** Portfolio expansion, co-investment partnerships
 
-**Investment Thesis:** Smart strategic pivot to platform + capital model. Fund size modest but appropriate for first fund. Status Green based on operational fund + favorable market timing.
-
----
-*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/nurihaus-research-2026-04-04.md`*
+## Links
+- [ClawVault Research](../../../jino-memory/projects/nurihaus-research-2026-04-05.md)

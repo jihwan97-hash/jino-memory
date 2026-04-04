@@ -1,37 +1,39 @@
 # Story Protocol
 
 **Status:** 🟡 Yellow (Critical Watch)  
-**Last Updated:** 2026-04-04
+**Last Updated:** 2026-04-05 04:04 AM KST
 
-## Quick Summary
-- **Token unlock delayed AGAIN:** Feb 13 → Aug 13, 2026 (6-month extension)
-- **Reason:** "Weak usage metrics, need more time"
-- **This is the SECOND delay** (chronic weakness signal)
-- **Supply overhang:** 41.6% of tokens locked (team + investors)
-- **Staking yields:** 10-20% APY working as designed
+## Critical Alert: August 13, 2026 Token Unlock
 
-## Critical Assessment
-🚨 **Red Flags:**
-- Team admits usage is "thin" (ecosystem not growing fast enough)
-- Second delay = chronic problem (not one-time issue)
-- Massive dilution coming (41.6% locked tokens)
+### Unlock Details
+- **Date:** August 13, 2026 (4 months away)
+- **Originally scheduled:** February 13, 2026
+- **Delay:** 6-month postponement
+- **Affected:** Team, investor, and early contributor tokens
+- **Reason:** Weak usage metrics, supply overhang fears
 
-✅ **Positive Signals:**
-- Team is transparent (honest about challenges)
-- Validator economics working (10-20% APY)
-- $100M daily trading volume (liquid token)
+### Token Economics
+- **41.6% locked:** Early Backers (21.6%) + Core Contributors (20%)
+- **Vesting:** Linear over 48 months from Jan 2025
+- **Risk:** Constant predictable sell pressure from insider unlocks
+- **Major unlocks in August:** PROVE (Aug 5), IP (Aug 13), YZY (Aug 16)
 
-## Make-or-Break Date: August 13, 2026
-**Go signal:** Developer activity up 3x+, major IP partnerships, IPKit adoption metrics
-**No-go signal:** Another delay, continued opacity, or underwhelming growth
+## What Story Protocol Does
+- **Platform:** Blockchain for intellectual property management
+- **Target:** AI models needing rights-cleared training data
+- **IP Assets:** Programmable with embedded licensing + automated royalties
+- **$IP token:** Network security (staking), gas fees, governance
+- **Opportunity:** Multi-trillion dollar IP asset class
 
-## Next Actions (MONTHLY MONITORING)
-- Monthly developer activity checks (April-August)
-- Track partnership announcements (Disney, Warner, etc.)
-- Monitor on-chain activity trends
-- **August 1:** Final pre-unlock assessment
+## Assessment
+The 6-month unlock delay is a public admission that the ecosystem isn't ready. Team transparency is appreciated, but the fundamental problem remains: **will 6 months be enough to build real traction before major supply expansion?**
 
-**Investment Thesis:** Strong vision (on-chain IP for AI) but execution lagging. August unlock is critical test. Yellow status appropriate: known risks, uncertain outcome.
+August unlock is a critical test. If ecosystem usage is still weak by then, major selling pressure is likely.
 
----
-*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/story-protocol-research-2026-04-04.md`*
+## Action Plan
+- **Monthly monitoring:** Developer activity, partnerships, IPKit adoption
+- **Pre-August decision:** Go/no-go assessment before unlock
+- **Watch for:** Q2 2026 growth signals
+
+## Links
+- [ClawVault Research](../../../jino-memory/projects/story-protocol-research-2026-04-05.md)

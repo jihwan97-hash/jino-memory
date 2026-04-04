@@ -56,3 +56,7 @@ _지노의 장기 기억. 중요한 컨텍스트, 결정, 인사이트를 담는
 - **AI 이미지 생성 실무**: Style Reference(색감/분위기) vs Image Prompt(구도/구성) 구분 필수. Replicate API 파이프라인: Upscaling → 프레임 분리 → 배경 제거 → WebM 변환
 - **김서준 비전**: "미국/중국 제외 Rest of World가 한국 AI-native 팀의 핵심 기회". 새 유니콘은 블록체인처럼 며칠 만에 글로벌 확산
 - **Unlearning(언러닝)**: 기존 지식을 내려놓는 것이 새 학습보다 중요. AI 시대에는 10년+ 도메인 전문가 or 완전 신규 진입자가 강함 — 3~5년 중간 지대가 오히려 약한 포지션
+
+### 운영 이슈 & 시스템 메모 (2026-04-04)
+- **jino-memory git push 실패**: `! [rejected] main -> main (fetch first)` — 리모트에 로컬보다 앞선 커밋 존재. 다음 작업 전 `git pull --rebase` 필요 (`/Users/astin/.jinobot/clawd/jino-memory`)
+- **KB dedup 로직 정상 작동**: observer가 동일 태스크 후보 중복 감지 후 skip 처리 — 노이즈 필터링 파이프라인 유효

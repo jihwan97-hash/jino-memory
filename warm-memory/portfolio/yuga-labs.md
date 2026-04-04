@@ -1,27 +1,48 @@
 # Yuga Labs
 
-**Status:** 🟡 Yellow  
-**Last Updated:** 2026-04-04
+**Status:** 🟡 Yellow (Transparency Gap)  
+**Last Updated:** 2026-04-05 04:04 AM KST
 
-## Quick Summary
-- **Restructuring complete** (March 2026) - organizational stability restored
-- **Focus:** Otherside metaverse as top priority
-- **Team:** 100+ people (from 4 founders)
-- **Valuation:** $4B unicorn
-- **Problem:** Still no public metrics for VibeMaker/Otherside adoption
-- **Legal:** Class-action lawsuit + trademark claim ongoing
+## Recent Developments (March 2026)
 
-## Key Concerns
-- VibeMaker launched but ZERO user metrics disclosed
-- Transparency gap continues (no adoption data, revenue, or user counts)
-- Legal battles ongoing (BAYC investors + Sotheby's suit, Ryder Ripps trademark)
+### Restructuring Complete
+- **Status:** Completed restructuring amid NFT sector challenges
+- **Context:** NFT market modestly recovered from 2021 peaks but still below mania levels
+- **Portfolio:** BAYC, CryptoPunks, Mutant Apes, Otherside metaverse, APE token
+
+### VibeMaker Platform Launch (March 4, 2026)
+- **Product:** Otherside metaverse building platform
+- **Positioning:** "Built by the community, for the community"
+- **Features:** Vibecoding, minigames, community-created experiences
+- **Vision:** Permissionless metaverse where anyone can build
+
+## NFT Market Context (2026)
+- **PFP Renaissance:** Blue-chips surging (CryptoPunks, BAYC, Pudgy Penguins, Moonbirds)
+- **PFP volume:** Up 187% in late 2025
+- **Q3 2025:** 18.1M NFT sales (new quarterly record)
+- **Sports NFTs:** +337% volume growth
+
+### APE Token
+- ERC-20 governance token (launched March 2022)
+- Utility: Transactions, governance, ecosystem participation
+
+## The Problem: Still No Metrics ⚠️
+VibeMaker launched with great positioning, but:
+- **No user counts** (MAU, DAU)
+- **No engagement metrics** (content created, sessions)
+- **No retention data**
+- **No ApeCoin usage stats**
+
+This transparency gap has persisted across multiple research cycles.
+
+## Assessment
+Positive signals: restructuring complete, VibeMaker launched, NFT market improving. But without metrics, impossible to assess real traction. Yuga continues to launch products but refuses to share adoption data.
 
 ## Next Actions
-- Request direct IR update on VibeMaker user metrics
-- Monitor legal case developments
-- Quarterly check for any metric disclosures
+- Request VibeMaker user metrics directly
+- Monitor community engagement and builder adoption
+- Track ApeCoin utility and holder activity
+- Q2 review: If still no metrics, escalate to team call
 
-**Investment Thesis:** Survived NFT winter, restructured successfully, but execution still unproven due to opacity. Remains Yellow until metrics disclosed.
-
----
-*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/yuga-labs-research-2026-04-04.md`*
+## Links
+- [ClawVault Research](../../../jino-memory/projects/yuga-labs-research-2026-04-05.md)

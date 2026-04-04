@@ -1,40 +1,37 @@
 # Backpack Exchange
 
-**Status:** 🟢🟢 Strong Green (Portfolio Highlight)  
-**Last Updated:** 2026-04-04  
-**Status Change:** 🟢 Green → 🟢🟢 Strong Green
+**Status:** 🟢🟢 Strong Green  
+**Last Updated:** 2026-04-05 04:04 AM KST
 
-## Quick Summary
-- **TGE completed** March 23, 2026 ($BP on Solana)
-- **Revolutionary model:** Equity-for-tokens (1yr stake → 20% company equity pool)
-- **No insider allocation:** Zero tokens to team/investors at TGE
-- **Team unlock:** ONLY after IPO (alignment with public shareholders)
-- **Valuation:** $1B unicorn
-- **IPO target:** 2026
+## Recent Developments (April 2026)
 
-## Major Innovations (INDUSTRY-LEADING)
-✅ **Equity-for-tokens:** First major exchange bridging token holders → equity shareholders  
-✅ **No insider dumps:** Eliminates classic "team dumps on retail" problem  
-✅ **IPO-aligned incentives:** Team only profits when company goes public  
-✅ **On-chain IPO product:** Launched March 4 (retail access to IPO shares)
+### TGE Completed (March 23, 2026)
+- **$BP token launched** on Solana
+- **250M tokens (25%)** distributed to community via airdrop
+- **No insider allocation** at launch — community-first approach
+- **Milestone-based unlocks:** 37.5% before IPO, 37.5% after listing
+- Team tokens locked until 1+ year post-IPO
 
-## Why This Matters
-- **Sets new standard:** If successful, others will copy this model
-- **Regulatory novelty:** Equity-for-tokens untested but transparent
-- **User alignment:** 20% equity pool for stakers = meaningful ownership
+### On-Chain IPO Access (March 4, 2026)
+- Revolutionary feature: community can claim **real equity before stock exchange listing**
+- IPO allocations represent real shares with direct ownership
+- Powered by Superstate infrastructure
+- First platform to bridge crypto and TradFi this way
 
-## Risks
-⚠️ **Regulatory approval:** Equity-for-tokens needs SEC blessing  
-⚠️ **IPO execution:** Will they actually go public in 2026?  
-⚠️ **Staking adoption:** How many users will stake for equity?
+## Company Profile
+- **Valuation:** $1B (unicorn)
+- **Product:** Crypto exchange + wallet on Solana
+- **Innovation:** Equity-for-tokens model (1yr stake → company shares, 20% equity pool)
+- **IPO target:** 2026 (on track)
 
-## Next Actions
-- Watch for IPO S-1 filing (likely H2 2026)
-- Request staking adoption metrics
-- Monitor on-chain IPO usage
-- Track regulatory developments
+## Assessment
+Backpack continues to execute flawlessly. TGE with no insider allocation shows strong community alignment. On-chain IPO access is genuinely novel and could set new industry standard if regulatory approved.
 
-**Investment Thesis:** Best-in-class tokenomics execution. Revolutionary model that aligns community + long-term value. Portfolio star company alongside Mythical Games.
+## Next Watch Points
+- S-1 filing announcements (expected H2 2026)
+- Staking adoption metrics
+- On-chain IPO demand and usage
+- Regulatory approval progress
 
----
-*Full research: `/Users/astin/.jinobot/clawd/jino-memory/projects/backpack-exchange-research-2026-04-04.md`*
+## Links
+- [ClawVault Research](../../../jino-memory/projects/backpack-exchange-research-2026-04-05.md)
